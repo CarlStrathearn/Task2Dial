@@ -1,0 +1,21 @@
+R228 Chicken and chorizo jambalaya https://www.bbc.co.uk/food/recipes/easy_jambalaya_77952
+
+This recipe takes 10 to 30 minutes to cook, serves 2 and contains 13 ingredients,  [''olive oil'', ''chicken thighs'', '’sausage'', '’onions'', ''celery'', ''garlic'’, ''red pepper'', ''chopped tomatoes'’, ''cayenne pepper'’, ''basmati rice'’, ''chicken stock'’, ''black pepper'’, ''fresh parsley'’]
+
+User: Today I would like to cook Chicken and chorizo jambalaya, what ingredients are required to cook this meal?
+Robot: To cook this meal you will need 1 tbsp of olive oil, 2 chicken thighs that are boneless, skin removed and cut into 2 and ½ cm pieces, 1 small onion finely chopped, 1 celery stick finely chopped, 1 garlic clove finely chopped, 1 red pepper thinly sliced, 200g of tinned chopped tomatoes, ½ tsp of cayenne pepper, 150g of basmati rice, 200ml of chicken stock, salt and freshly ground black pepper and a handful of fresh parsley finely chopped.
+User: I have all of the ingredients ready to make the meal, what is the first step I need to take?
+Robot: Heat 1 tbsp of olive oil in a medium saucepan with a lid that is tight-fitting and then fry the 2 chicken thighs and 75g of sausages for approximately 3 minutes.
+User: I have heated the olive oil in a saucepan and fried the two chicken thighs and the sausages for the amount of time necessary, what do I do next?
+Robot: Now add 1 small finely chopped onion and 1 celery stick, then season well and fry for 5 minutes.
+User:  I have added the onion and the celery stick and also seasoned and fried for 5 minutes as required, what now?
+Robot: Now, add 1 garlic clove and 1 red pepper then cook for a further minute.
+User: I have added the garlic and pepper, also I let it cook for a further minute as required, what do I do next?
+Robot: Now add 200g of tin chopped tomatoes and ½ tsp of cayenne pepper and cook for 2 minutes, then add 150g of basmati rice and stir well continuously.
+User:  I have added chopped tomatoes and cayenne pepper, I also added 150g of basmati rice, what is the next step that I have to take?
+Robot: Pour over the stock, bring it to a boil, then put the lid on and also turn the heat down as low as it will go then cook for a further 12 minutes.
+User:  I have poured the stock and brought it to a boil and cooked for a further 12 minutes, what do I do next?
+Robot: Then, turn the heat off and simply leave the rice to stand for approximately 12 minutes, then take off the lid, fluff up the rice and serve immediately.
+User: I have turned the heat off and left the rice to stand for 12 minutes. Thank you for helping me cook Chicken and chorizo jambalaya.
+
+

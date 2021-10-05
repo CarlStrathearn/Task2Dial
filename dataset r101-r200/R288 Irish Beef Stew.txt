@@ -1,0 +1,31 @@
+R288 Irish Beef Stew https://www.bbc.co.uk/food/recipes/donals_irish_beef_stew_85494
+
+This recipe takes 60-120 minutes to cook, serves 6 and contains 9 ingredients,  [''vegetable oil'', ''braising steak'', '’onions'', '’celery stalks'', ''large carrots'', ''beef stock'’, ''potatoes'', ''unsalted butter'', ''black pepper'']
+
+User: Today I would like to cook an Irish Beef Stew. I would like to know what ingredients are required to make this meal.
+Robot: In order to cook this meal you will need 2 tbsp of vegetable oil, 1kg of braising steak, 2 onions, 3 celery stalks, 4 large carrots, 1 litre of beef stock, 900g of potatoes, 25g of unsalted butter and freshly ground black pepper.
+User: I have the ingredients ready to cook this meal, what is the first step that I need to take?
+Robot: Preheat the oven to 200 degrees celsius at Gas 6, then place a large saucepan over a high heat, add 1 tbsp of oil and brown the beef into patches so the pan is not too full.
+User: I have preheated the oven to 200 degrees and placed a large saucepan over a high heat. I also added the oil and browned the beef into patches. What do I have to do next?
+Robot: Next, remove the beef from the pan and set it aside on a plate, but don’t clean the pan because you will need it to fry the vegetables.
+User: I have removed the beef from the pan and put it aside, what next?
+Robot: Good, now, while the beef is frying, peel and chop 2 onions and 4 large carrots, then slice 3 celery stalks.
+User: I have peeled the onions, carrots and sliced the celery, what do I have to do next?
+Robot: Now, heat the remaining oil in the same saucepan and fry the onions, celery and the carrots for approximately 5 minutes, or until the onions are soft.
+User: I have heated the remaining oil in the same saucepan and fried the celery and carrots for 5 minutes as required, what do I have to do now?
+Robot: Now, scrape any cooked bits from the bottom of the pan and mix the beef with the vegetables.
+User: I scraped some bits from the bottom of the pan and mixed the beef with vegetables, what next?
+Robot: Now, season with salt and pepper, then tip the meat and vegetables into a large ovenproof dish and pour the stock over the top.
+User: I have seasoned it with salt and pepper and tipped the meat and vegetables into a large ovenproof dish, what is the next step that I have to take?
+Robot: Good, now peel and slice the potatoes into ½ cm thick slices and arrange them over the top of the beef, then dot the butter over the top and cover tightly with foil.
+User: I have peeled and sliced the potatoes into thick slices and arranged them over the top of the beef, what now?
+Robot: Now, bake them for 1 hour, then remove the foil and bake for another 15 minutes, the potatoes should be very crisp and golden-brown.
+User: I have baked them for 1 hour and removed the foil, I also let them bake for an extra 15 minutes as required, what now?
+Robot: Put the meal on a plate, serve and enjoy.
+User: Thank you for helping me cook Irish Beef Stew.
+
+
+
+
+
+

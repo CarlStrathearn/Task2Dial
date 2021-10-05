@@ -1,0 +1,25 @@
+R229 Cheeseburger Macaroni https://cookeatshare.com/recipes/cheeseburger-macaroni-881480
+
+This recipe takes 25 minutes to cook, serves 4 and contains 9 ingredients,  [''ground turkey'', ''diced tomato'', '’taco seasoning'', '’elbow macaroni'', ''water'', ''salt'’, ''garlic'', ''red chili powder'’, ''oil'’]
+
+User: I would like to make Cheeseburger Macaroni today, what ingredients are required?
+Robot: For this meal you will need the following ingredients, 1lb of ground protein, 10 oz of diced tomato and peppers, 1 package of taco seasoning, 1 cup of elbow macaroni, 2 cups of water, ½ tsp of salt, 3 cloves of garlic, red chili powder and oil.
+User:   I have the ingredients ready, where do I begin?
+Robot: Heat a pan and add a pinch of oil to begin with.
+User:   I have added a pinch of oil and heated the pan, what do I do next?
+Robot: Then, mash your ground protein, then add it to the pan.
+User: I have mashed the ground protein and added it to the pan, what comes next?
+Robot: Then, stir 1 package of taco seasoning, 3 cloves of garlic, red chili powder, rotel and ½ tsp of salt.
+User: I have stirred the taco seasoning, 3 cloves of garlic, the red chili powder and the salt, what now?
+Robot:  Now mix and add 2 cups of water and the pasta.
+User: I have added the 2 cups of water and the pasta, what is the next step?
+Robot: Once the mixture has been brought to a boil, lower down the heat to a medium-low and just let it simmer for approximately 15 minutes.
+User: I have lowered the heat and let it simmer for the amount of time necessary, what do I do from here?
+Robot: You can make the cheese sauce while you are waiting for it to simmer.
+User:  I have made the cheese sauce, what next?
+Robot:  Now, after the water has evaporated, stir in the cheese sauce as well.
+User: I have stirred the cheese sauce, what is the next step?
+Robot: Mix the two together and further simmer for 3 minutes, then serve the meal and enjoy.
+User: Thank you for helping me cook Cheeseburger Macaroni.
+
+

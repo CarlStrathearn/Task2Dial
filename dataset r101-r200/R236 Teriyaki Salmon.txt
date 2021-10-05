@@ -1,0 +1,23 @@
+R236 Teriyaki Salmon https://www.bbc.co.uk/food/recipes/teriyakisalmon_66107
+
+This recipe takes 10-30 minutes to cook, serves 2 and contains 11 ingredients,  [''salmon'', ''soy sauce'', '’lime'', '’chili'', ''maple syrup'', ''garlic clove'’, ''ginger'', ''egg noodles'', ''coriander'', ''sesame oil'', ''lime juice'']
+
+User: I want to make Teriyaki Salmon, what are the ingredients required to make this meal?
+Robot: You will need the following ingredients to make Teriyaki Salmon, 2 salmon fillets, 4-5 tbsp of dark soy sauce, 1 lime, zest and juice, 1 small chili, 2 tbsp of maple syrup, 1 fat garlic clove that is finely chopped, 1 chunk of ginger finely chopped, 1 sheet of egg noodles, a bunch of chopped coriander, 1 tbsp of sesame oil and extra lime juice.?
+User: I have all of the ingredients ready to make the Salmon, where do I begin?
+Robot: Heat some olive oil in a pan and then fry 1 chunk of ginger, 1 garlic clove and the chopped chilli.?
+User: Alright, thank you, I have heated the olive oil in a pan and fried the ginger and garlic cloves, what next?
+Robot: Add the zest and the juice of the lime and then pour in the soy sauce.
+User: I have added the zest of the juice and then poured the soy sauce, what next?
+Robot: Good, now add the maple syrup and cook for 60 seconds or the syrup is completely reduced and sticky.
+User: I have added the maple syrup and cooked for 60 seconds, thank you, what do I do next?
+Robot: Pan-fry the two pieces of salmon for about 2 minutes each in a hot griddle pan.
+User: Thank you, I have fried the 2 pieces of salmon for 2 minutes, what do I do next?
+Robot: Good, now when the sauce is reduced add the salmon to the teriyaki sauce frying pan.
+User: I have added the salmon to the teriyaki sauce frying pan, what is the next step?
+Robot: Then, cook and drain the noodles, then add 1 tbsp of sesame oil, season it with coriander and a little squeeze of lime.
+User: I have drained the noodles after cooking them and also added the sesame oil, thank you, what do I do now?
+Robot: Now, serve the salmon on a bed of noodles with some more coriander and enjoy the meal.
+User: Thank you very much for helping me cook Teriyaki Salmon.
+
+

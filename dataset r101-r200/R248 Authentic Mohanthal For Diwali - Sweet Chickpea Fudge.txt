@@ -1,0 +1,30 @@
+R248 Authentic Mohanthal For Diwali - Sweet Chickpea Fudge https://cookeatshare.com/recipes/authentic-mohanthal-for-diwali-a-traditional-gujarati-sweet-chickpea-flour-fudge-591018
+
+This recipe takes 20 minutes to cook, serves 20-25 pieces and contains 8 ingredients,  [''chickpea flour'', ''ghee'', '’warm milk'', '’khoya'', ''sugar'', ''kesar'’, ''almond slices'', ''cardamom'']
+
+User: I would like to make Sweet Chickpea Fudge today, what ingredients do I need?
+Robot: For this meal you will need the following ingredients, 3 cups of chickpea flour, 1 and ¼ cup of ghee, 2-3 tbsp of warm milk, 1 cup of Khoya, 3 cups of sugar, few strands of kesar, a handful of almond slices and 5-7 cardamon, crushed into powder, did you get that?
+User:   I have all of the ingredients ready, what is the first step that I need to take?
+Robot: In a food processor mix together 3 cups of chickpea flour, 2 tbsp of ghee and 2-3 tbsp of warm milk.
+User: I have mixed the chickpea flour, ghee and the warm milk in a food processor, what next?
+Robot: Good, now put it on a pulse mode and pulse it together for at least 4-5 times until there is a nice coarse powder.
+User: I have pulsed it together 4 times and it’s a nice coarse powder formed, what next?
+Robot: Now, set it aside and simultaneously on the other side make the sugar solution and keep it ready.
+User: I have made the sugar solution on the other side and kept it ready, what next?
+Robot: Good, now take it off from the heat and now allow it to cool down.
+User: I have taken it off from the heat and it has cooled down, what now?
+Robot: Now, in a wok, add the mixture with the rest of the ghee and roast it on a medium flame until there is a nice aroma being created and light brown in color.
+User:  I have added the mixture with the rest of the ghee on a medium flame, what now?
+Robot: Add the Khoya and roast it for 5-7 minutes.
+User:  I have added the Khoya and roasted it for 5 minutes, what next?
+Robot: Good, now take off the heat once it has golden to a slight brown colour, then allow it to cool down.
+User:   I have taken it off the heat and cooled down now, what next?
+Robot: Good, now after cooling the mix, thoroughly besan mixture with the sugar syrup, add 5-7 cardamom powder, the kesar strands and keep stirring until a mass is formed.
+User:  I have added the kesar and a mass has been formed, what next?
+Robot: Pour it into a greased dish, now allow it to set and sprinkle almond slices over it.
+User:  I have sprinkled the almonds on top of it, what next?
+Robot: Cut it into a diamond or square shape and store it in an airtight container, serve and enjoy the fudge.
+User:  Thank you for helping me cook Authentic Mohanthal For Diwali - Sweet Chickpea Fudge.
+
+
+

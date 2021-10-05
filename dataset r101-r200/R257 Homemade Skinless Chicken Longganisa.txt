@@ -1,0 +1,19 @@
+R257 Homemade Skinless Chicken Longganisa https://cookeatshare.com/recipes/homemade-skinless-chicken-longganisa-668365
+
+This recipe takes 30 minutes to cook, serves 3 and contains 11 ingredients,  [''brown sugar'', ''worcestershire sauce'', '’salt'', '’liquid seasoning'', ''hot sauce'', ''garlic'’, ''black peppercorns'', ''ground chicken'’, ''pork fat'’, ''vegetable oil'’, ''garlic rice'’]
+
+User: I would like to make Homemade Skinless Chicken Longganisa today, what are the ingredients required?
+Robot: To make this meal you will need ½ cup of brown sugar, 4 tbsp of Worcestershire sauce, 4 tsp of fine salt, 2 tbsp of liquid seasoning, 1 tbsp of hot sauce, 1 tbsp of minced garlic, 1 tsp of freshly cracked black peppercorns, 1 kg of ground chicken, 200g of ground pork fat, vegetable oil for frying and garlic rice to serve, got that?
+User: I have all of the ingredients required to make the meal, where do I begin?
+Robot: Good, now to make the marinade, in a large bowl mix all of the ingredients, then add 1kg of ground chicken and 200g of pork fat and mix thoroughly by hand.
+User: I have mixed all of the ingredients in the large bowl and added the chicken as well as the pork, what do I do next?
+Robot: Now, form into thin logs and wrap each of the sausages in wax paper if desired, then marinate it in the refrigerator for approximately 3 hours or you can leave it overnight.
+User: I have wrapped the sausages into logs and left them in the refrigerator for 3 hours, what next?
+Robot: Now, drain the marinade, place the sausages in a covered container and store in the freezer until ready to cook, then when they are ready to cook, thaw the sausages and heat 1 tbsp of oil in a frying pan.
+User: Ok, thank you very much, I have drained the marinade, placed the sausages in a container and stored in the freezer, and I heated 1 tbsp of oil in a frying pan. What is next?
+Robot: Now fry a few sausages at a time for 6 to 8 minutes or until the sausages are cooked through well, then serve with garlic rice and enjoy the meal.
+User: Thank you for helping me cook Homemade Skinless Chicken Longganisa.
+
+
+
+

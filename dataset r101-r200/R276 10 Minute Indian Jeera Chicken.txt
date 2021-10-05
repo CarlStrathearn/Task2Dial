@@ -1,0 +1,19 @@
+R276 10 Minute Indian Jeera Chicken https://cookeatshare.com/recipes/quick-10-minute-indian-jeera-chicken-881638
+
+This recipe takes 10 minutes to cook, serves 4 and contains 11 ingredients,  [''zhoug sauce'', ''chicken'', '’cumin seeds'', '’water'', ''turmeric'', ''coriander powder'’, ''red chili powder'', ''oil'', ''salt'', ''lemon wedges'', ''cilantro'']
+
+User: I would like to cook an Indian Jeera Chicken, what ingredients do I need to cook this meal?
+Robot: For this meal you will need 8 oz of zhoug sauce, 1 rotisserie chicken, ¼ cup of ground cumin seeds, ½ cup of water, a pinch of turmeric, 1 tbsp of dry coriander powder, red chili powder, oil, salt, a lemon wedge and cilantro for garnishment, do you have them all ready?
+User: I have all of the ingredients ready to cook this meal, where do I begin?
+Robot: First, heat a pan with a generous amount of oil.
+User:I have heated a pan with oil, what next?
+Robot: Add ¼ cup of jeera seeds and 8 oz of zhoug sauce to the pan.
+User: I have added a ¼ cup of jeera seeds and zhoug sauce to the pan, what next?
+Robot: Now, cook until the raw flavour is out, it will take 30 seconds to a minute with constant stirring, then add the chopped chicken, turmeric powder, coriander powder, red chili powder, salt and water.
+User: I have cooked it for 30 seconds as required and added the rest of the ingredients, what next?
+Robot: Mix them all well and heat them through, then serve with a lemon wedge and an onion salad.
+User: Thank you for helping me cook Indian Jeera Chicken.
+
+
+
+

@@ -1,0 +1,23 @@
+R227 Ultimate vegan breakfast https://www.bbc.co.uk/food/recipes/the_ultimate_vegan_12214
+
+This recipe takes 30 to 60 minutes to cook, serves 4 and contains 11 ingredients,  [''potatoes'', ''tomatoes'', '’rosemary'', '’olive oil'', ''garlic'', ''chestnut mushrooms'’, ''vegan sausages'', ''baked beans'', ''spinach'', ''salt'', ''pepper'']
+
+User: I would like to cook a vegan breakfast today, I would like to know what ingredients are required to make a vegan breakfast.
+Robot: To make a vegan breakfast you will need the following ingredients ready, 450g of potatoes that are cut into small chunks, 4 halved tomatoes, 3 sprigs of fresh rosemary leaves that are finely chopped, 1 tbsp of olive oil, 2 garlic cloves that are finely chopped, 300g of chestnut mushrooms, 8 vegan sausages, 400g of baked beans, 150g of baby spinach leaves, salt and pepper for seasoning.
+User:  I have them all ready, now what is the first step that I need to take?
+Robot: You have to preheat the oven to 220 degrees celsius at gas 7.
+User:   I have preheated the oven to 220 degrees, what is the next step?
+Robot: Put 450g of potatoes and 4 halved tomatoes on a large baking tray.
+User: I have put 450g of potatoes and 4 halved tomatoes on a baking tray, what now?
+Robot: Then, sprinkle over 3 sprigs of finely chopped rosemary, a pinch of salt and pepper and drizzle 1 tbsp of olive oil for seasoning then bake for 15 minutes.
+User: I have sprinkled the rosemary, a pinch of salt and pepper and the olive oil, I also let it bake for 15 minutes. What is the next step after this?
+Robot: Now put 2 garlic cloves into a large mixing bowl, then add 300g of chestnut mushrooms and a drizzle of olive oil then stir to mix.
+User:  I have added the chestnut mushrooms and drizzled the olive oil, what do I do next?
+Robot: Now add the mushrooms and 8 vegan sausages to the baking tray and let it roast for approximately 20 minutes.
+User: I have added the mushrooms and the 8 vegan sausages to the baking tray and I let it roast for 20 minutes, what do I do next?
+Robot: Now, add the beans and 150g of spinach leaves to the baking tray with 450g of potatoes and then let them roast for another 5 minutes.
+User: I have added the beans and the spinach to the baking tray, I also let the potatoes roast for 5 minutes, what next?
+Robot: Now, simply serve and enjoy the meal.
+User: Thank you for helping me cook an Ultimate vegan breakfast.
+
+

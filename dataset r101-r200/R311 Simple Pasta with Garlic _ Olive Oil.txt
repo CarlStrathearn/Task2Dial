@@ -1,0 +1,23 @@
+R311 Simple Pasta with Garlic & Olive Oil https://cookeatshare.com/recipes/simple-pasta-with-garlic-olive-oil-655080
+
+This recipe takes 20 minutes to cook, serves 4 and contains 7 ingredients,  [''salt'', ''virgin oil'', '’garlic'', '’red peppers'', ''spaghettini'', ''parsley'’, ''cilantro'']
+
+User: I would like to cook a simple pasta with garlic and olive oil. What ingredients do I need to cook this meal?
+Robot: For this meal you will need salt, ⅓ cup of extra virgin olive oil, 2 tbsp of minced garlic, crushed red peppers to taste, 1 pound of spaghetti, ½ cup of chopped italian parsley and ¼ cup of cilantro.
+User: I have the ingredients ready, are there any other ingredients needed to make the meal?
+Robot: No, you are ready to start, first bring a stock pot of water to a boil and then add ½ tsp of salt and meanwhile put ⅓ cup of olive oil, 2 tbsp of garlic and crushed red peppers and a healthy pinch of kosher salt.
+User: I have brought a stock pot of water and brought it to a boil then added the salt, what do I have to do next?
+Robot: Next, cook the garlic for approximately 3 minutes until it turns golden, then remove it from the heat and let it sit.
+User: I cooked the garlic for 3 minutes and removed it from the heat, then I let it sit, what do I have to do next?
+Robot:When the water boils, cook the pasta until it becomes al dente for 7 minutes and when it is done, scoop out and reserve at least 1 cup of the cooking water, then drain the rest of the pasta.
+User: I have cooked the pasta and is now al dente for 7 minutes as required, I have also scooped out and reserved 1 cup of cooking water. Now what is the next step that I have to take?
+Robot: Then, return the sauce to a medium heat until the sauce becomes hot, then add the pasta and the sauce back to the pasta pot, along with a splash of cooking water.
+User: I have returned the sauce to a medium heat and the sauce is now how, I also added the pasta and the sauce back to the pasta pot, what do I have to do next?
+Robot: Now, add ¼ cup of parsley, additional kosher salt for taste and some more red pepper as desired, then serve and enjoy the meal.
+User: Thank you for showing me how to cook a Simple Pasta with Garlic & Olive Oil.
+
+
+
+
+
+

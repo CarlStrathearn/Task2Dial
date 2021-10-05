@@ -1,0 +1,31 @@
+R253 Coronation Chicken https://www.bbc.co.uk/food/recipes/coronationchicken_72328
+
+This recipe takes 30-60 minutes to cook, serves 4-8 and contains 20 ingredients,  [''chicken'', ''spring onions'', '’garlic cloves'', '’sea salt'', ''black peppercorns'', ''vegetable oil'’, ''onion'', ''curry powder'',  ''tomato puree'', ''red wine'', ''water'', ''bay leaf'', ''black pepper'', ''caster sugar'', ''lemon'', ''lemon juice'', ''mayonnaise'', ''apricot puree'', ''whipped cream'', ''coriander'', ''rice'' ]
+
+User: I want to cook Coronation Chicken, what ingredients do I need?
+Robot: You will need 1.5kg of free-range chicken, 4 sliced spring onions, 6 garlic cloves, 1 tbsp of sea salt, 10 whole black peppercorns, for the sauce you will need 1 tbsp of vegetable oil, 1 chopped onion, 1 tbsp of curry powder, 1 tbsp of tomato puree, 85ml of red wine, 150ml of water, 1 bay leaf, salt and freshly ground black pepper, caster sugar, 2 slices of lemon, lemon juice, 425ml of mayonnaise, 2 tbsp of apricot puree, 3 tbsp of whipped cream.
+User: I have the ingredients ready, where do I begin?
+Robot: Place 1.5kg of chicken into a saucepan with a tight-fitting lid on it, cover it with water and add 4 spring onions, 6 peeled garlic cloves, salt and 10 whole black peppercorns.
+User:  I have added the chicken, onions, garlic and salt, what do I have to do next?
+Robot: Now, bring the ingredients to a boil and simmer for approximately 30 minutes, turning the chicken once during the cooking process.
+User:  I have brought the ingredients to a boil and simmered for 30 minutes, what do I do now?
+Robot: Now, cover with a lid and switch off the heat, then leave for 1 hour, remove the chicken and allow it to cool completely.
+User:  I have covered the lid and switched off the heat, left it for 1 hour and removed the chicken, what next?
+Robot: For the sauce, heat 1 tbsp of vegetable oil in a pan over a medium heat and then add 1 chopped onion and gently cook for 3-4 minutes.
+User:   I have heated 1 tbsp of vegetable oil and added 1 chopped onion, what now?
+Robot: Add 1 tbsp of tomato puree, 85ml of red wine, 150ml of water and 1 bay leaf, then bring the mixture to a boil.
+User:   I have added the tomato puree, red wine, water and the bay leaf, what do I do next?
+Robot: Season with salt and ground black pepper, then add caster sugar, 2 slices of lemon and a squeeze of lemon juice.
+User:   I have seasoned it with salt and black pepper and added the sugar, what next?
+Robot: Reduce the heat until the mixture is simmering and let it simmer uncovered for 5-10 minutes.
+User:  I have reduced the heat and the mixture has simmered for 10 minutes, what next?
+Robot: Good, now strain the sauce through a fine meshed sieve and set it aside to cool down.
+User:  I have strained the sauce through a sieve and set it aside to cool down, what now?
+Robot: Now, gradually fold in the mayonnaise and 2 tbsp of apricot puree, add some more lemon juice if necessary.
+User:  I have folded the mayonnaise and the puree, what next?
+Robot: Now, fold in the whipped cream and to serve, arrange the portioned chicken on a large platter, pour the sauce over the top, sprinkle with 1 tbsp of coriander and serve immediately with rice.
+User: Thank you for helping me cook Coronation Chicken
+
+
+
+

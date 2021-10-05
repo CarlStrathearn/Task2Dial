@@ -1,0 +1,18 @@
+R304 Binatog Recipe https://cookeatshare.com/recipes/binatog-693264
+
+This recipe takes 15 minutes to cook, serves 3 and contains 4 ingredients,  [''white corn kernels'', ''salt'', '’shredded coconut'', '’salt''']
+
+User: I would like to make a Binatog today, what are the ingredients required?
+Robot: You will need 3 cups of white corn kernels, 1 tsp of salt, 1 cup of shredded coconut and salt, do you have them ready?
+User: I have the ingredients ready to cook the meal, what is the first step that I have to take?
+Robot: In a deep pot, pour water, 3 cups of white corn kernels and salt.
+User: I have poured water, 3 cups of white corn kernels and salt, what next?
+Robot: Bring them to a boil for approximately 15 minutes or until the corn kernels pop, then drain and transfer to a serving bowl.
+User: I have brought them to a boil for 15 minutes and drained them then moved them to a serving bowl, what do I have to do next?
+Robot: Next, top them with 1 cup of shredded coconut and then sprinkle salt or sugar to taste, then serve and enjoy.
+User: Ok, thank you for helping me cook Binatog.
+
+
+
+
+

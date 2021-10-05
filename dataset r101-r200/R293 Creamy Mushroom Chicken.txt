@@ -1,0 +1,25 @@
+R293 Creamy Mushroom Chicken https://www.bbc.co.uk/food/recipes/chicken_in_a_creamy_84614
+
+This recipe takes 10-30 minutes to cook, serves 2 and contains 11 ingredients,  [''olive oil'', ''chicken breasts'', '’onion'', '’garlic'', ''chestnut mushrooms'', ''chicken stock'’, ''salt'', ''pepper'', ''creme fraiche'', ''chopped parsley'', ''broccoli'']
+
+User: Today I would like to cook a Creamy Mushroom Chicken, what ingredients do I need to cook this meal?
+Robot: To cook this meal you will need a spray of olive oil, 2 chicken breasts that are skinless and trimmed, ½ finely chopped onion, 1 fat and crushed garlic clove, 100g of chestnut mushrooms, 250ml of chicken stock, salt and pepper, 100 ml of creme fraiche, 1 tbsp of freshly chopped parsley for the garnish and 300g of broccoli steamed.
+User: I have the ingredients ready, what do I have to do first?
+Robot: Firstly, heat the spray oil in a non-sticking frying pan, then add 2 chicken breasts and fry them for approximately 10 minutes or until they become well browned on both sides, then set them aside.
+User: I have heated the oil in a pan and added the chicken breasts, fried them and set them aside as required, what do I do next?
+Robot: Now, in the same pan, add a little bit more oil and fry ½ an onion for 3 minutes, or until they become translucent, then add 1 garlic clove and fry for another 2 minutes.
+User: I have added a bit more oil and fried the onion for 3 minutes and also added the garlic clove, what next?
+Robot: Now, add 100g of chestnut mushrooms and fry them until they become golden-brown. If they start to stick, add a little bit of stock to the pan.
+User: I have added 100g of chestnut mushrooms and fried them, what next?
+Robot: Now, return the chicken to the pan and stir in the stock, bring it to a boil and cover the pan with a tight fitting lid and lower the heat and simmer for 15 minutes, ok?
+User: I have returned the chicken to the pan and stirred the stock, brought it to a boil and covered the pan with a lid. I also lowered the heat and simmered for 15 minutes. What do I have to do next?
+Robot: Next, cook 300g of broccoli in the boiling salted water until it becomes all tender.
+User: I have cooked the broccoli in water, what next?
+Robot: Now, stir 100ml of creme fraiche and 1 tbsp of freshly chopped parsley into the sauce and serve with the broccoli and enjoy the meal.
+User: Thank you for helping me cook a Creamy Mushroom Chicken.
+
+
+
+
+
+

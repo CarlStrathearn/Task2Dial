@@ -1,0 +1,25 @@
+R247 Guernsey Potato Peel Pie https://cookeatshare.com/recipes/guernsey-potato-peel-pie-44749
+
+This recipe takes 35 minutes to cook, serves 8 and contains 9 ingredients,  [''grated potato'', ''grated onion'', '’egg'', '’flour'', ''beetroot'', ''sour cream'’, ''chives'', ''butter'', ''garlic'']
+
+User: I want to make Guernsey Potato Peel Pie, what ingredients do I need for this meal?
+Robot: For this meal you will need 2 cups of raw grated potato skins, ⅓ cup of grated onions, 1 beaten egg, 3 tbsp of flour, beetroot, sour cream, chives, butter and garlic.
+User:   I have the ingredients ready, what is the first step that I have to take?
+Robot: Preheat the oven to 400 degrees, then butter a small pie plate.
+User: I have preheated the oven to 400 degrees and buttered a small pie plate, what next?
+Robot: Now mix 2 cups of grated potato peels with 1 beaten egg, ⅓ cup of onion and 3 tbsp of flour and press the mixture into the pie and plate and up the sides to form a crust, did you get that?
+User:  I mixed the cups of potato peels with 1 egg and I pressed the mixture into the pie and plate and formed a crust. What do I have to do now?
+Robot: Good, now bake the crust for approximately 20-25 minutes, then while the crust is baking, cook the potatoes, drain and mash them.
+User: I baked the crust for 20 minutes and cooked the potatoes, drained and mashed them, what now?
+Robot:  Now you can add your favourite mashed potato flavorings such as garlic, onion or butter.
+User: I have added garlic to the mashed potato, what now?
+Robot: Fill the crust with the mashed potatoes and sprinkle them with beetroot, did you get that?
+User:   I have filled the crust with mashed potatoes and sprinkled them with beetroot, what do I do now?
+Robot: Bake in the oven at a lower temperature of 375 degrees for 10 minutes until they go all brown.
+User: I have baked it in the oven at 375 degrees for 10 minutes, what now?
+Robot: Serve the meal and enjoy.
+User: Thank you for helping me cook Guernsey Potato Peel Pie.
+
+
+
+

@@ -1,0 +1,19 @@
+R279 Chicken Alexander https://cookeatshare.com/recipes/chicken-alexander-744708
+
+This recipe takes 30 minutes to cook, serves 2 and contains 7 ingredients,  [''breast fillet'', ''medium vegetables'', '’onion'', '’butter'', ''mushroom soup'', ''cheese'’, ''mashed potatoes'']
+
+User: Today I would like to make Chicken Alexander, what ingredients do I need to make this meal?
+Robot: For this meal you will need 1kg of chicken breast fillet, cooked and shredded, 2 cups of medium vegetables, 1 medium onion, 1 tbsp of butter, 2 cans of mushroom soup, 1 cup of shredded cheese and 2 kilos of mashed potatoes.
+User: I have all of the ingredients ready, where do I begin?
+Robot: Take a heated pan and cook 1 medium onion in butter, then add the mixed vegetables and the shredded chicken.
+User: I have added the mixed vegetables and the shredded chicken, what next?
+Robot: Now, pour 2 cans of cream of mushroom soup and mix well, then add 1 cup of shredded cheese and mix until it melts.
+User: I have poured the 2 cans of mushroom soup and mixed well, what do I have to do next?
+Robot: Good, now season with salt and pepper, then pour the chicken and vegetable mixture onto a baking dish and top with the mashed potatoes.
+User: I have seasoned with salt and pepper and poured the chicken and vegetable mixture on the baking dish with the mashed potatoes, what is the next step that I have to take?
+Robot: Now bake at 180 degrees for 30 minutes, then serve and enjoy the meal.
+User: Thank you for helping me cook Chicken Alexander.
+
+
+
+

@@ -1,0 +1,19 @@
+R240 Chicken traybake with chorizo, tomato and red peppers https://www.bbc.co.uk/food/recipes/roast_chicken_with_13305
+
+This recipe takes 30-60 minutes to cook serves 4 and contains 12 ingredients,  [''onions'', ''red peppers'', '’yellow pepper'', '’tomatoes'', ''chorizo'', ''cannellini beans'’, ''garlic cloves'', ''rosemary'', ''chicken thighs'', ''olive oil'', ''sea salt flakes'', ''black pepper'']
+
+User: I would like to cook a chicken traybake with chorizo, tomato and red peppers. What is the first step that I need to take?
+Robot: First preheat the oven to 200C at Gas 6.
+User: I have preheated the oven, what next?
+Robot: Now, put 2 quartered onions, 2 red peppers, 8 large tomatoes, 80g of chorizo, 400g of cannellini beans, 4 garlic cloves and 2 sprigs of rosemary in a large roasting tin.
+User: I have put the onions, peppers, tomatoes, chorizo, beans, garlic and the rosemary in a large tin, what do I do next?
+Robot: Now, top with the chicken and drizzle with 2 tbsp of olive oil.
+User:  I have topped with the chicken and drizzled the oil, what next?
+Robot: Scatter 1 tsp of sea salt flakes and a big pinch of pepper, then roast for 60 minutes or until the chicken is cooked through and the skin is golden brown.
+User:  I have sprinkled the sea salt flakes and sprinkled pepper and also roasted for 60 minutes as required, what now?
+Robot: Now, to check if the chicken is cooked, you must pierce the largest part of the chicken with a skewer and the juice should run clear.
+User:  I have pierced the largest part with a skewer and the juice runs clear, what now?
+Robot: Good, now leave the chicken to rest for 10 minutes, then serve the meal with vegetables and enjoy.
+User: Thank you for helping me cook Chicken traybake with chorizo, tomato and red peppers
+
+

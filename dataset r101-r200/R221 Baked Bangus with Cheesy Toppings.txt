@@ -1,0 +1,23 @@
+R221 Baked Bangus with Cheesy Toppings https://cookeatshare.com/recipes/baked-bangus-with-cheesy-toppings-688449
+
+This recipe takes 10 minutes to cook serves 3 and contains 7 ingredients,  [''milkfish'', ''calamansi juice'', '’butter'', '’mayonnaise'', ''garlic'', ''chopped pickles'’, ''grated cheese'']
+
+User: Today I would like to make Baked Bangus with cheese toppings, what are the ingredients required for the meal? 
+Robot: For this recipe the following ingredients are required, 1 pc. Boneless bangus split into two pieces, 3 tbsp of calamansi juice, ¼ stick of butter, ¼ cup of mayonnaise, 4 cloves of minced garlic, 1 tbsp of chopped pickles and 1 cup of grated cheese.
+User:  I have all of the required ingredients for the meal, what is the first step that I have to take?
+Robot: Preheat the oven to 300 degrees fahrenheit.
+User: I have preheated the oven to 300 degrees fahrenheit, what is the next step?
+Robot: Lay the milkfish on a glass plate or dish.
+User: I have laid the milkfish on a glass plate, what is the next step after that?
+Robot: Then, dub it in with a ¼ stick of butter.
+User: I have dubbed it in with butter,  what comes after this?
+Robot: Then, season it with salt, pepper and some lemon juice
+User: I have seasoned it with salt, pepper and lemon juice, what do I do after that?
+Robot:  Then sprinkle with 1 cup of grated cheese.
+User:   I have sprinkled it with 1 cup of grated cheese, what is the next step?
+Robot: Bake for 5 minutes or until the cheese completely melts.
+User:  I have baked the cheese for 5 minutes, what do I do next?
+Robot: After that serve and make sure to not over cook.
+User: Thank you for helping me cook Baked Bangus with Cheesy Toppings.
+
+

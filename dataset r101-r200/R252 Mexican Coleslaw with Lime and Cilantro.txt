@@ -1,0 +1,21 @@
+R252 Mexican Coleslaw with Lime and Cilantro https://cookeatshare.com/recipes/mexican-cole-slaw-with-lime-and-cilantro-329
+
+This recipe takes 30 minutes to cook, serves 8 and contains 8 ingredients,  [''green cabbage'', ''red cabbage'', '’onions'', 'cilantro'', ''mayonnaise'', ''lime juice'’, ''hot sauce'', ''salt'']
+
+User: I would like to make Mexican Coleslaw with Lime and Cilantro today, what are the required ingredients to make this meal?
+Robot: For this meal you will need 8 cups of thinly sliced green cabbage, 4 cups of red cabbage, 4 thinly sliced green onions, 1 cup of chopped cilantro, 8 tsp of mayo, 6 tsp of fresh lime juice, hot sauce to taste and salt to taste.
+User: I have all of the ingredients ready to make the meal, what is the first step that I need to take?
+Robot: Good, now thinly slice the cabbage using a mandoline or a food processor, then slice 4 green onions, wash them, dry and chop 1 cup of cilantro.
+User: I have sliced the cabbage and sliced the green onions, washed and dried them, what do I have to do now?
+Robot: Now combine the cabbage, green onions and the cilantro in a big salad bowl and make sure to mix the ingredients, did you get that?
+User: Thanks, I have put the onions and cilantro in a salad bowl and mixed them, what now?
+Robot: Good, now in a smaller bowl, whisk together 8 tsp of mayo, 6 tsp of fresh lime juice and hot sauce.
+User: I have whisked the mayo, lime juice and the hot sauce, what next?
+Robot: Now, use a wooden spoon to mix the dressing into the cabbage mixture, then season to taste with salt and serve immediately, or let it chill for a few hours.
+User: I mixed the dressing into the cabbage mixture and seasoned with salt, what next?
+Robot: Serve the meal and enjoy
+User: Thank you for helping me cook Mexican Coleslaw with Lime and Cilantro.
+
+
+
+

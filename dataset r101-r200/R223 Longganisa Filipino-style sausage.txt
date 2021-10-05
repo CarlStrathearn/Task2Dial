@@ -1,0 +1,21 @@
+R223 Longganisa Filipino-style sausage https://cookeatshare.com/recipes/longganisa-filipino-style-sausage-656524
+
+This recipe takes 5 minutes to cook, serves 4 and contains 10 ingredients,  [''pork'', ''paprika'', 'salt'', '’ground pepper'', ''garlic'', ''annatto powder'’, ''kinchay'', ''cider vinegar'', ''sugar'', ''canola oil'']
+
+User: I would like to make Longganisa Filipino-style sausages today, what ingredients do I need for this meal?
+Robot: For this meal you will need the following ingredients, 1 kilo of ground pork, 1 tbsp of sweet paprika, 1 and ½ tbsp of salt, 1 and ½ of minced garlic, 2 tsp of annatto powder, 2-3 stalks of kinchay that are finely chopped, ⅓ cup of cider vinegar, 1 tbsp of sugar and canola oil, do you have the ingredients ready?
+User: I have them all ready to start making the sausages, I can’t wait, what is the first step that I need to take?
+Robot: Start off by mixing in all of the ingredients and then put them all in a covered container and leave them to cool overnight.
+User:  I have mixed in all of the ingredients and put them in a container and also left them to cool overnight. What is the next step?
+Robot: Roll the desired amount of the mixture into the balls by making use of your hands, do this in order to create log sausages, understood?
+User: Yes, I have rolled the mixture into balls and created log sausages, what do I do now?
+Robot: Then, arrange them side by side with each other in a container with a lid or a wrap in a waxed paper, make sure to keep them covered and only refrigerate them for about 3 to 5 days.
+User: I have put them side by side and refrigerated them for the amount of time required, what do I do next?
+Robot: The following steps are how to cook the sausages, first of all boil the skinless longganisa in a ¼ cup of water, then let it boil right until the water evaporates just leaving the fats from the longganisa.
+User:  I have boiled the skinless longganisa in the water, what do I do next?
+Robot: Then simply stir fry on its own fat for approximately 3 to 5 minutes or just until the skin becomes reddish brown and caramelized?
+User: I have stirred it on its own fat for the amount of time needed, what is next?
+Robot: Add more oil if you think it is necessary, otherwise simply serve with hot plain rice and enjoy the meal.
+User: Thank you for helping me cook Longganisa Filipino-style sausages.
+
+

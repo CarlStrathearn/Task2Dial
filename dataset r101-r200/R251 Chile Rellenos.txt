@@ -1,0 +1,34 @@
+R251 Chile Rellenos https://cookeatshare.com/recipes/chile-rellenos-620520
+
+This recipe takes 5 minutes to cook, serves 6 and contains 7 ingredients,  [''poblano chilies'', ''melting cheese'', '’bread crumbs'', 'flour'', ''large eggs'', ''vegetable oil'’, ''salsa verde'']
+
+User: I would like to cook Chile Rellenos, what ingredients do I need?
+Robot: For this recipe you will need 6 fresh poblano chillies, ½ lb of shredding cheese, 1 cup of panko bread crumbs, all purpose flour for dredging, 2-3 beaten large eggs, vegetable oil for frying and salsa verde.
+User: I have all of the ingredients ready, where do I begin?
+Robot: Char the chilies, then place them on a medium-low heat grill, or on a baking sheet in a 450 degree fahrenheit oven.
+User: I have charred the chilies and placed them on a medium-low heat grill at 450 degrees fahrenheit, what do I have to do next?
+Robot: Good, now turn the peppers so that all of their sides are charred.
+User:  I have turned the peppers on their sides and they are now charred, what next?
+Robot:  Now once they are black and blistered on all the sides, place the chilies in a large bowl and cover them with plastic wrap, this allows them to steam and makes it easier to peel them.
+User: I have put them in a large bowl and covered them with a plastic wrap, what do I do next?
+Robot: Now, to prepare the sauce, run the chilies under cool water, and peel the charred skin.
+User:  I have run the chilies under cold water and peeled their skin, what next?
+Robot: Now, make a slice in each chile so that you can remove the seeds easily, this will allow you to stuff the peppers, got it?
+User: I have made a slice in each chile and removed the seeds, what now?
+Robot: Good, now stuff each of the chile with shredded cheese and you can overdo it because the cheese will ultimately melt, did you get that?
+User: I have stuffed the chillies with shredded cheese, what do I have to do next?
+Robot: Place the peppers on a baking sheet and freeze them for approximately 30 minutes, then dredge each chile in flour shaking off any excess.
+User:  I have placed the peppers on a baking sheet and froze them for 30 minutes, what do I do next?
+Robot:  Now place them back on a baking sheet and straight into the freezer.
+User:  I placed them back on a baking sheet and put it into the freezer, what next?
+Robot: Now, to cook the meal, beat 2-3 large eggs, heat the oil to a medium-high, so that a pinch of flour begins to fry and create bubbles as soon as you drop it in, did you get that?
+User:  I have beaten the eggs and heated the oil to a medium-high, what do I have to do now?
+Robot: Place the panko crumbs in a large bowl or gallon-size plastic bag, then warm the sauce.
+User: I have placed the crumbs in a large bowl and warmed the sauce, what do I do now?
+Robot: Now, serve the meal on a warm plate and enjoy.
+User: Thank you for helping me cook Chile Rellenos.
+
+
+
+
+

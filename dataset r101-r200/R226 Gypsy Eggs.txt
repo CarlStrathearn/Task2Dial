@@ -1,0 +1,36 @@
+R226 Gypsy Eggs https://www.bbc.co.uk/food/recipes/cornish_gypsy_eggs_45609
+
+This recipe takes 10-30 minutes to cook, serves 4 and contains 15 ingredients,  [''chorizo'', ''shallots'', '’garlic'', '’sherry vinegar'', ''passata'', ''kale'’, ''cannellini beans'', ''eggs'’, ''sourdough bread'’, ''olive oil'’, ''parma ham'’, ''wild garlic'’, ''parmesan'’, ''rock salt'’, ''basil'’]
+
+User: Today I want to make Gypsy Eggs, what ingredients do I need?
+Robot: In order to make Gypsy Eggs you will need the following ingredients, 110g of finely chopped cooking chorizo, 2 banana shallots finely chopped, 1 clove of garlic, 2 tsp of sherry vinegar, 300g of chunky passata, 15g of kale with their stems removed, 75g of cooked cannellini beans, 8 free-range eggs, 4 sourdough bread slices, olive oil for the drizzling, 100g of Parma ham, 20g of wild garlic finely chopped, parmesan, rock salt and freshly ground black pepper and a sprig of basil to serve
+User: I have them ready to make the Gypsy Eggs, where do I begin?
+Robot:  Firstly preheat the oven to approximately 200C at Gas 6
+User:I have preheated the oven to 200C, what do I do next?
+Robot: Then, heat a frying pan and place it over a medium heat and add 110g of chorizo.
+User: I have heated the frying pan and placed 110g of chorizo, what next?
+Robot: After the chorizo has begun to colour and release its oil, add 2 banana shallots and 1 garlic clove then cook for about 2 to 3 minutes.
+User:  I have added the banana shallots and 1 garlic clove and let it cook for 2 to 3 minutes. What is the next step I have to take?
+Robot: The next step you have to take is deglaze the pan with the sherry vinegar
+User: I have deglazed the pan with sherry vinegar, what do I do next?
+Robot: Add 300g of passata and then cook until the sauce has thickened.
+User: I have added 300g of passata and cooked, the sauce has now thickened, what do I do next?
+Robot: Stir 15g of kale, basil leaves and 75g of cooked cannellini beans in a tin if you prefer.
+User: I have stirred 15g of kale, basil leaves and 75g of cannellini beans, what do I do now?
+Robot: Next, season with salt and pepper then divide the mixture between 4 large ovenproof ramekins and make a well in the middle of each one of them.
+User: I seasoned it with salt and pepper and also divided the mixture, I also made a well in the middle. What do I do next?
+Robot:  Next crack 2 eggs into each of the wells that you have created and bake for approximately 10-12 minutes, or even until the egg is completely white and cooked but the yolk is still runny
+User: I have cracked the 2 eggs into the yolk and it is now runny, what now?
+Robot: At the same you should drizzle the bread with olive oil and then chargrill on a preheated griddle pan, or a grill
+User:  I have drizzled the bread with olive oil and chargrilled it on a pan, what do I do next?
+Robot:  Next fry the parma ham in a frying pan on a medium-high heat until it goes all crispy
+User:  I have fried the parma ham on a medium-heat, what do I do next?
+Robot: Now, remove the eggs from the oven.
+User: I have removed the eggs from the oven, now what?
+Robot: Season with salt and pepper and then garnish with the basil leaf and the crispy parma ham
+User: I have seasoned it with salt and pepper as well as garnishing it with the basil leaf, what is the next step I have to take?
+Robot: Then simply sprinkle over the parmesan, serve the eggs and enjoy them.
+User: Thank you for helping me cook Gypsy Eggs.
+
+
+

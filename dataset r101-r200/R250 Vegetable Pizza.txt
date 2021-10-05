@@ -1,0 +1,54 @@
+R250 Vegetable Pizza https://www.bbc.co.uk/food/recipes/vegetable_pizza_29175
+
+This recipe takes 10-30 minutes to cook, serves 2 and contains 17 ingredients,  [''yeast'', ''caster sugar'', '’flour'', '’strong white flour'', ''salt'', ''olive oil'’, ''red pepper'', ''red pepper'', ''aubergine'', ''courgette'', ''olive oil'', ''salt'', ''passata'', ''almonds'', ''garlic'', ''basil'', ''parmesan cheese''']
+
+User: I would like to cook a Vegetable Pizza, what ingredients do I need?
+Robot: For the pizza dough you will need the following ingredients, 5g of fresh yeast, ½ tsp of caster sugar, 300g of Italian flour, 200g of strong white flour, 10g of salt and 35ml of olive oil.
+User:  I have the ingredients for the pizza dough, any other ingredients?
+Robot:  for the topping you will need 1 small red pepper, 1 small aubergine, 1 small courgette, 2-3 tbsp of olive oil, salt and 300g of passata.
+User: Are there any other ingredients?
+Robot: For the pesto you will need 40g of almonds, 1 garlic clove, 50g of basil, 100ml of olive oil, 60g of grated parmesan, now for the garnish you need fresh basil leaves and grated parmesan.
+User:  I have all of the ingredients, what is the first step that I have to take?
+Robot: In order to make the dough, dissolve the yeast in 300ml of water and gradually add the sugar, did you get that?
+User: I have dissolved the yeast in water and added the sugar, what next?
+Robot: Now leave it a warm spot for approximately 10 minutes and during that time it should start to bubble gently.
+User:  I have left it in a warm spot for 10 minutes, what now?
+Robot: Place the flours in a mixing bowl and mix in half of the yeast liquid, then add the salt and oil then mix again before adding the rest of the liquid.
+User: I have placed the flours in a mixing bowl and mixed in half of the yeast liquid and also added the salt and oil, what do I have to do next?
+Robot:  Now continue to work the ingredients in the bowl in order to form a soft dough.
+User:  I have formed a soft dough, what next?
+Robot: Now, rub your hands and work the surface with olive oil and turn out the dough, knead the dough using the heel of your hand to fold the dough up and over itself for approximately 3 minutes.
+User: I have rubbed the surface with the olive oil and folded the dough for the amount of time required.
+Robot: Next, put the dough in a clean and lightly oiled bowl, then cover with a cloth and leave it to sit in a warm place for 120 minutes, or even until it doubles in its size.
+User: I have placed the dough in a lightly oiled bowl and covered it with a cloth, what do I do next?
+Robot: Now, turn the dough onto a lightly floured surface and cut it into two, then tuck the corners under to make meatballs, did you get that?
+User: I have turned the dough onto a floured surface and tucked the corners, what do I have to do now?
+Robot: Now put it on a tray, then cover it with clingfilm and leave it to sit and cool for an extra 20 minutes.
+User:  I have put it on a tray and let it sit for 20 minutes, what is the next step?
+Robot: Good, now preheat the oven to 250 degrees celsius at gas 9.
+User:  I have preheated the oven to 250 degrees, what now?
+Robot: Now, in order to make the topping, prepare the vegetables by dicing the pepper into strips and then by using a peeler to make ribbons of courgette and aubergine.
+User: I have prepared the vegetables as required and made ribbons of courgette and aubergine, what do I have to do next?
+Robot: After that, put all of the vegetables in a single bowl and mix it with salt and 2-3 tbsp of olive oil, did you get that?
+User:  I have put the vegetables in a bowl and mixed it with salt and olive oil, what next?
+Robot: Good, now to make the pesto, put 40g of almonds, 1 garlic clove, 50g of basil and oil into a blender and blend into a chunky sauce.
+User: I have put 40g of almonds, garlic and basil into a blender, what do I do next?
+Robot: Now, stir the grated parmesan and season with salt to taste, then roll the balls of dough into thin pizza bases and lift onto a large baking tray, did you get that?
+User:  I have stirred the parmesan and seasoned it with salt, I also rolled the balls into thin pizza bases, what next?
+Robot: Now, dip your fingers in oil and then dimple the dough by pressing lightly with your fingers on the surface of the dough.
+User: I have dimpled the dough with olive oil, what next?
+Robot: Good, now spread the tomato sauce or the passata over the circles leaving the edges uncovered and divide the vegetables between the pizzas by pressing them down so they are sitting on the dough and then drizzle with oil, did you get that?
+User: I have spread the tomato sauce over the circles and also divided the vegetables between the pizzas, what do I have to do next?
+Robot: Now, bake in the middle of the oven for approximately 15 minutes, or until the dough is golden and the vegetables are browned at their edges.
+User:  I have baked it for 15 minutes and the vegetables are brown at their edges, what next?
+Robot: Now, dot the cooked pizzas with the pesto and return to the oven for another minute.
+User: I have dotted the cooked pizzas with the pesto and returned them to the oven, what now?
+Robot: Good, now garnish with the torn basil leaves, courgette flowers, ribbons of radicchio rubbed with oil or a handful of grated parmesan.
+User: I have garnished with the basil leaves, what next?
+Robot: Serve the pizza and enjoy.
+User: Thank you for helping me cook a Vegetable Pizza.
+
+
+
+
+
