@@ -1,0 +1,41 @@
+R363 Fish cakes with parsley sauce https://www.bbc.co.uk/food/recipes/fishcakes_with_parsley_32428
+
+This recipe takes 10-30 minutes to cook, serves 2 and contains 15 ingredients,  [''peeled potatoes'', ''cod fillets'', '’milk'', '’bay leaf'', ''lemon'', ''spring onions'’, ''plain flour'', ''egg'', ''breadcrumbs'', ''sunflower oil'', ''black pepper'', ''spinach'', ''butter'', ''parsley'', ''salt'']
+
+User: I want to make Fish cakes with parsley sauce, what ingredients do I need?
+Robot: Sure, for the fish cakes you will need 150g of peeled potatoes, 120g of cod fillets, 325ml of milk, 1 bay leaf, 1 finely grated lemon, 1 spring onion, 25g of plain flour, 1 beaten free-range egg, 50g of panko breadcrumbs, 3 tbsp of sunflower oil, ground black pepper, salt and wilted spinach to serve.
+User: What about the ingredients for the parsley sauce?
+Robot: For the parsley sauce you will need 15g of butter, 1 tbsp of plain flour, a handful of fresh parsley and black pepper.
+User: I have all of the ingredients, what is the first step that I need to take?
+Robot: Add 150g of potatoes to a saucepan, cover with cold water and then season with salt, bring to a boil and simmer until they become soft.
+User: I have added the potatoes to the saucepan and covered them with cold water, I also seasoned them with salt, what is the next step that I have to take?
+Robot: Drain and mash them, then season with salt and pepper and spread them out on a plate to cool down.
+User: I drained and mashed them, I also seasoned them with salt and pepper and then put them on a plate to cool down. What is the next step that I have to take?
+Robot: Place 120g of cod fillet in a large saucepan with 325ml of milk and 1 bay leaf, cover with a lid and bring them to a boil, then remove from the heat and leave to stand for approximately 5 minutes.
+User: I placed the cod fillet in a large saucepan with the milk and bay leaf, I also covered it with a lid and brought it to a boil as required. What do I have to do next?
+Robot: Now discard the skin, break the fish into chunks and leave to cool, after that reserve the milk and discard the bay leaf.
+User: I have discarded the skin and broken the fish down into chunks, I also threw away the bay leaf, what now?
+Robot: Next, place the cooled mash inside a bowl and stir in 1 lemon zest and 1 spring onion, then stir the fish into the mash without breaking it up too much, then season with a bit of extra salt and pepper to give it some more taste.
+User: I put the mash inside a bowl and stirred it in with lemon and 1 spring onion, I also seasoned it with some extra salt and pepper. What is the next step that I have to take?
+Robot: You now must preheat the oven to 200 degrees celsius at Gas 6 and divide the mixture into two and shape them into patties.
+User: I have preheated the oven to 200 degrees and divided the mixture into patties as required, what do I have to do next?
+Robot: Next, put 1 tbsp of plain flour, 1 beaten egg and breadcrumbs in separate shallow bowls and coat the fish cakes in flour, then dip in the beaten egg, coating all of the sides.
+User: I have put the ingredients inside shallow bowls and coated the fish cakes, the sides are now all coated, what do I have to do next?
+Robot: Next, heat the olive oil inside a frying pan and fry the fish cakes for 3 minutes on each side, hold them on their sides to brown the edges and transfer them to a baking tray.
+User: I heated the oil inside a frying pan and fried the cakes for 3 minutes, I then transferred them over to a baking tray. Thank you very much for letting me know, what do I need to do next?
+Robot: Now, once transferred to the baking tray, finish cooking the cakes for another 10 minutes and then for the parsley sauce, melt 15g of butter in a small non-stick saucepan.
+User: I finished cooking the cakes for 10 minutes and I also melted the butter in a non-stick saucepan, what is next?
+Robot: Now gradually add 1 tbsp of plain flour, stirring with a wooden spoon until the ingredients are well combined, then slowly add the reserved milk, stirring constantly to discard any lumps.
+User: I have added the flour and stirred with a spoon and now the ingredients are well combined, what do I do next?
+Robot: Now bring the ingredients to a boil, simmer and let them cook for 3 minutes until they become thick and smooth, after that remove from the heat and stir in the parsley.
+User: I simmered the ingredients and they have been cooked for 3 minutes as required, what do I do now?
+Robot: Now, place the fish cakes on a plate, pour the sauce into a small jug and serve the meal with lemon wedges and some spinach on the side.
+User: Thank you for helping me cook Fish cakes with parsley sauce, have a good day.
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+r410: Cheesy Garlic Mashed Potatoes. https://cookeatshare.com/recipes/cheesy-garlic-mashed-potatoes-105
+
+
+This recipe takes 5 minutes to prepare, 40 minutes to cook, serves 8 and contains 7 ingredients,  ['garlic', 'potatoes', 'salt', 'heavy cream', 'butter’, 'black pepper', 'cheddar cheese’]
+
+User: I would like to make Cheesy Garlic Mashed Potatoes.
+Robot: Firstly, roast 5-6 cloves of garlic. To start, preheat your oven to 200ºC. Place the garlic cloves in the middle of a square of tin foil, drizzled with olive oil. Gather the corners of the foil and fold into a bunch above the garlic, sealing the garlic. Cook for 15-20 minutes.
+User: I have  cooked the garlic, what do I do now?
+Robot: Now remove from the oven and allow to cool to the touch. Cut off the ends of the cloves and squeeze out of the shells, before mincing in a garlic crusher. 
+User: I have  minced the roasted garlic, what next?
+Robot: Peel 900g of potatoes and cut them into quarters using a peeler and knife. Put them into a large pot with 15g of salt. Fill the pot with cold water, covering the potatoes and boiling uncovered  for 15-20 minutes until the potatoes come off the fork when stuck in. While they are boiling, melt 120g of butter in a small saucepan. 
+User: I have  started boiling the potatoes, and the butter is melted in the small saucepan. What do I do now?
+Robot: Now, add 240ml of heavy cream, the roasted garlic, and a sprinkle of salt and black pepper to the small saucepan. Whisk together until they combine and then bring to the boil. Once boiling, remove from the heat and cover to keep warm.
+User: I have  warmed up the garlic sauce, what comes next?
+Robot: Next, once the potatoes are done drain them well using a colander. Put them along with the mixture into a large bowl and use a potato masher to mash them, adding 240g of cheddar cheese. Once well mashed, stir for a minute with a large spoon to mix well. Serve and enjoy.
+User: Thank you for helping me make Cheesy Garlic Mash.
+

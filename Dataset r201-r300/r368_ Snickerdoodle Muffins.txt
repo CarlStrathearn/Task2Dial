@@ -1,0 +1,31 @@
+r368: Snickerdoodle Muffins. https://cookeatshare.com/recipes/snickerdoodle-muffins-418677
+
+Snickerdoodle Muffins takes 10 minutes to prepare, 15 minutes to cook, serves 8 and contains 9 ingredients,  ['flour', 'sugar', 'baking powder', 'salt', 'nutmeg’, 'milk', 'egg’,'butter', 'cinnamon']
+
+User: I would like to make Snickerdoodle Muffins
+Robot: First preheat the oven to 200 degrees celsius or gas mark 6, and prepare your ingredients. The cinnamon will be used as topping when the muffins are finished. 
+User: The oven is ready, what now?
+Robot: First, find a medium bowl. Then, take 380ml of flour and add it into the bowl.
+User: Okay I have done that, what do I do now?
+Robot: Next, add in 200ml of sugar.
+User: Right, now what?
+Robot: Add in 2tsp of baking powder, as well as a pinch of salt. 
+User: I have added those in, what comes next?
+Robot: Now add in 1.5g of nutmeg. If you do not have freshly ground nutmeg, grind it using a fine grater. This can usually be identified as the side of a grated with the smallest holes. 
+User: Got it! What’s next?
+Robot: Combine these by mixing them together with a wooden spoon until the mixture looks even.
+User: Alright I have combined those ingredients. What do I do now?
+Robot: Using a set of measuring cups, measure 120ml of milk and add it to your bowl.
+User: I have added the milk, what do I add next?
+Robot: Great, now take a smaller bowl and, using a whisk, beat the egg until the yolk and the egg white are mixed. Once you have finished add it to the large bowl. 
+User: Okay I have added in the beaten egg. What next?
+Robot: Next take 80g of butter and melt it in a microwave for approximately 15-30 seconds. Once it has melted,  add it to the bowl with the other ingredients. 
+User: I have added in the butter. What now?
+Robot: Now that you have added all of the main ingredients, using a wooden spoon, gently mix them together until they combine into an even mixture. 
+User: What’s the next step?
+Robot: The next step is to get a muffin tin and apply some butter to it by rubbing it directly onto the tin. Place 8 muffin cups into the spaces in the tray and fill them each halfway using your mixture. 
+User: Alright, I have done that. What now?
+Robot: Now, place these in the oven once it is heated. Using a timer, leave them to bake for 15-20 minutes until the tops are light brown and spring when touched. While you wait, prepare ⅓ of melted butter in a bowl then  ½ cup of sugar and 1tsp of cinnamon on a plate for topping. 
+User: The muffins are finished! How do I do the topping?
+Robot: Great, now while they are still warm, dip the top of each cupcake in melted butter and roll them in the sugar and cinnamon. Serve them warm, and enjoy!
+User: I have done it. Thank you for helping me cook Snickerdoodle Muffins.

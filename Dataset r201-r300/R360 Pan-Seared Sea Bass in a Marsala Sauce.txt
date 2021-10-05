@@ -1,0 +1,35 @@
+R360 Pan-Seared Sea Bass in a Marsala Sauce https://cookeatshare.com/recipes/pan-seared-sea-bass-in-a-marsala-sauce-462869
+
+This recipe takes 30 minutes to cook, serves 4 and contains 9 ingredients,  [''sea bass fillets'', ''garlic cloves'', '’yellow onions'', '’mushrooms'', ''marsala wine'', ''chicken stock'’, ''olive oil'', ''kosher salt'', ''ground pepper'']
+
+User: I want to cook Pan-Seared Sea Bass in a Marsala Sauce, what ingredients do I need to cook this meal?
+Robot: You will need 4 4-5 oz of sea bass fillets, 2 minced garlic cloves, 1 medium yellow onion, 15 flavorful mushrooms, ½ cup of marsala wine, ½ cup of chicken stock, olive oil, kosher salt and ground pepper.
+User: I have the ingredients ready, thank you for letting me know, am I ready to start now? If so, what is the first step that I have to take?
+Robot: Preheat your oven to 450 degrees fahrenheit, then heat a tbsp of olive oil to a medium-heat inside the pan and add 2 garlic cloves, 1 medium yellow onion and 15 mushrooms.
+User: I preheated the oven to 450 degrees and heated the ingredients together as required, what do I have to do next?
+Robot: Now, cook until the onions become translucent and the mushrooms become tender.
+User: I have cooked the onions and they are now tender, thank you. What is the next step that I have to take?
+Robot: Next you must turn the heat to a high and pour ½ cup of marsala wine, then quickly scrape off any brown bits with the wine.
+User: I turned the heat over to a high and poured the wine, I have also scraped some extra brown bits as required, what do I do next?
+Robot: Now, after the wine has cooked off, turn the heat down a bit to medium and add in the chicken stock, salt and pepper.
+User: I have turned the heat down to medium and added the chicken stock, salt and pepper, what is the next step that I have to take?
+Robot: Allow them to cook until the mushrooms become tender and the liquid has reduced into a slightly thicker sauce, then cover and set aside.
+User: The mushrooms are now tender and the liquid has reduced into a thick sauce, thank you, what next?
+Robot: Now, in an oven proof pan, heat up the olive oil and then add the fish to it, it should then rise to ½ an inch.
+User: I have added the fish along with the olive oil and it has risen to ½ inch as required, what do I do next?
+Robot: Next, pat the fish dry on both sides with a paper towel, then liberally salt and pepper on both of their sides.
+User: I have added extra salt and pepper to both of their sides, what now?
+Robot: Now, carefully place the fish in the pan and to avoid splatter, lay it down away from you.
+User: I have placed the fish inside a pan, what next?
+Robot: Sear for 6 minutes until it turns golden brown, then flip over for another few minutes until it goes golden brown, then transfer to the oven for 5 minutes until cooked through well.
+User: I have seared for 6 minutes and the fish has now turned golden brown, what do I have to do next?
+Robot: Now, dish out the sauce and place the fish in the middle and serve with some steamed vegetables.
+User: Thank you for helping me cook Pan-Seared Sea Bass in a Marsala Sauce.
+
+
+
+
+
+
+
+

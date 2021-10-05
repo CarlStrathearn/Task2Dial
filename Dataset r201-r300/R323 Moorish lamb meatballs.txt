@@ -1,0 +1,37 @@
+R323 Moorish lamb meatballs https://www.bbc.co.uk/food/recipes/moorish_meatballs_94958
+
+This recipe takes 30-60 minutes to cook, serves 4 and contains 22 ingredients,  [''lamb mince'', ''garlic cloves'', '’coriander'', '’cumin'', ''paprika'', ''cinnamon'’, ''cardamom'', ''parsley'', ''lemon'', ''fresh breadcrumbs'', ''double cream'', ''eggs'', ''olive oil'', ''black pepper'', ''bay leaves'', ''tomatoes'', ''honey'', ''yoghurt'', ''parsley leaves'', ''floury potatoes'', ''honey'', ''paprika'']
+
+User: I want to cook Moorish lamb meatballs, what is the first step that I have to take?
+Robot: To make these meatballs, put all of the ingredients into a big bowl, then season with a generous amount of salt and pepper, then mix thoroughly with your hands.
+User: I have put all of the ingredients into the bowl and seasoned them with salt and pepper and also mixed them with my hands, what do I have to do next?
+Robot: Now, form the mixture into balls of around 50g each, you should end up with 16. To cook them, heat 3 tbsp of olive oil in a large frying pan.
+User: I have formed the meatballs into balls of 50g each, next I have heated the olive oil in the frying pan, what do I do now?
+Robot: The meatballs should be browned on all of the sides. Then preheat the oven to 200 degrees celsius on gas 6 and then put the meatballs on a greased baking tray, then cook them for around 15 minutes or until they are well browned.
+User: I have preheated the oven to 200 degrees and put the meatballs on a baking tray, I also let them cook for 15 minutes. Now what do I do?
+Robot: To make the patatas bravas, put 800g of potatoes in a saucepan and then cover them with cold water, bring to a boil and then add plenty of salt.
+User: I have added the 800g of potatoes in a saucepan and covered them with cold water, brought them to a boil and added salt, what next?
+Robot: Next, simmer them for 3-4 minutes or until the potatoes are starting to become soft.
+User: I have simmered them for the amount of time required, the potatoes are now soft, what is the next step I have to take?
+Robot: While you are cooking the meatballs, to make the sauce, heat 200ml of olive oil in a saucepan, then add 1 finely chopped onion and then let them fry for 10 minutes or until they become soft.
+User: I have made the sauce, heated the olive oil in a saucepan and chopped the onion and let them fry for 10 minutes. What do I have to do next?
+Robot: Add 2 garlic cloves, the spices and the bay leaves and let them cook for a couple of minutes and make sure to stir constantly, then add 400g of tinned tomatoes and 1 tsp of honey.
+User: I have added the garlic cloves, spices and the bay leaves, I also let them cook and stirred constantly, now what do I have to do?
+Robot: Next, pour 200ml of water over the ingredients and bring them to a boil, reducing the heat and leaving them to simmer for 15 minutes. After 15 minutes make sure to uncover and stir the yoghurt.
+User: I have poured the water over the ingredients and brought them to a boil, I have also left them to simmer for 15 minutes, now what?
+Robot: Now, drain the potatoes and heat the olive oil in a large frying pan, then add the potatoes in a single layer and let them fry for about 20 minutes until they become crisp and brown on all the sides.
+User:I have drained the potatoes and heated the olive oil in a large frying pan, also I put the potatoes in a single layer and I let them fry for 20 minutes, they are now crisp on each side, now what do I do?
+Robot: Next, in order to make the patatas bravas sauce, heat the olive oil sauce in a small saucepan and then add the 2 cloves of garlic, cook it for 3 minutes until it starts to soften without taking on any color.
+User: I have heated the olive oil in a saucepan and added the garlic cloves, I also let it cook for 3 minutes, what next?
+Robot: Now, add 1 tbsp of sherry vinegar and sugar and then stir until the sugar has dissolved, alongside this also stir in the sweet and the hot paprika.
+User: I have added the sherry vinegar and sugar, I also stirred in the sweet and hot paprika, what step do I have to take after this?
+Robot: Pour the sauce over the crispy potatoes and sprinkle them with some more sweet and hot paprika.
+User: I have poured the sauce over the potatoes and sprinkled them with hot paprika, now what?
+Robot: Next, simmer the sauce for 5 minutes or until the meatballs have heated through and the sauce has reduced a little, then serve sprinkled with a little bit of parsley if you wish to add and enjoy the meal.
+User: Thank you for helping me cook Moorish lamb meatballs.
+
+
+
+
+
+

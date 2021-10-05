@@ -1,0 +1,17 @@
+r406: Aubergine and black bean bowl https://www.bbc.co.uk/food/recipes/aubergine_and_black_bean_99408
+
+
+This recipe takes 30 minutes to prepare, 30-60 minutes to cook, serves 2 and contains 14 ingredients,  ['aubergine', 'olive oil', 'black beans', 'tomato puree', 'red wine vinegar’, 'ground cumin', 'smoked paprika’,'sugar', 'ground black pepper', 'salt', 'tortilla wraps', 'feta’, 'fresh coriander', 'lime']
+
+User: I would like to make Aubergine and Black bean bowl
+Robot: First preheat the oven to 220ºC and put a roasting tin on the middle shelf to heat up.
+User: I have  heated the oven as well as the roasting tin, what next?
+Robot: Next, using a knife cut one aubergine into 2cm cubes. Put these cubes into the roasting tin and drizzle with olive oil. Season these with salt and pepper and mix well tossing them around. Roast these in the oven for 20 minutes until softened and crisp at the edges. 
+User: I have roasted the aubergines. What should I do next?
+Robot: Now cut two tortilla wraps into triangles using a knife and brush them with some oil using a pastry brush. Season these with a pinch of salt and arrange on a baking tray in a single layer. Bake these for 6-7 minutes until crisp, ensuring they don’t burn. Once baked, set them aside.
+User: I have finished baking the tortillas, now what?
+Robot: Now, in a large bowl, mix two 400g tins of drained black beans, 30g of tomato puree, 15ml of red wine vinegar, 1 tsp of ground cumin, 1 tsp of smoked paprika and a pinch of sugar using a spoon. Then, crush the mixture roughly with a potato masher before stirring in 200ml of warm water. Add this to the roasting tin with the aubergines and return to the oven for 5 minutes.
+User: I have added this mixture to the roasting tin and it’s been in the oven for 5 minutes now. What comes next?
+Robot: Next, spoon the aubergine mixture into 2 bowls and top with 50g of feta cheese, 15g of coriander and 1 lime cut into wedges using a knife. Serve with the tortilla chips you made for dipping and enjoy.
+User: Thank you for helping me make Aubergine and black bean bowls.
+

@@ -1,0 +1,17 @@
+r407: Swedish Pancakes. https://cookeatshare.com/recipes/homemade-swedish-pancakes-628196
+
+
+This recipe takes 10 minutes to prepare, 10 minutes to cook, serves 6 and contains 9 ingredients,  ['large eggs', 'milk', 'flour', 'sugar', 'salt’, 'butter', 'powdered sugar’,'fruit of choice', 'maple syrup']
+
+User: I would like to make Swedish Pancakes.
+Robot: First, in a medium bowl beat two large eggs and 480ml of milk together with a whisk or fork.
+User: I have  whisked together the eggs and milk, what next?
+Robot: Now, in a large bowl add 240g of flour, 30g of sugar and a pinch of salt. Stir the ingredients together with a spoon or whisk and gradually add the egg and milk mixture, stirring all of the ingredients together. 
+User: The ingredients have thickened into a batter, what now?
+Robot: Next, heat a large non-stick skillet over medium heat. Add 30g of butter to the pan and allow it to melt over the whole pan. 
+User: I have  heated the pan, what do I do now?
+Robot: Now take large spoonfuls of the batter and spoon into the pan to make coaster sized pancakes. Flip each pancake with a spatula after 1 minute then remove after 30 seconds placing onto a plate. Keep warm in an oven or by covering with a clean towel. 
+User: I have  made all of my pancakes, what next?
+Robot: Next, serve with fresh fruit of your choice, powdered sugar, and maple syrup and enjoy.
+User: Thanks for helping me make Swedish Pancakes. 
+

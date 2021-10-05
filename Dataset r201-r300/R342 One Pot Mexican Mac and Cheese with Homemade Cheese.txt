@@ -1,0 +1,25 @@
+R342 One Pot Mexican Mac and Cheese with Homemade Cheese https://cookeatshare.com/recipes/one-pot-mexican-mac-and-cheese-with-homemade-cheese-sauce-881532
+
+This recipe takes 25 minutes to cook, serves 2 and contains 6 ingredients,  [''butter'', ''all-purpose flour'', '’milk'', '’cheese'', ''cream cheese'', ''black pepper'’]
+
+User: I want to cook a One Pot Mexican Mac and Cheese with Homemade Cheese, can you please tell me the ingredients that I will need to cook this meal?
+Robot: For this meal you will need 2 tbsp of butter, 2 tbsp of all-purpose flour, ¾ cups of milk, 1 cup of cheese, 2 tbsp of cream cheese and black pepper, did you get that?
+User: I have all of the ingredients ready, are there any others or am I ready to start?
+Robot: You are ready to start. Heat a saucepan on a heat that is on medium and then add 2 tbsp of butter.
+User: I have heated a saucepan and added butter to it, what do I have to do now?
+Robot: Next, after the butter has melted, add 2 tbsp of all-purpose flour and then whisk them all together until they become golden brown.
+User: I have added the flour and whisked them together, what is the next step that I have to take now?
+Robot: Now once the flour cooks through, add black pepper and ¾ cups of milk and then continue to whisk until it comes to a boil and the texture becomes all smooth.
+User: I have added the black pepper and milk, I also whisked all of the ingredients together and the texture is nice and smooth. What is the next step that I have to take?
+Robot: That is very good. Next, remove the pot from the heat and then add 1 cup of cheese, continue to whisk until the cheese is completely melted, then set the cheese aside once it has melted.
+User: I have removed the pot from the heat and added the cheese and continued to whisk, what do I do next?
+Robot: Serve the meal once it has cooled down and then simply enjoy the meal.
+User: Thank you for helping me cook a One Pot Mexican Mac and Cheese with Homemade Cheese.
+
+
+
+
+
+
+
+

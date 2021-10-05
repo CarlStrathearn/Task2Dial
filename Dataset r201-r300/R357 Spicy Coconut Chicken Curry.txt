@@ -1,0 +1,33 @@
+R357 Spicy Coconut Chicken Curry https://cookeatshare.com/recipes/spicy-coconut-chicken-curry-515197
+
+This recipe takes 60 minutes to cook, serves 6-8 and contains 13 ingredients,  [''chicken drumsticks'', ''kosher salt'', '’vegetable oil'', '’yellow onions'', ''garlic cloves'', ''fresh ginger'’, ''curry powder'', ''ground cumin'', ''cayenne pepper'', ''chopped tomatoes'', ''coconut milk'', ''frozen peas'', ''cilantro leaves'']
+
+User: Can you please let me know what ingredients I need in order to cook a Spicy Coconut Chicken curry, please?
+Robot: For this meal you will need the following ingredients, 6 chicken drumsticks, kosher salt, vegetable oil, 1 yellow onion, 2 garlic cloves, 1 inch piece of fresh ginger, 3 tbsp of curry powder, 1 tsp of ground cumin, ½ tsp of cayenne pepper, 1 can of chopped tomatoes, 1 can of light coconut milk, 1 cup of frozen peas and 1 cup of fresh cilantro leaves.
+User: I have the ingredients ready, do I need any others or am I ready to start?
+Robot: You are ready to begin. Rinse the chicken and pat them dry with paper towels, then sprinkle with some salt.
+User: I rinsed the chicken and patted them dry with paper towels, what do I have to do next?
+Robot: Now, coat the bottom of a 5-7 quart stew pot or dutch oven with a small amount of oil and set over a medium high heat, then add the chicken skin side down without crowding, in batches if necessary and cook until the skin turns golden brown for approximately 5 minutes.
+User: I have coated the bottom of the stew pot with oil as required, I have also added the chicken with the skin side down and cooked it, what next?
+Robot: Turn the pieces over and cook until they are brown on the other side for 5 minutes more and transfer them to a plate.
+User: I have transferred the chicken over to a plate, what do I have to do next?
+Robot: Now, when the chicken has turned brown, add 1 small yellow onion to the pot and cook, make sure you stir for 2 minutes, then add 2 garlic cloves and 1 piece of fresh ginger to the pot and cook, make sure you stir until they become soft for about 1 more minute.
+User: I have added the onion, garlic and ginger to the pot and stirred, the ingredients are now soft, what is the next step that I have to take?
+Robot: Add 3 tbsp of curry powder, 1 tsp of ground cumin, ½ tsp of cayenne pepper, and ½ tsp of salt and let them all cook for 30 seconds until the spices are fragrant, then add the tomatoes and 1 cup of coconut milk.
+User: I added the curry powder, cumin, cayenne pepper and salt, I let them all cook for 30 seconds as required, therefore now the spices are nice and fragrant. Could you please tell me what I need to do next?
+Robot: Return the chicken and add any juices to the pot, surround the chicken with the sauce so that the topmost skin is exposed.
+User: I have returned the chicken and added remaining juices to the pot, I also surrounded the chicken with the sauce, what next?
+Robot: Now, reduce the heat to simmer and cook uncovered for approximately 45 minutes, then stir in the peas, cilantro, cover and cook until the peas turn hot for about another 5 minutes.
+User: I have reduced the heat and let it cook for 45 minutes, the peas are now hot, what do I do now?
+Robot: Test the chicken by cutting it until you reach the bone and then return it to the pot for about 5 more minutes.
+User: The chicken is cooked well now, what do I do now?
+Robot: Serve the meal hot with rice and with a couple of vegetables on the side, enjoy.
+User: Thank you for helping me cook a Spicy Coconut Chicken Curry.
+
+
+
+
+
+
+
+

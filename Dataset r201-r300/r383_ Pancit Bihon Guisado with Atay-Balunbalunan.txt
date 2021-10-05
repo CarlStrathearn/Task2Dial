@@ -1,0 +1,19 @@
+r383: Pancit Bihon Guisado with Atay-Balunbalunan. https://cookeatshare.com/recipes/pancit-bihon-guisado-with-atay-balunbalunan-801838
+
+
+Pancit Bihon Guisado with Atay-Balunbalunan takes 30 minutes to cook, serves 1-2 and contains 11 ingredients,  ['rice noodles', 'chicken liver', ‘pork’,  'garlic', 'onion', 'cabbage’, 'chicken broth', 'carrot’,'kinchay', 'canola oil', 'soy sauce', 'salt', 'pepper’]
+
+User: I would like to make Pancit Bihon Guisado with Atay-Balunbalunan
+Robot: To start with, place 500g of rice noodles in a clean basin and immerse in water to soften. While softening, heat  a large frying pan and add 60ml of canola oil and stir fry 3 cloves of minced garlic, and one large onion chopped with a knife. 
+User: The noodles are soaking and I have stir fried the other ingredients, what next?
+Robot: Using a knife cut 500g of pork into small pieces and add them to the pan, stir fry for 3 minutes or until cooked. 
+User: I have fried the pork, what comes next?
+Robot: Next comes the liver. In a pot of boiling water boil 500g of liver and once cooked, cut into small pieces. Add this to the pan and continue stir frying until the liver is tender and the vegetables are half cooked. 
+User: I have finished stir frying the ingredients, what now?
+Robot: Next add 240ml of chicken broth and 120ml of soy sauce and allow to boil for 1 minute. 
+User: I have added the broth and soy sauce, what is next?
+Robot: Next, remove half of the ingredients from the pan and set it aside as topping for the noodles. Remove the noodles from the water and add them into the ingredients remaining in the pan, mixing constantly until the noodles are cooked and dried. Top with more broth if the noodles dry before being fully cooked.
+User: The noodles are cooked into the other ingredients, what is the next step?
+Robot: Now add some salt and pepper to your preference. Place the cooked noodles in a serving dish and place the separated noodles on as topping. Enjoy!
+User: Thanks for helping me make Pancit Bihon Guisado with Atay-Balunbalunan
+

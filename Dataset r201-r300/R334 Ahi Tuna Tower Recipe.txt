@@ -1,0 +1,25 @@
+R334 Ahi Tuna Tower Recipe https://cookeatshare.com/recipes/ahi-tuna-tower-411892
+
+This recipe takes 30 minutes to cook, serves 3 and contains 12 ingredients,  [''tuna'', ''crab meat'', '’sushi rice'', '’sesame oil'', ''sriracha chile'', ''tamari soy sauce'’, ''chopped avocado'', ''green masago'', ''soy sauce'', ''ponzu sauce'', ''eel sauce'', ''mayonnaise'', ''container'']
+
+User: I want to cook an Ahi Tuna Tower, what ingredients do I need to cook this meal?
+Robot: You will need 4 oz of Sashimi grade tuna, 1 cup of cooked crab meat, 2 cups of cooked sushi rice, ½ tsp of sesame oil, 1 tsp of Sriracha chile sauce, 1 tsp of samari soy sauce, ½ cup of finely chopped avocado, ½ tsp of green masago, Soy Sauce, Ponzu Sauce, eel sauce, 1 tbsp of mayonnaise and 1 open ended container.
+User: I have all of the ingredients ready, am I ready to start or do I need anything else?
+Robot: You are ready to start, first cook 2 cups of sushi rice, let it cool and then chop 4 oz of tuna into small bite sized pieces until they are almost all minced.
+User: I have cooked 2 cups of sushi rice and I chopped the tuna into pieces, what do I have to do next?
+Robot: Next, mix in ½ tsp of sesame oil and a little bit of chili sauce, then chop 1 cup of crab meat and place it in a different bowl.
+User: I have mixed the sesame oil and chopped the crab meat and I placed them all in a different bowl, what is the next step that I have to take?
+Robot: Now mix together the chili sauce and 1 tbsp of mayonnaise, make sure to continuously taste to alter the spiciness if required, then place ½ cup of finely chopped avocado in another bowl.
+User: I have mixed the chili sauce with the mayonnaise and placed the avocado in a different bowl, what is the next step that I have to take?
+Robot: Combine 1 cup of chopped crab meat and a bit of the chili mayo sauce together and save a little bit of the sauce to drizzle on the plate.
+User: I have combined the crab meat and the mayo sauce together, what do I have to do next?
+Robot: Place the container on a plate and start with a layer of rice, avocado and top with the tuna by pressing it down lightly so that the tower stays in place once the container is removed.
+User: I have placed the container on a plate and topped it with tuna and pressed it down. Could you please let me know what i Have to do next?
+Robot: Now add ½ tsp of green masago on the corner of each plate, then serve and enjoy the Tuna Tower.
+User: Thank you ¡for helping me cook an Ahi Tuna Tower.
+
+
+
+
+
+

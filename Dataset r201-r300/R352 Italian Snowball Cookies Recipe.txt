@@ -1,0 +1,29 @@
+R352 Italian Snowball Cookies Recipe https://cookeatshare.com/recipes/italian-snowball-cookies-130629
+
+This recipe takes 25-30 minutes to cook, serves 36 and contains 7 ingredients,  [''butter'', ''confectioners sugar'', '’vanilla'', '’sifted flour'', ''chopped nuts'', ''large bowl'’, ''cookie sheets'']
+
+User: I want to bake some Italian Snowball Cookies, what ingredients do I need for this meal?
+Robot: You will need the following ingredients: 1 cup of butter, ¾ cups of sifted confectioner’s sugar, 1 tsp of vanilla, 2 cups of sifted flour, 1 cup of finely chopped nuts, 1 large bowl and 2 large cookie sheets. Got that?
+User: I have the ingredients ready, am I ready to start or do I need anything else?
+Robot: You are ready to begin. Have a large mixing bowl ready and add 1 cup of softened butter, ¾ cups of confectioners sugar and vanilla.
+User: I have added 1 softened butter and ¾ cups of confectioners sugar, what is the next step that I have to take?
+Robot: With a spoon mix until the texture becomes creamy, then once it is creamy, slowly incorporate 2 cups of flour and 1 cup of finely chopped nuts into the mixture.
+User: I have added the flour and the nuts into the mixture, what is the next step?
+Robot: Now, shape them into ¾ inch balls, rolling them into the palm of your hand and then place ½ inch apart on ungreased cookie sheets.
+User: I have rolled them into balls and rolled them on the palm of my hand, now what do I have to do next?
+Robot: Bake in an oven at 300 degrees for approximately 30 minutes or until the cookies turn into a cream color.
+User: I baked the cookies in an oven at 300 degrees for 30 minutes as required, what do I have to do next?
+Robot: Next, remove the cookie sheets and place them on a cooling rack until the cookies are just warm enough to touch, then roll the cookies in the 1 cup of extra sifted confectioners sugar.
+User: I have removed the cookie sheets and placed them on a cooling rack, the cookies are now warm, what do I have to do next?
+Robot: Now, cool them entirely and roll them again in the same sugar, then store them in a covered container.
+User: I have rolled them again in the same sugar and stored them in a container, what is the next step that I have to take?
+Robot: Serve them on a plate and enjoy the cookies.
+User: Thank you for helping me cook Italian Snowball Cookies.
+
+
+
+
+
+
+
+

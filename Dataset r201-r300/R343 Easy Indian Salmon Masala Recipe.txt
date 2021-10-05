@@ -1,0 +1,27 @@
+R343 Easy Indian Salmon Masala Recipe https://cookeatshare.com/recipes/easy-indian-salmon-masala-881534
+
+This recipe takes 20 minutes to cook, serves 2 and contains 10 ingredients,  [''fresh garlic'', ''fresh ginger'', '’jalapeno'', '’salmon filets'', ''tandoori masala'', ''black pepper'’, ''cilantro stems'', ''chili powder'', ''salt'', ''oil'']
+
+User: I would like to cook an Easy Indian Salmon Masala today, what ingredients do I need to make this meal?
+Robot: You will need the following ingredients, 4 fresh garlic cloves, 1 tsp of grated fresh ginger, ½ jalapeno, 2 salmon filets, ½ tsp of tandoori masala, ½ tsp of black pepper, 8 strands of cilantro stems, ½ tsp of red chili powder, salt and oil.
+User: Are there any other ingredients that I need or am I ready to begin?
+Robot: You’re ready to begin. Preheat the oven to 400 degrees fahrenheit, then combine 1 tsp of fresh ginger, 4 cloves of garlic, ½ tsp of tandoori masala, ½ tsp of red chili powder, 6 stems of cilantro, salt and some oil into a blender and blend them all finely into a nice paste.
+User: I have mixed all of the ingredients into a nice paste, what do I have to do next?
+Robot: Next, coat the bottom of an oven safe pan with oil and then place the salmon only.
+User: I have coated the bottom of the pan with oil and placed the salmon, now what do I have to do?
+Robot: Next, rub a thin layer of tandoori masala onto the salmon skin and place the skin side down on the pan, also drizzle some oil on the top of the salmon to give it some extra taste.
+User: I rubbed tandoori masala on the salmon skin and placed it on the pan, I also drizzled some oil on the salmon, what do I do next?
+Robot: Next, place the vegetables on the pan and cover the salmon with some tin foil, then let it bake for 12 minutes, did you get that?
+User: I have placed the vegetables on the pan and covered the salmon with tin foil, I also let it bake for 12 minutes as required, what do I do next?
+Robot; Now, remove the pan from the oven after 12 minutes, then uncover the foil and throw it away and cook for an additional 5 minutes.
+User: I have removed the pan from the oven and uncovered the foil, now what do I have to do?
+Robot: Remove the pan from the oven and serve with hot lemon wedges.
+User: Thank you very much for helping me cook an Easy Indian Salmon Masala.
+
+
+
+
+
+
+
+

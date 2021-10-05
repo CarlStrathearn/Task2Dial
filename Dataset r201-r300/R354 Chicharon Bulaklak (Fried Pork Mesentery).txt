@@ -1,0 +1,33 @@
+R354 Chicharon Bulaklak (Fried Pork Mesentery) https://cookeatshare.com/recipes/chicharon-bulaklak-fried-pork-mesentery-684391
+
+This recipe takes 60 minutes to cook, serves 3 and contains 10 ingredients,  [''pork mesentery'', ''dried bay leaves'', '’crushed rock salt'', '’whole pepper corn'', ''garlic cloves'', ''onions'’, ''celery'', ''vinegar'', ''water'', ''canola oil'']
+
+User: I want to cook Chicharon Bulaklak, what ingredients do I need?
+Robot: Sure, you will need 1kg of Pork Mesentery, 6 pieces of dried bay leaves, 3 tbsp of crushed rock salt, 1 tbsp of whole pepper corn, 6 garlic cloves, 2 medium onions, 1 stalk of celery, 4 tbsp of vinegar, 2 cups of water and 3 cups of canola oil.
+User: I have the ingredients. Am I ready to start?
+Robot: You are ready to start. Wash each of the Pork Mesentery thoroughly under cool, running water, then pick out any little bits of debris, dried blood or matter.
+User:I washed the Pork under cool water and picked out bits of debris, what do I have to do next?
+Robot: Now, after washing it 1 time, wash it two more times to make sure that all of the debris has gone, then pour the water in a large pot, then place 2 medium onions, 1 tbsp of pepper corn, 6 garlic cloves and 1 stalk of celery.
+User: I have washed it two more times as required, I have also added the water inside a pot and added the ingredients after that, what do I have to do now?
+Robot:Now add 2 tbsp of salt and vinegar and then let it boil for another minute.
+User: I have added the salt and vinegar, I also let it boil for another minute as required, what next?
+Robot: Now place the Pork Mesentery in the pot and wait until the liquid re-boils, then add 6 pieces of dried bay leaves and the whole peppercorn, then simmer for 45 minutes.
+User: I have placed the pork inside the pot and I also added the pieces of bay leaves and I let it simmer for 45 minutes, what do I do next?
+Robot: Remove the Pork Mesentery from the pot and drain any excess water, then cut the pork according to the desired size.
+User: I have removed the pork from the pot and drained the excess water, I also cut it into the desired sizes, what do I do now?
+Robot: Sprinkle over the remaining salt over the pork and make sure that it is evenly distributed over all of the pork, then in a separate pan, pour the oil and heat until the temperature is good for frying.
+User: I have sprinkled the remaining salt over the pork and it is evenly distributed over the pork, I have also poured the oil and heated it at room temperature, what is the next step?
+Robot: Now deep fry the pork and make sure that the texture is crunchy before removing it from the frying pan.
+User: I have deep fried the pork and the texture is now crunchy, what next?
+Robot: Combine all of the dipping sauce ingredients in a small bowl and mix well.
+User: I have combined the ingredients in a small bowl and mixed them well, what next?
+Robot: Serve the Chicharon Bulaklak with dipping sauce and beer, enjoy the meal.
+User: Thank you for helping me cook Chicharon Bulaklak.
+
+
+
+
+
+
+
+

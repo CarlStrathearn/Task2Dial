@@ -1,0 +1,35 @@
+R329 Cheese & Onion Enchiladas with Tex-Mex Chili Gravy https://cookeatshare.com/recipes/cheese-onion-enchiladas-with-tex-mex-chili-gravy-542127
+
+This recipe takes 20 minutes to cook, serves 4 and contains 14 ingredients,  [''vegetable oil'', ''all-purpose flour'', '’black pepper'', '’sea salt'', ''powdered garlic'', ''ground cumin'’, ''dried oregano'', ''chili powder'', ''chicken broth'', ''olive oil'', ''corn tortillas'', ''cheddar cheese'', ''onion'', ''chili gravy'']
+
+User: I would like to make Cheese & Onion Enchiladas with Tex-Mex Chili Gravy, what ingredients do I need for this meal?
+Robot: For the Chili Gravy you will need ¼ cup of vegetable oil, ¼ cup of all-purpose flour, ½ tsp of ground black pepper, 1 tsp of sea salt, 1 and ½ tsp of powdered garlic, 2 tsp of ground cumin, ½ tsp of dried oregano, 2 tbsp of chili powder and 2 cups of chicken broth, got them?
+User:  I have the ingredients for the chili gravy ready, are there any other ingredients that I need?
+Robot:  For the Enchiladas you will need 3 tbsp of olive oil, 8 white corn tortillas, 3 and ½ cups of shredded cheddar cheese, 1 medium diced onion and 2 cups of chili gravy.
+User:  I have the ingredients ready for the Enchiladas, am I ready to start or do I need any other ingredients?
+Robot: You are ready to start now, for the chili gravy, heat ¼ cup of vegetable oil in a medium skillet over a medium-high heat, then stir in ¼ cup of all-purpose flour and continue to stir for about 5 minutes.
+User: I have heated the vegetable oil in a medium skillet over a medium-high heat for 5 minutes as required, what do I have to do next?
+Robot: Add the remaining dry ingredients and continue to cook for an extra minute, constantly making sure to stir and blend in the ingredients.
+User: I have added the dry ingredients and continued to cook them for an extra minute, I have constantly stirred the ingredients and blended them, what next?
+Robot:  Add 2 cups of chicken broth, mixing and stirring the sauce until it becomes thick.
+User: I have added the chicken broth cups and stirred in the sauce, the sauce is now thick, could you please tell me what step I have to take next?
+Robot: Next, turn the heat to a low and let the sauce simmer for about 15 minutes. You can add some water if you wish to do so, or 2 cups of chicken broth to adjust its thickness.
+User:  I have turned the heat to a low and I let the sauce simmer for 15 minutes, what do I have to do next?
+Robot: Now, in order to make the Enchiladas, preheat the oven to 450 degrees fahrenheit and pour in 1 tbsp of oil in a small or medium skillet and heat the tortillas one at a time.
+User:  I have preheated the oven to 450 degrees and poured in 1 tbsp of oil and heated the tortillas, now what do I have to do?
+Robot: Layer them on a plate and casually blot them with paper towels, after that you must pour ½ cup of chili gravy on a baking pan.
+User: I layered them on a plate and blotted them with paper towels, I also poured in the ½ cup of chili gravy. Could you please let me know what I have to do next?
+Robot: Put in ¼ cup of cheese and 1 tbsp of onion in the center of each tortilla, roll them up and place them in a baking dish.
+User:  I have added the cheese and the onion in the center of each of the tortillas, now what do I do?
+Robot: Pour the remaining chili gravy over the rolled tortillas and top them with remaining cheese and onions.
+User: I have poured the chili gravy over the tortillas and topped them with the cheese and onions, what do I have to do next?
+Robot: Bake them for approximately 20 minutes or until the sauce starts to bubble and the cheese has melted.
+User: I have baked them for 20 minutes as required, what next?
+Robot: Now, simply serve them hot and enjoy.
+User: Thank you for helping me cook Cheese & Onion Enchiladas with Tex-Mex Chili Gravy.
+
+
+
+
+
+

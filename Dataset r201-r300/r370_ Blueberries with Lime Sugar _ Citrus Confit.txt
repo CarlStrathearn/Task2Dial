@@ -1,0 +1,23 @@
+r370: Blueberries with Lime Sugar and Citrus Confit https://cookeatshare.com/recipes/blueberries-with-lime-sugar-citrus-confit-544175
+
+
+Blueberries with Lime Sugar & Citrus Confit  takes 15 minutes to prepare, 15 minutes to cook, serves 4-6 and contains 7 ingredients,  'Blueberries', 'granulated sugar', 'limes', 'mint', 'almond extract’, 'lime confit zest', ‘water’
+
+User: I would like to make Blueberries with Lime Sugar and Citrus Confit.
+Robot: Firstly you will need to prepare the lime confit. Using a strip zester to remove the outer layer of two limes. Alternatively use a  paring knife, strip the skin of two limes into fine clean strips. Carefully trim away the white part of the skin to get as close to the zest as possible. Then cut the zets into very thin strips.
+User: Okay I’ve finished doing that. What next?
+Robot: Now, combine 10ml of water and 110g of granulated sugar in a pot and bring it to the boil until the sugar dissolves.
+User: The pot is boiling, what now?
+Robot: Now add in the zest strips and lower the heat to a simmer. Cooking gently to reduce the syrup. 
+User: The pot is simmering, what’s the next step?
+Robot: Next up pour the contents of the pot into a cool metal bowl and place into the freezer. Include a cool pack to lower the liquid temperature. Allow this to cool completely but not freeze. Then strain, and discard the liquid using a sieve.
+User: Okay, the zest is ready. What do I do now?
+Robot: Using a large bowl you now need to combine 110g of sugar, the juice of 2 limes, and a few drops of almond extract. Stir this in the bowl using a spoon or fork until the sugar dissolves.
+User: The sugar has dissolved, what’s the next step?
+Robot: Next add in 850g of blueberries to the bowl, and toss it well in the mixture coating them. 
+User: I’ve coated the blueberries. Next step?
+Robot: The next step is to put the bowl into a refrigerator for 1-2 hours before serving. 
+User: It’s been a couple of hours, am I ready to serve?
+Robot: Yes, but first cut 1 sprig of mint into fine pieces. Add them to the bowl along with the zest confit and toss well again. Serve this in a martini glass and enjoy!
+User: Thank you for helping me make Blueberries with Lime Sugar and Citrus Confit.
+

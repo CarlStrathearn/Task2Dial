@@ -1,0 +1,15 @@
+r408: Chilean empanadas. https://cookeatshare.com/recipes/chilean-empanadas-571066
+
+
+This recipe takes 30 minutes to prepare, 30 minutes to cook, serves 4 and contains 16 ingredients,  ['flour', 'salt', 'baking powder', 'pork lard', 'warm milk’, 'lukewarm water', 'ground beef’,'onion', 'white wine', 'vegetable oil', 'hard eggs', 'olives’, 'raisins', 'cumin', ‘paprika’, ‘salt’]
+
+User: I would like to make Chilean Empanadas.
+Robot: First mix 720g of flour and 1 tsp of baking powder in a bowl using a whisk. Melt 80g of pork fat in a microwave and add to the bowl along with 180ml of warm milk, and 60ml of lukewarm water. Mix all of these ingredients together well until it is soft and non sticky. Allow it to rest for 30 minutes before dividing into little ball portions.
+User: I have  made the batter and allowed it to rest. I have  now split it into little ball portions. What next?
+Robot: Next, chop 900g of onions using a knife and put it into a pan, allowing it to golden. Add in 450g of ground beef and let it cook a bit but not too much.
+User: I have  cooked the onions and beef in the pan. What do I do now?
+Robot: Now, to each of your dough disks, add some of the meat, one olive, half a hard boiled egg, and some raisins and season using cumin and paprika. Close the dough over these ingredients, pinching it closed using your fingers. Pierce with a fork to create some small holes for air flow.
+User: I have  added the fillings to the dough balls, what now?
+Robot: Now bake in the oven for 20-30 minutes until they have a golden colour. Serve and enjoy!
+User: Thanks for helping me make Chilean Empanadas.
+

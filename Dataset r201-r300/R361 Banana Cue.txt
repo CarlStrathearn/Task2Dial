@@ -1,0 +1,23 @@
+R361 Banana Cue https://cookeatshare.com/recipes/banana-cue-655372
+
+This recipe takes 10 minutes to cook, serves 2 and contains 3 ingredients,  [''saba banana'', ''brown sugar'', '’wood skewers'']
+
+User: I want to make a Banana Cue, what ingredients do I need?
+Robot: You will need a Saba Banana, brown sugar and some wood skewers.
+User: I have those ingredients ready, thank you, am I ready to start?
+Robot: You are ready to begin. Peel the bananas and insert them gently inside a frying pan, then let the bananas cook and make sure to constantly stir them.
+User: I have peeled the bananas and put them inside a frying pan, what do I need to do next?
+Robot: Now, after about 5 minutes, add the brown sugar and let it melt.
+User: I have added the brown sugar after 5 minutes, now what do I have to do?
+Robot: Let the caramel stick onto the bananas while cooking, then take them off one by one and let the oil drip.
+User: The caramel has stuck onto the bananas and I took them off one by one as required, what next?
+Robot: Skew them on the wooden skewers and serve them hot, enjoy.
+User: Thank you for helping me make a Banana Cue.
+
+
+
+
+
+
+
+

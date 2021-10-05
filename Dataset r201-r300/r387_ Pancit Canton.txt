@@ -1,0 +1,19 @@
+r387: Pancit Canton. https://cookeatshare.com/recipes/pancit-canton-654191
+
+
+This recipe takes 30 minutes to prepare, 30 minutes to cook, serves 3-4 and contains 19 ingredients,  ['egg noodles', 'chicken breast', 'chicken liver', 'chicken gizzard', 'bell pepper’, 'onion', 'garlic’,'celery', 'soy sauce', 'carrot', 'sweet peas', 'green beans’, 'small head wombok', ‘cabbage', ‘oyster sauce’, ‘chicken stock’, ‘salt’, ‘black pepper’, ‘calamansi’]
+
+User: I would like to make Pancit Canton.
+Robot: First, heat some oil in a wok. Chop 2 garlic cloves and 1 medium onion using a knife.Add these to the wok and saute. 
+User: I have sautéd the garlic and onions, what’s next?
+Robot: Next chop  250 grams of chicken breasts into strips using a knife. Then using a knife chop 250 grams of chicken liver and 250 grams of chicken gizzard into bite size pieces. Add this chicken to the wok and stir fry, moving the chicken often using a spatula.
+User: I have cut up and stir fried the chicken. What do I do now?
+Robot: Next, season with 30ml of soy sauce, 30ml of oyster sauce, and salt and pepper to taste. Pour in chicken stock and allow it to boil over high heat. 
+User: I have seasoned the contents of the wok, what is next?
+Robot: Next, when the wok starts to boil, add in 1kg of egg noodles. Lower the heat and let it simmer until the noodles are tender and cooked. 
+User: The noodles look cooked, what is the next step?
+Robot: Next, using a knife, chop 1 medium bell pepper. Slice 1 stalk of celery, 1 medium carrot into strips and 10 pieces of green beans. Then, cut 1 small head of wombok and half a head of cabbage into bite sized pieces. Add these along with 10 pieces of sweet peas into the wok and let it simmer on low heat. 
+User: The vegetables look cooked but still crunchy. What should I do now?
+Robot: Now you’re ready to serve and enjoy with some calamansi on the side. 
+User: Thank you for helping me make Pancit Canton.
+

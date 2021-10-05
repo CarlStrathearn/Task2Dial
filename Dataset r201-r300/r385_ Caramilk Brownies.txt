@@ -1,0 +1,23 @@
+r385: Caramilk Brownies. https://cookeatshare.com/recipes/caramilk-brownies-344681
+
+
+This recipe takes 15 minutes to prepare, 30-40 minutes to cook, serves 4-6 and contains 9 ingredients,  ['butter', 'flour', 'baking powder', 'salt', 'cocoa’, 'brown sugar', 'eggs’,'vanilla extract', 'caramilk chocolate bars']
+
+User: I would like to make Caramilk Brownies.
+Robot: First, preheat the oven to 180ºC and rub butter on a 20cm square pan and line with baking paper.
+User: The oven is heated and I have lined the pan. What next?
+Robot: Next, in a small bowl combine 235g of flour, 1g of baking powder, and a pinch of salt.
+User: I have combined the ingredients, what do I do now?
+Robot: Now heat a large saucepan on  medium heat. Melt 700g of butter in the pan. Once melted, remove  the pan from the heat and whisk in 120g of cocoa powder until smooth.
+User: The butter is melted and I have mixed in the cocoa powder. What now?
+Robot: Now whisk in 350g of brown sugar until it is blended into the mixture. 
+User: I have whisked in the brown sugar. What is the next step?
+Robot: The next step is to add 2 large eggs to the pan, one at a time and whisk after each egg. Once added, add in 1 tablespoon of vanilla extract. 
+User: The eggs and the vanilla are in the pan, what now?
+Robot: Now gradually add the flour mixture to the butter mixture and stir with a rubber spatula until just blended. 
+User: I have blended the mixtures. What do I do now?
+Robot: Now, pour this batter into the 20cm square pan and spread it out evenly. Break 4 regular sized Caramilk chocolate bars into the predefined square pieces, and place them upside down into the batter in a pattern of your choosing. 
+User: I have laid out the chocolate on the batter in the pan. What is next?
+Robot: Next, place this in the oven and bake for 30-40mins. The brownies should come away from the edge and when a toothpick is inserted in the centre, small crumbs should be stuck on it. Let these cool and cut into squares. Enjoy!
+User: Thank you for helping me make Caramilk Brownies.
+

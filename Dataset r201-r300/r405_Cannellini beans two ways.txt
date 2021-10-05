@@ -1,0 +1,19 @@
+r405:Cannellini beans two ways. https://www.bbc.co.uk/food/recipes/cannellini_beans_two_68612
+
+
+This recipe takes 30 minutes to prepare, 60-120 minutes to cook, serves 2 and contains 18 ingredients,  ['extra virgin olive oil', 'red onion', 'garlic', 'celery', 'carrot’, 'tinned chopped tomatoes', 'tinned cannellini beans’,'red wine', 'thyme', 'caster sugar', 'black pepper', 'baking potatoes’, 'goats’ cheese', 'breadcrumbs', ‘flat leaf parsley’, ‘parmesan’, ‘green salad’]
+
+User: I would like to make cannellini beans two ways.
+Robot: First heat 45ml of oil in a frying pan. Chop and peel using a knife and a peeler 1 red onion, 1 garlic clove, 1 celery stick and 1 carrot. Add these to the frying pan and season with 1 tsp of sea salt and fry gently for 10-15 minutes until soft.
+User: I have  fried the vegetables until they are soft, what next?
+Robot: Next stir in 400g of chopped tomatoes and two 400g tins of cannellini beans both drained and rinsed using a colander. Add a splash of red wine and a sprig of thyme, and season with sugar and black pepper before bringing to boil and simmering for 10 minutes. Stir as it simmers until the beans have softened.
+User: I have  cooked the beans after adding those other ingredients. What is the next thing to do?
+Robot: Next preheat the oven to 200ºC and pierce 2 baking potatoes several times with a skewer. Place them on a baking tray and once the oven is heated, bake for 60 minutes or until cooked through. 
+User: The baked potatoes are cooked through, what now?
+Robot: Now transfer them to serving plates and cut across the centre of each with a knife. There are two ways of making the potatoes. For the first one add a quarter of the beans to each potato and finish with 30g of goats cheese and a sprinkle of ground pepper. 
+User: What is the other way?
+Robot: The other way is Tuscan bean gratin. Keep the oven at 200ºC. Using a blender, blend a slice of bread into breadcrumbs. Mix them with 20g of parsley chopped with a knife, 1 finely chopped garlic clove, and 25g of coarsely grated parmesan. 
+User: I have  prepared the breadcrumb mixture, what comes next?
+Robot:Put the beans in an ovenproof dish and top with this breadcrumb mixture. Drizzle with olive oil and bake for 20-30 minutes, served with a green salad.
+User: Thank you for helping me make Cannellini Beans Two Ways.
+

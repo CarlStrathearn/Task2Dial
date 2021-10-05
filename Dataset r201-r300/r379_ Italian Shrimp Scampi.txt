@@ -1,0 +1,19 @@
+r379: Italian Shrimp Scampi. https://cookeatshare.com/recipes/italian-shrimp-scampi-61144
+
+
+Italian Shrimp Scampi takes 20 minutes to prepare, 12 minutes to cook, serves 6 and contains 15 ingredients,  ['shrimp', 'extra virgin olive oil', 'dry white wine', 'butter', 'garlic’, 'shallots', 'parsley’,'rosemary', 'lemon zest', 'lemon juice', 'egg yolk', 'panko’, 'lemon wedges', 'salt', ‘pepper’, ‘red pepper flakes’]
+
+User: I would like to make Italian Shrimp Scampi
+Robot: First, preheat the oven to 220ºC.
+User: I have preheated the oven to 220ºC, what next?
+Robot: Next peel, devein, and butterfly 1.8kg of  shrimp. Leaving the tails on is optional. Then place the shrimp in a mixing bowl and add 45ml of extra virgin olive oil, 30ml of dry white wine, 2 tsp of salt, and 1 tsp of pepper. Toss this gently and set aside. 
+User: I have tossed the ingredients in the bowl. What do I do now?
+Robot: Now, in a small bowl mash 120g of butter using a fork, then using a garlic crusher mince 20g of garlic, 120g of shallots, 45g of parsley, and 1tsp of rosemary, and add these to the bowl. Next, add in  a sprinkle of crushed red pepper flakes, 1tsp of grated lemon zest, 30ml of lemon juice, one egg yolk - taking care to separate the yolk from the egg white, 160g of panko, ½ tsp of salt, and a pinch of pepper. Mix these together well.
+User: Okay I have mixed the other ingredients in a small bowl, what now?
+Robot: Now, in a shallow ovenproof dish, arrange the shrimp in a single layer, butterflied side down. Pour the remaining juices from the large bowl over the shrimp.
+User: The shrimp is in the dish, what is the next step?
+Robot: The next step is to spread the butter mixture evenly over the shrimp.
+User: I have spread the butter over the shrimp. What now?
+Robot: Now, place the dish into the oven and bake for 12 minutes until it is hot and bubbly. Once done, serve this with lemon wedges, and enjoy!
+User: Thank you for helping me make Italian Shrimp Scampi.
+

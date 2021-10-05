@@ -1,0 +1,17 @@
+r413: Vegan aubergine burgers https://www.bbc.co.uk/food/recipes/loaded_aubergine_burgers_44288
+
+
+This recipe takes 30 minutes to prepare, 10-30 minutes to cook, serves 4 and contains 18 ingredients,  ['bread rolls', 'aubergine', 'extra virgin olive oil', 'cumin', 'ground coriander’, 'red pepper', 'yellow pepper’,'red onion', 'red wine vinegar', 'soft light brown sugar', 'fresh rocket', 'beef tomato’, 'coriander sprigs', 'avocado', ‘lime juice’, ‘garlic’, ‘salt’, ‘black pepper’]
+
+User: I would like to make Vegan Aubergine Burgers
+Robot: First, preheat a griddle pan over medium heat. While it heats, make the avocado mayo. Cut 1 small ripe avocado in half using a knife and separate and remove the stone. Scoop the inside out and chop it into rough pieces. Get a small bowl and place the chopped avocado inside. Add 2 tsp of fresh lime juice, 1 small clove of garlic crushed in a garlic crusher, and a sprinkle of salt and pepper onto the avocado. Mash the ingredients together with a fork until it is as smooth as possible, then set aside. 
+User: I’ve preheated the oven and prepared the avocado mayo. What do I do now?
+Robot: Now toast 4 bread rolls cut side down on the griddle pan for 1 minute and set them aside. Then cut the ends off 1 large aubergine and slice the middle section into four 2cm thick slices using a knife. Take 1 tomato and do the same thing, slicing into four before setting it to the side.
+User: The bread rolls are toasted and I have cut up the aubergine, what next?
+Robot: Next, use a pastry brush to brush the aubergine slices on both sides with 11ml of olive oil and sprinkle them with cumin and coriander. Place them on the griddle pan for 4-5 minutes, turning over to cook for another 4-5 on the other side until softened and slightly charred. 
+User: I have cooked the aubergine slices, what next? 
+Robot: Next, heat another 11ml of olive oil in a large non-stick frying pan. Finely slice 1 red onion and deseed and finely slice 1 small red pepper and 1 small yellow pepper using a knife. Stir fry these in the pan for 8-10 minutes or until softened and lightly browned. Stir in 22ml of red wine vinegar and 15ml of soft light brown sugar and season with salt and pepper. Cook for a few more seconds stirring constantly.
+User: I’ve stir fried those vegetables, what is the next thing I need to do?
+Robot: Now place the four bases of the bread rolls between four plates and top each with a small handful of rocket and a slice of tomato. Divide the pepper mixture between the rolls and top each with a slice of the aubergine. Spoon some avocado mayo on top, garnish with a few sprigs of coriander and cover with the tops of the rolls. Enjoy. 
+User: Thank you for helping me make Vegan Aubergine Burgers. 
+

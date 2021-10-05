@@ -1,0 +1,17 @@
+r399: St. Patrick's Day Salmon with Leeks. https://cookeatshare.com/recipes/st-patrick-s-day-salmon-with-leeks-44779
+
+
+This recipe takes 10 minutes to prepare, 30 minutes to cook, serves 4 and contains 10 ingredients,  ['leek', 'water', 'olive oil', 'lemon zest', 'fresh dill’, 'salmon fillets', 'ground pepper’,'lemon juice', 'lemon wedges', 'fresh dill']
+
+User: I would like to make St. Patrick’s Day Salmon with Leeks.
+Robot: First preheat the oven to 220ºC. 
+User: I have preheated the oven, what next?
+Robot: Chop 3 large leeks using a knife, and add the white parts to an ovenproof casserole dish large enough to hold all 4 salmon fillets. Add in 30ml of water, 15ml of olive oil, and 1 tsp of finely shredded lemon zest, shredded using a fine sided grater. You can measure the water with a measuring jug.
+User: I have  prepared the dish with the ingredients, what is the next step?
+Robot: Next, cover the dish with tin foil and bake in the oven for 20 minutes. Stir it once using a spoon halfway through. Once finished,remove the dish from the oven and push the leeks aside. Add the fish to the dish. 
+User: I have  cooked the leeks and moved them aside, adding the salmon fillets. What now?
+Robot: Now spoon the leeks evenly over the fish and season with salt and pepper. Add 30ml of lemon juice store bought or juiced with a hand juicer to the dish. Return to the oven uncovered for 10-12 minutes. 
+User: I have  finished cooking the salmon and leeks, what is next?
+Robot: Now serve by dividing the leeks across four plates and topping with the salmon, enjoy.
+User: Thank you for helping me make St. Patrick’s Day Salmon with Leeks. 
+

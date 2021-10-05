@@ -1,0 +1,19 @@
+r414: Easy chicken tacos. https://www.bbc.co.uk/food/recipes/yucatn_chicken_tacos_97105
+
+
+This recipe takes 30 minutes to prepare, 10-30 minutes to cook, serves 4 and contains 17 ingredients,  ['garlic', 'orange', 'lime', 'hot mexican chilli sauce', 'tomato puree’, 'dried oregano', 'ground cumin’,'flaked sea salt', 'ground black pepper', 'boneless skinless chicken thigh fillets', 'corn tortillas', 'gem lettuce’, 'avocado', 'sour cream', ‘red onion’, ‘red or white wine vinegar’, ‘caster sugar’]
+
+User: I would like to make easy chicken tacos.
+Robot: First, we need to make the marinade. In a large bowl, add 2 crushed cloves of garlic using a garlic press. Using a grater add the zest from 1 orange and 2 limes. Then cut with a knife and squeeze the juices in as well. Next, add 30ml of mexican hot chilli sauce, 30ml of tomato puree, 1 tsp of dried oregano, 1 tsp of ground cumin, 1 tsp of flaked sea salt, and 1 tsp of ground black pepper. 
+User: All of those ingredients have been added to the bowl, what should I do next?
+Robot: Next, mix the ingredients together well and add in 6 boneless skinless chicken thigh fillets. Turn them several times until they are well coated and cover the bowl, refrigerating for 30-60 minutes. 
+User: I have marinated the chicken in the refrigerator. What next?
+Robot: Next, preheat the oven to 220ºC. Line a large baking tray with baking paper and place the chicken on the tray. Brush the chicken generously with more of the marinade and roast the chicken for 20-25 minutes. 
+User: The chicken is cooked, what now?
+Robot: Now, make the pickled red onion. Start by finely slicing the onion with a knife, then place in a heatproof bowl and cover it with freshly boiled water, leave this to stand for 10 minutes. 
+User: The onion has finished standing in the boiling water, next up?
+Robot: Next, drain the water well and stir in 15ml of white or red wine vinegar and 15 g of caster sugar. Leave this to stand again for another 10 minutes before draining and set aside. 
+User: I have served the pickled red onion, what now?
+Robot: Now, transfer the chicken to a board and tear it into pieces with two forks. Serve by placing the chicken on 4 corn tortillas. Top with lettuce and avocado, finely chopped with a knife, the pickled onions, and a dollop of sour cream and enjoy.
+User: Thank you for helping me make Easy Chicken Tacos. 
+

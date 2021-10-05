@@ -1,0 +1,25 @@
+r401: Crispy Dinuguan/crispy pork dinuguan. https://cookeatshare.com/recipes/crispy-dinuguan-crispy-pork-dinuguan-576029
+
+
+This recipe takes 15 minutes to prepare, 40-60 minutes to cook, serves 6 and contains 14 ingredients,  ['pork belly', 'garlic', 'bay leaves', 'peppercorns', 'salt’, 'water', 'oil’,'pork liver', 'native vinegar', 'onion', 'pork blood', 'sugar’, 'patis', 'hot pepper']
+
+User: I would like to make Crispy Pork Dinuguan
+Robot: First, start by making the Lechon Kawali. Cut 750g of pork belly into serving pieces using a knife.
+User: I have cut the pork belly into pieces, what next?
+Robot: Now, in a saucepan, mix 4 crushed cloves of garlic, 2 bay leaves, 1 tsp of peppercorns and a sprinkle of salt. Fill the pan three quarters of the way to the top with water and add the pork pieces. Use a garlic press to crush the garlic. 
+User: I have  added the ingredients to the saucepan, what do I do now?
+Robot: Now boil and simmer the saucepan until the skin of the pork is tender. This should take 30-40 minutes. Once finished, drain, allow to cool, and dry well.
+User: I cooked the pork belly and dried it. What now?
+Robot: Now deep fry the pork belly pieces in oil until they are golden brown and the blisters show on the skin. Once done, set this aside. 
+User: I have  deep fried the pork belly. What is the next step?
+Robot: The next step is to prepare the crispy dinuguan. Refrigerate 120ml of pork blood. Once coagulated, chop into pieces. Mince 250g of pork liver in a meat grinder and season with some salt. Set both of these aside. 
+User: I have  prepared the pork blood and liver. Now what?
+Robot: Now, in a saucepan mix 160 ml of vinegar, 1 onion chopped using a knife, a sprinkle of peppercorn, and the pork blood, blending well and bringing it to a boil. 
+User: The pot with all of the ingredients is boiling, what do I do now?
+Robot: Now that the mixture is boiling, add 360 ml of water, 10g of sugar, and 15g of patis. Then add the minced liver and 2 large hot peppers to the mixture and simmer for another 5 minutes. 
+User: I have  added the other ingredients to the mixture and allowed it to simmer. What comes next?
+Robot: Next, add in the lechon kawali that you prepared earlier. Mix them in with a wooden spoon just enough to coat the pieces, being careful not to overcook.
+User: The lechon kawali is coated in the mixture. What now?
+Robot: Now you’re ready to serve and enjoy. 
+User: Thanks for helping me make Crispy Pork Dinuguan. 
+

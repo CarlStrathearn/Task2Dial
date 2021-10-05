@@ -1,0 +1,17 @@
+r390: Habanero Butter Chicken. https://cookeatshare.com/recipes/habanero-butter-chicken-9598
+
+
+This recipe takes 20 minutes to prepare, 45 minutes to cook, serves 6 and contains 12 ingredients,  ['chicken breast', 'habaneros', 'onion', 'butter', 'brown sugar’, 'honey', 'garlic’,'basil', 'roma tomato', 'salt', 'ground black pepper', 'yellow rice']
+
+User: I would like to make Habanero Butter Chicken.
+Robot: First, in a saute pan, melt one and a half sticks of butter. Using a knife, cut 3-4 habaneros in half and put in the butter along with half or a whole onion, chopped into small pieces using a knife. Simmer on medium heat for 10-15 minutes. Once finished remove and dispose of the peppers.
+User: I have simmered the peppers and onions on medium heat in the butter. The peppers have been thrown away, what now?
+Robot: Now, place 6 chicken breasts in an ovenproof dish and pour the butter and onions over it, saving a little for the rice. 
+User: The chicken is in a dish and I have  poured the butter and onions over it. What next?
+Robot: Next, lightly drizzle 30ml of honey over the chicken and sprinkle 15ml of brown sugar on top. Next, mince 2-3 cloves of garlic with a garlic crusher and sprinkle this over the chicken along with some basil. 
+User: I have sprinkled those ingredients over the chicken, what is next?
+Robot: Next, slice 3-4 roma tomatoes using a knife and place these over the chicken with a sprinkle of salt and pepper on top. Bake this at 180ºC for 30-45 minutes. You could also spoon some of the sauce at the bottom of the dish and over the chicken halfway through cooking.
+User: The chicken is cooked, what do I do now?
+Robot: Now, cook yellow rice with some of the reserved butter. Once finished, serve the chicken on top of the rice and enjoy.
+User: Thank you for helping me make Habanero Butter Chicken. 
+

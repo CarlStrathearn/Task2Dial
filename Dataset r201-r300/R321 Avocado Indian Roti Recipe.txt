@@ -1,0 +1,19 @@
+R321 Avocado Indian Roti Recipe https://cookeatshare.com/recipes/avocado-indian-roti-881537
+
+This recipe takes 15 minutes to cook, serves 4 and contains 10 ingredients,  [''avocado'', ''wheat flour'', '’oil'', '’flax seeds'', ''chia seeds'', ''hot water'’, ''ghee'', ''all purpose flour'', ''salt'', ''garlic'']
+
+User: Could you please tell me the ingredients that are needed to make an Avocado Indian Roti please?
+Robot: Sure, to make this roti, you will need the following ingredients, 1 medium avocado, 1.5 cups of whole wheat flour, 1 tbsp of olive oil, 1 tbsp of grounded flax seeds, 1 tbsp of chia seeds, 2-3 tbsp of hot water, 1 tbsp of ghee, all purpose flour for dusting, salt and garlic.
+User: I have the ingredients ready, are there any other ones that I need or can I start?
+Robot: You are ready to start. Mix all of the contents, except the ghee, together and knead it into a dough. Then, add the ghee and knead the dough one final time to make the dough smooth.
+User: I have mixed all of the contents together and kneaded it into a dough, then added the ghee to make a dough, what do I do next?
+Robot: Now, divide the dough into equal parts and roll 10 thick rotis,the size can vary. Then heat it on a flat pan on a medium high heat.
+User: I have divided the dough into equal parts and rolled them into 10 thick roties, also heated it on a flat pan over a medium heat, now what?
+Robot: Serve and enjoy the meal
+User: Thank you for helping me cook an Avocado Indian Roti.
+
+
+
+
+
+

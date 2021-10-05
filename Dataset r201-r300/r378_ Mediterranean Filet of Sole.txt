@@ -1,0 +1,21 @@
+r378: Mediterranean Filet of Sole. https://cookeatshare.com/recipes/mediterranean-filet-of-sole-54768
+
+
+Mediterranean Filet of Sole takes 20 minutes to prepare, 12 minutes to cook, serves 8 and contains 10 ingredients,  ['Flat fish', 'white wine', 'sea salt', 'black pepper', 'paprika’, 'flour', 'garlic’,'olive oil', 'butter', 'lemon']
+
+User: I would like to make Mediterranean Filet of Sole
+Robot: First place 1.3kg fillets of a flat fish of your choice in a bowl and cover with 235ml of dry white wine. Allow this to rest for 20-30 minutes. 
+User: I have soaked the fish in the wine, what next?
+Robot: Next take a pyrex or casserole dish and place a paper towel in the bottom. Take 5-6 fillets or however many will fit and lay them in a single row on the paper towel. Using another paper tower pat the tops of the fillets dry.
+User: I have patted the fillets dry in the casserole dish. What do I do next?
+Robot: Next, hold  sea salt above the fish and evenly shake onto the fillets below. Do this with black pepper,  paprika, and finally with flour. 
+User: I have sprinkled those ingredients on, what do I do now?
+Robot: Now place a dry paper towel over the first row of fillets and repeat this process with another row of fish, continue this until all of the fish have been used. 
+User: I have used all of the fish, what now?
+Robot: Now, heat a large non stick pan over a high heat. Add 15ml of olive oil and 15g of butter. Crush 1-2 cloves of garlic and add this to the pan, spreading it around evenly with a spatula. 
+User: I have heated the pan and added the garlic, what do I do now?
+Robot: Preheat the oven to 90ºC. Now lay 4-5 fillets into the pan, seasoned side down. Lay as many that will fit without squeezing. While they are cooking, season the tops of the fish with a sprinkling of salt and paprika. After one minute, flip the fillets over and cook for another minute on the other side. Once complete remove from the pan and place in a warming pan in the oven once it has heated. Repeat this process for the remaining batches. 
+User: I have cooked all of my fillets and they are all heating in the oven, now what?
+Robot: Now remove from the oven and serve with some lemon wedges and a seasoned pasta. Enjoy.
+User: Thank you for helping me make Mediterranean Filet of Sole.
+

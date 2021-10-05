@@ -1,0 +1,21 @@
+r380: Perfect French Side Salad. https://cookeatshare.com/recipes/perfect-french-side-salad-372809
+
+
+Perfect French Side Salad takes 15 minutes to prepare, 10 minutes to cook, serves 4 and contains 12 ingredients,  ['shallots', 'white wine vinegar', 'curly endive', 'fresh chives', 'chervil’, 'slender green beans', 'boston lettuce’,'Dijon mustard', 'garlic', 'extra virgin olive oil', 'sea salt', 'freshly ground black pepper’]
+
+User: I would like to make perfect French Side Salad.
+Robot: Firstly, using a knife, finely slice 6 peeled shallots and place in a small dish. 
+User: Okay, I have sliced and placed the shallots, what next?
+Robot: Next, cover the shallots with white wine vinegar and allow this to sit for 10-15 minutes. 
+User: I have soaked the shallots, what do I do now?
+Robot: Now, with 1 large curly endive, pull all of the dark green leaves off and discard. Then cut or break off the remaining leaves. Place the endive leaves, 1 bunch of fresh chives, a handful of chervil, in a colander and wash in cold water. Use a salad spinner or a cloth to dry and place in a large salad bowl.
+User: I have washed and dried the leaves, what is the next step?
+Robot: Next, bring a pot of water to boil and add in 2 handfuls of slender green beans, allowing to cook for 8 minutes. Once done, drain, and allow these to cool.
+User: The green beans have finished cooking and are now cooled, what next?
+Robot: Next, add the beans to the salad leaves. Then, remove the outer leaves of two heads of boston lettuce. Wash these in a colander and then cut them into eight pieces. Add these to the bowl too along with the shallots soaking in the vinegar. 
+User: I have added the green beans and the lettuce to the salad bowl. What now?
+Robot: Now we will make the dressing. Put 60ml of the leftover vinegar which the shallots were soaking in, into a medium sized bowl, and add 15g of Dijon mustard. Next, using a knife, finely chop 2 peeled cloves of garlic and add these to the bowl along with a pinch of salt and pepper. Add 60ml of extra virgin olive oil and whisk these ingredients until the dressing emulsifies.
+User: I have made the dressing, what is next?
+Robot: Add the dressing to the salad, toss and serve. Enjoy!
+User: Thank you for helping me make Perfect French Side Salad.
+

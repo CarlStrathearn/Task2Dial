@@ -1,0 +1,18 @@
+r372: Tuna patties (Portuguese “pataniscas”). https://cookeatshare.com/recipes/tuna-patties-portuguese-pataniscas-113
+
+Tuna patties takes 10 minutes to prepare and 5-10mins to cook, serves 1-2 and contains 10 ingredients,  ['tuna', 'onion', 'flour', 'olive oil', 'eggs’, 'water', 'parsley’,'garlic', 'salt', 'vegetable oil']
+
+User: I would like to make Tuna Patties
+Robot: First with two cans of tuna fish, stain the oil from the can and use a fork to break the tuna into small pieces. 
+User: I have broken up the tuna, what next?
+Robot: Next, get a large bowl. Add to the bowl, 100g of flour, 1tbsp of olive oil, a pinch of salt, and 3 eggs. Mix these ingredients together well.
+User: Okay I have mixed all of the ingredients together. What do I do now?
+Robot: Now, slowly pour  500ml of water into the bowl mixing everything until you get a soft dough.
+User: I have my dough, now what?
+Robot: Now, mix in the tuna, some chopped parsley, 1 chopped onion, and 1tsp of powder garlic.
+User: I have mixed those ingredients into the dough, what is the next step?
+Robot: The next step is to pour some vegetable oil into a pan until it gets hot. Next pour in 35ml of the mixture at a time and fry both sides. Place each on a paper towel when done. 
+User: I have done that, the patties are done.
+Robot: That’s all, serve and enjoy!
+User: Thank you for helping me to make Tuna patties. 
+

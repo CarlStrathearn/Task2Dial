@@ -1,0 +1,25 @@
+R320 Courgette Gratin https://www.bbc.co.uk/food/recipes/courgette_gratin_04270
+
+This recipe takes 30-60 minutes to cook, serves 4 and contains 9 ingredients,  [''olive oil'', ''courgettes'', '’thyme'', '’basil leaves'', ''creme fraiche'', ''milk'’, ''plain flour'', ''cheese'', ''black pepper'']
+
+User: I want to cook a Courgette Gratin today, could you tell me what ingredients I need please?
+Robot: Sure, for this meal you will need 2 tbsp of olive oil, 800g of sliced courgettes, a few sprigs of thyme, a few basil leaves, 100ml of creme fraiche, 50ml of milk, 1 tsp of plain flour, 75g of grated cheese and black pepper
+User: I have the ingredients ready, are there any other ingredients that I need or am I ready to start?
+Robot: You are ready to start, firstly preheat the oven to 200 degrees celsius at gas 6, then put 2 tbsp of olive oil in a large and lidded frying pan, did you get that?
+User: I have preheated the oven to 200 degrees and put the olive oil in the pan. What next?
+Robot: Now, add 800g of courgettes and herbs and then season with salt and pepper.
+User:I have added 800g of courgettes and herbs, I also seasoned them with salt and pepper, what do I have to do next?
+Robot: Now, cover and cook them gently for 10 minutes, stirring every so often until the courgettes have softened slightly but are still al dente.
+User: I have covered and cooked them for 10 minutes and stirred, what do I do next?
+Robot: Next, transfer to an oven dish and whisk 100 ml of creme fraiche, 50ml of milk and 1 tsp of plain flour together in a bowl and season with salt and pour the mixture over the courgettes.
+User: I have transferred the courgettes to an oven dish and whisked it with 100ml of creme fraiche and the milk, now what do I do?
+Robot: Sprinkle over the cheese and then bake in the oven for 25 minutes or until it goes all brown.
+User: I have sprinkled over the cheese and baked in the oven for 25 minutes, what now?
+Robot: After they have finished cooking, place it on a plate and serve the meal hot and enjoy
+User: Thank you for helping me cook a Courgette Gratin.
+
+
+
+
+
+

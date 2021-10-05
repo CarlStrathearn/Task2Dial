@@ -1,0 +1,19 @@
+r389: Ceviche de Pescado. https://cookeatshare.com/recipes/ceviche-de-pescado-563
+
+
+This recipe takes 60 minutes to prepare, serves 4 and contains 9 ingredients,  ['orange roughy fish', 'salt', 'limes', 'onion', 'serrano peppers’, 'cilantro', 'tomatoes’,'avocado', 'tostadas']
+
+User: I would like to make ceviche de pescado.
+Robot: First use a knife to cut 1.1kg of orange roughy fish into very small cubes, approximately 6mm. 
+User: I have chopped the fish into small pieces, what do I do next?
+Robot: Next sprinkle 15g of salt on top of the fix and spread well using your hands. Place this into a plate or bowl and refrigerate for 4-8 hours. 
+User: I have mixed the salt in and it has been refrigerated. What is the next step?
+Robot: Next, juice 10-12 limes by cutting them in half with a knife and squeezing the juice. Use a hand juicer to get the most of the lime. Add the lime juice to the bowl with the fish and mix it well using a spoon. 
+User: I have juiced the limes and mixed them in, what now?
+Robot: Now place the bowl back into the refrigerator to marinade for another 4-8 hours. 
+User: I have marinaded the fish, salt, and limes. What do I do now?
+Robot: Now chop half an onion using a knife into small pieces. Chop 2-3 tomatoes into pieces. Add these along with serrano peppers and cilantro into the bowl with the fish and incorporate them by mixing it together with a spoon or spatula.
+User: I have mixed in those ingredients, what next?
+Robot: Next serve this along with slices of avocados and tostadas and enjoy.
+User: Thank you for helping me make ceviche de pescado.
+

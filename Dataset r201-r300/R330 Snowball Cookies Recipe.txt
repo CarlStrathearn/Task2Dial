@@ -1,0 +1,23 @@
+R330 Snowball Cookies Recipe https://cookeatshare.com/recipes/snowball-cookies-538064
+
+This recipe takes 25 minutes to cook, serves 36 and contains 6 ingredients,  [''all-purpose flour'', ''chopped pecans'', '’granulated sugar'', '’softened butter'', ''vanilla'', ''powdered sugar'’]
+
+User: I would like to make Snowball Cookies, what ingredients do I need to make the cookies?
+Robot: You will need 2 cups of all-purpose flour, 2 cups of finely chopped pecans, ¼ cup of granulated sugar, 1 cup of softened butter, 1 tsp of vanilla and powdered sugar for the rolling.
+User: Are there any other ingredients that I need or am I ready to start?
+Robot: You are ready to start. First, preheat the oven to 325 degrees and in a large mixing bowl combine 2 cups of flour, 2 cups of pecans, ¼ cup of granulated sugar, ¼ cup of softened butter and 1 tsp of vanilla.
+User: I preheated the oven to 325 degrees in a large mixing bowl and combined the flour, 2 cups of pecans, granulated sugar, 1 cup of butter and the 1 tsp of vanilla, what next?
+Robot: Next, mix at a very low speed, scraping the bowl often until they are well mixed for about 5 minutes, then shape the rounded teaspoons of dough into 1 inch balls.
+User: I mixed at a very low speed and scraped the bowl for 5 minutes as required. What next?
+Robot: Now, place them on ungreased cookie sheets and bake them for 25 minutes or until they go light brown.
+User: I have placed them on cookie sheets and baked them for 25 minutes, what do I do next?
+Robot: Remove them immediately and roll them in powdered sugar while the cookies are still hot, then place them on cooling racks.
+User: I have removed them and rolled them in powdered sugar, what do I have to do next?
+Robot: Roll them in powdered sugar once again and make about 3 dozen of them, put them on a plate and serve them, enjoy.
+User: Thank you for helping me cook Snowball Cookies.
+
+
+
+
+
+

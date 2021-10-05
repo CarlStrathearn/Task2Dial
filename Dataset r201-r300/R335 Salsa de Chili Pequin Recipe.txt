@@ -1,0 +1,27 @@
+R335 Salsa de Chili Pequin Recipe https://cookeatshare.com/recipes/salsa-de-chile-pequin-513208
+
+This recipe takes 10 minutes to cook, serves 6 and contains 5 ingredients,  [''serrano chile'', ''medium tomato'', '’tomatillos'', '’cilantro'', ''salt'']
+
+User: I want to cook a Salsa de Chili Pequin, what ingredients do I need?
+Robot:For this meal you will need 1 chile piquin, 1 medium tomato, 3 tomatillos, 3 small cilantro sprigs and salt to taste.
+User: I have the ingredients ready, what is the first step that I have to take?
+Robot: Place 1 medium tomato and the chiles in an ungreased skillet or on a griddle and blister them over a medium heat until they become soft.
+User: I have placed the tomatoes and chiles in a skillet and they are now soft, what is the next step that I have to take?
+Robot: Cook 3 tomatillos in simmering water until it becomes tender for about 10 minutes and make sure to not overcook them, otherwise they will burst.
+User: I have cooked the tomatillos in water for 10 minutes as required, what is the next step that I have to take now?
+Robot:Now seed the chiles, remove the stems and roughly chop the tomatoes, chile and tomatillos.
+User: I have seeded the chiles, removed the stems and chopped the tomatoes, what do I do next?
+Robot: Next, zizz the tomato, chile and tomatillo in a blender and leave them chunky as they are.
+User: I have zizzed the tomato, chile and tomatillo in a blender and left them chunky as they are, what do I do next?
+Robot: Add a little water for a thin and spoonable consistency, then salt to taste and stir in 3 chopped cilantro sprigs.
+User: I have added the salt to taste and stirred the cilantro sprigs, what next?
+Robot: Serve on a plate and enjoy.
+User: Thank you for helping me cook Salsa de Chili Pequin.
+
+
+
+
+
+
+
+

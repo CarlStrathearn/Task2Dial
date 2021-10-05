@@ -1,0 +1,17 @@
+r391: Red Lobster Cheddar Biscuits. https://cookeatshare.com/recipes/red-lobster-cheddar-biscuits-nuwave-flaviorwave-ovens-299591
+
+
+This recipe takes 5 minutes to prepare, 12 minutes to cook, serves 12 and contains 6 ingredients,  ['bisquick', '1% fat buttermilk', 'cheddar cheese', ‘butter’, 'garlic powder’, 'dried parsley flakes']
+
+User: I would like to make Red Lobster Cheddar Biscuits.
+Robot: In a medium bowl, combine 480g of bisquick, 180ml of 1% fat buttermilk, and 240g of cheddar cheese shredded with a cheese grater. Combine these by hand until well mixed.
+User: I have combined the ingredients, what next?
+Robot: Divide the dough into 12 equally sized portions, and spoon onto a lightly greased cookie tray. Flatten each biscuit slightly with your fingers. 
+User: I have divided the dough onto the tray and flattened them a bit. What now?
+Robot: Bake these in a Nuwave oven at 80% for 8-10 minutes, until the tops of the biscuits begin to brown.
+User: I have baked the biscuits, what do I do next?
+Robot: Next, in a small bowl combine 30g of butter with a pinch of garlic powder and a pinch of dried parsley flakes. Crush the parsley flakes in a mortar beforehand. Then heat this mixture for 30 seconds in the microwave and brush it lightly over each biscuit using a pastry brush.
+User: I have melted the butter with the herbs, what next?
+Robot: All done, enjoy.
+User: Thanks for helping me make Red Lobster Cheddar Biscuits. 
+

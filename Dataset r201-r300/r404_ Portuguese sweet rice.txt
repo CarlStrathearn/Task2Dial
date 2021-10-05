@@ -1,0 +1,17 @@
+r404: Portuguese sweet rice. https://cookeatshare.com/recipes/portuguese-sweet-rice-238
+
+
+This recipe takes 30-40 minutes to cook, serves 2-3 and contains 9 ingredients,  ['water', 'white rice', 'salt', 'milk', 'sugar’, 'lemon rind', 'egg yolk’,'cinnamon stick', 'ground cinnamon']
+
+User: I would like to make Portuguese Sweet Rice. 
+Robot: First, bring around 240ml of water to boil in a medium-sized saucepan, adding a pinch of salt.
+User: The water is boiling, what next? 
+Robot: Next, add in 480g of rice and cover. Simmer for 20 minutes or until soft. 
+User: The rice is ready, what do I do now?
+Robot: Now add in 1.9L of hot milk, 2 cinnamon sticks,  and 1 fresh lemon rind. Use a peeler to get big pieces. Stir constantly for 15-20 minutes until it thickens to oatmeal of risotto consistency. 
+User: The ingredients have thickened together, what now? 
+Robot: Remove the pan from the heat and carefully stir in using a spoon 6 egg yolks extracted from the egg whites. Stir in 600g of sugar to the mixture. 
+User: I have stirred in the egg yolks and the sugar, what is the next step?
+Robot: Now, pour the mixture into one large serving plate and remove the lemon rind and cinnamon sticks. Spread it flat using a spoon and allow it to cool, decorating with ground cinnamon for topping in a pattern of your choice. 
+User: Thanks for helping me make Portuguese Sweet Rice 
+

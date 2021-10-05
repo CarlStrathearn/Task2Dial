@@ -1,0 +1,21 @@
+r381: Punjabi chicken curry https://www.bbc.co.uk/food/recipes/punjabi_chicken_curry_44800
+
+
+Punjabi chicken curry takes less than 30 minutes to prepare, 30-60 minutes to cook, serves 4 and contains 16 ingredients,  ['vegetable oil', 'cumin seeds', 'cinnamon stick', 'green cardamom pods', 'onions’, 'garlic', 'root ginger’,'turmeric', 'chilli powder', 'tomatoes', 'chicken drumsticks and thighs', 'chicken stock’, 'garam masala', 'fresh coriander leaves', ‘salt’, ‘freshly cooked rice’]
+
+User: I would like to make Punjabi Chicken Curry.
+Robot: First heat 60ml of vegetable oil in a large saucepan over a medium heat. Add half a teaspoon of ground cumin, a 5cm cinnamon stick, and 8 green cardamom pods.
+User: I have added those ingredients to the pan, what now?
+Robot: As the ingredients in the pan begin to sizzle, thinly slice 300g of onions using a knife and add to the pan, allowing to cook for 15 minutes, stirring well. 
+User: The onions have cooked, what next?
+Robot: Peel 7 cloves of garlic, and 5cm of fresh ginger and finely chop them using a knife and add to the pan, frying for 1 minute. Next add 7g of ground turmeric, and 5g of chilli powder, and stir into the pan. 
+User: I have added those ingredients in the pan. What do I do now?
+Robot: Now, blend 350g of tomatoes to a puree and add this to the pan, cooking for 5-7 minutes. 
+User: I have added the tomato puree to the pan and cooked it, what now?
+Robot: Now, add 650g of chicken drumsticks and thighs and cook for 10 minutes. Stir is well to make sure the sauce coats the chicken. 
+User: I have cooked the chicken in the sauce, what is the next step?
+Robot: Now add in 300ml of chicken stock and your preference of salt. Simmer this over a low heat with the lid on for 20 minutes or until the chicken is cooked through.
+User: I have cooked in the chicken stock and simmered the ingredients for 20 minutes. What now?
+Robot: Now turn off the heat and add in 1 tsp of cumin, 1 tsp of garam masala. Next chop 10g of fresh coriander leaves and add all of this to the pan. Prepare your rice on a plate, serve and enjoy. 
+User: Thank you for helping me make Punjabi Chicken Curry.
+

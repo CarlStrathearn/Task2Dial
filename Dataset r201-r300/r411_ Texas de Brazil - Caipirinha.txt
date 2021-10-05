@@ -1,0 +1,13 @@
+r411: Texas de Brazil - Caipirinha. https://cookeatshare.com/recipes/texas-de-brazil-caipirinha-627
+
+
+This recipe takes 5-10 minutes to prepare, serves 1 and contains 4 ingredients,  ['fresh lime', 'sugar cane syrup', 'ice cubes', 'cachaca']
+
+User: I would like to make Texas de Brazil - Caipirinha
+Robot: First, cut one fresh lime lengthwise using a knife. Split each half again and, using only three wedges, cut the wedges in half again. 
+User: I have  cut up the lime, what next?
+Robot: Next, using a mortar and pestle, smash the lime and add 42g of sugar cane syrup. 
+User: I have  smashed those ingredients together, what now?
+Robot: Now fill a glass with ice cubes and pour in 56ml of cachaca and the lime and sugar. Transfer the ingredients to a cocktail shaker and shake it well. Pour it back into the glass and garnish with lime and serve immediately. Enjoy.
+User: Thanks for helping me make Texas de Brazil - Caipirinha.
+

@@ -1,0 +1,19 @@
+r403: Cranberry Mousse Jello Mold Salad. https://cookeatshare.com/recipes/cranberry-mousse-jello-mold-salad-797420
+
+
+This recipe takes 20 minutes to prepare, serves 20 and contains 9 ingredients,  ['strawberry gelatin', 'water', 'pineapple', 'cranberry sauce', 'lemon juice’, 'lemon peel', 'nutmeg’,'sour cream', 'pecans']
+
+User: I would like to make Cranberry Mousse Jello Mold Salad
+Robot: In a large bowl, dissolve one 170g pack of gelatin in 240ml of boiling water. Set this aside.
+User: I have  dissolved the gelatin in the boiling water, what next?
+Robot: Next, drain one 500g can of crushed pineapple in a sieve over a bowl to save the juice. Set aside the pineapple and add the juice to the gelatin.
+User: I have  added the pineapple juice and saved the crushed pineapple. What is the next step?
+Robot: The next step is to stir in one 450g can of cranberry sauce, 45ml of lemon juice, 1 tsp of lemon peel grated finely with a grater, and a pinch of nutmeg. Stir this well into the mixture and chill in the refrigerator uncovered for 1-2 hours until it thickens. 
+User: I have  added the rest of those ingredients and the mixture has thickened after chilling. What now?
+Robot: Now, with a rubber spatula, fold in 480ml of sour cream, the crushed pineapple, and 120g of pecans. 
+User: I have  folded in the ingredients. What is next?
+Robot: Next, pour the mixture into a glass serving bowl or a greased 9-cup mold and chill in the refrigerator until it sets. This will take at least 2 hours. 
+User: The mixture has set. What now?
+Robot: Now, you are ready to serve and enjoy.
+User: Thanks for helping me make Cranberry Mousse Jello mold salad. 
+

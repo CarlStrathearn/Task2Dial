@@ -1,0 +1,30 @@
+R319 St. Joseph’s Bread Recipe https://cookeatshare.com/recipes/st-joseph-s-bread-466175
+
+This recipe takes 25 minutes to cook, serves 20 and contains 9 ingredients,  [''warm water'', ''dry yeast'', '’butter'', '’sugar'', ''olive oil'', ''salt'’, ''bread flour'', ''eggs'', ''sesame seeds'']
+
+User: I want to make St. Joseph’s Bread today, can you let me know the ingredients that I will need please?
+Robot: To make this bread you will need the following ingredients, 1 and ½ cup of warm water, 2 packages of active dry yeast, 2 tbsp of butter, 1 tbsp of sugar, 1 tbsp of olive oil, 2 tsp of salt, 4 and ½ cups of bread flour, 1 beaten egg and ½ cup of sesame seeds.
+User: Are there any other ingredients that I will need or am I ready to start?
+Robot: You are ready to start, take a small bowl and combine 1 and ½ cup of warm water, 2 packages of dry yeast, 2 tbsp of butter, 1 tbsp of sugar, 1 tbsp of olive oil, 2 tsp of salt, 4 and ½ cups of bread flour, 1 beaten egg and ½ cup of sesame seeds in it. 
+User: I have combined all of the ingredients that are needed, what is the next step that I have to take?
+Robot: Place 2 and ½ cups of the flour in a large mixing bowl, then place the liquid mixture into the flour, beating it on a low heat until it becomes thoroughly blended.
+User: I have placed the cups of flour in the mixing bowl and also placed the liquid mixture into the flour, what is the next step?
+Robot: Now add as much of the remaining flour as possible to make a nicely formed bread dough, then turn the dough on a flat surface and knead it for approximately 10 minutes.
+User: I have added the rest of the flour and turned it on a flat surface and kneaded it for 10 minutes as required, what next?
+Robot: Next, shape the dough into a ball, place it into a lightly greased bowl, cover it and let it rest for approximately 1 hour or until it doubles in size.
+User: I have placed the dough ball into a greased bowl and covered it for 1 hour, now what do I have to do?
+Robot: Put the dough down and then divide it into 6 different equal pieces, cover and let the pieces rest for 10 minutes.
+User: I have divided the dough into six different pieces as required and covered them for 10 minutes, now what is the next step?
+Robot: Next, roll each of the pieces into a 12 inch long rope per loaf of bread, then secure the ends and after that place the loaf onto a baking sheet, cover and let it rest for approximately 30 minutes.
+User: I have rolled the pieces into a 12 inch long rope and secured the ends, I have covered it and let it rest for 30 minutes, what is the next step after that?
+Robot: Now, preheat the oven to 400 degrees fahrenheit and uncover the bread and brush it with the beaten egg, sprinkle with sesame seeds and bake it again for 25 minutes until it becomes golden brown.
+User: I have preheated the oven and let it bake for 25 minutes, the bread is now looking good and is golden brown, what next?
+Robot: Let the bread cool, serve the bread and enjoy.
+User: Thank you for helping me make St. Joseph’s Bread.
+
+
+
+
+
+
+

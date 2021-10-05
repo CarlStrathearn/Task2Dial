@@ -1,0 +1,19 @@
+r382: Maltagliati with Tomatoes, Porcini Mushrooms and Shrimp. https://cookeatshare.com/recipes/maltagliati-with-tomatoes-porcini-mushrooms-and-shrimp-448300
+
+
+Maltagliati with Tomatoes, Porcini Mushrooms and Shrimp takes 5 minutes to prepare, 30 minutes to cook, serves 1-2 and contains 8 ingredients,  ['Porcini Mushrooms', 'Garlic', 'White Wine', 'Extra-Virgin Olive Oil', 'Tomatoes’, 'Shrimp', 'Maltagliati Pasta’, ‘Fish stock’]
+
+User: I would like to make Maltagliati with Tomatoes, Porcini Mushrooms and Shrimp
+Robot: First separate the porcini mushrooms into the stems and tops and dice. 
+User: I have diced the mushrooms, what next?
+Robot: Next, place the tops of the mushrooms in a pan with some extra-virgin olive oil on a medium-low heat. Add in a clove of garlic. 
+User: I have added these to the pan, what do I do now?
+Robot: Now, add in some freshly cut tomatoes, some white wine and allow this to simmer. 
+User: I have added in the tomatoes and the wine and it has been simmering. What now?
+Robot: Add in the mushrooms stems and prepare the pasta. Slice it diagonally into strips and cook in a separate pot of salted boiling water. 
+User: I have prepared the pasta, what next?
+Robot: Next add in the pasta to the mushrooms and tomatoes. Prepare the shrimps, and add them to the pan. Add in some fish stock and simmer until the shrimp is cooked.
+User: I have combined the ingredients and cooked the shrimp, what do I do now?
+Robot: Now you’re ready to serve and enjoy!
+User: Thanks for helping me make Maltagliati with tomatoes, porcini mushrooms, and shrimp.
+

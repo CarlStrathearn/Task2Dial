@@ -1,0 +1,17 @@
+r375: Grub Rubbed and Smoked Corned Beef Brisket. https://cookeatshare.com/recipes/grub-rubbed-and-smoked-corned-beef-brisket-633357
+
+
+Grub Rubbed and Smoked Corned Beef Brisket takes 6 hours to prepare, 7 hours to cook, serves 12 and contains 14 ingredients,  ['Corned beef brisket', 'olive oil', 'brown sugar', 'cumin', 'chili powder’, 'soft beef bouillon cube', 'onion powder’,'garlic powder', 'black pepper ', 'mustard powder', 'allspice', 'celery seeds’, 'ginger', 'red pepper flakes']
+
+User: I would like to make Grub Rubbed and Smoked Corned Beef Brisket
+Robot: First prepare the seasoning by adding to a bowl, 2 tbsp of brown sugar, 2 tsp of cumin, 2 tsp of chili powder, 1 soft beef bouillon cube, 1 tsp of onion powder, 1 tsp of garlic powder, half a teaspoon of black pepper, half a teaspoon of mustard powder, half a teaspoon of allspice, a sprinkle of celery seeds, a sprinkle of ginger, and a pinch of red pepper flakes. Combine these by mixing with a fork or other utensil.
+User: I have prepared the seasoning. What do I do now?
+Robot: Now take a 2kg corned beef brisket, rinse and pat dry. Sprinkle the brisket with 2-3 tbsp of the seasoning and drizzle it with olive oil. Rub the brisket firmly and place in a large resealable bag, pressing out any excess air. Let this stand in room temperature for 1 hour then refrigerate for 6-24 hours. 
+User: I have prepared the brisket, and it has finished standing. What next?
+Robot: Next when your brisket is ready, place it on a hot outdoor grill with the desired amount of smoke. Sear on both sides over direct coals. Once seared smoke using indirect heat for 4 hours.
+User: I have grilled and smoked the brisket, what now?
+Robot: Now remove from the grill and wrap tightly with tin foil. Place this in the oven at 180ºC in a cast iron skillet with 235ml of water. Bake for approximately 3.5 hours until fork tender.
+User: The brisket has finished in the oven, what is the next step?
+Robot: Remove the brisket from the oven and allow it to rest for 15 minutes before cutting. Serve and enjoy.
+User: Thank you for helping me make Grub Rubbed and Smoked Corned Beef Brisket. 
+

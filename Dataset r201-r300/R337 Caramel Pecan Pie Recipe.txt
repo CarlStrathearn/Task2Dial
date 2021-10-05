@@ -1,0 +1,27 @@
+R337 Caramel Pecan Pie Recipe https://cookeatshare.com/recipes/caramel-pecan-pie-596232
+
+This recipe takes 45 minutes to cook, serves 8 and contains 9 ingredients,  [''butter'', ''sugar'', '’eggs'', '’corn syrup'', ''vanilla'', ''salt'’, ''pecans'', ''pastry shell'', ''ice cream'']
+
+User: I want to bake a Caramel Pecan Pie, could you please tell me what ingredients I need?
+Robot: For this pie you will need the following ingredients, ¼ cup of softened butter, ¾ cups of brown sugar, 3 large eggs, ¾ cups of light corn syrup, 1 tsp of vanilla, ¼ tsp of salt, 1 and ⅓ cups of pecans, 9 inch of pastry shells and ice cream.
+User: I have all of the ingredients required, are there any others that I will need or am I ready to start?
+Robot: You are ready to start, preheat the oven at 350 degrees fahrenheit and then in a medium mixing bowl, beat ¼ cup of butter and ¾ cups of brown sugar until they are well mixed for approximately 1 minute.
+User: I preheated the oven at 350 degrees and I mixed the ingredients in a large mixing bowl for 1 minute, now what do I have to do?
+Robot: Next you must add 3 large eggs and continue beating them for 2 more minutes until they are smooth, then beat ¾ cups of light corn syrup, 1 tsp of vanilla and ¼ tsp of salt.
+User: I have added the eggs and I beat them for 2 minutes as required, what is the next step that I have to take?
+Robot: Next, fold 1 and ⅓ cups of pecans gently with a spatula or a spoon and then pour into the unbaked pastry shell.
+User: I have folded the cups of pecans with a spoon and poured them into the unbaked pastry shell, what is the next step?
+Robot: Next, bake the ingredients for 20 minutes until they begin to brown, then reduce the oven heat to 300 degrees and continue baking for an additional 40 minutes.
+User: I baked the ingredients for 20 minutes and they are now brown, I also reduced the heat of the oven to 300 degrees. What is the next step?
+Robot: Cool on a wire rack for at least 120 minutes or until they are thoroughly cooled, do not cut while they are hot or warm.
+User: I let it cool on a wire rack for 120 minutes as required, what do I have to do next?
+Robot: Serve with ice cream and enjoy the pie.
+User: Thank you for helping me cook Caramel Pecan Pie.
+
+
+
+
+
+
+
+

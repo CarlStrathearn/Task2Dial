@@ -1,0 +1,21 @@
+R316 Pinoy Cassava Cake https://cookeatshare.com/recipes/pinoy-cassava-cake-699062
+
+This recipe takes 60 minutes to cook, serves 3 and contains 12 ingredients,  [''cassava root'', ''coconut cream'', '’coconut milk'', '’eggs'', ''whole milk'', ''butter'’, ''sugar'', ''salt'', ''vanilla extract'', ''cheese'', ''coconut cream'', ''egg yolks'']
+
+User: I want to make a Pinoy Cassava Cake, could you please tell me the ingredients that I will need to bake this cake?
+Robot: You will need 2 pounds of cassava root, 1 can of coconut cream, 1 can of coconut milk, 3 beaten eggs, 1 cup of whole milk, ½ cup of butter, 2 cups of sugar, ½ tsp of salt, 1 tsp of vanilla extract, ½ cup of grated cheese, ⅓ cup of coconut cream, 3 egg yolks and ½ cup of grated cheese, got that?
+User: I have all of the ingredients at hand, I am ready to start, what is the first step that I have to take?
+Robot: Mix together the cassava ingredients except for the toppings, then portion the mix into 2 separate baking pans and pop them in the oven for approximately 40 minutes until the top is firm and set.
+User: I have mixed the ingredients except for the toppings and portioned the mix into 2 separate baking pans, what do I have to do next?
+Robot: Next, mix together the topping and simmer for a minute, then set them aside.
+User: I have mixed together the toppings and simmered for a minute, what do I have to do next?
+Robot: Now, pour the topping on the cake and bake for another 15 minutes or until it goes golden brown, then let the cassava cake cool down for 30 minutes or longer before slicing and serving.
+User: I have poured the topping on the cake and I let it bake for 15 minutes as required, what next?
+Robot: Place the cake on a plate, serve and enjoy.
+User: Thank you for helping me cook Pinoy Cassava Cake.
+
+
+
+
+
+

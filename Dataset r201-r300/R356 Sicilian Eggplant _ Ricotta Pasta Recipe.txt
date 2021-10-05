@@ -1,0 +1,41 @@
+R356 Sicilian Eggplant & Ricotta Pasta Recipe https://cookeatshare.com/recipes/sicilian-eggplant-ricotta-pasta-488899
+
+This recipe takes 20 minutes to cook, serves 4-6 and contains 11 ingredients,  [''eggplant'', ''salt'', '’olive oil'', '’onions'', ''chopped garlic'', ''plum tomatoes'’, ''black pepper'', ''romano cheese'', ''ricotta'', ''basil leaves'', ''pasta'']
+
+User: I want to cook a Sicilian Eggplant & Ricotta Pasta, what ingredients do I need to make this meal?
+Robot: You will need ½ pounds of eggplant, salt, ⅓ cups of olive oil, ½ cup of sliced onions, ½ tsp of chopped garlic, 2 cups of Italian plum tomatoes, black pepper, 3 tbsp of freshly grated romano cheese, 3 tbsp of fresh ricotta, 10 fresh basil leaves, ½ pounds of pasta and reggiano cheese.
+User: I have the ingredients ready, am I ready to start or do I need any other ingredients?
+Robot: You are ready to begin. Cut off the eggplant cap, peel it and cut it into 1 inch cubes.
+User: I have cut off the eggplant cap and peeled it, what do I do next?
+Robot: Next, put the cubes in a colander in the sink and sprinkle with some salt.
+User: I have put the cubes in a colander and sprinkled salt on it, what now?
+Robot: Now let the eggplant steep in the salt for approximately 60 minutes in order to reduce the bitterness, then dry the eggplant by placing it on paper towels and patting it down with another towel.
+User: I have let the eggplant steep in the salt for 1 hour as required, what do I do next?
+Robot: Now, in a large frying pan, add about ⅓ cup of olive oil to coat the bottom of the pan and heat it to a medium high.
+User: I have added ⅓ cup of olive oil and coated the bottom of the pan, what do I have to do next?
+Robot: When the oil is hot, put as many of the eggplant pieces as you can without packing them too tightly, then fry them for a minute or so and turn them over.
+User: I have put the eggplant pieces and fried them for a minute as required, what is the next step that I have to take?
+Robot: Now fry on 3-4 sides and then transfer with a slotted spoon or spatula to a plate with paper towels and continue with another batch if needed until the eggplant is cooked.
+User: I have fried the eggplant on the sides and then transferred them using a spatula to a plate, what do I do next?
+Robot: Now put a pasta pot on the stove, bring it to a boil, then cook whichever pasta you choose according to the directions, then the pasta should cook nicely while you finish the sauce.
+User: I have put the pasta pot on the stove and brought it to a boil, what do I have to do next?
+Robot: Now add the remaining olive oil, add ½ cup of finely sliced onion and let it saute until it turns to a light golden colour for approximately 3 minutes.
+User: I have added the onion cups and I let it saute, the onions are now golden, what is the next step that I have to take?
+Robot: Next, add 1 and ½ tsp of chopped garlic and let it cook for 30 seconds, stirring as you cook.
+User: Thanks I have added the chopped garlic and I let it cook for the amount of time required, what is the next step after this?
+Robot: Now add 2 cups of fresh tomatoes, turn the heat up to a high and cook for 10 minutes, stirring frequently until the oil floats free from the tomato.
+User: I have added the cups of fresh tomatoes and turned up the heat to a high and I let it cook for 10 minutes as required. What is the next step that I have to take?
+Robot: Add the eggplant and a couple of fresh pepper grindings, stir and turn the heat down to medium, then cook for another couple of minutes and ensure to continuously stir.
+User: I have added the eggplant and some fresh pepper grindings. I also stirred and turned the heat down to a medium and cooked for another couple of minutes. Could you please tell me what I have to do next?
+Robot: Now, drain the pasta in a colander and pour it into a large serving bowl and add the eggplant sauce, the grated romano, the ricotta and the basil leaves.
+User: I have drained the pasta into a colander and poured it into a serving bowl with the eggplant sauce and the basil leaves. What is the next step?
+Robot:Toss them all again and mix the ingredients thoroughly, serve at once with grated parmesan and crusty Italian bread on the side and enjoy the meal.
+User: Thank you for helping me cook Sicilian Eggplant & Ricotta Pasta.
+
+
+
+
+
+
+
+

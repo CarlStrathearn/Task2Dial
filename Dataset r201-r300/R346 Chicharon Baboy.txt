@@ -1,0 +1,23 @@
+R346 Chicharon Baboy https://cookeatshare.com/recipes/chicharon-baboy-pork-rind-crackling-684396
+
+This recipe takes 30 minutes to cook, serves 4 and contains 6 ingredients,  [''pork skin'', ''water'', '’garlic'', '’salt'', ''peppercorns'', ''bay leaves'’]
+
+User: I want to cook a Chicharon Baboy, what ingredients do I need to cook this meal?
+Robot: You will need the following ingredients: pork skin, water, 1 garlic head, salt, ½ tsp of pork skin, 6 pieces of peppercorns and 3 pieces of bay leaves.
+User: I have the ingredients ready, am I ready to start or do I need other ingredients?
+Robot: You are ready to start. Place all of the dry ingredients in a heavy pot by adding water gradually until the pork is covered at about an inch high and bring it to a boil until the pork skin is tender.
+User: I have added all of the ingredients in a pot and gradually added water, the pork is now covered, what do I have to do next?
+Robot: Now, remove the pork and drain it really well after leaving it for 1 hour, then cut the pork into bite sized pieces and let these air dry or put it in the fridge uncovered.
+User: I have removed the pork and drained them, I also cut the pork into bite sized pieces, what do I do now?
+Robot: Next, after drying the pork skins overnight you are ready to deep dry them, then heat up the oil and fry the pork skin pieces in batches and cook them until they turn light brown.
+User: I have dried the pork skins and I also heated up the oil and fried the pieces in batches, they are now light brown, what do I do next?
+Robot: Next, take the chicharon using a slotted spoon and then place them on a plate and enjoy the meal.
+User: Thank you for helping me cook Chicharon Baboy.
+
+
+
+
+
+
+
+

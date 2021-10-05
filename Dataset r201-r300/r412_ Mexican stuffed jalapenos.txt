@@ -1,0 +1,15 @@
+r412: Mexican stuffed jalapenos. https://cookeatshare.com/recipes/mexican-stuffed-jalapenos-9603
+
+
+This recipe takes 30 minutes to prepare, 10 minutes to cook, serves 20 and contains 9 ingredients,  ['jalapenos', ‘shredded mexican blend cheese', 'shredded italian blend cheese', 'cream cheese', 'fresh minced garlic’, 'chorizo', 'onion’,'cilantro', 'lime juice']
+
+User: I would like to make Mexican stuffed jalapenos.
+Robot: First cut 10 jalapenos in half, rib and seed them with a small knife. Preheat the oven to 180ºC and then roast the jalapenos for 7 minutes. Place them to the side to cool once done.
+User: I have  roasted the jalapenos and allowed them to cool. What next?
+Robot: In a pan cook 340g of chorizo, chopped using a knife along with 120g of finely chopped onions until the chorizo is done. 
+User: I have  fried up the chorizo and onions. What comes now?
+Robot: In a bowl add the chorizo and the onion with 15g of minced garlic minced using a garlic crusher, a pinch of cilantro, juice from 1 lime and 120g of both shredded mexican blend cheese, and shredded italian blend cheese. Add in 240g of cream cheese to this bowl too and mix all of the ingredients together with a spoon. 
+User: I have  mixed those ingredients together in the bowl, what is the next step?
+Robot: Next, spoon the mixture into the hollowed jalapenos and sprinkle a bit of extra mexican blend cheese over the top. Bake in the oven at 180ºC until the cheese melts and gets slightly brown at the edges. Serve these and enjoy. 
+User: Thanks for helping me make Mexican stuffed jalapenos.
+

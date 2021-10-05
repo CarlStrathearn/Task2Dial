@@ -1,0 +1,17 @@
+r384: Southern Low Country Braised Pig's Feet. https://cookeatshare.com/recipes/southern-low-country-braised-pig-s-feet-633271
+
+
+This recipe takes 10 minutes to prepare, 210 minutes to cook, serves 6 and contains 8 ingredients,  [‘split pig’s feet', 'onion', 'celery', 'garlic', 'chicken bouillon cube’, 'vinegar', 'water’,'olive oil']
+
+User: I would like to make Southern Low Country Braised Pig’s Feet.
+Robot: The first thing you need to do is prepare a dutch oven or slow cooker by drizzling it with olive oil and setting it to medium-high heat. Chop one large onion into quarters using a knife. Then, cut two stalks of celery into fifths. Add these to the slow cooker along with 3 cloves of pressed or minced garlic.
+User: I have added the vegetables to the cooker, what next?
+Robot: Next add in one soft chicken bouillon cube and cook it all for 5 minutes.
+User: I have cooked the vegetables and the stock, what do I do now?
+Robot: Now, add in 2.3kg of split pigs feet, after washing. Then pour 60ml of vinegar and fill the rest with water until slightly covered. 
+User: I have added the pig’s feet and poured in the vinegar and water. What next?
+Robot: Next, bring to boil and allow to cook for 10 minutes. Skim the top as needed then cover and reduce to a medium heat. Then cook at a rolling simmer for several hours until the feet are fork tender. The liquid should reduce by about fourth fifths. 
+User: I’ve cooked it all in the slow cooker. What now?
+Robot: Now serve and enjoy!
+User: Thanks for helping me make Southern Low Country Braised Pig’s Feet.
+

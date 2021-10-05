@@ -1,0 +1,25 @@
+R364 Pinoy Pork Steak https://cookeatshare.com/recipes/pinoy-pork-steak-658825
+
+This recipe takes 15 minutes to cook, serves 3 and contains 8 ingredients,  [''pork chops'', ''soy sauce'', '’lemon'', '’cooking oil'', ''onions'', ''water'’, ''salt'', ''pepper'']
+
+User: Today I would like to cook a Pinoy Pork Steak, what are the ingredients required to make the steak?
+Robot: You will need 4 to 5 pieces of pork chops, 5 tbsp of soy sauce, 3 pieces of lemon, ½ cup of cooking oil, 2 medium sliced onions, 1 and ½ cups of water, salt and pepper to taste.
+User: I have the ingredients ready, thank you, are there any others that I will need or am I ready to start?
+Robot: Mix 4-5 pork chops, 5 tbsp of soy sauce and 3 pieces of lemon in a large bowl or in a container, then let it marinade for at least 1 hour.
+User: I mixed the pork, soy sauce and the lemon pieces in a bowl and I let it marinade for 1 hour as required. What is the next step that I need to take?
+Robot: Heat the pan and then fry the marinated pork chops in a medium heat for 3 to 5 minutes per side and remove any excess oil.
+User: I fried the pork chops on medium heat for 5 minutes per side as required and removed the excess oil, what do I have to do now?
+Robot: Now pour in the remaining marinade and water, then let it boil. After that, simmer for 5-8 minutes or until the pork becomes tender.
+User: I poured the remaining marinade and water, I also let it boil, what do I do next?
+Robot: Now add the water as needed as well as the salt and pepper then continuously stir, after that put in 2 medium onions and cook for another 2 minutes.
+User: I added the water, salt and pepper and stirred, I then put in the onions and cooked for another 2 minutes, what do I do now?
+Robot: Turn the heat off and transfer the steak to a serving plate and enjoy the steak.
+User: Thank you for helping me cook a Pinoy Pork Steak.
+
+
+
+
+
+
+
+

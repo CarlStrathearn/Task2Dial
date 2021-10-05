@@ -1,0 +1,17 @@
+r386: Grilled Tandoori Turkey Tenderloin. https://cookeatshare.com/recipes/grilled-tandoori-turkey-tenderloin-643416
+
+
+This recipe takes 15 minutes to prepare, 15 minutes to cook, serves 4 and contains 14 ingredients,  ['greek yogurt', 'sour cream', 'lime juice', 'brown sugar', 'cumin’, 'garam masala', 'paprika’,'turmeric', 'garlic', 'ginger', 'kosher salt', 'arbol chili powder’, 'turkey tenderloin', 'ghee']
+
+User: I would like to make Grilled Tandoori Turkey Tenderloin.
+Robot: Firstly, in a large bowl combine 80grams of greek yogurt, 80grams of sour cream, 15ml of lime juice, 2 tablespoons of brown sugar; cumin, garam masala, paprika and turmeric using a wooden spoon. 
+User: I have added those ingredients into a bowl, what next?
+Robot: Then using a garlic press, mince 2 tablespoons of garlic and 2 tablespoons of ginger and add these to the bowl along with 1 tablespoon of kosher salt and a sprinkle of arbol chili powder, mixing them all in with a wooden spoon. Now combine this with 450 grams of turkey tenderloin and place inside a  plastic bag. Seal and put it in the refrigerator for 1-24 hours.
+User: The ingredients have finished chilling. What do I do now?
+Robot: Preheat your grill to a high heat and sprinkle oil onto the grill to prevent sticking. Now cover the turkey tenderloin with a lid and grill for 8-10 minutes. Turn the pieces using tongs and grill for another 5 minutes or until cooked through. 
+User: The turkey is cooked. What now?
+Robot: Now, remove the turkey from the grill and let it rest for 2-3 minutes, then use a cooking brush to brush with 30 grams of ghee.
+User: I have brushed the turkey with the ghee, what is the next step?
+Robot: All that is left to do is slice the turkey diagonally, serve and enjoy.
+User: Thank you for helping me make Grilled Tandoori Turkey Tenderloin.
+

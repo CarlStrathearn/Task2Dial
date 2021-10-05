@@ -1,0 +1,14 @@
+r397: Calamansi Cloud Cake. https://cookeatshare.com/recipes/calamansi-cloud-cake-609110
+
+
+This recipe takes 30 minutes to prepare, serves 5 and contains 7 ingredients,  ['Nestle All purpose cream', 'condensed milk', 'cream cheese', 'fresh calamansi or lime juice', 'green food colouring’, 'graham crackers', 'kiwi’]
+
+User: I would like to make Calamansi Cloud Cake.
+Robot: First, in a medium bowl, mix two boxes of 250ml nestle all purpose cream, 120ml of condensed milk, 225g of cream cheese and 60ml of calamansi or lime juice using a spoon or whisk. 
+User: I have  mixed those ingredients well, what next?
+Robot: Next add a few drops of green food colouring and mix together using a spoon until the desired colour is achieved. Aim for a light pastel green and set this aside. 
+User: I have  added in the food colouring, what do I do now?
+Robot: Spread 60ml of the mixture into the bottom of a square glass or metal container. Then arrange 15-17 pieces of graham crackers on top of the cream, followed by a second layer of cream, and finish with a final layer of graham crackers and the rest of the cream.
+User: I have  layered the ingredients, what is the next step?
+Robot: The next step is to decorate with kiwi, sliced into wedges using a knife, and some crushed graham crackers. Chill this in a refrigerator for 4 hours before serving. Enjoy.
+User: Thanks for helping me make calamansi cloud cake. 

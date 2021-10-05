@@ -1,0 +1,31 @@
+R362 Thai Beef Salad https://www.bbc.co.uk/food/recipes/thai_beef_and_mango_98996
+
+This recipe takes less than 10 minutes to cook, serves 2 and contains 12 ingredients,  [''frying steaks'', ''vegetable oil'', '’soy sauce'', '’carrots'', ''spring onions'', ''ripe mango'’, ''lettuces'', ''salted peanuts'', ''garlic cloves'', ''lime juice'', ''caster sugar'', ''chili flakes'']
+
+User: I want to make a Thai Beef Salad, can you please tell me what ingredients are required to make the salad, thank you.
+Robot: You will need the following ingredients, 2 beef frying steaks, 1 tbsp of vegetable oil, 1 tbsp of soy sauce, 2 small carrots, 5 spring onions, 1 ripe mango, 2 baby gem lettuces, a handful of peanuts, 1 garlic clove, 1 lime, 1 tbsp of caster sugar and 1 tsp of chili flames for the dressing.
+User: What is the first step that I have to take?
+Robot: Add 2 steaks inside a shallow bowl, then pour 1 tbsp of vegetable oil and 1 tbsp of soy sauce and then rub them into the meat so that it is coated all over.
+User: I have added the steaks inside a bowl and poured the vegetable oil as well as the soy sauce, I also rubbed the meat inside and is now coated all over, what is the next step that I have to take?
+Robot: Next, set them aside to marinate while you are preparing the vegetables, then peel 2 small carrots with a peeler to make thin ribbons.
+User: I have peeled the carrots and made ribbons out of them, what do I have to do now?
+Robot: Good, now separate 2 baby gem lettuces, wash the leaves and drain them in a colander, then finely slice 5 spring onions and then peel, stone 1 ripe mango.
+User: I have separated the lettuce and washed the leaves, then drained them in a colander, could you please tell me what I need to do next?
+Robot: Combine all of the ingredients inside a large bowl and heat a large frying pan over a high heat, then add the steaks and let it cook for 1 minute on each side until they turn medium rare.
+User: I combined the ingredients inside a bowl and heated a frying pan on a high heat, I also added the steaks and let them cook for 1 minute on each side as required, they are now medium rare. What is the next step that I have to take?
+Robot: After 1 minute remove the steaks from the pan and move them over to a plate to rest, then while the steaks are resting, prepare the dressing.
+User: I have removed the steaks from the pan and they have chilled on a plate, what do I do now?
+Robot: Now, peel and grate 1 garlic clove and then put it into a bowl with the lime juice, 1 tbsp of caster sugar and 1 tsp of chili flakes and stir them together.
+User: I have added the garlic clove and put it inside a bowl with the other ingredients as required, I also stirred them together. What do I have to do next?
+Robot: Now, pour the dressing over the prepared vegetables and add a handful (40g) of peanuts, then slice the beef thinly.
+User: I have poured the dressing over the vegetables and added the peanuts, now what do I do?
+Robot: Next, add the beef to the bowl along with the resting juices and toss them to combine, then serve immediately and enjoy the meal.
+User: Thank you for helping me cook a Thai Beef Salad.
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+r415: Salmon Baked in Foil. https://cookeatshare.com/recipes/salmon-baked-in-foil-507717
+
+
+This recipe takes 10 minutes to prepare, 40 minutes to cook, serves 4 and contains 8 ingredients,  ['salmon fillets', 'garlic', 'light olive oil', 'dried basil', 'salt’, 'ground black pepper', 'lemon juice’,'parsley']
+
+User: I would like to make Salmon Baked in Foil
+Robot: First, in a medium bowl get ready to prepare the marinade. Add to the bowl 4 cloves of garlic, minced with a garlic crusher, 90ml of olive oil, 2 tsp of dried basil, 2 tsp of salt, 2 tsp of ground black pepper, 30ml of lemon juice and 30g of fresh parsley chopped with a knife. Mix these together in the bowl.
+User: I have mixed together the ingredients for the marinade, what next?
+Robot: Next place 4 salmon fillets in a medium pyrex baking dish and cover them with the marinade. Let the fish marinade in the refrigerator for 60 minutes or more, turning the fillets occasionally. 
+User: The fillets have been marinating in the refrigerator for an hour. What now?
+Robot: Now, preheat the oven to 190ºC and place the salmon fillets in large pieces of tin foil, covering with the marinade and folding at the sides to seal completely. 
+User: I have sealed the salmon fillets in tin foil, what do I do next?
+Robot: Next, place the sealed salmon in the glass dish or on a baking sheet, baking for 35 minutes. 
+User: I have baked the salmon in the oven for 35 minutes. Now what?
+Robot: Now, serve the salmon over rice or pasta, pouring the extra marinade from the foil over the fish. Enjoy.
+User: Thank you for helping me make Salmon Baked in Foil.
+

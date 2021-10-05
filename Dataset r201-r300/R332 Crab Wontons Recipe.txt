@@ -1,0 +1,21 @@
+R332 Crab Wontons Recipe https://cookeatshare.com/recipes/crab-wontons-597
+
+This recipe takes 15 minutes to cook, serves 30 and contains 4 ingredients,  [''cream cheese'', ''crab meat'', '’hot sauce'', '’won ton wrappers'']
+
+User: I would like to make some Crab Wontons, what ingredients do I need?
+Robot: To make the Crab Wontons you will need 4 oz of soft cream cheese, 1 cup of lump crab meat, 1 tbsp of Asian hot sauce and 1 package of wonton wrappers.
+User: Are there any other ingredients that I will need or am I ready to start?
+Robot: You are ready to start, first preheat the oven to 400 degrees fahrenheit and then mix 4 oz of cream cheese, 1 cup of crab meat and 1 tbsp of hot sauce in a bowl.
+User: I have preheated the oven to 400 degrees and mixed the cream cheese and crab meat, now what do I have to do?
+Robot: Next add a tsp and a half of mixture in the center of each wrapper and dip your fingertips in water and wet the edges of the wrapper lightly and then fold in the half removing as much air as possible.
+User: I have added a tsp of mixture in the center of the wrapper and dipped my finger in water and wetted the edges, what now?
+Robot: Now seal tightly and place the wontons on a baking sheet coated with cooking spray and then bake until it goes golden brown for about 20 minutes.
+User: I have sealed and placed the wontons on a baking sheet, I also baked it for 20 minutes as required, now what do I do?
+Robot: Take them out after they have been cooked, place them on a plate, let them cool down, serve and enjoy the wontons.
+User:Thank you for helping me cook Crab Wontons.
+
+
+
+
+
+

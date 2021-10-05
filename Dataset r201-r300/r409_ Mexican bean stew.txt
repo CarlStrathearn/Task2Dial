@@ -1,0 +1,19 @@
+r409: Mexican bean stew https://www.bbc.co.uk/food/recipes/mexican_bean_stew_75910
+
+
+This recipe takes 30 minute to prepare, 30-60 minutes to cook, serves 2 and contains 17 ingredients,  ['low-cal cooking spray', 'onion', 'garlic', 'yellow pepper', 'chilli powder’, 'cumin', 'coriander’,'tinned chopped tomatoes', 'tomato puree', 'tinned mixed beans', 'long grain rice', 'greek yoghurt’, 'lime', 'salt', ‘black pepper’, ‘tomato’, ‘spring onions’]
+
+User: I would like to make Mexican Bean Stew
+Robot: First, spray a large frying pan with oil and place it over medium heat. Peel and thinly slice one onion using a knife, and crush 2 cloves of garlic using a garlic press, adding these to a pan. Cook gently for 3 minutes, stirring regularly. Chop a yellow pepper into 3cm chunks, and add these to the pan for a further 2 minutes. 
+User: I have  cooked those vegetables in the pan, what next?
+Robot: Next stir in a sprinkle of hot chilli powder, 1 tsp of ground cumin, 1 tsp of ground coriander and cook for a few seconds. Then add in one 400g tin of chopped tomatoes and 30ml of tomato puree. 
+User: I have  added the spices and chopped tomatoes, what now?
+Robot: Now pour 300ml of cold water into the pan and bring the pan to a gentle simmer. Season with salt and black pepper and allow it to cook for 30 minutes, stirring occasionally with a wooden spoon until thick. While this is cooking, prepare a saucepan with water filled half way, bringing it to the boil.
+User: The sauce is cooked, and my pot of water is boiling. What comes next?
+Robot: Next, add 125g of rice into the boiling water and return to the boil, cooking for 25 minutes or until tender. Prepare a bowl while this is cooking. 
+User: The rice is cooking and I have a bowl ready, what do I do?
+Robot: Now with the bowl you are going to make the salsa. Using a knife, roughly chop 1 tomato, 60g of coriander, and thinly slice 2 spring onions. Add these to the bowl and mix them together with a spoon. 
+User: I have  made the salsa, what next?
+Robot: Drain the rice using a colander and divide it between two plates. Spoon the beans over the rice and scatter the salsa over it. Serve with 100g of yoghurt and 1 lime cut into wedges with a knife. Enjoy.
+User: Thanks for helping me make Mexican Bean Stew.
+

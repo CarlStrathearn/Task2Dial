@@ -1,0 +1,31 @@
+R322 Beetroot, walnut and orange salad with orange blossom dressing https://www.bbc.co.uk/food/recipes/beetroot_walnut_and_12617
+
+This recipe takes 10-30 minutes to cook, serves 4 and contains 14 ingredients,  [''oranges'', ''baby leaf lettuce'', '’beetroots'', '’feta'', ''walnut pieces'', ''icing sugar'’, ''cinnamon'', ''olive oil'', ''orange juice'', ''blossom water'', ''ground cinnamon'', ''black pepper'', ''lemon juice'', ''honey'']
+
+User: I want to cook a Beetroot, walnut and orange salad with orange blossom dressing, what ingredients do I need for this meal?
+Robot: You will need 2 large oranges, 100g of baby leaf lettuce, 4 small beetroots and 120g of crumbled feta.
+User: I have those ingredients, what about the walnuts and the dressing?
+Robot: For the candied walnuts you will need 100g of walnut pieces, 2 tbsp of icing sugar, a pinch of ground cinnamon and a bit of olive oil for the drizzle.
+User: Now, for the dressing?
+Robot: For the dressing you will need 4 tbsp of fresh orange juice, 2 tbsp of olive oil, 4 tbsp of runny honey, 2 tsp of lemon juice, 2 tsp of orange blossom water, a pinch of ground cinnamon and a pinch of ground black pepper.
+User: Am I ready to start now?
+Robot: Yes. Now preheat the oven to 180 degrees celsius at Gas 4, then segment 2 large oranges, reserving any of the juice for the dressing.
+User: I have preheated the oven to 180 degrees and segmented the oranges, now what do I have to do?
+Robot: Set them aside in the fridge. For the candied walnuts, place them in a bowl and cover them with boiling water and leave them for a minute, then drain them.
+User: I have put them into the fridge and I also put the walnuts into a bowl and covered them with water, I also left them for a minute and drained them as required. What is the next step after this?
+Robot: Place the walnuts in a lidded container and add the icing sugar and a pinch of ground cinnamon.
+User: I have placed the walnuts in a lidded container and added the icing sugar, now what do I have to do?
+Robot: Close the container and shake it to coat the walnuts with the sugar and cinnamon, then line up a baking tray with the baking parchment.
+User: I have closed the container and the walnuts are now coated with sugar and cinnamon, what is the next step?
+Robot: Spread the walnuts on the tray and drizzle with olive oil, then bake for approximately 8 minutes or until they turn golden brown.
+User: I have spreaded the walnuts on the tray and drizzled them with oil. I also let them bake for 8 minutes as required. What do I do now?
+Robot: Now, in a smaller bowl, mix all of the dressing ingredients together and when ready to serve, toss the lettuce in the dressing and pile them onto a plate.
+User: I have mixed the dressing ingredients together and tossed in the lettuce, now what?
+Robot: Arrange 4 small beetroots, orange segments and the walnuts on the plates and sprinkle with feta, then serve and enjoy the meal.
+User:Thank you for helping me cook Beetroot, walnut and orange salad with orange blossom dressing.
+
+
+
+
+
+

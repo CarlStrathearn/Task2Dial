@@ -1,0 +1,17 @@
+r394: Mushroom and Leek Pasta. https://cookeatshare.com/recipes/gordon-ramsay-style-mushroom-and-leek-pasta-709507
+
+
+This recipe takes 10 minutes to prepare, 15 minutes to cook, serves 2 and contains 12 ingredients,  ['dried lasagna sheets', 'olive oil', 'medium leeks', 'button mushrooms', 'garlic cloves’, 'fresh cream', 'chicken stock’,'salt', 'black pepper', 'oregano', 'red chilli flakes', 'flat parsley']
+
+User: I would like to make Mushroom and Leek Pasta.
+Robot: First, heat 30ml of olive oil in a pan and saute 5-6 button mushrooms previously sliced with a knife, for 5 minutes. Add in 2 slices of garlic cloves and stir nicely using a spatula. 
+User: I have  sautéd the mushrooms, what next?
+Robot: Next, chop 2 medium leeks with a knife and mix into the pan. Pour in 240ml of chicken stock and season with salt and pepper. Let this simmer on a low flame for 5 minutes until the liquids have reduced. Then add 60g of cream and simmer for another 3-4 minutes. 
+User: Those ingredients have been added and have been simmering, what is next?
+Robot: Next, boil some water in a pan and when it begins to bubble, drop in 5-6 lasagna sheets. Ensure they do not stick to the bottom of the pan. Once cooked,drain using a colander and rinse under cold water. 
+User: I have  cooked the lasagna, what do I do next?
+Robot: Next, pile the lasagna sheets one on top of the other and cut them lengthwise into 5cm wide strips. Add them to the sauce and let them sit for 5 minutes to absorb the sauce.
+User: I have  cut and added the lasagna sheets, what now?
+Robot: Now, switch off the gas and remove from the heat. Sprinkle with some oregano, chilli flakes and parsley. Enjoy. 
+User: Thank you for helping me make Mushroom and Leek Pasta. 
+

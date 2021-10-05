@@ -1,0 +1,23 @@
+R340 Cabbage Pachadi Salad Recipe https://cookeatshare.com/recipes/cabbage-pachadi-salad-31954
+
+This recipe takes 20 minutes to cook, serves 8 and contains 15 ingredients,  [''medium cabbage'', ''medium tomatoes'', '’roasted peanuts'', '’fresh coconut'', ''salt'', ''brown sugar'’, ''lemon juice'', ''oil'', ''mustard seeds'', ''cumin seeds'', ''turmeric'', ''asafoetida powder'', ''green chili'', ''coriander leaves'', ''coleslaw cabbage'']
+
+User: I want to make a Cabbage Pachadi Salad today, what ingredients do I need to make this salad?
+Robot: To make this salad you will need 1 medium cabbage, 4 finely chopped medium tomatoes, ½ cup of ground roasted peanuts, ⅔ cups of grated fresh coconut, 1 tsp of salt, 1 tsp of brown sugar, 6 tsp of fresh lemon juice, 2 tsp of oil, ½ tsp of mustard seeds, ½ tsp of cumin seeds, ¼ tsp of turmeric, ½ tsp of asafoetida powder, 1 tbsp of hot green chili, 4 tbsp of fresh coriander leaves and coleslaw cabbage.
+User: I have all of the ingredients ready to make the Salad, are there any other ingredients that I will need or am I ready to start?
+Robot: You don’t need anymore ingredients, you are ready to start. Place 1 medium cabbage, 4 medium tomatoes, peanut powder, ⅔ cups of coconut, 1 tsp of salt, 1 tsp of brown sugar and 6 tsp of lemon juice in a large bowl, mix them all well and set them aside.
+User: I have placed all of the ingredients in a large bowl and mixed them well, thank you. What do I have to do next?
+Robot: Fry ½ tsp of mustard seeds in a small pan over a moderate heat until they crackle and then add ½ tsp of cumin seeds, ¼ tsp of turmeric, ½ tsp of asafoetida and 1 tbsp of green chili.
+User: I have fried the ingredients as required, now what?
+Robot: Good, next, remove them from the heat and add the spices to the cabbage, then toss the salad thoroughly and make sure that the spices have been properly mixed in, did you get that?
+User: Alright, I have removed them from the heat and I added the spices to the cabbage. I also tossed the salad with the spices as required, could you please tell me the next step that I have to take?
+Robot:Garnish with 4 tbsp of coriander leaves, then let them chill and serve them cold, if you leave the salad to chill for longer the better it will taste.
+User: I have garnished the salad with coriander leaves and I let it chill, now what do I have to do?
+Robot: Serve and enjoy the salad.
+User: Thank you for helping me cook Cabbage Pachadi Salad.
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+R333 Homestyle Jerk Chicken Wings https://www.bbc.co.uk/food/recipes/homestyle_jerk_chicken_81599
+
+This recipe takes 10-30 minutes to cook, serves 16 and contains 8 ingredients,  [''all-purpose seasoning'', ''ground ginger'', '’cider vinegar'', '’bonnet chili'', ''ground nutmeg'', ''olive oil'’, ''chicken wings'', ''lime wedges'']
+
+User: I want to cook Homestyle Jerk Chicken Wings, could you let me know what ingredients I will need please?
+Robot: Ok, for this meal you will need 4 tsp of all-purpose seasoning, 2 tsp of ground ginger, 6 tbsp of cider vinegar, 1 Scotch bonnet chili, 2 tsp of finely grated nutmeg, 2 tbsp of olive oil, 16 chicken wings and lime wedges to serve.
+User: Am I ready to start or do I need any other ingredients?
+Robot: You are now ready to start. Mix all of the ingredients except the chicken wings in a shallow dish and then after that add the wings and make sure to turn them to coat them well.
+User: Alright, I have mixed the ingredients and then added the wings as required, they are now all coated well. What should I do next?
+Robot: Next cover and marinate the wings and put them in the fridge, leave them overnight or for at least 1 hour.
+User: I have covered and marinated the wings and also put them in the fridge, what do I have to do next?
+Robot: Next, light up the barbecue approximately 30 minutes before you want to start eating so that the flames don’t die down, then barbecue the wings for about 10-15 minutes, turning them over when they are brown.
+User: I have barbecued the wings for 15 minutes as required, they are now all brown and juicy. What is the next step that I have to take now?
+Robot: Next, check if they are cooked well through with the tip of a knife and there should be no pink meat and the juices will run clear.
+User: Thanks, the chicken is cooked well and there is no pink meat, what do I do now?
+Robot: Place the wings on a plate and serve with wedges of lime.
+User: Thank you for helping me cook Homestyle Jerk Chicken Wings.
+
+
+
+
+
+

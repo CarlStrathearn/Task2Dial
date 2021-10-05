@@ -1,0 +1,30 @@
+R318 Oreo Cookie Cupcakes https://cookeatshare.com/recipes/oreo-cookie-cupcakes-374376
+
+This recipe takes 20 minutes to cook, serves 24 and contains 8 ingredients,  [''self-rising flour'', ''all purpose flour'', '’unsalted butter'', '’large eggs'', ''milk'', ''vanilla extract'’, ''oreo cookie crumbs'', ''confectioners sugar'']
+
+User: I want to make Oreo Cookie Cupcakes today, what ingredients do I need to make them?
+Robot: To make the cupcakes you will need 1 and ½ cups of self-rising flour, 1 and ¼ cups of all purpose flour, 1 cup of unsalted butter, 2 cups of sugar, 4 large eggs, 1 cup of milk, 1 tsp of vanilla extract, ¾ cup of oreo cookie crumbs.
+User: I have all of the ingredients ready, what is the first step that I have to take?
+Robot: First of all you must preheat the oven to 325 degrees fahrenheit, then line up 24 muffin tin cups with paper cupcake liners.
+User: I have preheated the oven to 325 degrees and lined up the muffin tin cups, what next?
+Robot: Good, now sift both flours together in a medium bowl, then mix them together and set aside.
+User: I have sifted the flours together in a bowl and mixed them together in a bowl, what next?
+Robot: Now, in a large bowl, using an electric mixer on a medium speed, beat the butter until it becomes creamy and then gradually add 2 cups of sugar and beat them until they become fluffy for around 3 minutes.
+User: I have beaten the butter and it is now creamy, I have also added 2 cups of sugar, what do I have to do next?
+Robot: Now, add the dry ingredients into three different parts, alternating with the milk-vanilla mixture, with each addition, beat just until it becomes incorporated and do not overbeat.
+User: I have added the dry ingredients into the 3 different parts, I also alternated it with the milk and vanilla mixture, can you please tell me what I have to do next?
+Robot: Now fold in ⅓ of the oreo cookie crumbs, then fold in the rest.
+User: I have folded the oreo cookie crumbs, what next?
+Robot: Then, fill each of the liners to just over ½ full and bake until the tops feel firm and then insert a toothpick in the center and it should come out clean or with a few dry crumbs. Do this for 22 minutes.
+User: I have filled the liners to just over ½ full as required and baked them, I also put a toothpick inside and they come out clean. What do I have to do next?
+Robot: Now, to make the icing, place the butter in a large bowl, add 1 cup of milk, 1 tsp of vanilla extract and 4 cups of confectioners’ sugar, then on a medium speed, mix for 5 minutes until it becomes all creamy and smooth.
+User: I have placed the butter in a large bowl, added the milk and the vanilla extract, I have also mixed the ingredients for the 5 minutes as required, what do I do now?
+Robot: Mix in the oreo cookie crumbs, gradually add a bit more sugar to the desired consistency and sweetness, then you can serve the cookies on a plate once they are ready and enjoy.
+User: Thank you for helping me cook Oreo Cookie Cupcakes.
+
+
+
+
+
+
+

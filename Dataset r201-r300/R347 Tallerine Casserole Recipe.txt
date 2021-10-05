@@ -1,0 +1,28 @@
+R347 Tallerine Casserole Recipe https://cookeatshare.com/recipes/tallerine-casserole-731857
+
+This recipe takes 25 minutes to cook, serves 7 and contains 13 ingredients,  [''fettuccine pasta'', ''cream-style corn'', '’black olives'', '’ground beef'', ''chopped onions'', ''red bell peppers'’, ''garlic cloves'', ''fresh mushrooms'', ''stewed tomatoes'', ''salt'', ''peppers'', ''red pepper flakes'', ''cheddar cheese'']
+
+User: I want to cook a Tallerine Casserole, please can you tell me the ingredients that I will need.
+Robot: For this meal you will need the following ingredients, 8 oz of fettuccine pasta, 14.75 oz of cream-style corn, 2.25 ounce of canned sliced black olives, 1 pound of ground beef, 1 cup of chopped onions, ¾ cups of red bell peppers, 2 garlic cloves, 1 cup of fresh mushrooms, 1 15-ounce of canned stewed tomatoes, ½ tsp of salt, ¼ tsp of pepper, ¼ tsp of red pepper flakes and 4 ounces of cheddar cheese.
+User: I have the ingredients ready, do I need any other ingredients or am I ready to start?
+Robot: You can start now. Preheat the oven to 350 degrees fahrenheit, then break the fettuccine pasta in half and cook according to the package instructions.
+User: I preheated the oven to 350 degrees and broke the pasta in half, what is the next step that I have to take?
+Robot: Now, stir in 14.75 oz of cream-style corn and 2.25 oz of olives and then set them aside, then in a large skillet brown the beef with the onions and ¾ cups of red bell peppers.
+User: I have stirred the ingredients and set them aside after, what is the next step?
+Robot: Now, drain the fat from the meat and stir in 1 cup of freshly sliced mushrooms and cook them for approximately 2 minutes more.
+User: I have drained the fat from the meat and sliced the mushrooms, I also let them cook for 2 minutes as required, now what do I have to do?
+Robot: Now add 15 oz of tomatoes, ½ tsp of salt, ¼ tsp of pepper and ¼ tsp of red pepper flakes.
+User: I have added the tomatoes, salt, pepper and red pepper flakes, what do I do next?
+Robot: Now layer ⅓ of the ground beef mixture on top of the noodles and then sprinkle ⅓ of grated cheese on the top of it, then continue layering for another two times.
+User: I have layered the ground beef mixture on top of the noodles and sprinkled the cheese on top. What is the next step that I have to take?
+Robot: Now bake the uncovered casserole for about 30 minutes until it starts to bubble, then set aside so it cools down then serve on a plate and enjoy.
+User: Thank you for helping me cook a Tallerine Casserole.
+
+
+
+
+
+
+
+
+

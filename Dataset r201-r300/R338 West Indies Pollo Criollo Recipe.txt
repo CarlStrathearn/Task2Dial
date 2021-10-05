@@ -1,0 +1,24 @@
+R338 West Indies Pollo Criollo Recipe https://cookeatshare.com/recipes/west-indies-pollo-criollo-creole-chicken-629560
+
+This recipe takes 60 minutes to cook, serves 8 and contains 21 ingredients,  [''garlic cloves'', ''nutmeg'', '’dry white wine'', '’salt'', ''pepper'', ''vinegar'’, ''olive oil'', ''chicken pieces'', ''flour'', ''salt'', ''pepper'', ''paprika'', ''minced onion'', ''shallots'', ''jalapenos'', ''stewed tomatoes'', ''olives'', ''small capers'', ''chicken broth'', ''dry thyme'', ''bay leaves'']
+
+User: Today I would like to cook a West Indies Pollo Criollo. What ingredients do I need to cook this meal?
+Robot: In order to cook this meal you will need the following ingredients ready, for the marinade you will need 4 garlic cloves, ¼ tsp of nutmeg, ½ cup of dry white wine, ½ tsp of salt, ½ tsp of pepper, 1 tbsp of vinegar, 3 tbsp of olive oil, 4 lbs of chicken pieces, 1 cup of flour, ½ tsp of salt, ½ tsp of pepper, ⅛ tsp of paprika, ½ cup of olive oil.
+User:I have the ingredients ready for the marinade, are there any other ingredients that I will need?
+Robot: For the sauce you will need 1 minced onion, 2 shallots, 4 garlic cloves, 1 seeded jalapeno, 1 cup of tomato puree, ⅓ cup of olives, 1 tbsp of small capers, chicken broth, a pinch of dry thyme, bay leaves, salt and pepper to taste.
+User: I have the ingredients ready, am I ready to start?
+Robot: For the marinade, place the ingredients in a plastic bag, then add 4 lbs of chicken pieces then let it marinade for approximately 4 hours.
+User: I have placed the marinade in a plastic bag and added the chicken pieces, I also let it marinade for 4 hours as required. What is the next step that I have to take?
+Robot: Next, discard the marinade and add ½ tsp of salt and pepper to the flour, after that lightly flour the chicken pieces and fry them for 10 minutes on each side.
+User: I have removed the marinade and added the salt and pepper to the flour, I also let the chicken pieces fry for 10 minutes. What is the next step that I have to take?
+Robot: Pour off the oil, 1 minced onion, 1 jalapeno pepper and 2 shallots until they become translucent, then add 4 garlic cloves and let them saute for one more minute.
+User: I have poured off the oil and added the ingredients as required, what is the next step after that?
+Robot: Next, add the chicken broth, cover and let them cook for 30 minutes, make sure you turn them occasionally and then serve with rice, noodles or potatoes.
+User: Thank you for helping me cook West Indies Pollo Criollo.
+
+
+
+
+
+
+

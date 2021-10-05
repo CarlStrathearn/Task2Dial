@@ -1,0 +1,33 @@
+R353 Balaw-Balaw (Fermented Rice and Shrimp) Recipe https://cookeatshare.com/recipes/balaw-balaw-fermented-rice-and-shrimp-667534
+
+This recipe takes 10 days to cook, serves 4 and contains 3 ingredients,  [''shrimp'', ''salt'', '’rice'']
+
+User: I want to cook Balaw-Balaw Fermented Rice and Shrimp today, could you please tell me what ingredients I need?
+Robot: You will need the following ingredients, 250g of baby shrimp, 43.5g of salt and 1.2kg of cooked rice.
+User: I have the ingredients ready, am I ready to start now?
+Robot: You can start. Start by preparing the rice, the rice must be slightly wet when it is cooking.
+User: The rice is now wet, what do I have to do next?
+Robot: Next, use approximately 4 cups of water to make the rice a bit watery, then set it aside to cool down.
+User: I have added 4 cups of water to the rice and it is now watery. I also set it aside to cool down, what is the next step that I have to take now?
+Robot: Mix 43.5g of salt and 250g of shrimp in a mixing bowl and mash them thoroughly until the shrimp absorbs the salt.
+User: I have mixed the salt and shrimp in a mixing bowl and mashed them as required, what do I do now?
+Robot: Let them stand for approximately 120 minutes, then after 2 hours, put the cooked rice in a mixing bowl.
+User: I let it stand for 2 hours and I also put the cooked rice in a mixing bowl, what do I do now?
+Robot: Now, add the salt and shrimp mixture paste to the max and mix the ingredients thoroughly, also make sure to add the remaining salt to the mixture and mix then put it aside.
+User: I have added the salt and shrimp mixture, I also mixed the ingredients as required, could you please tell me what I have to do next?
+Robot: Next, move the mixture into sterilized bottles and leave a centimeter head space from the mouth.
+User: I have moved over the mixture into the bottle and left 1cm head space from the mouth, what do I do now?
+Robot: Now, cover the bottles with polyethylene plastic and cap it tightly, then set them aside for 10 days to ferment well.
+User: I have covered the bottles with the plastic and I set them aside to ferment for 10 days as required, what do I do now?
+Robot: Now, after 10 days have passed, the balaw-balaw is ready to be served, to cook, saute the meal with garlic and onion.
+User: I sautéed the meal with garlic and onion, what next?
+Robot: Serve and enjoy the meal.
+User: Thank you for helping me cook Balaw-Balaw (Fermented Rice and Shrimp)
+
+
+
+
+
+
+
+

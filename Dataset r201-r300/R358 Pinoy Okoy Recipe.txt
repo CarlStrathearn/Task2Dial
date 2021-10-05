@@ -1,0 +1,25 @@
+R358 Pinoy Okoy Recipe https://cookeatshare.com/recipes/pinoy-okoy-658669
+
+This recipe takes 15 minutes to cook, serves 2 and contains 10 ingredients,  [''small shrimps'', ''cornstarch'', '’flour'', '’mung bean sprouts'', ''salt'', ''ground black pepper'’, ''egg'', ''baking powder'', ''water'', ''cooking oil'']
+
+User: I would like to bake a Pinoy Okoy today, what ingredients do I need?
+Robot: You will need 1 cup of small shrimps, 1 cup of cornstarch, ¼ cup of flour, 1 and ½ cups of bean sprouts, ½ tsp of salt, ½ tsp of ground black pepper, 1 egg, ¼ tsp of baking powder, 1 and ¼ cups of water and 2 cups of cooking oil.
+User: I have the ingredients ready, am I ready to start ?
+Robot: You are ready to begin. Combine 1 cup of cornstarch, ¼ cup of flour, ¼ tsp of baking powder, 1 egg, 1 and ¼ cups of water, ½ tsp of salt and ½ tsp of ground black pepper then stir until they all become diluted.
+User: I have combined the ingredients and stirred them all as required, they are now diluted, what is the next step?
+Robot: Now, add 1 cup of small shrimps and 1 and ½ cups of bean sprouts in the mixture and lightly stir them so that they distribute from one another.
+User: I have added the shrimps and the bean sprouts, I also stirred them together as required, could you please tell me what I have to do next?
+Robot: Now heat a frying pan or a smaller cooking pot and pour in 2 cups of cooking oil, then when the oil is hot enough, scoop about 2 to 3 tbsp of the mixture and quickly drop it in hot oil.
+User: I heated the frying pan and poured in the cooking oil, what do I do next?
+Robot: Next, cook each of the sides for approximately 3 minutes or until the color turns golden brown, then remove the deep-fried ukoy from the pan and place it on a paper towel so that the oil gets absorbed.
+User: I have cooked the sides for 3 minutes as required and now they are golden brown. I also removed the ukoy from the pan and put it on a paper towel, what do I do next?
+Robot: Next, remove the paper towel and serve with sinamak, enjoy the meal.
+User: Thank you for helping me cook Pinoy Okoy.
+
+
+
+
+
+
+
+

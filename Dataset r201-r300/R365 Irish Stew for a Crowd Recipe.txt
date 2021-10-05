@@ -1,0 +1,33 @@
+R365 Irish Stew for a Crowd Recipe https://cookeatshare.com/recipes/irish-stew-for-a-crowd-801662
+
+This recipe takes 60 minutes to cook, serves 25 and contains 13 ingredients,  [''butter'', ''all-purpose flour'', '’black pepper'', '’boneless lamb'', ''small cabbage'', ''potatoes'’, ''carrots'', ''celery'', ''parsnips'', ''onions'', ''beef broth'', ''Worcestershire sauce'', ''cornstarch'']
+
+User: Can you please tell me what ingredients I need to bake an Irish Stew for a Crowd?
+Robot: For this meal you will need ¼ cup of butter, 2 cups of all-purpose flour, 1 tsp of black pepper, 7lb of boneless lamb, 1 small shredded cabbage, 14 large potatoes, 14 large carrots peeled, 8 thickly sliced ribs of celery, 6 medium parsnips, 4 large onions, 2 cups of beef broth, 2 tbsp of Worcestershire sauce and ¼ cup of cornstarch to thicken.
+User: I have all of the ingredients ready, thank you, am I ready to start or do I need any other ingredients?
+Robot: You are ready to begin. Preheat the oven to 450 degrees fahrenheit, then place ¼ cup of butter in a preheated cookwell to melt the butter and combine 2 cups of all-purpose flour and pepper, then dredge the meat.
+User: I preheated the oven to 450 degrees and placed the butter in a cookwell, I also dredged the meat as required. What do I have to do next?
+Robot: Now, place the meat in the cookwell, stir, cover and cook the meat for approximately 20 minutes or until the meat turns brown.
+User: I placed the meat in a cookwell, stirred and covered it as required, I also let it cook for 20 minutes and the meat has turned golden brown. What is the next step that I need to take?
+Robot: Now, add the vegetables and cover, also reducing the temperature to 250 degrees, then slow cook for 1 and ½ hours to 2 hours or until the meat and vegetables are tender.
+User: I added the vegetables and reduced the temperature of the oven to 250 degrees, I also let it slow cook for 2 hours as required, the vegetables and meat are now all tender. Thank you for that. Can you please tell me what I need to do next?
+Robot: Now, add half the broth and 2 tbsp of Worcestershire sauce, then combine the remaining broth and cornstarch, whisk until they turn smooth and finally stir into a nice stew.
+User: I added the broth and the Worcestershire sauce, I also combined the broth and cornstarch, what is the next step that I need to take?
+Robot: Now, cover and let it slow cook for 30 minutes and continuously stir, then ladle into bowls and serve the meal.
+User: Thank youfor helping me cook an Irish Stew for a Crowd.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

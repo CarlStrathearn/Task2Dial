@@ -1,0 +1,33 @@
+R324 Healthy meatballs recipe https://www.bbc.co.uk/food/recipes/healthy_meatballs_05528
+
+This recipe takes 30-60 minutes to cook, serves 4 and contains 14 ingredients,  [''beef mince'', ''red onions'', '’mustard'', '’italian mixed herbs'', ''Worcestershire sauce'', ''smoked paprika'’, ''olive oil'', ''garlic cloves'', ''passata'', ''red peppers'', ''tomatoes'', ''fresh rosemary'', ''salt'', ''pepper'']
+
+User: I would like to cook Healthy meatballs today. What ingredients do I need to cook them?
+Robot: You will need 400g of lean beef mince, 2 chopped red onions, 2 tsp of French mustard, 1 heaped tsp of dried Italian mixed herbs, 1 tbsp of Worcestershire sauce and 1 tsp of smoked paprika for the meatballs.
+User: I have the ingredients ready for the meatballs, what about the red pepper and tomato sauce?
+Robot: You will need 4 tbsp of olive oil, 3 red onions, 6 garlic cloves, 450g of passata, 1 tsp of smoked paprika, 4 large red peppers, 4 fresh tomatoes, 2 sprigs of fresh rosemary, salt and pepper.
+User: I have all of the ingredients ready to cook the meatballs, please can you tell me where I have to start?
+Robot: Preheat the oven to 200 degrees celsius at Gas 6, then brush a baking tray with olive oil.
+User: I have preheated the oven to 200 degrees and brushed a baking tray with the olive oil, now what do I have to do?
+Robot: Ok, now in a large bowl, combine all of the meatball ingredients and mix them all together using your hands, then shape the mixture into 25 small meatballs.
+User: I have mixed all of the meatball ingredients and shaped them into 25 small meatballs, what do I have to do next?
+Robot: Now, place the meatballs on the baking tray and bake them for approximately 20 minutes, or until they turn light brown.
+User: I have put the meatballs on the baking tray and let them bake for 20 minutes, they have turned brown on each side, what do I do now?
+Robot: Next, in order to make the sauce, get a large frying pan and gently heat 4 tbsp of olive oil, add 3 red onions and fry them for 2-3 minutes until they become soft.
+User: I have heated the olive oil and the onions, what do I do now?
+Robot: Next add 6 finely chopped garlic cloves and put the lid on and continue to fry them over a gentle heat for about 5 minutes.
+User: I have added the garlic cloves, put the lid on and I heated them for 5 minutes, what do I do now?
+Robot: Now, add 450g of passata and make sure to season it with salt and pepper, after that add 1 tsp of smoked paprika and warm through gently for 2 minutes.
+User: I have added the passata and seasoned it with salt and pepper, I also added the paprika and warmed for 2 minutes, what now?
+Robot: Now add 4 large red peppers, 4 fresh tomatoes and 2 sprigs of fresh rosemary then stir them and cover the pan so that they simmer for 15 minutes.
+User: I have added the peppers, tomatoes and rosemary, I also stirred them and covered the pan as required. What is the next step that I have to take?
+Robot: Add the meatballs and cook them for 15 minutes over a very low heat, then turn off the heat and leave them for 10 minutes for the flavours to blend in nicely.
+User: I have added the meatballs and let them cook for 15 minutes over a low heat, what do I do now?
+Robot: Serve with brown rice or quinoa and enjoy the meal.
+User: Thank you for helping me cook Healthy meatballs.
+
+
+
+
+
+

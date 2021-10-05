@@ -1,0 +1,17 @@
+r395: Roasted Halibut or Sea Bass with Balsamic Garlic glaze. https://cookeatshare.com/recipes/roasted-halibut-or-sea-bass-with-balsamic-garlic-glaze-680
+
+
+This recipe takes 5 minutes to prepare, 15 minutes to cook, serves 4 and contains 7 ingredients,  ['sea bass or halibut', 'balsamic vinegar', 'olive oil', 'soy sauce', 'garlic’, 'salt', 'black pepper’]
+
+User: I would like to make Roasted Halibut or Sea Bass with Balsamic Garlic glaze.
+Robot: First preheat the oven to 220ºC.
+User: The oven is heated, what next?
+Robot: In a small bowl whisk 30ml of balsamic vinegar, 30ml of olive oil, 10ml of soy sauce, and 2 garlic cloves minced using a garlic press. Add in some salt and pepper to your taste. 
+User: I have  whisked those ingredients together, what now?
+Robot: Now put 900g of your chosen fish in a zip lock bag and add in the marinade from the small bowl. Turn the bag to coat evenly and place in a refrigerator for 1-2 hours. 
+User: I have  coated the fish with the marinade. What do I do now?
+Robot: Now, roast the fish in the oven using a roasting pan for about 10 minutes per 250mm of thickness. The fish should be flaky but still moist. 
+User: The fish has finished roasting, what is next?
+Robot: All that is left is to cut into serving pieces and enjoy along with the juices from the pan.
+User: Thanks for helping me make roasted halibut or sea bass with balsamic garlic glaze. 
+

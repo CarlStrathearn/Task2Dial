@@ -1,0 +1,22 @@
+r374: Roast chicken legs with potatoes, fennel and tomatoes https://www.bbc.co.uk/food/recipes/roast_chicken_legs_with_40931
+
+Roast chicken legs with potatoes, fennel and tomatoes takes less than 30 minutes to prepare and 30-60 minutes to cook, serves 2 and contains 16 ingredients,  [‘chicken’, ‘fennel bulbs’, 'charlotte potatoes', 'garlic', 'extra virgin olive oil', 'chicken legs’, 'thyme', 'cherry tomatoes’,'sea salt', 'ground pepper', 'flatleaf parsley', 'mint', 'basil’, 'capers', 'Dijon mustard', ‘olive oil’]
+
+User: I would like to make Roast chicken legs with potatoes, fennel and tomatoes.
+Robot: Firstly, trim and chop 2 fennel bulbs into 8 wedges and cook in a saucepan of boiling salted water for 5 minutes, until tender. Once complete, using a slotted spoon, transfer this to a bowl and keep the water in the pot boiling. 
+User: I have transferred the fennel, what next?
+Robot: Next peel 300g of charlotte potatoes and cut them into 5mm slices. Add these to the boiling water along with 5 unpeeled cloves of garlic cooking for 8 minutes until tender. Then drain the pot and add this to the bowl with the fennel.
+User:  I have cut and boiled the potatoes and added them to the fennel. What do I do now?
+Robot: Now, heat 1 tablespoon of oil in a flameproof casserole, or ovenproof frying pan. Next season two chicken legs with salt and ground black pepper, placing them skin side down on the pan. Cook each side for two minutes until there is a bit of colour on the skin. Once complete, remove from the heat and take the chicken legs out of the casserole dish or pan. 
+User: I have cooked the chicken, what comes next?
+Robot: Next preheat the oven to 200ºC, 180ºC Fan, or Gas mark 6. While the oven heats, add 1 tbsp of thyme leaves, and 100g of cherry tomatoes cut in half using a knife to the bowl with the fennel, garlic,  and potatoes. Pour in another 2 Tbsp of olive oil and season with salt and pepper. 
+User: The oven is ready and I have prepared the rest of the ingredients into the bowl. What comes next?
+Robot: Next tip the mixture into the pan and spread it evenly. Once the oven is ready cook over a low heat for 5 minutes so the potatoes start to go slightly crispy. 
+User: I have cooked the mixture, what is the next step?
+Robot: The next step is to place the chicken legs on top of the potato mixture. Add 2Tbsp of water to the pan, then place in the oven for 20 minutes until the chicken is cooked. In the meantime prepare the remaining ingredients for the salsa verde. 
+User: The chicken is in the oven, how do I make the salsa verde?
+Robot: To make the salsa verde chop 1Tbsp of flat leaf parsley, 1 Tbsp of mint, 1 Tbsp of basil, and 30g of capers. Place these in a bowl along with 1tsp of Dijon mustard and 2-4 Tbsp of olive oil and mix together. 
+User: I have made the salsa verde. What now?
+Robot: Once the chicken is ready, service immediately topped with the salsa verde. Enjoy!
+User: Thank you for helping me make Roast Chicken Legs with potatoes, fennel and tomatoes..
+

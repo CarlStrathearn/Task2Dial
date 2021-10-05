@@ -1,0 +1,17 @@
+r388: Grilled Salmon with Brazilian Garlic Marinade. https://cookeatshare.com/recipes/grilled-salmon-with-brazilian-garlic-marinade-789933
+
+
+This recipe takes 10 minutes to prepare, 12 minutes to cook, serves 4 and contains 10 ingredients,  ['salmon fillets', 'garlic', 'onion', 'olive oil', 'dry white wine’, 'ketchup', 'paprika’,'salt', 'ground black pepper', 'fresh basil']
+
+User: I would like to make Grilled Salmon with Brazillian Garlic Marinade.
+Robot: Using a food processor combine 6 peeled garlic cloves, half a medium onion chopped roughly with a knife; 60ml of olive oil, 60ml of dry white wine, 30g of ketchup, 30g of paprika, 1 tablespoon of salt and 1 tablespoon of pepper. Process this into a smooth puree.
+User: I have pureed the ingredients. What next?
+Robot: Next, add in 120g of fresh basil, chopped using a knife. Pulse this a few times until the leaves are finely diced. 
+User: I have added the basil, what now?
+Robot: Now, clean 4 salmon fillets and place them in a baking dish. Coat both sides thoroughly with the puree and cover the dish in a refrigerator for at least one hour. Preheat the grill to a high heat while waiting.
+User: I have heated the grill and waited while the food refrigerated. What is the next step?
+Robot: The next step is to oil the grate and grill the fillets skin side down, covered with a lid for 7-9 minutes. Flip them using a spatula and cook for another 3-4 minutes. 
+User: I have grilled the fillets on each side, what do I do now?
+Robot: Now you are ready to transfer these to a plate, and enjoy.
+User: Thank you for helping me make Grilled salmon with garlic marinade. 
+

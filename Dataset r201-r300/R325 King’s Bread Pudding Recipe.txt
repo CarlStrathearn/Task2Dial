@@ -1,0 +1,21 @@
+R325 King’s Bread Pudding Recipe https://cookeatshare.com/recipes/king-s-bread-pudding-745361
+
+This recipe takes 30 minutes to cook, serves 6 and contains 8 ingredients,  [''Hawaiian bread'', ''raisins'', '’milk'', '’butter'', ''sugar'', ''eggs'’, ''vanilla'', ''vanilla'', ''nutmeg'']
+
+User: Can you let me know what ingredients I need to make the King’s Bread Pudding please?
+Robot: For this recipe you will need  4 cups of cubed King’s Hawaiian Bread, ½ cup of raisins, 2 cups of milk, ¼ cup of butter, ½ cup of sugar, 2 beaten eggs, 1 tbsp of vanilla and ½ tsp of ground nutmeg.
+User: I have the ingredients ready, am I ready to start now?
+Robot: Yes. Heat the oven to 350 degrees fahrenheit, then combine the bread and ½ cup of raisins in a large bowl, then combine 2 cups of milk and ¼ cup of butter in a 1-quart saucepan.
+User: I have heated the oven to 350 degrees and combined the ingredients as required, now what do I have to do?
+Robot: Now, cook the ingredients over a medium heat until the butter is melted, do this for approximately 7 minutes, then pour the milk mixture over the bread and let it stand for 10 minutes.
+User: I have cooked the ingredients over a medium heat and then poured the milk mixture over the bread, what next?
+Robot: Now stir in all of the remaining ingredients and pour them into a greased 1 and ½ quarter casserole, then you will need to bake them for 50 minutes or until they set in the center.
+User: I have stirred the ingredients and poured them into the casserole, now what?
+Robot: Serve with warm rum or lemon sauce and enjoy the pudding.
+User: Thank you for helping me cook a King’s Bread Pudding.
+
+
+
+
+
+

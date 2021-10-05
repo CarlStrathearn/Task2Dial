@@ -1,0 +1,17 @@
+r393: Ginisang Monggo with Pork Pata. https://cookeatshare.com/recipes/ginisang-monggo-with-pork-pata-696259
+
+
+This recipe takes 20 minutes to prepare, 45 minutes to cook, serves 3-4 and contains 8 ingredients,  ['pork hocks', 'monggo beans', 'garlic', 'onion', 'tomato’, 'salt', 'pepper’,'water']
+
+User: I would like to make Ginisang Monggo with Pork pata
+Robot: First cook 240g of monggo beans with enough water to cover in a pot, until tender. While these cook, prepare a pan by adding oil and bringing it to the heat.
+User: The beans are cooking and the pan is hot, what now?
+Robot: Now peel and chop 3 garlic cloves, 1 onion and 1 tomato using a knife. Add these to the pan and saute. 
+User: I have  sauteed those ingredients, what comes next?
+Robot: Next, add 500g of pork hocks to the pan and simmer for a few minutes, adding some water using a jug or glass to make it tender. 
+User: I have  cooked the pork, what is the next step?
+Robot: Once both pots are tender, transfer the beans to the pan containing the pork and continue to simmer over a low heat for 15 minutes or until done. You can transfer the beans using a ladle. 
+User: I have  combined the pots and simmered them, what now?
+Robot: Now, add salt and pepper to taste and enjoy.
+User: Thanks for helping me make Ginisang Monggo with Pork Pata.
+

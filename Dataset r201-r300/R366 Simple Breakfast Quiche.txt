@@ -1,0 +1,27 @@
+R366 Simple Breakfast Quiche https://cookeatshare.com/recipes/simple-breakfast-quiche-642
+
+This recipe takes 35 minutes to cook, serves 8 and contains 8 ingredients,  [''bacon'', ''Swiss cheese'', '’butter'', '’eggs'', ''chopped onions'', ''salt'’, ''all-purpose flour'', ''milk'']
+
+User: I want to cook a Simple Breakfast Quiche, what ingredients do I need to get started?
+Robot: For this meal you will need the following ingredients, 8 slices of bacon, 4 ounces of shredded Swiss cheese, 2 tbsp of melted butter, 4 beaten eggs, ¼ cup of finely chopped onions, 1 tsp of salt, ¼ cup of all-purpose flour and 1 and ½ cups of milk.
+User: I have the ingredients ready, am I ready to start or do I need any other ingredients?
+Robot: No, you do not need anymore ingredients, you are ready to begin. Firstly, place 8 slices of bacon in a large and deep skillet and cook them over a medium high heat until they turn brown.
+User: I placed the bacon slices in a skillet and they are now brown and crispy. What do I need to do next?
+Robot: Now drain, crumble and set them aside, after that preheat the oven to 350 degrees fahrenheit and lightly grease a 9 inch pie pan.
+User: I put the bacon slices aside and preheated the oven to 350 degrees. What is the next step that I need to take?
+Robot:Line the bottom of the pie plate with 4 ounces of shredded Swiss cheese and crumbled bacon.
+User: I lined the bottom of the pie plate with the cheese and crumbled bacon, what do I need to do next?
+Robot:Combine 4 beaten eggs, 2 tbsp of butter, ¼ cup of finely chopped onions, 1 tsp of salt and ½ cup of milk, then whisk them together until smooth.
+User: I combined the eggs with the rest of the ingredients and whisked them together, now the mixture is all smooth, what next?
+Robot: Now, pour the mixture into the pie pan and brush the egg white on the trim of the crust, then bake in the preheated oven for 35 minutes until it sets.
+User: I poured the mixture into the pie pan and brushed the egg whites on the trims of the crust. What do I need to do next after I let it cook for 35 minutes?
+Robot: Serve the quiche hot or cold on a plate and enjoy.
+User: Thank you for helping me cook a Simple Breakfast Quiche.
+
+
+
+
+
+
+
+

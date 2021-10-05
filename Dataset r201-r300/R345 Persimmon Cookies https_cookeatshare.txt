@@ -1,0 +1,28 @@
+R345 Persimmon Cookies https://cookeatshare.com/recipes/persimmon-cookies-622
+
+This recipe takes 60 minutes to cook, serves 36 and contains 13 ingredients,  [''persimmons'', ''sugar'', '’brown sugar'', '’butter'', ''egg'', ''all-purpose flour'’, ''baking soda'', ''ground cinnamon'', ''vanilla extract'', ''cloves'', ''ground nutmeg'', ''salt'', ''walnuts'']
+
+User: I want to bake Persimmon Cookies today, what ingredients do I need?
+Robot: You will need 2 ripe persimmons, ½ cup of sugar, ½ cup of brown sugar, ½ cup of butter, 1 large egg, 2 cups of all-purpose flour, 1 tsp of baking soda, 1 tsp of ground cinnamon, 1 tsp of vanilla extract, ½ tsp of ground cloves, ½ tsp of ground nutmeg, ½ tsp of salt, 1 cup of coarsely chopped walnuts.
+User: I have the ingredients ready to make the Cookies, what is the first step that I have to take?
+Robot: Preheat the oven to 375 degrees, then lightly grease with cooking spray or butter a baking sheet with parchment paper.
+User: I have preheated the oven to 375 degrees and lightly greased the pan with cooking spray. What is the next step that I have to take?
+Robot: Now, mix together 2 cups of all-purpose flour, 1 tsp of baking soda, 1 tsp of ground cinnamon, 1 tsp of vanilla extract, ½ tsp of ground cloves, ½ tsp of ground nutmeg and ½ tsp of salt.
+User: I have mixed the ingredients required, thank you for that, what do I do next?
+Robot: Now, combine the butter with the white sugar and brown sugar, then stir them all together until they become creamy.
+User: I have combined the butter with the sugars and stirred them and are now creamy, what is the next step?
+Robot: Now gradually beat in 1 large egg and two persimmons, then add in the flour mixture and mix them well until it appears smooth.
+User: I have beaten the egg and the two persimmons and also added in the flour mixture and mixed them well, what is the next step that I have to take?
+Robot: Now stir in the chopped nuts or the pecans, then drop small piles of the mix onto the baking sheet and bake in the oven for 15 minutes.
+User: I stirred the chopped nuts and dropped the small piles on the baking sheet and I let it bake in the oven for 15 minutes. What do I have to do next?
+Robot: Now remove the cookies from the oven and enjoy.
+User: Thank you  for helping me cook Persimmon Cookies.
+
+
+
+
+
+
+
+
+

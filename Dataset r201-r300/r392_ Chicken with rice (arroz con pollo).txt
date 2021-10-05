@@ -1,0 +1,29 @@
+r392: Chicken with rice (arroz con pollo). https://www.bbc.co.uk/food/recipes/chickenwithricearroz_92264
+
+
+This recipe takes 30 minutes to prepare, 60-120 minutes to cook, serves 4 and contains 22 ingredients,  ['roast chicken carcass', 'onion', 'carrot', 'celery', 'leek’, 'garlic', 'bay leaves’,'parsley', 'water', 'olive oil', 'red onion', 'cumin seeds’, 'red chilli', 'smoked paprika', ‘tomatoes’, ‘red pepper’, ‘lager’, ‘long-grain rice’, ‘peas’, ‘cooked leftover chicken’, ‘fresh coriander’, ‘limes’]
+
+User: I would like to make Chicken with Rice.
+Robot: Firstly cook a whole chicken in the oven, following the instructions on the packaging. Next, to prepare the stock, remove the meat from the carcass and set aside. Break the carcass into 2-3 pieces and place into a saucepan large enough to hold them. 
+User: I have  prepared the chicken carcass. What do I do next?
+Robot: Next add in the remaining stock ingredients. Using a peeler and a knife, peel and cut in half one onion and one carrot. Trim 1 celery stalk and 1 leek. Peel two garlic cloves and add all of these into the saucepan with the chicken along with 2 fresh bay leaves and a small bunch of parsley stalks. Pour over 1l of cold water.
+User: I have  prepared the chicken stock, what do I do with it?
+Robot: Now bring the mixture to the boil and reduce the heat to a simmer. Allow this to simmer, covered, for 40-45 minutes. 
+User: The stock has finished simmering, what is the next step?
+Robot: Next, strain the stock through a fine sieve into a container. You should have yielded about 800ml of stock, otherwise top this up with hot water. 
+User: I have  got the stock ready, what now?
+Robot: Now, heat 30ml of olive oil in a separate pan over a high heat. Add 1 peeled onion roughly chopped using a knife and 1 tsp of cumin seeds. Stir well using a spatula and fry for 1-2 minutes.
+User: I have  fried the onion and cumin in the pan, what next?
+Robot: Peel and slice  3 cloves of garlic using a knife and add to the pan. Slice and add 1 red chilli. Using a peeler, peel 1 large carrot and cut into half down the side. Then chop each half into 1cm pieces. Add all of these and a sprinkle of smoked paprika to the pan. Continue to fry, stirring well using a spatula until the carrots have softened. 
+User: I have  fried the other ingredients. What do I do now?
+Robot: Now, chop 250g of tomatoes using a knife, as well as 1 red bell pepper. Add these to the pan and cook until the mixture is simmering gently. Cover with a lid and cook until the sauce thickens for 8-10 minutes. 
+User: I have  cooked the mixture and the sauce has thickened. What is next?
+Robot: Next, add in 330ml of lager, stirring well and bringing to the boil. Then add the chicken stock prepared earlier and return to the boil again. Stir in 400g of long grain rice and reduce to a simmer, covering the pan for 25-30 minutes. 
+User: The liquids were added and now the rice has finished simmering, now what?
+Robot: Now, turn the heat down to its lowest setting and simmer for a further 8-10 minutes or until the rice has absorbed all of the water and is tender. Once finished, remove from the heat.
+User: The rice is cooked and I have  removed it from the heat, what is next?
+Robot: Next stir in 200g of peas, 600g of the chicken removed from the carcass, 40g of coriander leaves chopped up using a knife leaving a little extra as garnish. Juice 1 and a half limes using a manual juicer and add it in, stir until well combined using a spoon. Season with salt and pepper to taste 
+User: I have  combined those into the rice, what do I do next?
+Robot: Next serve onto plates and sprinkle the remaining coriander over each plate, garnishing with a lime wedge. Enjoy.
+User: Thank you for helping me make Chicken with rice. 
+

@@ -1,0 +1,29 @@
+R344 Meatball Sandwich https://www.bbc.co.uk/food/recipes/meatballsandtomatosa_90717
+
+This recipe takes 10-30 minutes to cook, serves 1 and contains 10 ingredients,  [''minced beef'', ''garlic clove'', '’olive oil'', '’onion'', ''tomatoes'', ''ketchup'’, ''fresh parsley'', ''ground black pepper'', ''baguette'', ''green salad'']
+
+User: I want to make a Meatball Sandwich, what ingredients do I need?
+Robot: You will need 100g of minced beef, 1 small garlic clove, 4 tsp of olive oil, ½ onion, 1 garlic clove, 3 chopped tomatoes, 1 tbsp of tomato ketchup, 2 tbsp of chopped fresh parsley, ground black pepper, baguette and simple green salad.
+User: I have the ingredients ready, thank you so much, are there any other ingredients that I will need or am I ready to start?
+Robot: You are ready to begin. In order to make the meatballs, put 100g of minced beef and 1 garlic clove in a bowl and mix them well to combine, then shape them into small meatballs.
+User: I have put the minced beef and the garlic clove in a bowl and mixed them well, what do I have to do next?
+Robot: Now, heat 4 tsp of olive oil in a frying pan and fry the meatballs for approximately 5 minutes, turning them frequently so that they turn brown all over and cook well.
+User: I have heated the olive oil in a frying pan and fried the meatballs for 5 minutes, now what do I have to do?
+Robot: Now, remove the meatballs from the pan and set them aside.
+User: I have removed the meatballs from the pan and put them aside, what do I do next?
+Robot: Now, in order to make the sauce, fry ½ a finely chopped onion and 1 garlic clove in the pan that the meatballs were cooked in for approximately 3 minutes or until they start to become soft.
+User: I have fried the onions and garlic in the same pan for 3 minutes as required, now what do I do?
+Robot: Now, stir in the tomatoes with the ketchup and season with some salt and pepper, then let them simmer for 3 minutes, or until the tomatoes become tender.
+User: I have stirred the tomatoes with the ketchup and seasoned it with salt and pepper, I also let the sauce simmer for 3 minutes. What is the next step that I have to take?
+Robot: Good, now add 2 tbsp of fresh chopped parsley and stir it in if you are using it, then return the meatballs to the pan to warm them with the sauce.
+User: I have added the parsley and stirred it in with the rest of the ingredients, what next?
+Robot: Now spoon the meatballs with the sauce into the baguette and serve with a green salad alongside and enjoy the meal.
+User: Thank you for helping me make a Meatball Sandwich.
+
+
+
+
+
+
+
+

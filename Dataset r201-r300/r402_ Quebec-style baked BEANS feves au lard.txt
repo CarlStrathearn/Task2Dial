@@ -1,0 +1,23 @@
+r402: Quebec-style baked BEANS feves au lard. https://cookeatshare.com/recipes/quebec-style-baked-beans-feves-au-lard-777004
+
+
+This recipe takes 12 hours to prepare, 4-8 hours to cook, serves 8 and contains 9 ingredients,  ['dried white beans', 'baking soda', 'cured skin on pork belly ham', 'medium sweet onion', 'maple syrup’, 'fancy molasses', 'brown sugar’,'sea salt', 'ground mustard']
+
+User: I would like to make Quebec-Style Baked Beans.
+Robot: First, in a very large bowl rinse 900g of dried baked beans thoroughly. Sprinkle the beans with 10g of baking soda and stir together. Cover the beans with cold water up to the rim of the bowl and soak for 12 hours.
+User: I have  left the beans to soak overnight. What is next?
+Robot: Next, preheat the oven to 150ºC and prepare a baking sheet. 
+User: The oven has heated, what now?
+Robot: Now, prepare the sweet syrup mix. In a small cup or jug pour 50ml of maple syrup, 50ml of fancy molasses, 50g of brown sugar, 5g of sea salt, and 5g of ground mustard. Stir these together well using a spoon or whisk and set aside. 
+User: I have  mixed together the ingredients for the sweet syrup. What is the next step?
+Robot: Peel one whole onion and set aside, unchopped. Next, using a knife, slice 250g of cured pork belly ham with the skin off into about 8 slices and set this aside with the onion.
+User: I peeled the onion and sliced the ham, now what?
+Robot: Now, drain the beans which you left to soak using a colander. Then in a large crock pot or dutch oven build layers with your ingredients. First place 4 slices of ham at the bottom, and spread half of the beans over the top.
+User: I have  started layering in the slow cooker. What do I add next?
+Robot: Next place the remaining 4 slices of ham on the beans and place the whole onion in the centre, on top of these sleeves. Spread the remaining beans over the top of this. 
+User: I have  added the rest of the ham and beans, as well as the onion. Anything else?
+Robot: Now pour in the sweet syrup mixture all over the ingredients. Pour in enough water to cover the beans and place the cover on top.
+User: I have  added in the syrup and water, what now?
+Robot: Now, place the pot in the oven on top of the baking sheet. Bake for 150ºC for 4 hours or 120º for 8. Once complete, serve warm and enjoy.
+User: Thank you for helping me make Quebec-Style Baked Beans.
+

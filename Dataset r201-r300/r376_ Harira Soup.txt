@@ -1,0 +1,16 @@
+r376: Harira Soup. https://cookeatshare.com/recipes/harira-soup-44647
+
+
+Harira Soup takes 15 minutes to prepare, 120 minutes to cook, serves 10 and contains 20 ingredients,  ['canned chickpeas', 'lamb or beef stew meat', 'chicken thighs', 'large onions', 'dry brown lentils’, 'turmeric', 'ground cinnamon’,'paprika', 'ground cumin', 'dry chicken, beef or vegetable stock', 'water', 'salt’, 'ground pepper', 'rice', ‘cilantro’, ‘flat leaf parsley’, ‘celery’, ‘canned tomatoes’, ‘flour’, ‘lemons’]
+
+User: I would like to make Harira Soup.
+Robot: Firstly in a large pot add two 400g cans of drained chickpeas. Then using a knife chop  225g of lamb or beef stew meat, 2 chicken thighs with skin removed, two large onions, and add to the pot. Add in 175ml of lentils, 5g of turmeric, 3.5g of cumin, 2.5g of cinnamon, 3.5g of paprika, 5g of concentrated stock, and 2.8 liters of water. Add in some salt and pepper to your taste, cover with a lid and bring to the boil, simmering gently for 1.5 hours. 
+User: I have added in all of those ingredients and the pot has finished boiling, what do I do now?
+Robot: Now, remove the lid and add 120ml of rice. Using a knife chop  75g of cilantro, 75g of parsley, 15g of celery, and add to the pot. Add in two 400g cans of chopped tomatoes and cook for another 20 minutes.
+User: Those ingredients were added and cooked for another 20 minutes. What next?
+Robot: Next mix one heaped tablespoon of flour with 120ml of water in a small bowl and add this to the soup pot, stirring gently for another 5 minutes.
+User: I have mixed in the paste, what now?
+Robot: Now, the soup is ready to serve. Cut some lemon wedges to serve on the side of your soup bowls, and enjoy!
+User: Thank you for helping me make Harira Soup.
+
+

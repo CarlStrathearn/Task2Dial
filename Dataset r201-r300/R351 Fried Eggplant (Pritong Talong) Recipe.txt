@@ -1,0 +1,27 @@
+R351 Fried Eggplant (Pritong Talong) Recipe https://cookeatshare.com/recipes/fried-eggplant-pritong-talong-672988
+
+This recipe takes 5 minutes to cook, serves 3 and contains 4 ingredients,  [''eggplant'', ''salt'', '’pepper'', '’canola oil'']
+
+User: I want to make Fried Eggplant today, what ingredients do I need?
+Robot: Sure, you will need the following ingredients: 3 pieces of eggplant, salt, pepper and canola oil.
+User: I have the ingredients, am I ready to start or do I need any other ingredients too?
+Robot: You are ready to start as this is a fairly simple meal to cook. Firstly, cut the eggplants into halves and cut them into 3 inch lengths, make sure to also wash them thoroughly.
+User: I have cut the eggplants into halves and cut them into 3 inch lengths, I also washed them thoroughly. What do I have to do next?
+Robot: Now brush the eggplant with oil, then season with a bit of salt and pepper.
+User: I have brushed the eggplant with oil and seasoned it with some salt and pepper, what next?
+Robot: Now heat up the pan on a medium heat, then put the remaining tablespoon of oil on the pan to coat it.
+User: I heated the pan on medium heat and added the remaining oil to the pan, what do I have to do next?
+Robot: Put the eggplants in, cut down the sides first and leave it for about 4 minutes or until it turns golden brown.
+User: I have put the eggplants and cut down the sides, I also left it for 4 minutes, what do I have to do next?
+Robot: Flip to cook on the other side and if it is soft and no resistance to the touch.
+User: I have let it cook on each side and it is now all soft, what next?
+Robot: Serve with a lemon and enjoy.
+User: Thank you for helping me cook Fried Eggplant (Pritong Talong) Recipe.
+
+
+
+
+
+
+
+

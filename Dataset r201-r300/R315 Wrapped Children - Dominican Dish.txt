@@ -1,0 +1,21 @@
+R315 Wrapped Children - Dominican Dish https://cookeatshare.com/recipes/wrapped-children-dominican-traditional-dish-574656
+
+This recipe takes 20 minutes to cook, serves 4 and contains 16 ingredients,  [''ground pork'', ''red onion'', '’sweet pepper'', '’cilantro'', ''tomato paste'', ''garlic paste'’, ''oregano'', ''black pepper'', ''cayenne pepper'', ''saffron'', ''cubanela pepper'', ''cooked rice'', ''chicken broth'', ''cabbage'', ''olive oil'', ''salt'']
+
+User: I want to cook Wrapped Children, a classic Dominican dish. What ingredients do I need to make this meal?
+Robot: You will need 1 lb of ground pork, 1 red onion, 1 red sweet pepper, cilantro, 2 spoons of tomato paste, 1 garlic paste, 1 tbsp of oregano, ½ spoon of black pepper, ½ spoon of cayenne pepper, ½ spoon of saffron, 1 cuban pepper, 2 cups of cooked rice, 1 cube chicken broth, 1 medium cabbage, olive oil and salt to taste, do you have the ingredients ready?
+User: I have all of the ingredients ready, what is the first step that I have to take?
+Robot: First, boil 1 medium cabbage in a pot where it can fit whole. Then, as it cooks, take out the whole leaves and separate them.
+User: I boiled the cabbage and after it cooked I took out the leaves and separated them. What should I do next? 
+Robot: Prepare 2 cups of cooked rice, then prepare the ground meat with 1 red onion, pepper, cilantro, leek, 2 spoons of tomato sauce, garlic paste, oregano, black pepper and cayenne pepper, once they are all ready then separate them.
+User: I have prepared the ingredients that are needed, I have also separated them, what do I have to do next?
+Robot: Next, to mount the wrapped children, mix the rice with the ground meat or soy, then extend the cabbage leaves and add them to the filling.
+User: I have mixed the rice with the ground meat and also extended the cabbage leaves and added them to the filling, what next?
+Robot: Now, place them in a boiler and once they are done, add around a cup of water and a bit of salt, then let them cook on a slow fire for 15 minutes, then after 15 minutes take them out and serve them on a plate and enjoy the meal.
+User: Thank you for helping me cook Wrapped Children - Dominican Dish.
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+R327 Apricot Cheese Pie Recipe https://cookeatshare.com/recipes/apricot-cheese-pie-68672
+
+This recipe takes 30 minutes to cook, serves 8 and contains 13 ingredients,  [''oats'', ''melted butter'', '’cinnamon'', '’ground nutmeg'', ''cottage cheese'', ''reduced calorie cream'’, ''large eggs'', ''sliced dates'', ''pineapple juice'', ''vanilla extract'', ''orange zest'', ''cornstarch'', ''apricots'']
+
+User: I would like to make an Apricot Cheese Pie today, what ingredients do I need?
+Robot: Sure, you will need 1 and ¼ cups of quick oats, ¼ cup of melted butter, ¼ tsp of cinnamon, ⅛ tsp of ground nutmeg, 1 cup of cottage cheese, 1 pack of reduced calorie cream, 3 large eggs, ½ cup of sliced dates, ½ cup of pineapple juice, 1 tsp of vanilla extract, 1 tsp of grated orange zest, ¾ tsp of cornstarch and 1 can of apricots, got that?
+User: I have all of the ingredients needed, what is the first step that I have to take?
+Robot: Combine ¼ cup of oats, ¼ cup of melted butter, ¼ tsp of cinnamon and ¼ tsp of nutmeg in a small bowl and then press the mix onto the bottom and up the sides of a 9 inch pie plate and bake at 425 degrees for approximately 7 minutes.
+User: I have combined the ingredients and pressed the mix on the bottom as required, what do I do next?
+Robot: Next, combine 1 cup of cottage cheese and cream cheese, 3 large eggs, ½ cup of sliced dates and ⅓ cups of pineapple juice and the remaining nutmeg in a food processor or in a blender, depending on your choice.
+User: I have combined the ingredients into a food processor, what is the next step that I have to take?
+Robot: Now pour in the cooled crust and let the ingredients bake at 350 degrees for 30 minutes until the filling is set and refrigerate for at least 1 hour, got that?
+User: I have poured in the cooled crust and I let the ingredients bake at 350 degrees for 30 minutes, what do I do now?
+Robot: Now, combine the remaining pineapple juice and the ¾ tsp of cornstarch in a smaller saucepan, then heat so that it boils and make sure to stir constantly, got that?
+User: I have combined the pineapple juice and the cornstarch in a smaller saucepan and I let it heat, what next?
+Robot: Arrange the liquid by removing the apricot halves on top of the cheese filling and spoon the pineapple glaze, then let it chill, got that?
+User: I have removed the apricot halves on top of the cheese and let it chill, what next?
+Robot: Serve and enjoy the pie.
+User: Thank you for helping me cook an Apricot Cheese Pie.
+
+
+
+
+
+

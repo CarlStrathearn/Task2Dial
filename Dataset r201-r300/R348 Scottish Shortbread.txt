@@ -1,0 +1,27 @@
+R348 Scottish Shortbread https://cookeatshare.com/recipes/scottish-shortbread-351813
+
+This recipe takes 10 minutes to cook, serves 40 and contains 4 ingredients,  [''flour'', ''rice flour'', '’granulated sugar'', '’pure butter'']
+
+User: Can you please let me know what ingredients I will need to make Scottish Shortbread please?
+Robot: Sure, you will need ¼ cups of flour, ¼ cups of rice flour, ¼ cup of granulated sugar and ¼ sticks of pure butter.
+User: I have the ingredients ready. Am I ready to start?
+Robot: You can start. Sift or whisk the dry ingredients into a bowl, then cut ¼ sticks of butter into pieces and then add it to the bowl.
+User: I have whisked the dry ingredients and whisked it with the butter inside, what is the next step that I have to take?
+Robot: Next with your hands knead into a firm dough, then place the dough on a floured board and roll it into ⅓ inch thickness.
+User: I have placed the dough on a board and rolled it into the required dimension, what is the next step?
+Robot: Cut the dough with a 2-inch round cookie cutter or with a sharp knife into small triangles or finger shapes and after that place it on an ungreased cookie sheet.
+User: I have cut the dough with a cookie cutter into small triangles and placed it on an ungreased cookie sheet. What is the next step that I have to take?
+Robot: Prick each cookie three times with a toothpick or with a fork and sprinkle ¼ cup of granulated sugar over the top and bake at 375 degrees fahrenheit.
+User: I have pricked the cookies with a fork and sprinkled over the sugar on top, I also let it cook for 375 degrees as required, could you please tell me what I have to do next?
+Robot: Now after the cookies have cooked, remove them from the oven and while they are still hot sprinkle the tops with some more granulated sugar, then let it cool down in an airtight container at room temperature.
+User: I have taken the cookies out of the oven and sprinkled some more sugar on top, I have also let the cookies cool down. What is the next step I have to take now?
+Robot: Serve the cookies on a plate and enjoy them.
+User: Thank you for helping me cook Scottish Shortbread.
+
+
+
+
+
+
+
+

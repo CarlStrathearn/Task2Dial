@@ -1,0 +1,29 @@
+r373: Seafood risotto https://www.bbc.co.uk/food/recipes/seafoodrisotto_5522
+
+
+Seafood risotto takes 30-60 minutes to prepare and 30-60 minutes to cook, serves 4-6 and contains 20 ingredients,  ['olive oil', 'garlic', 'carrot', 'celery', 'onion’, 'leek', 'red chilli’,'tomato', 'saffron', 'fish stock', 'mussels', 'prawns’, 'monkfish', 'squid', ‘butter’, ‘shallots’, ‘risotto rice’, ‘dry white wine’, ‘parmesan’]
+
+User: I would like to make Seafood Risotto
+Robot: First peel off the shells of 450g of prawns. Keep the shells to the side for the stock later and set the prawns aside. 
+User: I have prepared the prawns, what next?
+Robot: Next wash 36 small mussels by scraping them clean and pulling out the beards. Then open by placing in a pan with a splash of water, covering tightly and setting over a high heat until they open. 
+User: Okay the mussels are open. What now?
+Robot: Now, strain the mussels through a colander to remove any grit, using a bowl to keep the liquid for the stock. Then remove the meat from all but 8 of the shells, discarding the empty shells. Set this aside for now.
+User: I have prepared the mussel and set them to the side. What is the next step?
+Robot: Next we are going to make the stock. Heat 25ml of olive oil in a large pan and add 1 clove of garlic, chopped using a knife. Then, using the knife chop 1 carrot, 1 celery, 1 leek, 1 onion, and ¼ of a chilli, and add to the pan. Fry this for 5 minutes without letting it colour.
+User: I have added the ingredients and fried them for 5 minutes. What do I do now?
+Robot: Now add in the prawn shells, cooking for a couple of minutes. Then using a knife, chop 1 tomato and add to the pan. Add ⅛ tsp of saffron, 900ml, and the cooking liquid from the mussels to the pan. Bring to boil and let this simmer for 30 minutes.
+User: I added those in and let it boil and simmer for 30 minutes. What next?
+Robot: Next pour the contents into a container through a conical sieve and using the back of a ladle, push through the  conical sieve to extract as much flavour as possible. 
+User: Okay I have extracted the stock. What do I do next?
+Robot: We are now going to make the risotto. First melt 50g of butter in a heavy-based pan, adding in 2 shallot and 1 clove of garlic, both chopped using a knife. Sweat these until softened. 
+User: The ingredients in the pan have softened, what next?
+Robot: Add in 350g of risotto rice and stir for a couple of minutes, until coated with butter. Next add 120ml of dry white wine bringing the pan to the boil and removing from the heat, allowing the rice to absorb all of the liquid.
+User: I have added in the rice and allowed it to absorb the liquid, what next?
+Robot: Next return the pan to the heat and add the shellfish stock you prepared earlier in three stages, allowing the liquid to be absorbed each time. Stir continuously until the stock is almost completely absorbed. 
+User: Okay, I have allowed the rice to absorb the stock. What next?
+Robot: When the rice is tender but still firm to bite, grate in 25g of parmesan. The remaining stock will be absorbed by the cheese. While this is cooking, brush the remaining seafood with olive oil including 50g of squid, and 100g of monkfish fillet, both thinly slice using a knife. Grill these for 3-4 minutes. 
+User: I have finished cooking those ingredients. What now?
+Robot: Now, take the pan off the heat and carefully mix the remaining seafood to the risotto. Serve with a few pieces on the top for garnish.
+User: Thank you for helping me make Seafood Risotto. 
+

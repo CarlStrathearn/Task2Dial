@@ -1,0 +1,13 @@
+r398: Apache Rattlesnake Fry. https://cookeatshare.com/recipes/apache-rattlesnake-fry-684708
+
+
+This recipe takes 24 hours to prepare, 15  minutes to cook, serves 8 and contains 13 ingredients,  [60-100cm rattlesnake', 'shortening', 'flour', 'milk', 'paprika’, 'onion powder', 'garlic juice’,'ground cayenne pepper', 'black pepper', 'oregano', 'rosemary', 'salt’]
+
+User: I would like to make Apache Rattlesnake Fry
+Robot: First skin, clean, and rinse the rattlesnake using a knife. In a plastic mixing bowl, cover the snake with 720ml of milk and a splash of garlic juice. Refrigerate this overnight. 
+User: The snake is ready and has been chilling overnight. What now?
+Robot: Now pat the snake dry with a tea towel or paper towel and cut into 3 pieces using a knife. Season this with 1 tsp of paprika, sprinkles of onion powder, ground cayenne pepper, black pepper and salt. 
+User: I have  seasoned the snake, what do I do next?
+Robot: Next, add a dash of white pepper, oregano, and rosemary to 120g of flour on a plate. Heat some shortening in a pan for deep frying and lightly flour the snake before frying until golden brown. Serve and enjoy.
+User: Thanks for helping me make Apache Rattlesnake Fry.
+

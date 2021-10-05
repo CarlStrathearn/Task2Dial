@@ -1,0 +1,23 @@
+R359 Filipino Hotcake https://cookeatshare.com/recipes/filipino-hotcake-pancake-848549
+
+This recipe takes 20 minutes to cook, serves 5 and contains 8 ingredients,  [''flour'', ''baking powder'', '’sugar'', '’salt'', ''milk'', ''eggs'’, ''butter'', ''yellow food color'']
+
+User: I would like to bake some Filipino Hotcakes today, could you tell me the ingredients I will need please?
+Robot: In order to bake Filipino Hotcakes you will need the following ingredients, 2 cups of all-purpose flour, 2 tsp of baking powder, ¾ cups of sugar, a pinch of salt, 2 cups of milk, 2 eggs, 2 tbsp of butter and a dash of yellow food coloring.
+User: I have the ingredients ready, thank you, am I ready to begin?
+Robot: Firstly, cream the sugar and 2 tbsp of oil, then beat them with the eggs.
+User: I have creamed the sugar with the oil and beaten the eggs, what do I have to do next?
+Robot: Now, stir it in with 2 cups of milk, add 2 tsp of baking powder and a pinch of salt, then slowly add the flour and mix them all well in a bowl.
+User: I have stirred it in with milk and also added the baking powder with a pinch of salt, now what do I have to do?
+Robot: Next, add the yellow food color and pour ¼ cup of batter to the greased & heated non-stick pan.
+User: I have added the yellow food color and poured the batter to the non-stick pan as required, now what do I have to do ?
+Robot: Next when the bubbles appear and form holes, flip the hotcakes and serve them hot.
+User: Thank you for helping me cook Filipino Hotcakes.
+
+
+
+
+
+
+
+

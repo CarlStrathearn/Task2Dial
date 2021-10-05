@@ -1,0 +1,23 @@
+R355 Strawberry Danish Dessert Recipe https://cookeatshare.com/recipes/strawberry-danish-dessert-472129
+
+This recipe takes 45 minutes to cook, serves 12 and contains 6 ingredients,  [''cake mix'', ''cream cheese'', '’powder sugar'', '’cool whip'', ''danish dessert'', ''strawberries'’]
+
+User: I want to bake a Strawberry Danish Dessert, could you please tell me the ingredients that I will need?
+Robot: You will need the following ingredients: 1 Angel Food Cake mix, 1-8 oz pkg of Cream Cheese, 1 cup of powdered sugar, 2-8 oz of cool whip, 1 box of Danish dessert and strawberries.
+User: I have the ingredients at hand, do I need any other ingredients or can I start?
+Robot: You are ready to start. Bake the cake according to the package directions, then mix together 8 oz of cream cheese, 1 cup of powdered sugar and 8 oz of cool whip.
+User: I have baked the cake according to the instructions and mixed the ingredients as required, what do I do next?
+Robot: When the cake is cool, tear it into pieces and stir into the cream cheese mixture, then place it into a 9x13 pan.
+User: I have torn it into pieces and stirred it into the cream cheese mixture, what do I have to do next?
+Robot: Now make the Danish dessert according to the package and add strawberries to the dessert and when it is cool, pour over the cake mixture.
+User: I have added the strawberries to the dessert and poured it over the cake mixture, what next?
+Robot: Now, let it refrigerate and after that serve the dessert on a plate and enjoy.
+User: Thank you for helping me bake a Strawberry Danish Dessert.
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+r400: Chicken chilli  https://www.bbc.co.uk/food/recipes/chicken_con_carne_27415
+
+
+This recipe takes 30 minutes to prepare, 30-60 minutes to cook, serves 4 and contains 20 ingredients,  ['olive oil', 'red onion', 'garlic', 'oregano', 'bay leaf’, 'cumin', 'chilli powder’,'smoked paprika', 'coriander', 'chicken thighs', 'kidney beans', 'passata’, 'chicken stock', 'vinegar', ‘sea salt’, ‘ground black pepper’, ‘dark chocolate’, ‘rice’, ‘avocado’, ‘sour cream’]
+
+User: I would like to make chicken chilli. 
+Robot: First heat 30ml of olive oil in a saucepan. Slice 1 red onion using a knife and gently fry for 10 minutes or until soft.
+User: I have  fried the onion, what next?
+Robot: Next, use a knife to chop and add in 2 finely chopped cloves of garlic, 1 tsp of dried oregano, 1 bay leaf, 1 tsp of ground cumin, a sprinkle of chilli powder to taste, and 1 tsp of smoked paprika. Finely chop a bunch of coriander stalks and roughly chop the leaves. Add this to the pan with the rest of the ingredients, continuing to cook on a low heat for a minute.
+User: I have  added those ingredients to the pan and cooked them, what do I do now?
+Robot: Now, remove the skin and bones from 4 chicken thighs and cut them into chunks using a knife. Add these to the pan. Drain and rinse 2 400g tins of kidney beans and add these to the pan along with 250g of passata and 200ml of chicken stock. Add in 1 tsp of cider vinegar and sea salt and bring this to the boil.
+User: I have  added the chicken and other ingredients and brought them to the boil, what is the next step?
+Robot: Next reduce the heat and cook gently for 15 minutes, stirring occasionally with a wooden spoon. Cook your rice with enough water while you wait. Stir in 2-3 squares of dark chocolate into the pan and cook for another 5 minutes. 
+User: I have  cooked the ingredients and added in the chocolate. What’s next?
+Robot: Next taste and season with salt and pepper, scatter over the coriander leaves and serve with the rice, sliced avocado and a dollop of sour cream. Enjoy.
+User: Thank you for helping me make Chicken Chilli. 
+

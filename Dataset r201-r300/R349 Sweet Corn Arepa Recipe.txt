@@ -1,0 +1,23 @@
+R349 Sweet Corn Arepa Recipe https://cookeatshare.com/recipes/sweet-corn-arepa-567808
+
+This recipe takes 25 minutes to cook, serves 8 and contains 9 ingredients,  [''corn flour'', ''evaporated milk'', '’raisins'', '’vanilla'', ''butter'', ''coconut milk'’, ''sugar'', ''cinnamon'', ''salt'']
+
+User: I want to make some Sweet Corn Arepas today, what ingredients do I need?
+Robot: You will need the following ingredients, 1lb of corn flour, 1 can of evaporated milk, 1 small box of raisins, 1 tsp of vanilla, 1 tsp of butter, 1 can of coconut milk, 1 cup of sugar, 1 piece of cinnamon and ½ tsp of salt.
+User: I have the ingredients ready, thank you for that, do I need anymore ingredients or can I start?
+Robot: Get 1 lb of corn flour moist with the milk and then add the 1 box of raisins and the 1 tsp of vanilla.
+User: I have gotten the flour moist with the milk and added the raisins, what do I have to do next?
+Robot: In a separate pot put 1 tsp of butter, 1 cup of sugar, ½ tsp of salt, 1 piece of cinnamon and 1 can of coconut milk and when it is about to boil, add the flour and move constantly for 5 minutes until it dries out.
+User: I have put the butter, sugar, salt and the cinnamon piece and moved them constantly for 5 minutes as required, what do I have to do next?
+Robot: Now, turn the fire off and put in a mold in the oven at a very high fire until it turns into a golden color.
+User: I have turned the fire off and inserted the mold inside the oven, what next?
+Robot: Now, let it cool, serve and enjoy the Arepas.
+User: Thank you for helping me cook Sweet Corn Arepa.
+
+
+
+
+
+
+
+

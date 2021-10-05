@@ -1,0 +1,25 @@
+R341 Cauliflower & White Bean Saute Recipe https://cookeatshare.com/recipes/cauliflower-white-bean-saut-31958
+
+This recipe takes 10 minutes to cook, serves 4-6 and contains 9 ingredients,  [''cauliflower'', ''button mushrooms'', '’celery'', '’shallots'', ''cannellini beans'', ''Italian parsley'’, ''olive oil'', ''sea salt'', ''cracked pepper'']
+
+User: I want to cook a Cauliflower & White Bean Saute, what ingredients do I need to cook this meal?
+Robot: You will need the following ingredients, 1 cauliflower head, 10 button mushrooms, 1 stalk of celery, 2 sliced shallots, 15 canned cannellini beans, 2 tbsp of Italian parsley, 2 tbsp of extra virgin olive oil, sea salt and cracked pepper, got that?
+User: I have the ingredients ready, are there any other ingredients that I need or am I ready to start?
+Robot: You are ready to start, first place 10 buttoned mushrooms in a large pan over a medium high heat and do not move it, then let them sit and absorb the heat.
+User: I have added the mushrooms in a large pan and let it heat over a medium heat, what do I have to do next?
+Robot: Next, the mushrooms will start to sizzle and tan and shrivel around the edges, then move the pan away from the heat and add 2 tbsp of extra virgin olive oil.
+User: I have moved the pan away from the heat and added the olive oil, what is the next step that I have to take?
+Robot: Now, add 1 stalk of celery, 2 shallots and 1 cauliflower and saute until it becomes tender for approximately 6 minutes.
+User: I have added the ingredients, thank you for that, now what do I have to do?
+Robot: Now add 15 oz of cannellini beans and saute until the beans are heated well for about 2 minutes, then when the cauliflower is tender, add 2 tbsp of chopped Italian parsley.
+User: I have added the beans and sauteed the beans for 2 minutes as required, I also added the Italian parsley, could you please tell me what I have to do next?
+Robot: Next you serve the meal as a side dish with salmon or pork or chicken and enjoy the meal.
+User: Thank you for helping me cook Cauliflower & White Bean Saute.
+
+
+
+
+
+
+
+

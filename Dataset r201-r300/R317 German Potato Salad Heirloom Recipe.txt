@@ -1,0 +1,33 @@
+R317 German Potato Salad Heirloom Recipe https://cookeatshare.com/recipes/german-potato-salad-heirloom-recipe-749990
+
+This recipe takes 15 minutes to cook, serves 12 and contains 12 ingredients,  [''gold potatoes'', ''red onion'', '’bacon strips'', '’dill'', ''fresh parsley'', ''chicken stock'’, ''sugar'', ''kosher salt'', ''cracked pepper'', ''wine vinegar'', ''rice vinegar'', ''vegetable oil'']
+
+User: I want to cook a German Potato Heirloom Salad today, what are the ingredients that I need to cook this meal?
+Robot: To cook this meal you will need the following ingredients, 5 pounds of Yukon Gold Potatoes, 1 small finely chopped red onion, ½ pound bacon strips, 1 tbsp of dill, ¼ cup of chopped fresh parsley, ¼ cup of chicken stock, 1 tsp of sugar, 2 tsp of kosher salt, 1 ts[ pf fresh cracked pepper, ¾ cup of red wine vinegar, ¼ cup of Japanese rice vinegar and 1 cup of vegetable oil.
+User: I have all of the ingredients, are there any others that I may need?
+Robot: No, you are ready to start. Slice ½ pound of bacon strips using a knife and cook them until they go all crispy, then drain the bacon on a paper towel and save about 2 tbsp of the fat, then finely chop the bacon and set it aside.
+User: I have sliced the bacon strips and cooked them, I also drained the bacon on a paper towel and saved the fat, what do I have to do next?
+Robot: Next, dice 1 small red onion using a knife, ¼ cup of fresh parsley and 1 tbsp of fresh dill, then boil 5 pounds of potatoes with the skin on until they are fork tender, for approximately 30 minutes in the water.
+User: I have diced the onion, parsley and the fresh dill and also boiled the potatoes for 30 minutes as required, what do I have to do next?
+Robot: Now, once the potatoes are peeled, cut each of the potatoes in half and then into fairly thin slices.
+User: Ok, I have cut the potatoes in half and then into thin slices, what next?
+Robot: Good, now pour ¾ cups of red wine vinegar, 2 tsp of salt and pepper and then to warm the potatoes wait for a few minutes so that it absorbs.
+User: I have poured the cups of red wine vinegar, salt and pepper, what do I do now?
+Robot: Then, add the bacon, onion, salt and pepper, then the dill and also add the chicken stock.
+User: I have added the ingredients required, now what is the next step I have to take?
+Robot: Good, now gently stir with a large spatula, being careful not to press on the potatoes that much, then add about ¾ cups of vegetable oil and gently combine.
+User: Thanks, I stirred with a spatula and then I added the vegetable oil, now what do I have to do?
+Robot: Then you must add 1 tsp of white sugar, then taste the salad and you can add a little bit more vinegar to it so that it has a mild taste to it.
+User: I have added the white sugar and tasted the salad and it tastes fine, I also added a little bit of vinegar to improve the taste, what next?
+Robot: Now add the fresh parsley to garnish the meal, serve and enjoy.
+User: Thank you for helping me cook German Potato Salad Heirloom.
+
+
+
+
+
+
+
+
+
+

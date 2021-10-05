@@ -1,0 +1,14 @@
+r377: German Pancake. https://cookeatshare.com/recipes/german-pancake-52823
+
+
+German Pancakes take 10 minutes to prepare, 30 minutes to cook, serves 2-4 and contains 8 ingredients,  ['butter', 'eggs', 'flour', 'milk', 'salt’, 'lemon juice', 'powdered sugar’,'chopped fruit of your choice']
+
+User: I would like to make German Pancakes.
+Robot: First, heat your oven to 200ºC. While it heats, melt 30g of butter in a 230mm pie plate. Brush the melted butter around the plate evenly using a cooking brush.
+User: I have heated the oven and prepared the plate. What next?
+Robot: Next, with a medium bowl, beat 2 large eggs lightly with a whisk. Then beat in 120g of flour, 120ml of milk and 1g of salt gradually until mixed. Pour the mixture into the pie plate. 
+User: I have mixed the ingredients and poured it into the pie plate. What is the next step?
+Robot: Next, place in the oven and bake for 25-30 minutes or until puffy and deep golden. Serve with lemon juice and sugar, or some chopped fruit of your choice. 
+User: Thank you for helping me make German Pancakes.
+
+

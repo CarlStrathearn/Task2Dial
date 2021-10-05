@@ -1,0 +1,27 @@
+R331 Flaky Pandan Croissant Recipe https://cookeatshare.com/recipes/flaky-pandan-croissant-797582
+
+This recipe takes 20 minutes to cook, serves 10 and contains 12 ingredients,  [''bread flour'', ''cake flour'', '’milk powder'', '’salt'', ''sugar'', ''instant yeast'’, ''eggs'', ''pandan paste'', ''milk'', ''water'', ''cold butter'']
+
+User: Can you please let me know the ingredients that I will need for making a Flaky Pandan Croissant please?
+Robot: Sure, for this recipe you will need 230g of bread flour, 80g of cake flour, 16g of milk powder, ½ tspn of salt, 1 and ½ tsp of sugar, 1 tsp of instant yeast, 2 small eggs, 1 tsp of pandan paste, 40ml of milk, 80ml of water, 40g of cold chopped butter.
+User: I have all of the ingredients required, can I start or do I need other ingredients?
+Robot: You are ready to start, combine all of the ingredients except the butter into a big bowl and stir everything to form a soft dough then add 40g of cold butter and continue kneading until everything is well cooperated.
+User:I combined all of the ingredients except the butter and stirred everything to form a dough. Could you please tell me what I have to do next?
+Robot: Shape the dough into a ball and store it in a plastic bag and then slowly flatten it.
+User: I have shaped the dough into a ball and stored it in a plastic bag, what next?
+Robot: Now, you must refrigerate the dough overnight or for at least 8 hours.
+User: I have refrigerated the dough overnight, what do I do next?
+Robot: For the butter, weigh the butter first then cut it into 6 different portions, arrange the butter into a small plastic bag then press on it to flatten.
+User: I have cut the butter into 6 portions and arranged it into a small plastic bag and pressed on it, what now?
+Robot: Now, flatten the dough and then divide it into 4 equal portions and cut each portion into two, make sure to make a small cut to mark the center of the dough.
+User: I have flattened the dough and divided it into portions, I have also made a small cut in the center, now what do I do?
+Robot: Put the dough on a baking tray and let it cook in the oven for 2 hours, then when it’s ready brush the top with egg glazing and then bake again at 180 degrees for 20 minutes.
+User: I have put the dough on a baking tray and I let it cook for 2 hours. What do I have to do next?
+Robot: Next, serve the croissant on a plate and enjoy.
+User: Thanks for helping me cook a Flaky Pandan Croissant Recipe.
+
+
+
+
+
+

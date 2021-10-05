@@ -1,0 +1,18 @@
+r371: Pork Adobo, Hawaiian Style. https://cookeatshare.com/recipes/pork-adobo-hawaiian-style-809197
+
+Pork Adobo, Hawaiian Style takes 25 minutes to prepare 60 minutes to cook, serves 1-2 and contains 9 ingredients,  ['boneless pork butt', 'coconut oil', 'garlic', 'soy sauce', 'chinese oyster sauce’, 'apple cider vinegar', 'bay leaves’,'ground black pepper', 'date sugar']
+
+User: I want to cook Pork Adobo, Hawaiian Style.
+Robot: Firstly, using a knife, cut the boneless pork butt into small bite sized pieces. Separate any which have a lot of fat as they can be used later.
+User: Okay I have done that, what next?
+Robot: Next bring a large dutch oven or slow cooker to a high heat. Then add in fatty pieces of pork until they are a nice golden brown.
+User: Done! The fatty pieces are looking golden. Now what?
+Robot: Now, add in the rest of your pork and wait until they turn a similar colour. 
+User: The rest of the pork looks good. What is the next step?
+Robot: The next step is to add in your remaining ingredients to the slow cooker. Add 20ml of coconut oil, 12 cloves of finely chopped garlic, 100ml of soy sauce, 90ml of chinese oyster sauce, 100ml of apple cider vinegar, 3 bay leaves, 1 tsp of ground black pepper, and 1tsp of date sugar. 
+User: Okay I have added those in. What do I do next?
+Robot: Next, bring the pot to boil and allow it to simmer until the meat is tender. In the meantime prepare some rice to serve with the contents of the pot. 
+User: The rice is ready and the meat looks nice and tender. What now?
+Robot: Now, serve the meat and the rice together on a plate and enjoy!
+User: Thank you for helping me cook Pork Adobo Hawaiian style.
+

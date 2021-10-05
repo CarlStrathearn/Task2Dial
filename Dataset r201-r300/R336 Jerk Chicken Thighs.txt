@@ -1,0 +1,27 @@
+R336 Jerk Chicken Thighs https://www.bbc.co.uk/food/recipes/spicyjerkchickenthig_89120
+
+This recipe takes 10-30 minutes to cook, serves 1 and contains 15 ingredients,  [''garlic'', ''root ginger'', '’bonnet chili'', '’fresh thyme leaves'', ''coriander seeds'', ''cloves'’, ''ground mixed spice'', ''curry powder'', ''ground black pepper'', ''vegetable oil'', ''chicken thighs'', ''butter'', ''lemon wedges'', ''rice'', ''red peppers'']
+
+User: I want to cook Jerk Chicken Thighs, what ingredients will I need to cook this meal?
+Robot: To cook the thighs you will need 2 cloves of garlic, 2cm of fresh root ginger, 1 bonnet chili, 1 tbsp of freshly chopped thyme leaves, 1 tsp of coriander seeds, 2 cloves, ½ tsp of ground mixed spice, 1 tsp of curry powder, black pepper, 2 tbsp of vegetable oil, 2 boneless chicken thighs, 25g of butter, lemon wedges to serve.
+User: I have the ingredients ready, are there any other ingredients that I will need or am I ready to start?
+Robot: For the rice you will need 200g of long-grain rice, 1 de-seeded and chopped red pepper.
+User: I have all of the ingredients, am I ready to start now?
+Robot: For the jerk chicken, put all of the chicken ingredients except the thighs and butter in a food processor and pulse to a rough taste, then rub the paste all over the chicken thighs.
+User: I have added all of the chicken ingredients in a processor, what is the next step that I have to take?
+Robot: Now heat 25g of butter in a frying pan until it froths, then fry 2 boneless chicken thighs for approximately 8 minutes on each side or until they become golden-brown.
+User: I have heated the butter in a frying pan and the 2 boneless chicken thighs for 8 minutes as required, what do I have to do next?
+Robot: For the rice, put 200g of rice in a saucepan and cover with double the amount of boiling water.
+User: I have put the rice in a saucepan and covered with the boiling water, what next?
+Robot: Then, boil the ingredients for 8 minutes and then add 1 red pepper, cook for another 3 minutes or until all of the liquid has absorbed and the rice is tender.
+User: I boiled the ingredients for 8 minutes and added the pepper, I also let it cook for 3 minutes and the liquid has now absorbed and the rice is all tender. What is the next step that I have to take?
+Robot: To serve, spoon the rice and peppers onto a serving plate and place the fried chicken thighs on the side and garnish with a lemon wedge.
+User: Thank you for helping me cook Jerk Chicken Thighs.
+
+
+
+
+
+
+
+

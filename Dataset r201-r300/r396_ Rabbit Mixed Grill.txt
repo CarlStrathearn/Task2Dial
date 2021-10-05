@@ -1,0 +1,21 @@
+r396: Rabbit Mixed Grill. https://cookeatshare.com/recipes/rabbit-mixed-grill-737
+
+
+This recipe takes 60 minutes to prepare, 30 minutes to cook, serves 6-8 and contains 9 ingredients,  ['rabbit', 'kosher salt', 'flat leaf parsley', 'black olives', 'garlic’, 'meyer lemon', 'chilli flakes’,'extra virgin olive oil', 'lemons']
+
+User: I would like to make Rabbit Mixed Grill.
+Robot: Butcher two rabbits of approximately 1.5kg total, or have a butcher do it for you.
+User: I have  got the rabbit meat ready, what now?
+Robot: Distribute the meat pieces over your work surface. Season each piece evenly with 15g of salt per piece, and set aside. 
+User: I have  salted the rabbit meat and set aside, what is the next step?
+Robot: Now we are going to make the marinade. In either a mortar or a food processor combine half a bunch of flat leaf parsley, 360g of black olives and a sprinkle of chilli flakes. Then prepare 2 wedges of preserved meyer lemons, remove the pit and flesh and soak them in water before coarsely chopping them with a knife. Pulse or crush these ingredients together until they are roughly blended. 
+User: I have  blended those ingredients, what do I do now?
+Robot: Now while blending or crushing drizzle 240ml of extra virgin olive oil into the other ingredients. 
+User: I have  added in the olive oil, what now?
+Robot: Now, place the rabbit pieces in a large storage container and pour in the marinade, turning the rabbit pieces to coat the pieces evenly. Refrigerate this overnight. 
+User: The rabbit has marinated overnight, what is the next step?
+Robot: Now prepare a hot fire in a grill and spread the coals evenly. Bring the rabbit pieces to room temperature. Lay a piece of tin foil over the grill to prevent the smaller pieces from falling through the grill rack. Place the small pieces on this piece of tin foil. 
+User: I have  got my pieces ready on the grill, what next?
+Robot: Next, grill the pieces and turn them over once or twice to ensure it is cooked evenly. Keep an eye on each piece as they will finish at separate times. Larger pieces like the front legs will take around 10 minutes, whereas small pieces like belly flaps only a couple of minutes. Serve them straight away on the same platter and finish with a drizzle of olive oil, garnishing with fresh lemon halves. 
+User: Thank you for helping me make Rabbit mixed grill. 
+

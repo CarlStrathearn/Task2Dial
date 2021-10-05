@@ -1,0 +1,21 @@
+r369: Afghan Chicken. https://cookeatshare.com/recipes/amazing-afghan-chicken-454243
+
+
+Afghan Chicken takes 20 minutes to prepare, 20 minutes cook, serves 6 and contains 11 ingredients,  ['plain whole milk yogurt', 'garlic', 'ginger', 'onion', 'lemon juice’, 'cayenne pepper', 'paprika’,'salt', 'black pepper', 'cumin seeds', 'chicken'']
+
+User: I would like to make Afghan chicken.
+Robot: First, using a yogurt strainer, strain 700ml of your yogurt. Alternatively you can do this by placing a colander over a large bowl and line it with a cheesecloth. Let it drain in a refrigerator for 4-6 hours.
+User: Okay the yogurt is in the fridge. What next?
+Robot: While the yogurt is straining, get a large bowl. Add in 6 cloves of garlic, using a garlic crusher to mince them. Then, using a grater, grate and add 30g of ginger. Using a knife and a chopping board, finely chop one small onion and add it to the bowl. Add 50ml of lemon juice, 1tsp of cayenne pepper, and 1 tsp of paprika, 2 tsp of salt, 1 tsp of ground black pepper, and 1 tsp of toasted cumin seeds.
+User: I have added all of those ingredients to my bowl. Now what?
+Robot: Once your yogurt has finished straining, dump the strained yogurt into the bowl of ingredients,  and mix all of the ingredients together in the bowl using a large fork. 
+User: I have finished with the mixture. What comes next?
+Robot: Next up, remove the skin from a selection of 12  of your preferred chicken pieces. Carefully cut each piece to the bone 2-3 times. Then cover each piece in the marinade thoroughly and place them all in a large ziplock bag. Refrigerate them for 4-6 hours. 
+User: The chicken has finished marinating in the fridge. What is the next step?
+Robot: Next preheat the grill to high. While you are waiting for it to heat, oil the grill grate.
+User: The grill is ready. What do I do now?
+Robot: Now add each  of the chicken pieces to the grill. Using tongs, turn them occasionally until they are nicely browned on the outside but not burned. This usually takes 8-10 minutes on each side. Sometimes the grill may be too hot and could burn the chicken, if so use a lower setting. If any marinade remains you can apply this to the upturned side using a cooking brush.
+User: I have done that. What comes next?
+Robot: Finally, transfer them to a plate, serve and enjoy. 
+User: Thank you for helping me cook Afghan Chicken.
+

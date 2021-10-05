@@ -1,0 +1,23 @@
+R328 Spanish Sardines and Olive Oil Pasta Recipe https://cookeatshare.com/recipes/spanish-sardines-and-olive-oil-pasta-745415
+
+This recipe takes 20 minutes to cook, serves 3 and contains 8 ingredients,  [''olive oil'', ''minced garlic'', '’diced tomato'', '’Spanish sardines'', ''capellini pasta'', ''salt'’, ''pepper'', ''sardine fillets'']
+
+User: I want to make a Spanish Sardines and Olive Oil Pasta today, what ingredients do I need to make this meal?
+Robot: You will need the following ingredients, 2 tbsp of olive oil, 1 tbsp of minced garlic, ¼ cup of diced tomato, 1 cup of flaked Spanish sardines, 5 cups of cooked capellini pasta, salt and pepper to taste and 8 sardine fillets for garnishing.
+User: I have the ingredients all ready, what is the first step that I have to take?
+Robot: In a large saute pan, heat up 2 tbsp of olive oil and the reserved oil from the sardines.
+User: I have heated the olive oil and the reserved oil from the sardines, what do I have to do now?
+Robot: Now, saute 1 tbsp of minced garlic until it becomes fragrant. Then add ¼ cup of diced tomatoes and toss them quickly.
+User: I sautéed the minced garlic and added the diced tomatoes and also tossed them, now what do I have to do?
+Robot: Add 1 cup of flaked sardines and then let them cook for a minute, then toss in the 5 cups of cooked capellini pasta.
+User:I have added the flaked sardines and let them cook for 1 minute as required, what do I do next?
+Robot: Season the sardines with salt and pepper, then place the sardine fillets on top to garnish.
+User: I have seasoned the sardines with salt and pepper, what do I have to do now?
+Robot: Serve and enjoy the meal.
+User: Thank you for helping me cook Spanish Sardines and Olive Oil Pasta.
+
+
+
+
+
+

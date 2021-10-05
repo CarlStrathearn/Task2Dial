@@ -1,0 +1,31 @@
+R326 Irish Chocolate Stout Cake Recipe https://cookeatshare.com/recipes/irish-chocolate-stout-cake-45526
+
+This recipe takes 35 minutes to cook, serves 16 and contains 11 ingredients,  [''stout'', ''unsalted butter'', '’cocoa powder'', '’all purpose flour'', ''sugar'', ''baking soda'’, ''salt'', ''eggs'', ''sour cream'', ''whipping cream'', ''chocolate'']
+
+User: I would like to bake an Irish Chocolate Stout Cake today, what ingredients do I need?
+Robot: For this cake you will need 2 cups of stout, 2 cups of unsalted butter, 1 and ½ cups of unsweetened cocoa powder, 4 cups of all purpose flour, 4 cups of sugar, 1 tbsp of baking soda, 1 and ½ tsp of salt, 4 large eggs, 1 and ⅓ cups of sour cream and for the icing, 2 cups of whipping cream and 1 pound of chocolate.
+User: I have the ingredients ready, could you please tell me where I need to start
+Robot: In order to make the cake, preheat the oven to 350 degrees fahrenheit, then butter three 8-inch round cake pans with 2 inch-high sides and line with parchment paper.
+User: I have preheated the oven to 350 degrees and buttered the round cake pans as required, what do I do next?
+Robot: Simmer 2 cups of stout and 2 cups of butter in a heavy large saucepan over a medium heat, then add the cocoa powder and whisk smoothly.
+User: I have simmered the stout and the 2 cups of butter in a large saucepan, I also added the cocoa powder, what next?
+Robot: Next, whisk 4 cups of all purpose flour, 4 cups of sugar, 1 tsp of baking soda, 1 and ½ tsp of salt in a large bowl until blended.
+User: I have whisked the ingredients required in a large bowl, what do I do next?
+Robot: Now using an electric mixer, beat the eggs and sour cream in another large bowl so that they blend and add the chocolate mixture to the egg and beat.
+User: I have beaten the eggs and sour cream in a large bowl and also added the chocolate mixture to the egg, what do I do now?
+Robot: Then, add 4 cups of all-purpose flour and beat briefly on a slow speed and making use of a rubber spatula fold the batter until completely combined.
+User: I have added the cups of flour and beaten them briefly on a low speed and I also folded the batter, what do I have to do next?
+Robot: Next, divide the batter equally among the pans that have been prepared, then bake the cakes for about 35 minutes.
+User: I divided the batter among the pans and baked the cakes for 35 minutes, what next?
+Robot: Now, transfer the cakes to a rack and let them cool down for 10 minutes.
+User: I have transferred the cakes to a rack and I let them cool down for 10 minutes as required, what do I have to do next?
+Robot: In order to make the icing, simmer 2 cups of whipping cream in a heavy medium saucepan, then remove from the heat and add the chopped chocolate and whisk until they melt and become smooth.
+User: I have simmered 2 cups of whipped cream in a saucepan and removed from the heat, what do I have to do next?
+Robot: Place 1 cake layer on a plate and spread ⅔ cups of icing over, then serve and enjoy the cake.
+User: Thank you for helping me cook Irish Chocolate Stout Cake.
+
+
+
+
+
+

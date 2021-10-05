@@ -1,0 +1,37 @@
+R350 Khalia - Georgian Beef Stew Recipe https://cookeatshare.com/recipes/khalia-georgian-beef-stew-613598
+
+This recipe takes 2 hours to cook, serves 6-8 and contains 16 ingredients,  [''beef stew'', ''yellow onions'', '’olive oil'', '’sour plums'', ''stock'', ''tomato paste'’, ''coriander'', ''fenugreek seeds'', ''paprika'', ''cayenne peppers'', ''garlic'', ''walnut pieces'', ''salt'', ''pepper'', ''cilantro'', ''tarragon'']
+
+User: I would like to cook a Georgian Beef Stew, please can you tell me what ingredients I need, thanks.
+Robot: In order to cool this meal you will need 3 pounds of beef stew, ½ pounds of yellow onions, ¼ cups of olive oil, got these so far?
+User: I have them ready, any others?
+Robot: Now, for the stock you will need 2 oz of sour plums, 2 cups of stock, ¼ cups of tomato paste and for the spices you will need ½ tsp of coriander, ½ tsp of fenugreek seeds, 1 tsp of paprika, ⅛ tsp of cayenne peppers.
+User: I have the ingredients, are there any other ingredients or can I start?
+Robot: Now, for the seasoning you will need 6 cloves of garlic, ½ cup of walnut pieces, 1 tsp of salt, ½ tsp of black pepper, ½ cup of cilantro and ½ tsp of dried tarragon.
+User: I have all of the ingredients ready, am I ready to start now?
+Robot:You can start. Cut 3 pounds of beef stew meat into ¾ inch small cubes using a kitchen knife, then put the pieces in water and bring them to a boil.
+User: I have cut the meat into the dimensions required using a knife and I put the pieces into hot boiling water, what do I have to do next?
+Robot: Now add 1 tbsp of olive oil in a large saute pan on a medium high heat and make sure that the sides of the meat turn brown.
+User: I have added the olive oil in a large saute pan on medium high heat, the sides of the meat are now brown, what do I do next?
+Robot: Now add ½ pound of onions to the pan along with the browned meat and the rest of the olive oil, about 3 tbsp left.
+User: I have added the onions to the pan with the browned meat as well as the rest of the olive oil, thank you for that. What is the next step that I have to take?
+Robot: Now saute the onions until they turn translucent but not brown.
+User: The onions are now translucent, could you please tell me what I have to do next?
+Robot: Now in order to make the stock, you must soak 2 ounces of dried plums for an hour in a pan with hot water, then chop fine with a knife.
+User: I have soaked the plums for 1 hour as required and chopped them with a knife after, what next?
+Robot: Remove the remaining pits and chop them and after that put in 2 cups of stock, 2 ounces of sour plums, ¼ cup of tomato paste in a blender and turn them into a puree.
+User: I have removed the pits and chopped them, I also added in the stock, sour plums and the tomato paste, what is the next step that I have to take?
+Robot: Now, grind the spices together and add the stock as well as the spices to the pan along with the beef and onions.
+User: I have added the stock and the spices together to the pan, thank you, what next?
+Robot: Next, add the seasonings to the stew and continuously stir and make sure that the flavor is good, add some extra salt if necessary or pepper.
+User: I have added a bit more salt and pepper to the stew, what do I have to do now?
+Robot: Cook for another 2 minutes, then remove from the heat and serve the meal.
+User: Thank you for helping me cook Khalia - Georgian Beef Stew.
+
+
+
+
+
+
+
+
