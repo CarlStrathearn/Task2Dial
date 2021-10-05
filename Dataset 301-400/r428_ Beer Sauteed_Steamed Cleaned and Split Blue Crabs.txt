@@ -1,0 +1,17 @@
+r428: Beer Sauteed/Steamed Cleaned and Split Blue Crabs. https://cookeatshare.com/recipes/beer-sauteed-steamed-cleaned-and-split-blue-crabs-752338
+
+
+This recipe takes 30 minutes to prepare, 20 minutes to cook, serves 2-3 and contains 7 ingredients,  ['Live Blue Crabs', 'Extra Virgin Olive Oil', 'garlic', 'beer', 'salt’, 'old bay seasoning', 'garlic powder’]
+
+User: I would like to make Beer Sauteed/Steamed Cleaned and Split Blue Crabs. 
+Robot: Clean and split 12 live crabs, stun them in ice water for 5 minute before or put them in the freezer for 2 hours. 
+User: I have cleaned and split the crabs, what now?
+Robot: Now heat 60ml of olive oil over medium heat in a large saute pan or wok. Use a garlic press to crush 3 garlic cloves and add them into the pan/wok together with a sprinkle of salt, old bay seasoning, and garlic powder to the oil. 
+User: I have added the seasoning to the oil in the pan. Now what?
+Robot: Now, add the cleaned and split crabs when the garlic has blossomed and stir and saute the crabs using a wooden spoon until they are about half cooked. 
+User: The crabs are sauteed and half cooked, what do I do next?
+Robot: Next add a bottle of malt or lager beer and cover the crab. Steam these until they are cooked completely though. 
+User: The crabs are cooked, what next?
+Robot: Next serve plain or over pasta and enjoy. 
+User: Thank you for helping me make Beer Sauteed/Steamed Cleaned and Split Blue Crabs. 
+

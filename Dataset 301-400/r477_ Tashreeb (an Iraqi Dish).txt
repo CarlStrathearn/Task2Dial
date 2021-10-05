@@ -1,0 +1,17 @@
+r477: Tashreeb (an Iraqi Dish). https://cookeatshare.com/recipes/tashreeb-an-iraqi-dish-537997
+
+
+This recipe takes 1 minutes to prepare, 120 minutes to cook, serves 5 and contains 19 ingredients,  ['mutton chops', 'arabian bread', 'yoghurt', 'garlic', 'fresh parsley’, 'onion', 'lemon juice’,'olive oil', 'tomatoes', 'salt', 'red chilli', 'cubeb powder’, 'black pepper powder', 'white pepper powder', ‘sumak powder’, ‘cloves powder’, ‘cardamom green powder’, ‘cinnamon powder’, ‘pimento powder’]
+
+User: I would like to make Tashreeb. 
+Robot: First thoroughly wash 1kg of mutton chops and chop them together. Pat dry with a paper towel.
+User: The chops have been washed, what do I do now?
+Robot: Now mix together salt and red chilli to taste, 1 tsp of cubeb powder, 1 tsp of black pepper powder, a sprinkle of white pepper powder, sumak powder 1 tsp, 1 tsp of pimento powder, a pinch of cloves powder, a sprinkle of cardamom green powder and a pinch of cinnamon powder. Coat the mixed spices together and coat over the chops and keep aside for 2 hours to marinate. 
+User: I have coated the chops in spices. What now? 
+Robot: Now heat oil on a medium flame and add 500g of beaten yoghurt, 1 whole garlic, 3 coarsely chopped tomatoes chopped using a knife, a quartered onion, along with the marinated chops. Cook on a low flame until the chops are well tender. 
+User: Those ingredients are cooked together and the chops are tender. 
+Robot: Add in 15ml of lemon juice and 120g of parsley and 4 chopped pieces of pita bread pieces. Simmer for 15-20 minutes. 
+User: I have prepared those ingredients. What do I do now?
+Robot: Now serve with arabian white rice and enjoy!
+User: Thanks for helping me make Tashreeb.
+

@@ -1,0 +1,14 @@
+r463: Truffle-crusted Beef Tenderloin. https://cookeatshare.com/recipes/truffle-crusted-beef-tenderloin-267
+
+
+This recipe takes 60 minutes to prepare, 20 minutes to cook, serves 4 and contains 9 ingredients,  ['beef tenderloin', 'vegetable oil', 'salt', 'pepper', 'butter’, 'panko dried bread crumbs', 'truffle slices’,'truffle oil', 'fleur de sel']
+
+User: I would like to make Truffle-Crusted Beef Tenderloin
+Robot: In a food processor add 450g of softened butter and pulse until smooth. Season with salt and pepper and then add in 720g of panko bread crumbs; mix well. 
+User: I have processed the butter and bread crumbs with the seasoning, what now?
+Robot: Now add 60ml of truffle oil and 110g-140g of sliced truffles into the food processor. Pulse together but do not overwork. Lay out three or four layers of plastic wrap on the table and mold the truffle butter into a log in the plastic wrap of about 10cm diameter and 2.5cm long. Refrigerate this until firm.
+User: I have made the butter mixture into a log and refrigerated it, what now?
+Robot: Now season four 225g portions of beef tenderloin with fleur de sel and pepper. Over a high heat add 15ml of oil to a saute pan and sear on each side for approximately 3 minutes. Remove from the pan and place a piece of the cold sliced truffle crust on the beef. 
+User: I have seasoned and cooked the beef, what now?
+Robot: Now, put the crusted beef under the broiled beef until the butter has melted and has become golden brown. Serve and enjoy. 
+User: Thanks for helping me make Truffle-Crusted Beef Tenderloin. 

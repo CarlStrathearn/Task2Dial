@@ -1,0 +1,15 @@
+r444: Stir-fried cabbage with garlic. https://www.bbc.co.uk/food/recipes/stirfriedcabbagewith_12155
+
+
+This recipe takes 30 minutes to prepare, 10-30 minutes to cook, serves 4-6 as a side and contains 5 ingredients,  ['chinese cabbage', 'garlic', 'sea salt', 'extra virgin olive oil', 'ground black pepper’]
+
+User: I would like to make Stir-fried cabbage with garlic. 
+Robot: First remove the outer leaves of half of a chinese cabbage, and cut the leaves into large pieces using a knife. 
+User: I have chopped the cabbage, what next?
+Robot: Next, add 3 cloves of garlic with a large pinch of salt into a mortar and pound together until it is coarsely ground. 
+User: I have ground the garlic, what now?
+Robot: Now, heat a wok until it is very hot. Add a generous amount of olive oil and heat it until almost smoking. Add the garlic to the wok and immediately add the cabbage. Stir fry this, moving the contents constantly with a spatula or chopsticks to prevent the garlic from burning. 
+User: I have stir fried the ingredients, what do I do next?
+Robot: Next continue to cook over a high heat, adding extra oil as necessary, until the cabbage is warmed through and still crunchy. Once done, transfer to a large serving platter and sprinkle generously with black pepper. Enjoy.
+User: Thanks for helping me make Stir-fried cabbage.
+

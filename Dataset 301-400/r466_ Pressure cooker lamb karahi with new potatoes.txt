@@ -1,0 +1,19 @@
+r466: Pressure cooker lamb karahi with new potatoes. https://www.bbc.co.uk/food/recipes/lamb_karahi_with_new_51143
+
+
+This recipe takes 120 minutes to prepare, 30-60 minutes to cook, serves 4--6 and contains 19 ingredients,  ['lamb leg', 'garlic', 'root ginger', 'salt', 'ground black pepper’, 'vegetable oil', 'brown onion’,'chilli powder', 'ground coriander', 'ground turmeric', 'ground cumin', 'garam masala’, 'ground fenugreek', 'baby new potatoes', ‘green chillies’, ‘greek-style yoghurt’, ‘basmati rice’, ‘root ginger’, ‘fresh coriander’]
+
+User: I would like to make Pressure Cooker Lamb Karahi with New Potatoes
+Robot: First, put a 1kg lamb leg in a bowl. In a mini processor add 6 peeled cloves of garlic, 5cm of fresh root ginger, 1 tsp of salt, a sprinkle of black pepper and 15ml of vegetable oil. Pulse this into a paste. Add this paste to the lamb and stir it to coat, allowing this to marinate for at least an hour or overnight in the fridge. 
+User: I have marinated the lamb, what now?
+Robot: Now, heat 45ml of the oil in a pressure cooker over a medium-high heat. Add the lamb and fry it for 5 minutes or until it browns. 
+User: The lamb looks cooked, what comes next?
+Robot: Next, finely chop one large onion using a knife. Add this to the pressure cooker and fry for 4-5 minutes or until softened. Then add 1 tsp of chilli powder, 2 tsp of ground coriander, 1 tsp of turmeric, 1 tsp of cumin, a sprinkle of garam masala and a sprinkle of ground fenugreek to the pressure cooker. Stir for 2-3 until the lamb is well coated and fragrant. 
+User: I have added in the onion and the spices, what do I do next? 
+Robot: Add 500g of baby new potatoes, 400ml of water along with one whole green chilli, finely sliced with a knife to the pressure cooker. Stir together before covering with a lid and placing over a high heat until it reaches pressure. Reduce the heat and cook for 20 minutes.
+User: The pressure cooker has been going for 20 minutes, what now?
+Robot: Now remove the pressure cooker from the heat and leave to depressurise. Remove the lid and stir 90g of greek style yoghurt through the spice and juices. 
+User: I have stirred in the yoghurt, what now?
+Robot: Now bring rice to a boil and serve when cooked. Serve the rice with the lamb, another sliced green chilli, some ginger, and fresh coriander to garnish. Enjoy.
+User: Thanks for helping me make Pressure Cooked Lamb. 
+

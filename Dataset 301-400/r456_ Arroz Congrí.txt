@@ -1,0 +1,14 @@
+r456: Arroz Congrí. https://cookeatshare.com/recipes/arroz-congr-32011
+
+
+This recipe takes 15 minutes to prepare, 60 minutes to cook, serves 4 and contains 10 ingredients,  ['white long grained rice', 'small grained black beans', 'black beans stock', 'large white onion', 'garlic’, 'sweet peppers', 'ground oregano’,'bay leaf', 'vegetable oil', 'salt']
+
+User: I would like to make Arroz Congrí.
+Robot: First wash 240g of beans and place them in a pressure cooker with some water.Cover with the lid and cook them for 30-40 minutes. Slowly release the pressure and uncover the pot, making sure the beans are tender and then separate the beans from the stock and keep the stock aside. 
+User: I have cooked the beans and separated the stock from the pot into a jug on the side. What next?
+Robot: Next, finely chop 1 large white onion and 4 cloves of garlic using a knife. Next cut a red and green sweet pepper into thin strips. Put the vegetables into a pot and add a pinch of oregano, sautee these in hot oil until the onion is golden. 
+User: I have chopped and added the vegetables and sauteed them. What do I do now?
+Robot: Now, add in 480ml of bean stock, the beans, 480g of rice, and 1 large bay leaf to the pot, seasoning with salt. Cover the pot and place it over a medium heat until it begins to boil. 
+User: I have brought the pot to a boil, what do I do next?
+Robot: Next stir the rice and beans using a wooden spoon to prevent them from sticking to the bottom of the pot. Cover again and cook over a low heat until the rice absorbs the liquid for 10-15 minutes. Once the liquid absorbs, stir again, remove from the heat to cool. Serve and enjoy. 
+User: Thanks for helping me make Arroz Congri

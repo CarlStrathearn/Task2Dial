@@ -1,0 +1,15 @@
+r445: Cold Angel Hair Pasta in Truffle Oil with Abalone and Caviar. https://cookeatshare.com/recipes/cold-angel-hair-pasta-in-truffle-oil-with-abalone-and-caviar-848231
+
+
+This recipe takes 20 minutes to prepare, 15 minutes to cook, serves 4 and contains 9 ingredients,  ['angel hair pasta', 'canned australian abalone', 'abalone stock from the can', 'sakura ebi', 'extra virgin olive oil’, 'salt', 'truffle oil’,'caviar', ‘shrimp oil’]
+
+User: I would like to make Cold Angel Hair Pasta in Truffle Oil with Abalone and Caviar.
+Robot: First, remove the abalone from the can and shred with a fork and knife. Reserve the liquid in the can. 
+User: I have shredded the abalone, what now?
+Robot: Now, heat some oil and fry 60ml of sakura ebi until crispy.  Cook 150g of angel hair pasta according to the package instructions in a pot. Once cooked, drain and add in the canned abalone broth, adding in 30ml of shrimp oil and 30g of salt and mix together well using a wooden spoon. 
+User: I heated the sakura ebi and cooked the pasta. What do I do next?
+Robot: Next, prepare the pasta by dividing it into equal parts and putting them in airtight containers in the refrigerator. Once chilled, remove before serving and add a drizzle of truffle oil. 
+User: I have chilled the pasta and drizzled it with truffle oil, now what?
+Robot: Now, top with some caviar and some olive oil, serve and enjoy. 
+User: Thanks for helping me make Cold Angel Hair PAsta in Truffle Oil with Abalone and Caviar. 
+

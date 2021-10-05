@@ -1,0 +1,15 @@
+r422: Pasta with Garlic Breadcrumbs (Pasta con pangrattato). https://cookeatshare.com/recipes/pasta-with-garlic-breadcrumbs-pasta-con-pangrattato-333558
+
+
+This recipe takes 30 minutes to prepare, 30 minutes to cook, serves 4 and contains 8 ingredients,  ['olive oil', 'homemade breadcrumbs', 'garlic', 'parmesan cheese', 'parsley’, 'salt', 'black pepper’,'pasta']
+
+User: I would like to make Pasta with Garlic Breadcrumbs.
+Robot: First heat 120ml of olive oil in a large pan over medium heat. Add 480g of breadcrumbs and saute using a spatula for about 5 minutes or until golden. 
+User: I have sautéed the breadcrumbs in the large pan, what next?
+Robot: Next, add 2 cloves of garlic that have been finely minced in a garlic crusher to the pan. Sautee this for another minute or two before removing from the heat. 
+User: I have sautéed the garlic, what now?
+Robot: Now add 60g of parmesan cheese, 60g of parsley chopped using a knife, and salt and pepper to the pan. Stir them well to combine. 
+User: I have stirred together the ingredients, what do I do now?
+Robot: Now, cook 450g of pasta according to the packaging instructions of your chosen pasta. Once cooked, drain and add to the pan with the breadcrumbs. Toss together over a low heat until the pasta is coated, serving immediately with a sprinkle of parmesan cheese.
+User: Thank you for helping me make Pasta with Garlic Breadcrumbs.
+

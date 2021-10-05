@@ -1,0 +1,13 @@
+r449: Low-Fat Spice Rubbed Roast Turkey. https://cookeatshare.com/recipes/low-fat-spice-rubbed-roast-turkey-731638
+
+
+This recipe takes 50 minutes to prepare, 150 minutes to cook, serves 22 and contains 8 ingredients,  ['skinless turkey', 'brown sugar', 'smoked paprika', 'ground cinnamon', 'kosher salt’, 'garlic powder', 'onion powder’,'dried oregano']
+
+User: I would like to make Low-Fat Spice Rubbed Roast Turkey.
+Robot: First preheat the oven to 220ºC. In a small bowl add 60g of brown sugar, 30g of smoked paprika, 30g of ground cinnamon, 15g of kosher salt, 15g of garlic powder, 15g of onion powder, and 15 g of dried oregano. Combine these together and rub them all over a 5.5kg turkey. 
+User: I have seasoned the turkey, what next?
+Robot: Next tie the turkey legs together with a string and place them on the rack of a roasting pan. Roast the turkey for 40 minutes and reduce the oven to 190ºC, loosely tenting the top of the turkey with foil. Continue roasting until a meat thermometer reads 70ºC when probed, another 1-1.5 hours. 
+User: I have roasted the seasoned turkey in the oven and it is now cooked. What now?
+Robot: Now let the turkey rest for 30 minutes, carve and enjoy. 
+User: Thank you for helping me make Low-Fat Spice Rubbed Roast Turkey. 
+
