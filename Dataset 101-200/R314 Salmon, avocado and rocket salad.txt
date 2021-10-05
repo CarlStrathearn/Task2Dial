@@ -1,0 +1,29 @@
+R314 Salmon, avocado and rocket salad https://www.bbc.co.uk/food/recipes/salmon_avocado_and_02437
+
+This recipe takes less than 10 minutes to cook, serves 4 and contains 18 ingredients,  [''sesame seeds'', ''soy sauce'', '’sugar'', '’green beans'', ''rice vinegar'', ''spring onions'’, ''fresh ginger'', ''salt'', ''salmon fillets'', ''avocados'', ''rocket'', ''coriander'', ''rice wine'', ''lime juice'', ''wasabi paste'', ''garlic cloves'', ''caster sugar'', ''sunflower oil'']
+
+User: I would like to cook a Salmon, avocado and rocket salad today, could you please tell me the ingredients that I will need?
+Robot: For the sesame green beans you will need the following ingredients, 175g of toasted sesame seeds, 3 and ½ tbsp of soy sauce, 2 tbsp of sugar, 450g of trimmed green beans, 2 tbsp of rice vinegar, 2 tbsp of finely chopped spring onions, 2 tbsp of fresh ginger and salt to taste.
+User: I have the ingredients for the sesame green beans, are there any other ingredients that I will need?
+Robot: For the salad you will need 250g of freshly cooked salmon fillets with the skin removed, 2 avocados with the skin and stone removed, 120g of rocket, a handful of fresh coriander and 2 tbsp of toasted sesame seeds.
+User:  Are there any other ingredients required?
+Robot: For the dressing you will need 1 tbsp of rice wine vinegar, 1 lime, 2 tsp of wasabi paste, 1 finely grated garlic clove, 1 tsp of fresh ginger, 1 tsp of caster sugar and 3 tbsp of sunflower oil.
+User:  Do I need anything else or am I ready to start?
+Robot: Good, you are all ready to start, now, to make the sesame paste for the green beans, finely grind 6 tbsp of sesame seeds in a pestle and mortar, then transfer them to a small food processor.
+User: I have made the sesame paste for the green beans and grinded those seeds in a mortar and moved them to a food processor, what is the next step that I have to take?
+Robot: Next, add the remaining sesame seeds, 3 and ½ tbsp of soy sauce, sugar and process to a paste.
+User: I have added the remaining seeds, soy sauce and the sugar, what next?
+Robot: Now bring a large saucepan of salted water to the boil, then add 450g of green beans and let them cook for 4 minutes or until they become tender, then transfer the beans to iced water to refresh.
+User:  I have added the green beans and I let them cook for 4 minutes as required and they are now all tender. I also transferred the beans to the iced water to refresh, now what is the next step that I have to take?
+Robot: Whisk together 1 tbsp of rice vinegar, 2 tbsp of finely chopped spring onions and 2 tbsp of fresh ginger with the sesame paste, then add the green beans and toss them together.
+User: I have whisked the ingredients together and added the green beans and tossed them all together, what do I have to do next?
+Robot: Now in order to make the wasabi dressing, add all of the ingredients in a small, lidded jar and shake until they are well combined and after taste for seasoning.
+User: I have added the ingredients in a small jar and they are now all combined well, what do I do next?
+Robot: Now, the last step to serve the meal is to arrange the salmon and avocado on a serving platter and drizzle with the wasabi dressing. You can also add the rocket leaves and the coriander, serve with green beans and enjoy the meal.
+User:  Thank you for helping me cook Salmon, avocado and rocket salad.
+
+
+
+
+
+

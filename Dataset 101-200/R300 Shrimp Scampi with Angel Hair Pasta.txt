@@ -1,0 +1,25 @@
+R300 Shrimp Scampi with Angel Hair Pasta https://cookeatshare.com/recipes/shrimp-scampi-with-angel-hair-pasta-541749
+
+This recipe takes 15 minutes to cook, serves 4 and contains 15 ingredients,  [''shrimp'', ''milk'', '’flour'', '’parmesan cheese'', ''salt'', ''pepper'’, ''cayenne pepper'', ''olive oil'’, ''plum tomato'’, ''garlic cloves'’, ''heavy cream'’, ''white wine'’, ''lemon juice'’, ''fresh basil'’, ''angel hair pasta'’]
+
+User: I would like to cook a Shrimp Scampi with Angel Hair Pasta, what ingredients do I need to cook this meal?
+Robot: For this meal you will need 1 lb of extra-large shrimp, 1 cup of milk, ½ cup of all-purpose flour, ½ cup of Parmesan cheese, ¼ tsp of salt, ½ tsp of pepper, ¼ tsp of cayenne pepper, 2-6 tbsp of extra virgin olive oil, 1 large plum tomato, 8-10 whole garlic cloves, ¾ cup of heavy cream, 1 cup of dry white wine, ½ cup of large lemon, ¼ cup of shredded fresh basil and angel hair pasta.
+User: I have all of the ingredients ready to cook this meal, what is the first step that I have to take?
+Robot: Soak 1 pound of shrimp in 1 cup of milk for approximately 15 minutes, then heat up 2 tbsp of olive oil in a large saucepan over a medium high heat.
+User: I have soaked the shrimp in 1 cup of milk for 15 minutes and then heated the 2 tbsp of olive oil in a saucepan over a medium high heat, what next?
+Robot: Combine ½ cup of all-purpose flour, ½ cup of Parmesan cheese, ¼ tsp of salt, ½ tsp of pepper and ¼ tsp of cayenne pepper in a medium bowl, then dredge the shrimp until well coated.
+User: I have combined the all-purpose flour, parmesan cheese, salt and the pepper then dredged the shrimp, what next?
+Robot: Now, remove the cooked shrimp and set it aside and leave the garlic in the pan and make sure to stir frequently to avoid any burning.
+User: I have removed the cooked shrimp and set it aside and left the garlic in the pan, what do I do next?
+Robot: Good, now add 1 cup of dry white wine, ½ cup of large lemon juice to the garlic in the pan and bring it to a boil and let the wine reduce by half.
+User: I have added 1 cup of white wine and lemon juice to the garlic in the pan and brought it to a boil, what do I do now?
+Robot: Now add ¾ cups of heavy cream and bring it back to a boil, lower the heat and reduce by a half again and finally add ¼ cup of basil and 1 large plum tomato.
+User: I have added the heavy cream and brought it back to a boil, lowered the heat and reduced by a half, what next?
+Robot: Now, cook for a few minutes to slightly soften the tomatoes, then remove from the heat and this way the sauce will thicken upon standing and finally serve the sauce over the pasta and place the shrimp on top.
+User: Thank you for helping me cook Shrimp Scampi with Angel
+
+
+
+
+
+

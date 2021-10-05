@@ -1,0 +1,28 @@
+R266 Red Beans with Rice https://cookeatshare.com/recipes/red-beans-and-rice-1425
+
+This recipe takes 15 minutes to cook, serves 10-12 and contains 10 ingredients,  [''red beans'', ''brown rice'', '’vegetable oil'', '’large onion'', ''green pepper'', ''garlic cloves'’, ''cilantro'', ''chicken broth'', ''salt'', ''ground pepper'']
+
+User: I want to cook Red Beans with Rice, what are the required ingredients to make this meal?
+Robot: In order to make this meal you will need 1 pound of dried red beans, 6 cups of brown rice, 2 tbsp of vegetable oil, 1 diced large onion, 1 diced green pepper, 10 minced garlic cloves, 1 bunch of cilantro, 1 cube of chicken broth, 2 tsp of salt, 2 tsp of fresh ground pepper.
+User: I have the ingredients ready to cook the meal, where do I begin?
+Robot: The night before, soak 1 pound of dried red beans in plenty of water, then make the rice in a rice cooker or on the stove.
+User: Alright, thank you, I soaked 1 pound of dried red beans in water and made the rice on a cooker, what do I do next?
+Robot: Now, add enough water to the red beans to cover them and leave about 2-3 inches of water on top of them, then add a cube of the tomato-based chicken broth.
+User: I have added water to the red beans to cover them and left 2-3 inches of water on top, I also added a cube of the tomato-based chicken broth, what now?
+Robot: Now, bring them all to a boil and simmer for 50 minutes.
+User: I have brought them to a boil and simmered them for 50 minutes. What do I do now?
+Robot: Now, while the beans are boiling, add tablespoons of oil on a large pan on a medium-high heat, then add 1 large diced onion and 1 green pepper and stir for about 4 minutes, got that?
+User: I have added the oil on a large pan on medium-high heat and added 1 diced onion and stirred for 4 minutes. What should I do next?
+Robot:  Now, add 10 cloves of garlic and stir them all for 1 minute, then add the assorted spices, salt and pepper and then stir for 1 additional minute and remove from the heat.
+User: I have added the 10 cloves of garlic and stirred them all for 1 minute, I have also removed them from the heat, what next?
+Robot: When the beans have finished cooking, combine the sauteed vegetables with the beans and simmer for another 10 minutes.
+User: Alright, thanks, I have combined the vegetables with the beans and simmered for 10 minutes, what now?
+Robot: Combine the cooked rice, beans and the chopped cilantro, now stir thoroughly to mix them well.
+User: I have combined the rice, beans and cilantro and stirred them well, what do I have to do now?
+Robot: Now put the meal on a plate, serve and enjoy.
+User: Thank you for helping me cook Red Beans with Rice.
+
+
+
+
+

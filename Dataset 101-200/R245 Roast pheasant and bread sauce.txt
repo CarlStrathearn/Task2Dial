@@ -1,0 +1,43 @@
+R245 Roast pheasant and bread sauce https://www.bbc.co.uk/food/recipes/roast_pheasant_and_bread_70943
+
+This recipe takes 1-2 hours to cook, serves 4 and contains 15 ingredients,  [''pheasants'', ''rapeseed oil'', '’butter'', '’black pepper'', ''red wine'', ''ruby port'’, ''juniper berries'', ''thyme'', ''white onion'', ''bay leaf'', ''cloves'', ''salt'', ''bacon lardons'', ''full-fat milk'', ''white bread'']
+
+User: Today I would like to make Roast pheasant and bread sauce. What are the ingredients required to make this meal?
+Robot: To make Roast Pheasant and Bread sauce for the roasted pheasant you will need the following ingredients: 800g of pheasants, oven-ready, 50ml of rapeseed oil, 20g of unsalted butter, sea salt and freshly ground black pepper.
+User: I have the ingredients for the roasted pheasant, any others?
+Robot: Now, for the pheasant jus, you will need the following ingredients, 100ml of red wine, 50ml of ruby port, 2 crushed juniper berries and 1 sprig of fresh thyme.
+User:  I have the ingredients ready, any others?
+Robot: Now for the bread sauce you will need, 10g of unsalted butter, 50g of white finely chopped onions, 1 bay leaf, 1 sprig of fresh thyme, 2 crushed cloves, 2 pinches of salt, 10g of bacon lardons, 150ml of full-fat milk and 1 slice of white bread that is broken into pieces.
+User: I have all of the ingredients ready to make the meal, what is the first step I need to take?
+Robot: In order to make the roasted pheasant, preheat the oven to 190 degrees celsius at Gas 5.
+User: Yes, thank you , I have preheated the oven to 190 degrees, what now?
+Robot: Now, on a medium heat, in an ovenproof frying pan, heat 50ml of rapeseed oil and 20g of unsalted butter until they are foamy.
+User: I have heated the oil and unsalted butter, where do I go from here?
+Robot: Now, lay the pheasants in the pan, cook them until they are golden-brown in colour for approximately 3-5 minutes on the leg sides.
+User:  I have laid the pheasants in the pan and cooked them, they are now golden-brown, what do I have to do now?
+Robot: Now, turn the pheasants on their breast side to colour for a further 2-3 minutes, then season with salt and pepper.
+User: I have turned the pheasants onto their side to colour for 2 minutes, I also seasoned them with salt and pepper, what do I do now?
+Robot: Good, now transfer them to the oven and let it cook for 30 minutes, turning halfway through the cooking time.
+User:  I have transferred them to the oven and let it cook for 30 minutes, where do I go from here?
+Robot: Now, to check that the pheasant has cooked correctly, you can use a meat thermometer - the breast temperature for a cock pheasant should reach 63 degrees celsius, did you get that?
+User: I have used a thermometer to check the temperature and it has reached 63 degrees, what next?
+Robot:  When it has finished cooking, set the pheasant aside in a warm place, covered and to rest.
+User:  I have put the pheasant aside in a warm place and have rested, what now?
+Robot: Now, you must spoon out the fat from the pan and add 100ml of red wine, 50ml of ruby port, 2 crushed juniper berries and 1 sprig of fresh thyme into the roasting pan.
+User: I have spooned out the fat and added the wine and the ruby port, where do I go from here?
+Robot: Nice, now on a high heat quickly cook until the volume of the liquid has reduced by approximately one third.
+User: I have cooked it on a high heat and the liquid has been reduced, what now?
+Robot: Now, scrape the caramelised juices off the bottom of the pan to make the jus, taste and season if it is necessary, then strain and reserve in a warmed jug.
+User:  I have scraped the juices from the bottom to make the jus, what now?
+Robot: Now, in order to make the bread sauce, take a small saucepan and put it on a low heat and gently heating the butter and fry 50g of onions with the herbs, 2 crushed cloves and 2 pinches of salt for 2 minutes, did you get that?
+User:   I have heated the butter and fried the 50g of onions as necessary, what do I have to do next?
+Robot: Now, add the bacon lardons and continue to cook uncovered for another minute.
+User: I have added the bacon lardons and cooked for another minute, what next?
+Robot:  Now add 150ml of full-fat milk, bring it to a simmer and stir in the pieces of the bread until the sauce is smooth, also taste and adjust the seasoning, did you get that?
+User: I have added the full-fat milk and brought it to a simmer and stirred with the pieces of bread, what do I have to do now?
+Robot: Good, to serve, carve the pheasant and serve it over a mound of bread sauce with the jus poured over it and enjoy the meal.
+User: Thank you for helping me cook Roast pheasant and bread sauce.
+
+
+
+

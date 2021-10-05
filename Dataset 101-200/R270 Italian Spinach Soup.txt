@@ -1,0 +1,23 @@
+R270 Italian Spinach Soup https://cookeatshare.com/recipes/italian-spinach-soup-133125
+
+This recipe takes 20 minutes to cook, serves 4-6 and contains 8 ingredients,  [''spinach'', ''butter'', '’medium onion'', '’chicken'', ''low fat milk'', ''ground nutmeg'’, ''parmesan cheese'', ''salt'']
+
+User: Today I would like to make Italian Spinach Soup, could you please tell me what ingredients are needed?
+Robot:You will need 3lbs of fresh spinach, 3 tbsp of butter, ½ chopped medium onion, 3 cups of high quality chicken, 1 cup of low fat milk, ⅛ tsp of ground nutmeg, 5 tbsp of freshly grated parmesan cheese and 1 tsp of salt, got that?
+User: I have the ingredients ready, where do I begin?
+Robot: Clean 3 lbs of fresh spinach and transfer it into a pot with about 3-4 cups of water and 1 tsp of salt added.
+User: I have cleaned the spinach and transferred it into a pot, what do I do next?
+Robot:Now cover the pot and cook until it is all tender for approximately 5 minutes and keep the water from the cooked spinach to use as the base for the broth.
+User: I have covered the pot and cooked it for 5 minutes as required, what do I have to do now?
+Robot: Add 3 tbsp of butter and ½ chopped medium onion in a large soup pot and turn it to a medium heat.
+User: Thank you very much, I have added the butter and the onion in a large soup pot and turned it to medium heat.
+Robot: Saute until the onions become pale gold for approximately 4 minutes, then add the 3lbs of Spinach and saute uncovered for 2-3 minutes, making sure to continuously stir.
+User: I have sautéed the onions and they are now pale gold. I have also added spinach and continuously stirred, what now?
+Robot: Now add the broth, 1 cup of low fat milk, ⅛ tsp of nutmeg and bring to a simmer by stirring occasionally, then add 5 tbsp of grated parmesan cheese, taste and correct for salt.
+User: I have added the broth, the low fat milk, the nutmeg and I brought it to a simmer. I have also added the 5 tbsp of parmesan cheese, now what do I do?
+Robot: Turn the heat off and then serve into bowls with toast or crostinis on the side as well as fresh ground pepper on the table, enjoy.
+User: Thank you for helping me cook Italian Spinach Soup.
+
+
+
+

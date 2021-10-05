@@ -1,0 +1,25 @@
+R283 Italian Breaded Chicken Breast https://cookeatshare.com/recipes/italian-breaded-chicken-breast-678023
+
+This recipe takes 40 minutes to cook, serves 8 and contains 9 ingredients,  [''chicken breast'', ''panko bread crumbs'', '’flour'', '’garlic'', ''paprika'', ''parmesan cheese'’, ''black pepper'', ''kosher salt'', ''eggs'']
+
+User: I want to make Italian Breaded Chicken Breast, what ingredients do I need to make this meal?
+Robot: To make the Chicken Breast you will need 2 lbs of boneless chicken breast, 3 cups of seasoned panko bread crumbs, 1 cup of flour, 1 and ½ tsp of garlic powder, ½ tsp of paprika, ¼ cup of parmesan cheese, 1 tsp of divided black pepper, 1 tsp of divided kosher salt and 4 whisked eggs, do you have the ingredients?
+User: I have all of the ingredients ready, what is the first step that I need to take?
+Robot: Firstly, cut each piece of chicken in half and you will end up with 8 halves, then place a piece of the chicken on a cutting board and a piece of the saran wrap over then take a mallet and pound until the chicken is very thin and put it aside and repeat with all of the chicken pieces.
+User: I have cut the chicken and pounded the other pieces, what do I have to do next?
+Robot: Good, now take 3 dishes and in one dish place the bread crumbs and mix in ¼ cup of parmesan cheese, 1 tsp of garlic powder, ½ tsp of salt and ½ tsp of black pepper and mix them together.
+User: I have mixed the parmesan cheese, garlic powder, salt and the black pepper together, what do I have to do now?
+Robot: Now in a second dish place 1 cup of flour and the remaining salt and pepper, 1 and ½ tsp of garlic powder and ½ tsp of paprika and mix them well.
+User: I have placed the cup of flour, salt and pepper and the garlic powder then mixed them all together, what do I have to do next?
+Robot: Next, preheat the oven to 250 degrees celsius and place a large baking sheet in the oven, after that place a large skillet on the stove over a medium heat and add 2 tbsp of oil.
+User: I preheated the oven to 250 degrees and placed a baking sheet in the oven. I also placed a large skillet on the stove over medium heat. What should I do next?
+Robot: Now, dredge a piece of chicken in the flour then the egg wash and cover in the panko bread crumbs, then place it in the heated skillet.
+User: I have dredged the chicken piece in the flour and covered the bread crumbs and placed it in the heated skillet, what next?
+Robot: Then, cook the chicken until it goes light golden for about 3 minutes per side and then place each piece of chicken on the baking sheet in the preheated oven as you take them out.
+User: I have cooked the chicken and all of the pieces are not light golden and placed them on the baking sheet, what do I have to do next?
+Robot: Now, bake the chicken for an additional 20 minutes and after all of the chicken is in the oven take it out and place it on a platter, serve and enjoy the meal.
+User: Thank you for helping me cook Italian Breaded Chicken Breast.
+
+
+
+

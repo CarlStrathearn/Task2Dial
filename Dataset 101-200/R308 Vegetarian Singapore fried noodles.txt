@@ -1,0 +1,33 @@
+R308 Vegetarian Singapore fried noodles https://www.bbc.co.uk/food/recipes/vegan_singapore_noodles_62023
+
+This recipe takes less than 10 minutes to cook, serves 2 and contains 10 ingredients,  [''vermicelli noodles'', ''red onion'', '’large carrots'', '’spring onions'', ''green cabbage'', ''vegetable oil'’, ''curry powder'', ''chili powder'', ''soy sauce'', ''sesame oil'']
+
+User: Today I would like to cook Vegetarian Singapore fried noodles. What ingredients do I need to cook this meal?
+Robot: You will need 100g of dried vermicelli noodles, ½ medium red onions, 1 large carrot peeled and cut into thin matchsticks, 1 small leek, or 3 spring onions, 2-3 green cabbage leaves, 1 and ½ tbsp of vegetable oil and spring onions.
+User:  Are there any other ingredients that I will need?
+Robot: For the curry paste you will need 2 tsp of medium curry powder, ¼ tsp of hot chili powder for the taste, 1 tbsp of light soy sauce and ½ tsp of sesame oil.
+User: I have all of the ingredients to cook this meal, what is the first step that I have to take?
+Robot: Firstly, put 100g of dried vermicelli noodles in a large bowl and cover it with just-boiled water, then leave them to stand for approximately 2 minutes and then drain in a sieve and spread out onto a clean towel.
+User:  I put the noodles in a large bowl and then covered it with boiled water and left them to stand for 2 minutes. What do I have to do next?
+Robot: Good, now pat and press on them until they go dry, then move them into a bowl.
+User: I have pressed on them and they are now dry and I have moved them to a bowl, what do I have to do now?
+Robot: Now, mix all of the ingredients for the curry paste in a smaller bowl until they are thoroughly combined.
+User: I have mixed the ingredients for the curry paste. Now what do I have to do?
+Robot: Place the prepared vegetables in a semi-circle on a plate then starting with the onion and ending with the shredded leaves, arrange the bowl of noodles and the paste below to give it a wheel of ingredients.
+User: I have prepared the vegetables in a semi-circle on a plate, thank you , I have also arranged the bowl of noodles and the paste, now what do I do?
+Robot: Now, heat up ½ tbsp of oil in a wok on a very high heat, then add ½ of the red onion and stir-fry for approximately 15 seconds, then add 1 large carrot and stir-fry for 10 seconds more.
+User: I heated the oil on a high heat and added the red onion, I also added the 1 carrot and fried it for 10 seconds. What is the next step that I have to take?
+Robot:  Add 1 small leek and stir fry for another 10 seconds, before adding a little more olive oil and the leaves.
+User:  I have added the small leeks and fried them all for another 10 seconds and then added a bit more olive oil, what next?
+Robot: Now, move all of the vegetables to the sides of the wok and make sure to leave the centre clear.
+User: I have moved all the vegetables to the side of the wok and left the centre clear, what do I do next?
+Robot: Next add another tsp of oil, but wait for the wok to be smoking hot, after that toss the noodles in the middle, fry for a few seconds and then bring the vegetables from the sides onto the noodles and stir-fry together for 1 minute.
+User: I have added more olive oil, the wok is now hot and I added the noodles in the middle and let it fry for a few more seconds. Now what is the next step that I have to take?
+Robot: Finally, add the curry paste and stir-fry with the noodles and vegetables for about 30 seconds more, then divide the noodles between two warmed bowls and scatter over chives or spring onions or red chilies, then serve and enjoy the meal.
+User: Thank you for helping me cook Vegetarian Singapore fried noodles.
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+R259 Taro Root https://cookeatshare.com/recipes/taro-root-881590
+
+This recipe takes 30 minutes to cook, serves 2 and contains 4 ingredients,  [''taro roots'', ''water'', '’salt'', '’yogurt'']
+
+User: I would like to make Taro Root, what ingredients do I need?
+Robot: You will need 8 small taro roots, water, salt and 1 cup of yogurt mixed with enough water to submerge the roots.
+User: I have all of the ingredients ready to start, what is the first step?
+Robot: Wash the 8 taro roots very well, then slightly cut a slit into each root using a knife, but not big enough to split the root into two pieces.
+User: I have washed the roots and cut them a slit into each root, what now?
+Robot: Place the taro roots in an Instant Pot and submerge them with heavy salted water, then close the lid and set the vent to sealing.
+User: I have placed the roots in an instant pot and submerged them with water, what do I have to do next?
+Robot: Now set the pot to cook for 4 minutes at a high pressure, serve and enjoy the meal.
+User: Thank you very much for helping me cook Taro Root.
+
+
+

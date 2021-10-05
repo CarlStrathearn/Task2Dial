@@ -1,0 +1,25 @@
+R280 Mon Gâteau Au Chocolat Recipe https://cookeatshare.com/recipes/mon-gateau-au-chocolat-43
+
+This recipe 45 takes minutes to cook, serves 8 and contains 5 ingredients,  [''bittersweet chocolate'', ''unsalted butter'', '’granulated sugar'', '’eggs'', ''confectioner’s sugar'']
+
+User: Today I would like to make a Mon Gateau Au Chocolate cake, what ingredients do I need to make this cake?
+Robot: You will need 12 ounces of bittersweet chocolate, ⅔ cup of unsalted butter, ¾ cup of granulated sugar, 5 separated large eggs and 2 tsp of confectioner’s sugar for the decoration.
+User: I have all of the ingredients ready to make this cake, what is the first step that I have to take?
+Robot: Preheat the oven to 350 degrees fahrenheit and then butter a 9 and ½ inch pan or deep, non-stick cake pan and combine the chocolate, ⅔ cup of unsalted butter and ¾ cup of granulated sugar in the top of a double boiler placed over simmering water, did you get this?
+User: I have preheated the oven to 350 degrees and buttered the pan as required, what do I do next?
+Robot: Melt the chocolate over a medium heat, stirring all of the ingredients until they are thoroughly blended and then set the mixture aside to cool.
+User: I melted the chocolate over a medium heat and stirred the ingredients and put them all aside, what next?
+Robot: Good, now whisk the egg yolk together into the chocolate.
+User: I have whisked the egg yolks into the chocolate, what do I do next?
+Robot: Now, beat the egg whites into a bowl until peaks are formed and do not over beat them.
+User: I have beaten the eggs into a bowl and peaks have been formed, what do I do next?
+Robot: Now add ⅓ of egg whites to the chocolate batter and mix them vigorously
+User: I have added the egg whites to the chocolate batter and mixed them vigorously, what next?
+Robot: Gently fold in the remaining egg whites and do this slowly, do not over mix but make sure that the mixture is well blended.
+User: I have folded the remaining egg whites, what do I do next?
+Robot: Cool on a rack for several hours before unmolding, serve on a plate and enjoy the cake.
+User: Thank you for helping me cook Mon Gateau Au Chocolat.
+
+
+
+

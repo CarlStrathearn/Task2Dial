@@ -1,0 +1,19 @@
+R287 Grill Juicy Chicken Breast Tex-Mex Style https://cookeatshare.com/recipes/grill-juicy-chicken-breast-tex-mex-style-881639
+
+This recipe takes minutes 10 to cook, serves 4 and contains 7 ingredients,  [''chicken breasts'', ''fresh lime'', '’garlic cloves'', '’chicken broth'', ''sugar'', ''cooking oil'’, ''fresh cilantro'']
+
+User: I would like to cook a Juicy Chicken Breast Tex-Mex Style, what are the ingredients that I need?
+Robot: For this meal you will need 3 sliced chicken breasts, 1 juiced fresh lime, 4-6 garlic cloves, ¼ cup of chicken broth, ½ tsp of sugar, 1 tbsp of cooking oil, ¼ cup of fresh cilantro that is finely chopped with stems.
+User: I have the ingredients ready, what is the first step that I need to take?
+Robot: Mix all of the ingredients together and marinate them for at least 30 minutes in the refrigerator, then remove the chicken from the refrigerator 15-20 minutes before cooking.
+User: I mixed all of the ingredients together and marinated them for 30 minutes as required. I also removed the chicken from the refrigerator 20 minutes before cooking. What next?
+Robot: Then, heat a cast iron on a very high heat and let it be hot, spray 1 tbsp of cooking oil in the pan and add the chicken so that each of the filet is not touching each other.
+User: I have sprayed 1 tbsp of cooking oil in the pan and added the chicken, what next?
+Robot: Place the chicken on a plate, serve and enjoy.
+User: Thank you for helping me cook Grill Juicy Chicken Breast Tex-Mex Style.
+
+
+
+
+
+

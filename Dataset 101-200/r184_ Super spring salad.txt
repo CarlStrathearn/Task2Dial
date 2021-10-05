@@ -1,0 +1,23 @@
+﻿r184: Super spring salad. https://www.bbc.co.uk/food/recipes/super_spring_salad_91355
+
+
+Super spring salad recipe takes 40 minutes to prepare and cook, serves 4 and contains 18 ingredients,  [jersey royal potatoes'', 'green asparagus', 'broad beans', 'peas', 'soy beans’, 'spring onions', 'olive oil’,'purple asparagus', 'lemon', 'shallots', 'mint', 'chevil’, 'watercress', 'pea shoots', ‘black pepper’, ‘dijon mustard’, ‘red wine vinegar’, ‘walnut oil’]
+
+
+User: I would like to make a spring salad. 
+Robot: Boil water in a kettle and add to a large cooking pot to the boil, peel 12 potatoes and blanch,then drain the water and carefully slice in half with a kitchen knife.
+User: I have peeled, blanched and sliced the potatoes, what is the next step?
+Robot: Boil water in a kettle and add to a large cooking pot with a pinch of salt. Clean 10 green asparagus spears, 150g broad beans, 150g peas, 150g soy beans under a running taper and cut the ends off the 3 spring onions and dice on a cutting board using a kitchen knife and cook in the pot for two minutes
+User: I have prepared, and cooked the vegetables, what now? 
+Robot: Drain and run under cold water to stop them cooking but not to cool them.
+User: I have cooled the vegetables under a cold water tap, what is next?
+Robot: Spread the vegetables on a cooking tray and sprinkle them with a little olive oil and season with salt and pepper.
+User: The vegetables are on the cooking tray and seasoned, what is the next step?
+Robot: Put 4  purple asparagus spears in a bowl and sprinkle with the juice from a lemon and salt to cure and soften.
+User: I have added the purple asparagus spears to a bowl and sprinkled lemon juice on them, what now?
+Robot: Next make the salad dressing by whisking together 1 tablespoon of mustard and 5 tablespoons of red wine vinegar in a bowl and slowly adding 1 tablespoon of walnut oil and 300ml of olive oil. It should have a thick consistency, like a sauce. Season with a good amount of salt and black pepper.
+User: I have made the salad dressing, what is the next phase?
+Robot: Mix all of the vegetables in the large cooking bowl, and peel and slice 2 shallots into rings, dice 15 mint leaves, chervil, watercress and a punnet pea shoots finely with a knife and pour over the salad dressing.
+User: I have added the vegetables to the bowl and poured over the salad dressing, what now?
+Robot: Divide the salad between four dinner plates and enjoy your meal.
+User: Thank you.

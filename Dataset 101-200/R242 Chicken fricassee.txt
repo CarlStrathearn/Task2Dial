@@ -1,0 +1,37 @@
+R242 Chicken fricassee https://www.bbc.co.uk/food/recipes/chicken_fricasse_02463
+
+This recipe takes 10-30 minutes to cook serves 4 and contains 14 ingredients,  [''chicken stock'', ''white wine'', '’onions'', '’thyme'', ''whole chicken'', ''mushrooms'’, ''egg yolks'', ''double cream'', ''black pepper'', ''parsley'', ''floury potatoes'', ''butter'', ''full-fat milk'', ''black pepper'']
+
+User: I would like to make Chicken Fricassee, what are the ingredients required?
+Robot: To make Chicken fricassee, you will need 500ml of chicken stock, 200ml of white wine, 125g of pearl onions, 3 sprigs of thyme, 1.5kg of whole chicken that is cut into 8 pieces, 200g of baby mushrooms, 4 free-range egg yolks, 150ml of double cream, salt and freshly ground black pepper, 2 tbsp of finely chopped parsley.
+User: I have the ingredients ready, what about the ingredients for the mash?
+Robot: For the mash you will need 1kg of floury potatoes, 150g of butter, 150ml of full-fat milk, salt and freshly ground black pepper.
+User:  I am ready to start, what is the first step I need to take?
+Robot: Place a large casserole over a high heat, add 500ml of chicken stock, 200ml of white wine, 125g of pearl onions and 3 sprigs of thyme and then bring to a slow simmer.
+User: Thank you , I have placed the casserole over a high heat and added the chicken stock, white wine, onions and thyme, what do I do next?
+Robot: Now add 1.5kg of a whole chicken that is cut into 8 pieces, including the carcass and then return to a simmer.
+User: I have added the 8 pieces of chicken, including the carcass, what is the next step?
+Robot: Add 200g of baby button mushrooms, then cover and simmer for approximately 15-20 minutes, or until the chicken is cooked well through.
+User: I have added the mushrooms, covered them and simmered for 15 minutes as required, what now?
+Robot: Now, remove the casserole from the heat and lift out the chicken and throw away the carcass.
+User:  I have removed the casserole from the heat, what next?
+Robot: Take 4 free-range egg yolks, whisk them and take 150ml of cream together and then whisk them together in a bowl, gradually adding to the casserole, mixing well as you pour in.
+User: I have mixed the egg yolks with the cream and gradually added it to the casserole. What is the next step that I have to take?
+Robot: Return the chicken to the pan and then check the seasoning, casually adding salt and ground black pepper in order to enhance the taste, finally stir in 2 tbsp of finely chopped parsley.
+User: I have added salt and pepper to enhance the taste, also I stirred the parsley. What should I do next?
+Robot:Let’s move on to the mash. Place 1kg of floury potatoes that are cut into chunks into a pan of cold and salted water, then bring to a boil.
+User: I have placed the potatoes into a pan of cold and salted water and also brought it to a boil, what do I do now?
+Robot: Next you must reduce the heat and simmer for approximately 12-15 minutes, or even until the potatoes turn tender.
+User: I have reduced the heat and simmered for 15 minutes as required, what now?
+Robot: Good, now drain and return to the pan, then place over a low heat for a couple of minutes in order to dry out the potatoes.
+User:  I have drained and returned to the pan and placed it over a low heat, the potatoes are now dry, what do I have to do next?
+Robot: Now, tip the potatoes back into a colander and then pass them through a ricer.
+User:  I have tipped the potatoes back into a colander and passed them through a ricer, what do I have to do now?
+Robot: Now, add 150g of butter, 150ml of full-fat milk and beat them to form a very smooth mash, then season to taste with salt and black pepper.
+User:  I have added the butter, milk and beat them. They are now a mash, what do I do now?
+Robot: That’s it, serve the meal and enjoy.
+User: Thank you for helping me cook Chicken fricassee.
+
+
+
+

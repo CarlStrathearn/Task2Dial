@@ -1,0 +1,21 @@
+R278 Pangat na Sapsap https://cookeatshare.com/recipes/pangat-na-sapsap-738411
+
+This recipe takes 40 minutes to cook, serves 3 and contains 9 ingredients,  [''butterfish'', ''ginger'', '’garlic'', '’onion'', ''vinegar'', ''green chili pepper'’, ''salt'', ''black pepper'', ''cooking oil'']
+
+User: I would like to cook Pangat na Sapsap, what ingredients do I need to make this meal?
+Robot: You will need 3 pieces of butterfish, 1 ginger knob, 6 garlic cloves sliced and pounded, 1 medium onion, ½ cup of vinegar, 3 pieces of green chili pepper, 1 tsp of salt, a pinch of ground black pepper and 1 tsp of cooking oil.
+User: I have the ingredients ready to cook this meal, where do I begin?
+Robot: Rub 3 slices of butterfish with 1 tsp of salt, then let it sit for at least 10 minutes.
+User: I have rubbed the 3 slices of butterfish with 1 tsp of salt and let it sit for 10 minutes, what now?
+Robot: Now in a large saucepan, arrange the 3 pieces of butterfish and put all of the ingredients on top except for the cooking oil.
+User: I have arranged the 3 pieces of butterfish and put the ingredients on top, what next?
+Robot: Now, cover and let it simmer for about 15 minutes in a low fire or until ½ cup of vinegar sauce dries up.
+User: I have covered and simmered for 15 minutes as required on a low fire, what next?
+Robot: Good, now pour the cooking oil and continue simmering for another minute, then remove from the heat before the fish gets toasted.
+User: I have poured the cooking oil and continued simmering for another minute as required, then removed from the heat, what now?
+Robot: Serve the dish with steamed rice and enjoy.
+User: Thank you for helping me cook Pangat na Sapsap.
+
+
+
+

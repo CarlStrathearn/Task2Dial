@@ -1,0 +1,25 @@
+R301 Garlic Tomato Basil Grilled Shrimp Pasta https://cookeatshare.com/recipes/garlic-tomato-basil-grilled-shrimp-pasta-160
+
+This recipe takes 15 minutes to cook, serves 4 and contains 12 ingredients,  [''uncooked shrimp'', ''tomatoes'', '’fresh basil'', '’garlic'', ''olive oil'', ''lemon juice'’, ''parsley'', ''white wine'', ''fresh oregano'', ''salt'', ''pepper'', ''angel hair pasta'']
+
+User: Today I would like to cook Garlic Tomato Basil Grilled Shrimp Pasta, what ingredients do I need to cook this meal?
+Robot: For this meal you will need 2 pounds of uncooked shrimp, 10 roma tomatoes, 3 tbsp of fresh basil, 6 cloves of garlic, 1 and ¼ cup of olive oil, 2 tbsp of lemon juice, 2 tbsp of fresh parsley, 2 tbsp of white wine, 1 tbsp of fresh oregano, 1 tsp of salt, 1 tsp of pepper and angel hair pasta.
+User: I have all of the ingredients to cook the meal, where do I start?
+Robot: For the shrimp and marinade, you must finely chop 3 cloves of garlic, 2 tbsp of fresh parsley and 1 tbsp of fresh oregano and then place them all in a bowl.
+User: I have chopped the garlic, fresh parsley and the fresh oregano, what do I do next?
+Robot: Add in ¾ cups of olive oil, 2 tbsp of lemon juice, 1 tsp of salt, 1 tsp of pepper and 2 tbsp of white wine.
+User: I have added olive oil, lemon juice, salt, pepper and white wine, what do I do next?
+Robot: Add 2 pounds of uncooked shrimp, let it marinade for 3 hours then grill on a low medium heat.
+User: I have added the uncooked shrimp and I let it marinade for 3 hours as required, what next?
+Robot: In order to make the sauce now, chop 10 roma tomatoes, 3 garlic cloves and 3 tbsp of fresh basil using a knife.Then place the chopped tomatoes, garlic and basil in a saucepan.
+User: I have chopped the tomatoes, garlic cloves, basil and then placed the chopped tomatoes, garlic and basil in a saucepan, what next?
+Robot: Add ½ cup of olive oil, salt and pepper and cook for approximately 5 minutes and make sure to stir continuously.
+User: I have added the cup of olive oil, salt and pepper and cooked for 5 minutes, what next?
+Robot: Now place the sauce on the cooked angel hair and then add the grilled shrimp, serve and enjoy the meal.
+User: Thank you for helping me cook Garlic Tomato Basil Grilled Shrimp Pasta
+
+
+
+
+
+

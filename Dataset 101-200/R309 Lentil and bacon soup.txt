@@ -1,0 +1,27 @@
+R309 Lentil and bacon soup https://www.bbc.co.uk/food/recipes/red_lentil_and_bacon_27157
+
+This recipe takes 10-30 minutes to cook, serves 6 and contains 11 ingredients,  [''oil'', ''bacon'', '’onion'', '’pepper'', ''vegetable stock'', ''sweet potato'’, ''garlic clove'', ''red lentils'', ''sprig thyme'', ''bay leaf'', ''black pepper'']
+
+User: I would like to make a Lentil and bacon soup, what ingredients do I need to make this soup?
+Robot: In order to make this soup you will need 1 tsp of oil, 75g of back bacon, trimmed all of the fat and finely chopped, 1 finely chopped onion, 1 finely chopped red pepper, 1.5 litres of vegetable stock, 1 small peeled and finely diced sweet potato, 1 garlic clove, 200g of red lentils, large sprig thyme, 1 bay leaf and freshly ground black pepper.
+User: I have the ingredients ready, could you please tell me what other ingredients I need?
+Robot: You do not need anymore ingredients, you are ready to start, firstly heat 1 tsp of oil in a large saucepan.
+User: I have heated the oil in a large saucepan, what do I have to do now?
+Robot: Now add 75g of back bacon with the fat trimmed away from it, 1 finely chopped onion and 1 red pepper, then cook on a low heat for 5 minutes, or until the vegetables become soft.
+User: I have added the bacon, the onion and the red pepper and cooked on a low heat for 5 minutes as required, what do I do next?
+Robot: Boil a kettle and use the water to make your stock, then bring it to the boil in a separate saucepan while the vegetables are cooking.
+User: I have boiled the water in a kettle and brought it to boil in a different saucepan, now what do I do?
+Robot: Next, add 1 small sweet potato, 1 garlic clove and 200g of red lentils to the bacon and vegetables.
+User: I have added the sweet potato, garlic clove and the red lentils, what next?
+Robot: Stir for a minute, after that pour over the boiled-stock and add the herbs.
+User: I have added the potato, garlic and the lentils to the bacon and vegetables and also stirred for a minute. What do I have to do next?
+Robot: Now, season with salt and pepper, then return to the boil and after that turn down the heat to medium, cover and cook for approximately 20 minutes, or until the red lentils become hard.
+User: I have seasoned with salt and pepper and returned to the boil and also covered and cooked them for 20 minutes as required. What is the next step that I have to take?
+Robot: Now remove the herbs and blend using a stick-blender, then serve and enjoy the soup.
+User: Thank you for helping me cook Lentil and bacon soup.
+
+
+
+
+
+

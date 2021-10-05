@@ -1,0 +1,19 @@
+R262 Crockpot Split Pea Soup https://cookeatshare.com/recipes/crockpot-split-pea-soup-649082
+
+This recipe takes 7 hours to cook, serves 6 and contains 8 ingredients,  [''water'', ''split peas'', '’salt'', '’pepper'', ''carrots'', ''celery'’, ''onion'', ''ham shanks'']
+
+User: I would like to make a Crockpot Split Pea Soup today, what are the ingredients required to make this meal?
+Robot: You will need 7 cups of water, 1 package of dried rinsed split peas, 1 tsp of salt, ½ tsp of pepper, 3 medium carrots each cut into ¼ inch slices, 2 stalks of celery, finely chopped, 1 chopped medium onion, 2 lbs of ham shanks.
+User: I have all of the ingredients to make this meal, where do I begin?
+Robot: Mix all of the ingredients except the ham in a 5 qt slow cooker, then add 2lbs of ham shanks.
+User: I have mixed all of the ingredients except the ham in a slow cooker and added the ham shanks, what do I do next?
+Robot: Good, now cover and cook on a low heat between 8 to 10 hours or on a high heat for 6 to 7 hours until the peas are tender.
+User: I have covered and cooked the meal on a low heat for 10 hours, what is next?
+Robot: Remove the ham from the crockpot and place it on a cutting board, then pull the meat from the bones, discard the skin and stir the ham into the soup.
+User: I have removed the ham from the crockpot and placed it on a cutting board and taken the meat away from the bones, what do I do next?
+Robot: Good, now simply stir before serving the meal then enjoy the meal.
+User: Thank you for helping me cook Crockpot Split Pea Soup.
+
+
+
+

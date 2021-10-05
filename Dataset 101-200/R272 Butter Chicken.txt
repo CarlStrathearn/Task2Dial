@@ -1,0 +1,33 @@
+R272 Butter Chicken https://www.bbc.co.uk/food/recipes/butter_chicken_74537
+
+This recipe takes 10-30 minutes to cook, serves 4 and contains 19 ingredients,  [''yoghurt'', ''lime'', '’garlic'', '’ginger'', ''cumin'', ''coriander'’, ''garam masala'', ''paprika'', ''salt'', ''chicken breasts'', ''butter'', ''lemon'', ''onion'', ''root ginger'', ''tomato puree'', ''chilies'', ''chili powder'', ''double cream'', ''black pepper'']
+
+User: Today I want to make Butter Chicken, what ingredients do I need to cook this meal?
+Robot: For the marinade you will need 100ml of plain yoghurt, 1 lime, 15g of crushed garlic, 1 inch piece of fresh root ginger, 1 tsp of ground cumin, 1 tbsp of ground coriander, 1 tsp of garam masala, a pinch of paprika and a pinch of salt.
+User: I have the ingredients ready for the marinade, what about the ingredients for the chicken?
+Robot: For the chicken you will need 4x150g chicken breasts, 25g of unsalted butter and ½ lemon.
+User: I have the ingredients ready, any others?
+Robot: For the sauce you will need 100g of unsalted butter, 1 grated onion, a fresh ginger, 2 crushed garlic cloves, 100g of tomato puree, 2 small red chilies, a pinch of chili powder, 200ml of double cream, salt and fresh ground black pepper.
+User: I have all of the ingredients ready to cook the meal, what is the first step that I have to take?
+Robot: To make the marinade, mix all of the ingredients for the marinade together in a bowl until they are combined well, then add 4 pieces of chicken breasts each 150g and make sure they are covered well in the marinade.
+User: I have mixed all of the ingredients in a bowl and they are combined well, I also added the chicken breasts. What do I do next?
+Robot: Now, put them aside to marinate in the fridge for approximately 12 hours, or you can leave them overnight.
+User: I have left them to the marinade for 12 hours, what now?
+Robot: After the chicken has marinated, preheat the grill to its highest setting.
+User: I have preheated the grill to its highest setting, what do I do next?
+Robot: Now, remove the chicken breasts from the marinade and shake off any excess, then grill for about 10 minutes on each side, or until they become golden-brown.
+User: I removed the breasts from the marinade and took away any excess pieces, I also grilled them for 10 minutes, what do I have to do now?
+Robot: Baste the chicken breasts with the butter and a little bit of lemon juice, then set them aside.
+User: I have basted the chicken breasts with lemon juice and I put them aside, what now?
+Robot: To make the sauce, heat 100g of unsalted butter in a frying pan over a medium heat and fry the onions for approximately 5 minutes, or until they become soft.
+User: I heated the butter in a frying pan and cooked the onions for 5 minutes, where do I go from here?
+Robot: Good, now add 1 grated ginger and 2 cloves of garlic and then cook for another minute, then stir 100g of tomato puree, 2 small red chilies and a pinch of chili powder and then cook for 3 minutes.
+User: I have added the ginger, garlic and tomato puree as well as the chilies and left them to cook for 3 minutes as required, what do I have to do next?
+Robot: Reduce the heat a little bit, stir 200ml of cream and simmer for another minute, then add the chicken breasts to the sauce and season to taste with salt and pepper.
+User: I have stirred the cream and let it simmer for a minute, I also added the chicken breasts to the sauce, what do I do next?
+Robot: Place the buttered chicken on serving plates and sprinkle over the sauce, then serve and enjoy the meal.
+User: Thank you for helping me cook Butter Chicken.
+
+
+
+

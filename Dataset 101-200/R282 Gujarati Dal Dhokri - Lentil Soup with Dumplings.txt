@@ -1,0 +1,17 @@
+R282 Gujarati Dal Dhokri - Lentil Soup with Dumplings https://cookeatshare.com/recipes/gujarati-dal-dhokri-lentil-soup-with-dumplings-881585
+
+This recipe takes 30 minutes to cook, serves 5 and contains 5 ingredients,  [''dried pigeon peas'', ''water'', '’carrots'', '’medium tomato'', ''medjool dates'']
+
+User: I would like to make Gujarati Dal Dhokri today, what ingredients do I need to make this meal?
+Robot: You will need ¾ cups of dried pigeon peas, 3 cups of water, ¾ cup of chopped carrots, 1 medium tomato chopped, 2 medjool dates with the pit taken out and cut in half.
+User: I have the ingredients ready to make this meal, what is the first step that I need to take?
+Robot: Wash the pigeon peas well and place them in an instant pot with all of the ingredients mentioned, then set the instant pot to 12 minutes on a high pressure and leave the vent closed.
+User: I have washed the pigeon peas and placed them in an instant pot as mentioned, what do I do next?
+Robot: Now, let the instant pot fully cool down on its own before opening, then blend the daal with a handheld blender to make the texture consistent and turn the instant pot on saute mode.
+User: I have let the pot fully cool down and blended the daal, what do I do next?
+Robot: Add all of the ingredients listed under the Sambar above to the instant pot dal, serve and enjoy the meal.
+User: Thank you for helping me cook Lentil Soup with Dumplings.
+
+
+
+

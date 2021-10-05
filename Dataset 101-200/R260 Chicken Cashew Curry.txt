@@ -1,0 +1,21 @@
+R260 Chicken Cashew Curry https://www.bbc.co.uk/food/recipes/chicken_tikka_curry_45156
+
+This recipe takes 10-30 minutes to cook, serves 2 and contains 12 ingredients,  [''chicken fillets'', ''curry paste'', '’olive oil'', '’onion'', ''garlic cloves'', ''red pepper'’, ''green pepper'', ''broccoli'’, ''spring onions'’, ''cashew nuts'’, ''basmati rice'’, ''black pepper'’]
+
+User: I would like to make Chicken Cashew Curry today, what ingredients do I need?
+Robot: You will need 200g of chicken thigh fillets cut into bite-sized pieces, 2 tbsp of tikka curry paste, 1 and ½ tbsp of olive oil, 1 diced small onion, 2 crushed garlic cloves, 1 deseeded and diced red and green peppers, 150g of broccoli, 4 roughly chopped spring onions, 30g of cashew nuts, 225g of basmati rice, salt and freshly ground black pepper.
+User: I have all of the necessary ingredients, what is the first step?
+Robot: Rub 200g of chicken with the tikka paste.
+User: I have rubbed the chicken with the tikka paste, what do I do next? 
+Robot: Now, heat 1 and ½ tbsp of olive oil in a frying pan and then cook the chicken for approximately 3 minutes, turning it regularly, then remove the chicken to a plate and set it aside.
+User: I heated the olive oil in a frying pan and cooked it for 3 minutes, I also set it aside on a plate. What should I do next?
+Robot: Now, in the same pan, add a splash more of oil and then cook 1 small onion, 2 garlic cloves, 1 red and green pepper and 150g of broccoli for 3 minutes by stirring regularly.
+User: I have added a bit more oil and cooked the 1 small onion, garlic and the peppers, what next?
+Robot: Now, pop 225g of basmati rice in the microwave and leave it for 2 minutes until it is very hot, got that?
+User: I have put the basmati rice in the microwave and left it for 2 minutes, what is the next step?
+Robot: Divide the rice between two plates, top with the chicken curry, serve and enjoy the meal.
+User: Thank you for helping me cook Chicken Cashew Curry.
+
+
+
+

@@ -1,0 +1,37 @@
+R241 Indian Style Cauliflower and Potatoes https://cookeatshare.com/recipes/cauliflower-potatoes-indian-style-610537
+
+This recipe takes 20 minutes to cook serves 4 and contains 13 ingredients,  [''cauliflower'', ''potatoes'', '’vegetable oil'', '’cumin seeds'', ''sweet paprika'', ''turmeric'’, ''ground cumin'', ''minced garlic'’, ''ginger paste'’, ''chopped coriander'’, ''garam masala'’, ''chicken stock'’, ''pepper'’]
+
+User: I would like to make Indian Style Cauliflower and Potatoes, what are the required ingredients?
+Robot: You will need 1 washed cauliflower, 2 peeled potatoes, 1 tbsp of vegetable oil, 1 tsp of cumin seeds, ½ tsp of sweet paprika, ½ tsp of turmeric, 1 tsp of ground cumin, 1 tsp of minced garlic, 1 tsp of ginger paste, 1 tsp of chopped coriander, ½ tsp of garam masala, ¾ cups of chicken stock and ½ tsp of pepper.
+User: I have all of the ingredients ready, where do I begin?
+Robot: Start off by making a paste of ¾ tsp minced ginger and with ¼ tsp of sea salt by mashing the minced ginger and the salt together with the back of a spoon.
+User:I have made a paste by mashing the ginger and sea salt with the back of a spoon, what do I do next?
+Robot: Now, combine 1 tsp of cumin seeds, 1 tsp of minced garlic and 1 tsp of ginger paste in a small dish.
+User: I have combined the cumin seeds and the minced garlic with the ginger paste, what now?
+Robot: Good, now combine the turmeric, ground cumin, paprika in a second small dish.
+User: I have combined the turmeric, cumin and paprika in a second smaller dish, what now?
+Robot: Now, halve 2 cubed potatoes in a bowl and halve 1 head of cauliflower in a bowl using a knife.
+User: I halved the potatoes and the cauliflower, what next?
+Robot: Good, now heat the oil over medium heat in a medium skillet to shimmering.
+User: I have heated the oil over a medium heat, what do I do now?
+Robot: Now add the cumin seeds, garlic and the ginger to the hot oil and move the ingredients around for about 1 minute using a wooden spoon or spatula until the garlic begins to become golden.
+User: I have added the cumin seeds, garlic and ginger. I have also moved the ingredients for 1 minute, what do I do next?
+Robot: Now, add the potatoes and stir to combine them.
+User: I have added the potatoes, what now?
+Robot: Deglaze with the chicken stock, then add ½ tsp of sweet paprika, 1 tsp of ground cumin, ½ tsp of turmeric and pepper.
+User:  I have deglazed the chicken stock and added the sweet paprika, what do I do next?
+Robot: Now, cover with a lid and simmer for approximately 6 minutes with an occasional stir to coat the potatoes well.
+User: I have covered and simmered for 6 minutes, the potatoes are now coated, what do I do next?
+Robot: Add the cauliflower and the chopped cilantro, stirring to combine well.
+User: I have added the cauliflower and cilantro, what now?
+Robot: Now, reduce to a lower-medium heat, cover, with an occasional stir and then cook for 10 minutes.
+User: I have reduced it to a medium heat and covered it, also cooked for 10 minutes. What is the next step?
+Robot: Good, now when the potatoes and cauliflower are forkable, add ½ tsp of garam masala by gently sifting the ½ tsp through a very fine sieve.
+User: I have added the garam masala, what do I do now?
+Robot: Stir to combine, remove from the heat, serve the meal and enjoy.
+User:  Thank you for helping me cook Indian Style Cauliflower and Potatoes.
+
+
+
+

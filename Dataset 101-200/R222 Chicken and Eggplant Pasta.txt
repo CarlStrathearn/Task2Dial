@@ -1,0 +1,28 @@
+R222 Chicken and Eggplant Pasta https://cookeatshare.com/recipes/skinny-and-delicious-chicken-and-eggplant-pasta-for-326-calories-499434
+
+This recipe takes 15 minutes to cook serves 4 and contains 15 ingredients,  [''olive oil'', '’diced onions'', '’minced garlic'', ''eggplant'', ''spaghetti'’, ''white wine'', ''chicken broth'’, ''tomato paste'’, ''baby spinach'’, ''grapes'’, ''cherry tomatoes'’, ''chicken breast'’, ''wine vinegar'’, ''black pepper'’, ''salt'’]
+
+User: Today I want to cook Chicken and Eggplant pasta, what are the required ingredients?
+Robot: For this meal you need 1 tablespoon of extra virgin olive oil, 1 and ¾ cups of diced onions, 1 and ½ tablespoons of minced garlic, 2 cups of cubed eggplant, unpeeled, 4 ounces of dry whole wheat spaghetti, ¾ cup of white wine, 1 cup of reduced sodium chicken broth, 2 and ½ tablespoons of tomato paste, 6 cups of baby spinach, 1 and ¼ cups of halved grapes or cherry tomatoes, 2 cups of cooked and chopped chicken breasts, you will also need 2 tbsp of red wine vinegar, ¼ teaspoon of fresh ground black pepper and ¼ teaspoon of salt.
+User:  For outlining all of the ingredients, I have them all ready, now what is the first step that I need to take?
+Robot: In a large pot, firstly add water and bring it to a boil in order to cook the spaghetti.
+User: I have added the water and brought it to a boil, what next?
+Robot: In a large nonstick pan, heat 1 tbsp of olive oil over a medium-high, then add the garlic and saute for about 1 minute.
+User:  I have heated 1 tbsp of olive oil over medium-high and added the garlic and sautéed for 1 minute, what do I do next?
+Robot: Then, stir in the eggplant and cook for about 3-5 minutes until the eggplant will begin to soften.
+User: I have stirred in the eggplant and cooked for 3-5 minutes, what is next?
+Robot: Add the spaghetti to the pot of boiling water, then cook according to the package directions, then drain when cooked.
+User: I have added the spaghetti to the pot of boiling water and thereafter drained it, what do I do now?
+Robot: Then, add ¾ cup of white wine to the eggplant mixture and then simmer until the liquid has almost evaporated.
+User: I have added the ¾ cup of white wine to the eggplant and let it simmer, what do I do next?
+Robot: Now, stir the chicken broth and the tomato paste, also simmer the sauce until it starts to get thick for approximately 2-3 minutes.
+User: I have stirred the chicken broth and the tomato paste and I have also simmered the sauce for the required time, what do I do now?
+Robot: Add in a handful of spinach, stirring until wilted, then stir in the tomatoes and the cooked chicken.
+User: I have added a handful of spinach which I have stirred, I also stirred the tomatoes and the cooked chicken, what do I do next?
+Robot: Continue to cook the ingredients until heated enough, then season with vinegar, pepper and salt.
+User: I have seasoned the ingredients with vinegar, pepper and salt, what do I do now?
+Robot: Then, divide the cooked spaghetti among 4 different bowls or dishes and top each of them with sauce.
+User:  I have divided the cooked spaghetti among 4 different bowls and topped them with sauce, what next?
+Robot: Simply serve and enjoy the meal.
+User: Thank you for helping me cook Chicken and Eggplant pasta.
+

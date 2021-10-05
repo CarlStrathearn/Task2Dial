@@ -1,0 +1,25 @@
+R258 Chicken Nachos https://cookeatshare.com/recipes/chicken-nachos-259222
+
+This recipe takes 7 minutes to cook, serves 8-10 and contains 12 ingredients,  [''chicken breasts'', ''shredded cheese'', '’black beans'', '’tortilla chips'', ''sour cream'', ''guacamole'’, ''diced jalapenos'', ''shredded lettuce'’, ''diced tomato'’, ''diced onion'’, ''salsa'’, ''cookie sheet'’]
+
+User: I would like to make Chicken Nachos today, what ingredients do I need?
+Robot: For this recipe you will need 3 boneless skinless chicken breasts, 1 lb of shredded cheese, 1 can of black beans, 1 bag of tortilla chips, 1 10 oz sour cream, 2 cups of guacamole, 2 fresh diced jalapenos, 2 cups of shredded lettuce, 1 diced tomato, ¼ diced onion, 2 cups of salsa and 1 large cookie sheet, got that?
+User: I have the ingredients ready, where do I begin?
+Robot: Preheat the oven to 350 degrees celsius, then grill 3 boneless skinless chicken breasts with cumin, onions and peppers and garlic.
+User: I have preheated the oven to 350 degrees and grilled the chicken with the onions, what is next?
+Robot: Now, place the chips on a cookie sheet, cover 1 layer with cheese and add a second layer of chips after.
+User: Thank you, I have placed the chips on a cookie sheet and covered 1 layer with cheese, what now?
+Robot: Now, spread an even layer of black beans onto the chips and add more cheese.
+User: I spread an even layer of black means on the chips, thank you for that, what now?
+Robot: Place the sliced chicken breasts and spread evenly over the pan of nachos.
+User: I placed the chicken breasts and spread them evenly over the pan of nachos, what do I do now?
+Robot: Good, now place them in the oven until they are melted for about 5-10 minutes.
+User: Thanks, I have placed them in the oven and they are now melted, what now?
+Robot: Dice ¼ of an onion, peppers and shred 2 cups of lettuce.
+User: I have diced the onion, peppers and lettuce, what next?
+Robot: Remove from the oven and garnish with onions and jalapenos, serve and enjoy the meal.
+User: Thank you for helping me cook Chicken Nachos.
+
+
+
+

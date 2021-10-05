@@ -1,0 +1,21 @@
+R310 San Antone Black Bean Salad Recipe https://cookeatshare.com/recipes/san-antone-black-bean-salad-534846
+
+This recipe takes 30 minutes to cook, serves 12 and contains 16 ingredients,  [''black beans'', ''sweet corn'', '’onions'', '’garlic'', ''jalapeno peppers'', ''bell peppers'’, ''avocado'', ''pimentos'', ''tomatoes'', ''cilantro'', ''sea salt'', ''black pepper'', ''lime juice'', ''orange juice'', ''lime zest'', ''ground cumin''']
+
+User: I would like to cook a San Antone Black Bean Salad, what ingredients do I need to make this Salad?
+Robot: For this recipe you will need 2 lbs of black beans, 2 lbs of cooked sweet corn cut from the cob, 8 diced green onions, 2 cloves of garlic, 2-3 jalapeno peppers, 1 green bell pepper, 1 ripe avocado, 1 jar of pimentos, 3 seeded tomatoes, 1 cup of fresh cilantro, sea salt and cracked black pepper for the taste, those are the ingredients for the salad.
+User: What about the ingredients for the dressing?
+Robot: For the dressing you will need 3 tsp of fresh lime juice, 2 tsp of fresh orange juice, 2 and ½ tsp of lime zest, ½ tsp of ground cumin and black pepper to taste.
+User: I have all of the ingredients ready to make the salad, what is the first step that I have to take?
+Robot:Combine all of the salad ingredients in a large bowl, season with salt and pepper, then whisk the dressing vigorously to incorporate.
+User: I have combined all of the salad ingredients into a bowl and seasoned them with salt and pepper, now what do I have to do?
+Robot: Next, add the dressing to the salad and gently toss to combine everything together, then chill until ready to serve. You will also want to prepare the salad at least 4 hours prior to serving.
+User: I have added the dressing to the salad and tossed everything together, what do I have to do now?
+Robot: Next, sprinkle lime juice on top of the salad and continue to mix everything, then serve the salad and enjoy.
+User: Thank you for helping me cook a San Antone Black Bean Salad. 
+
+
+
+
+
+

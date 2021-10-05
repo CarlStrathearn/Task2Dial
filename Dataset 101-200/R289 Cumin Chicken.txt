@@ -1,0 +1,23 @@
+R289 Cumin Chicken https://cookeatshare.com/recipes/cumin-chicken-286
+
+This recipe takes 85 minutes to cook, serves 4 and contains 7 ingredients,  [''chicken'', ''ground cumin'', '’fresh oregano'', '’ground black pepper'', ''kosher salt'', ''white wine'’, ''olive oil'']
+
+User: Today I would like to cook Cumin Chicken, what ingredients do I need to make this meal?
+Robot: You will need 3lb of chicken, 2 tbsp of ground cumin, 1 tbsp of fresh chopped oregano, 1 tbsp of fresh ground black pepper, 1 tbsp of kosher salt, 3 tbsp of white wine and 2 tbsp of olive oil.
+User: I have the ingredients ready to cook the meal, what is the first step that I have to take?
+Robot: Preheat the oven to 350 degrees, then prepare the chicken by cutting off the tips of the wings, then in a small bowl combine the remaining ingredients.
+User: I preheated the oven to 350 degrees and prepared the chicken by cutting the tips of the wings. What do I do now?
+Robot: Coat the chicken with the mixture inside and out, then push the chicken together so that the legs and wings are set back.
+User: I coated the chicken with the mixture and pushed the chicken together, the wings are now set back, what do I do next?
+Robot: Now place the chicken breast with its side up in a shallow baking dish and set it in the centre of the oven and bake for approximately 25 minutes.
+User: I have placed the chicken breast with its side up in a baking dish and put it in the centre of the oven and baked it for 25 minutes as required, what next?
+Robot: Remove from the oven after 25 minutes and let it rest for about 5 minutes before cutting it.
+User: I have removed the chicken breast from the oven and I let it rest for about 5 minutes, what next?
+Robot: Now, carve the chicken and serve it rice and a side of vegetables and enjoy the meal.
+User: Thank you for helping me cook Cumin Chicken.
+
+
+
+
+
+

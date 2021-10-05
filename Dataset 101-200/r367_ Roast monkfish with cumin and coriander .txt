@@ -1,0 +1,21 @@
+﻿r184: Super spring salad. https://www.bbc.co.uk/food/recipes/super_spring_salad_91355
+
+
+This recipe takes 60-120 minutes to cook, 12 hours to prepare, serves 2 and contains 15 ingredients,  ['aubergine', 'cumin', 'coriander seeds', 'olive oil', 'double cream’, 'lemon', 'black pepper’,'monkfish', 'olives',’butter’, 'capers', 'anchovies', ‘chili’, 'parsley', 'celery']
+User: I would like to make a spring salad
+Robot: First, preheat an oven to 180c or Gas mark 4 and place 2 large aubergines over the open flame to burn the skins. When the skins are scalded all over, place the aubergines on a baking tray and cook in an oven for 35-40 minutes and remove and leave to cool when cooked..
+User: The aubergines are cooked, what is the next step?
+Robot: If the aubergines are cool, cut them down the middle using a kitchen knife and scoop out the creamy flesh with a spoon. Be sure to remove any black toasted skin from the pulp. Using a sharp kitchen knife, chop the aubergines until they form a rough puree. Transfer the puree to a large bowl and leave to drain in the fridge overnight. 
+User: I have left the puree in the fridge overnight, what do I do now?
+Robot: In a dry frying pan, toast 2 tablespoons of cumin seeds and 2 tablespoons of coriander seeds on low heat 180c / Gas mark 4 for 8-10 minutes. When toasted remove from the frying pan from the heat and allow to cool.
+User: The seeds are cool, what do I do next?
+Robot: In a spice grinder, blend the toasted seeds and pass through a fine sieve to remove large pieces of seed.
+User:I have blended and sieved the seeds, what now?
+Robot: In a saucepan, heat a splash of olive oil and stir one and a half teaspoons of the toasted spice powder and cook for 2-3 minutes. Add the drained aubergine and when hot add 100ml of double cream and the zest of one lemon and the juice of two, and season with salt and pepper. Mix the ingredients together and set aside. 
+User: I have set the ingredients aside, what is the next phase?
+Robot: Sprinkle the remaining spice mixture over 200g/7oz of skinned monkfish fillets and cook in a non stick frying pan on a medium heat for 6-8 minutes. Regularly turn to fillets to prevent the spices from burning and tainting the fish. Remove the fillets from the pan and baste with melted butter and a squeeze of lemon juice and set aside to rest. 
+User: I have cooked the fillets and set them aside, what now?
+Robot: Next make the dressing by finely chopping 100g of green pitted green olives, 1 red chili and 1 tablespoons of drained capers and add to a large bowl. Finely chop half a bunch of flat leaf parsley with a kitchen knife and drizzle over with olive oil and the remaining lemon juice and season with salt and pepper.
+User: Ok, I have made the dressing, what is the next step?
+Robot: Reheat the aubergine puree and place a spoonful on the side of a large dinner plate. Slice the monkfish fillets and spoon over the dressing. Finally, garnish the fillets with a couple of celery leaves. Enjoy your meal.
+User: Thank you.

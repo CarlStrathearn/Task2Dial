@@ -1,0 +1,34 @@
+R299 Feta-stuffed lamb with fried potatoes https://www.bbc.co.uk/food/recipes/feta-stuffed_lamb_with_25900
+
+This recipe takes 10-30 minutes to cook, serves 2 and contains 12 ingredients,  [''lamb loin'', ''ground cumin'', '’fresh mint leaves'', '’feta'', ''olive oil'', ''black pepper'’, ''new potatoes'', ''plain flour'', ''rosemary'', ''balsamic vinegar'', ''honey'', ''green vegetables'']
+
+User: I would like to cook a Feta-stuffed lamb with fried potatoes, what ingredients are required to cook this meal?
+Robot: For this meal you will need 2 trimmed lamb loin fillets, approximately 150g each, ½ tsp of ground cumin, 6-8 fresh mint leaves finely chopped, 80g of feta cheese, 2 tbsp of extra virgin olive oil and ground black pepper.
+User:  I have the ingredients ready, are there any other ingredients needed?
+Robot: For the potatoes you will need 300g of baby new potatoes, 1 tbsp of extra virgin olive oil, 1 tbsp of plain flour and 1 tsp of freshly chopped rosemary.
+User: I have the ingredients ready for the potatoes, any others?
+Robot: To serve you will need 1 tbsp of balsamic vinegar, 1 tbsp of runny honey and steamed green vegetables.
+User: I have all the ingredients ready, what is the first step that I have to take?
+Robot: Put 150g of lamb loin fillets on a board and cover with a piece of baking paper and have a knife at hand to cut the lamb loin fillets as well as a hammer.
+User:  I have put the lamb loin fillets on a board and covered them with baking paper, what do I do next?
+Robot: Using a meat hammer or a rolling pin, smash the meat to create two very thin escalopes and then season with a little salt and ground black pepper, ½ tsp of cumin and 6-8 fresh leaves of mint.
+User: I have smashed the meat and created the escalopes, I also seasoned them with salt and pepper and the cumin, what do I have to do next?
+Robot: Now crumb half of the 80g of feta down the centre of each of the lamb fillets and then roll the meat around it, then tie with a kitchen string at 3cm intervals to make two long parcels.
+User:  I have crumbed half of the feta and rolled the meat around it, then tied it with a kitchen string at 3cm intervals as required, what next?
+Robot: Now, heat a tbsp of oil in a large frying pan and fry the lamb over a medium heat for approximately 5 minutes, turning the lamb regularly until they go brown on all of their sides.
+User: I have heated the oil in a large frying pan over a medium heat for 5 minutes, what do I do next?
+Robot: While the lamb is cooking, rinse 300g of potatoes in cold water and then prick them with a fork, put on a microwave-safe plate and cook in the microwave on a high for 5 minutes, or until they go tender.
+User: I rinsed the potatoes in cold water and pricked them with a fork, then I put them on a plate and into the microwave for 5 minutes as required. What do I have to do next?
+Robot: Now roughly break them up using a fork, then toss in a tsp of oil then the flour and season with salt and pepper.
+User:I have broken them up using a fork and added the oil, what next?
+Robot: Now put the lamb parcels on a plate in order for them to rest, then add the potatoes to the frying pan with the remaining tablespoon of oil and cook over a high heat for 3 minutes.
+User:  I have added the potatoes to the frying pan with the remaining tablespoon of oil and cooked over a high heat for 3 minutes as required. What is the next step that I have to take?
+Robot: Next, sprinkle with 1 tsp of freshly chopped rosemary or thyme, then divide between two different warm plates, then add 1 tbsp of balsamic vinegar and 1 tbsp of runny honey to the hot frying pan and stir together until well combined.
+User:  I have divided the potatoes between the warm plates and added the vinegar and honey to the hot frying pan. What do I have to do next?
+Robot: Now remove the string and then slice the lamb, serve with the potatoes and steamed green vegetables and drizzle with the balsamic honey glaze and enjoy the meal.
+User: Thank you for helping me cook Feta-stuffed lamb with fried potatoes.
+
+
+
+
+
