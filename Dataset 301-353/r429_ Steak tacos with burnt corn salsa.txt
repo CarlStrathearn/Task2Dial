@@ -1,0 +1,23 @@
+r429: Steak tacos with burnt corn salsa. https://www.bbc.co.uk/food/recipes/steak_tacos_with_burnt_51312
+
+
+This recipe takes 30 minutes to prepare, 10-30 minutes to cook, serves 2 and contains 18 ingredients,  ['ground cumin', 'chilli powder', 'dried oregano', 'bavette steaks', '1-cal sunflower oil spray’, 'sea salt', 'corn tortilla wraps’,'corn on the cob', 'red onion', 'green jalapeno', 'cherry tomatoes', 'coriander’, 'lime', 'salt', ‘ground black pepper’, ‘avocado’, ‘reduced fat soured cream’]
+
+User: I would like to make Steak Tacos with Burnt Corn Salsa.
+Robot: In a small bowl mix together 1 tsp of ground cumin, a sprinkle of chilli powder and dried oregano, and 1 tsp of salt. Spread this evenly over both sides of two 150g bavette steaks and set aside. 
+User: I have seasoned the steaks, and set aside. What next? 
+Robot: Next make the burnt corn salsa. First cut the corn kernels from one corn on the cob, and add a few sprays of oil to a frying pan. Place this over high heat and add the corn kernels, cooking for 4 minutes or until they begin to brown. 
+User: I have cooked the corn kernels, what do I do now?
+Robot: Finely chop half of a red onion and a green jalapeno using a knife. Add these to the pan and cook for 2 minutes before taking off the heat. Once done, tip these ingredients into a bowl.
+User: I have pan fried these ingredients and put them in a bowl, what now?
+Robot: Now quarter 8 cherry tomatoes with a knife and add them to the bowl with the juice from half of a lime. With a knife roughly chop a small handful of coriander and add this to the bowl, seasoning the bowl with salt and pepper. 
+User: I have added the other ingredients to the bowl, what comes next?
+Robot: Next make the avocado cream. Mash half of a ripe avocado using a fork with 50ml of sour cream in a small bowl. Season these with salt and pepper and the juice from the other half of the lime you have used. 
+User: I have made the avocado cream, what next?
+Robot: Next, heat a large frying pan over a high heat, adding a few sprays of sunflower oil. Add the steaks to the pan and cook for 3-4 minutes on each side until cooked to your liking. When cooked, remove from the pan and leave to rest. 
+User: I have cooked the steaks, now what?
+Robot: Now, heat two large frying pans over high heat and add a tortilla to each pan, heating for 30 seconds on each side, remove and repeat with the remaining two tortillas. 
+User: I have heated the tortillas, what is the next step?
+Robot: The next step is to thickly slice the steaks and pile them onto the warmed tortillas. Top them with the salsa and avocado cream, serve and enjoy.
+User: Thank you for helping me make Steak Tacos with Burnt Corn Salsa. 
+

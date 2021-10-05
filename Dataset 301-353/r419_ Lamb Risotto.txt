@@ -1,0 +1,19 @@
+r419: Lamb Risotto. https://cookeatshare.com/recipes/lamb-risotto-465
+
+
+This recipe takes 15 minutes to prepare, 20 minutes to cook, serves 6 and contains 13 ingredients,  ['olive oil', 'lamb', 'salt', 'pepper', 'garlic’, 'chicken broth','red onion', 'pine nuts', 'arborio rice', 'white wine', 'feta’, 'allspice', 'mint']
+
+User: I would like to make Lamb Risotto.
+Robot: First heat 15ml of olive oil in a saucepan over a medium heat. Thinly slice 225g of lamb and add this to the saucepan along with a sprinkle of salt and pepper and 2 cloves of garlic, minced in a garlic crusher. Cook for 2-3 minutes for rare, slightly longer if you prefer well done. Once cooked, use a slotted spoon to remove the lamb and set it aside. 
+User: I have cooked the lamb in the saucepan, what do I do next?
+Robot: Bring 950-1200ml of chicken broth to boil in a medium sized pot. Allow it to simmer and maintain this over a low heat. 
+User: The chicken broth is simmering in the pan, what now?
+Robot: Now, in a separate large saucepan, heat 30ml of olive oil over a medium heat. Using a knife, finely dice 120g of red onion and 60g of pine nuts. Saute until the onions are soft. 
+User: I have sautéed the onions and pine nuts in a separate pan. What next?
+Robot: Next add 240g of arborio rice, stirring for 3 minutes until each grain is well coated with oil and translucent. Then add 120ml of white wine until it is absorbed by the rice. 
+User: The rice is ready and has absorbed the wine, what comes next?
+Robot: Now, add the chicken stock a ladle at a time to the rice, stirring frequently with a spoon each time. After 480ml of broth has been added, check to see if your risotto is done. If it’s still firm add another 120ml of broth and check again. Continue this until the risotto is tender. 
+User: I have checked the risotto and it’s tender. What now?
+Robot: Now remove from the heat. Add the lamb as well as 60g of feta cheese, a sprinkle of allspice, and 60g of freshly chopped mint. Mix these ingredients together well before serving onto plates and garnishing with leftover mint and feta. Enjoy.
+User: Thank you for helping me make Lamb Risotto. 
+

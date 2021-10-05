@@ -1,0 +1,15 @@
+r439: Chinese Barbecued Chicken. https://cookeatshare.com/recipes/chinese-barbecued-chicken-443418
+
+
+This recipe takes 10 minutes to prepare, 30 minutes to cook, serves 4-8 and contains 8 ingredients,  ['chicken pieces', 'kosher salt', 'ground pepper', 'hoisin sauce', 'cider vinegar’, 'soy sauce', 'dijon mustard’,'peanut oil']
+
+User: I would like to make Chinese Barbecued Chicken.
+Robot: First season 8 pieces of chicken on both sides with 1 tsp of salt and a sprinkle of pepper. Place them in a ziplock bag and add 15ml of hoisin sauce, 15ml of cider vinegar, and 1 tsp of soy sauce. Rub the bag to distribute the ingredients before leaving to marinate in the refrigerator for 120 minutes. 
+User: I have seasoned the chicken and it has finished marinating in the fridge, what now?
+Robot: Now, remove from the refrigerator and allow it to sit for 20 minutes. Before grilling the chicken, in a small bowl mix together 30ml of hoisin sauce, 30ml of cider vinegar, 15g of Dijon mustard, 2 tsp of soy sauce, 2 tsp of peanut oil, and a sprinkle of black pepper. Whisk with a fork until smooth. 
+User: I have made the sauce, what do I do next?
+Robot: Next, clean the grill and preheat it to a medium high indirect heat. Grill the chicken skin side down with the lid closed as much as possible for 10 minutes. Turn the chicken pieces skin side up for another 10 minutes. Brush both sides with sauce and move positions to even out the cooking for about 5 minutes, turning each time. Keep doing this until there is no sauce remaining. 
+User: I have put the sauce on the chicken and cooked it through, now what?
+Robot: Now remove the chicken when it is golden brown and the juices run clear. Serve and enjoy.
+User: Thank you for helping me make Chinese Barbecued Chicken. 
+

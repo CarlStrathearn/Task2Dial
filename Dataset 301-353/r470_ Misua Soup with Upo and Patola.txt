@@ -1,0 +1,15 @@
+r470: Misua Soup with Upo and Patola. https://cookeatshare.com/recipes/misua-soup-with-upo-and-patola-575861
+
+
+This recipe takes 15 minutes to prepare, 10 minutes to cook, serves 6 and contains 9 ingredients,  ['garlic', 'chicken breast fillet', 'water', 'upo', 'chicken broth cubes’, 'patola', 'egg’,'misua', 'quail eggs']
+
+User: I would like to make Misua Soup with Upo and Patola
+Robot: First, saute 3 cloves of garlic crushed with the side of a knife. Then, saute 100g of chicken breast fillet in the same pan. When the chicken turns white add 960 ml of water. 
+User: I have sautéed the garlic and the chicken, what now?
+Robot: Now add 2 chicken broth cubes and bring to a boil. 
+User: I have added the broth, next up?
+Robot: Next, add 360g of upo chopped into big cubes with a knife and 360g of patola cut into thin rounds. Simmer for 3 minutes. 
+User: I have added in the upo and the patola. What is the next step?
+Robot: Next stir in 1 raw egg and then add 50g of misua. Allow this to simmer for another 2-3 minutes. Top with your desired quantity of boiled quails eggs, boiled in water, serve and enjoy. 
+User: Thanks for helping me make Misua Soup with Upo and Patola. 
+

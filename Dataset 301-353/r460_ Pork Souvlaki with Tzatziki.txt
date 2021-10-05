@@ -1,0 +1,19 @@
+r460: Pork Souvlaki with Tzatziki. https://cookeatshare.com/recipes/pork-souvlaki-with-tzatziki-675812
+
+
+This recipe takes 60 minutes to prepare, 15 minutes to cook, serves 4 and contains 16 ingredients,  ['pork tenderloin', 'lemon juice', 'olive oil', 'italian parsley', 'mint’, 'kosher salt', 'black pepper’,'cherry tomatoes', 'red onion', 'mushrooms', 'flatbread', 'greek style yoghurt’, 'lemon zest', 'honey', ‘sriracha sauce’]
+
+User: I would like to make Pork Souvlaki with Tzatziki.
+Robot: First cut 1 pork tenderloin into about 24 2.5cm cubes using a knife. Put these in a large bowl along with 120ml lemon juice, 60ml olive oil, 60g of parsley chopped with a knife, 60g of chopped mint, 4 cloves of garlic minced with a garlic press, 1 tsp of kosher salt and 1 tsp of black pepper. Mix the pork with the other ingredients well with your hands and marinate in a refrigerator for 3-8 hours or 1 hour at room temperature. 
+User: I have cubed the tenderloin, and seasoned them allowing it to marinate. What next?
+Robot: Next, preheat the grill to a medium-high heat and brush the oil grates. Thread the pork cubes and 24 cherry tomatoes onto skewers. Spray or brush them with oil. 
+User: I have put the pork and tomatoes onto skewers and the grill is hot. What now?
+Robot: Now, cut one red onion into 2.5cm pieces using a knife and thread them onto different skewers. Do this with 24 mushrooms too, brushing or spraying them with oil and sprinkling with salt and pepper. 
+User: The onions and the mushrooms are on their own skewers, what do I do next?
+Robot: Next, grill each skewer for the appropriate time. Grill the onion skewers for 12-14 minutes, the pork and tomato skewers for 8-9 minutes, and the mushroom skewers for 5-6 minutes. Turn each skewer 3-4 times in quarter turns while cooking. 
+User: I have grilled all of the skewers, what now?
+Robot: Now grill 4 pieces of flatbread for 1-2 minutes, brushed and seasoned with oil, salt and pepper. Grill until toasted but not crisp. 
+User: I have grilled the flatbreads, what do I do now?
+Robot: Now make the Tzarzki by combining in a small bowl 240g of yogurt, 60g of parsley, 60g of mint, 15g of lemon zest and 15ml of olive oil, along with 1 tsp of honey. Mix this together using a spoon. Add a touch of salt and pepper and serve this with the skewers and flatbreads along with some sriracha sauce. Enjoy. 
+User: Thanks for helping me make Pork Souvlaki with Tzatziki.  
+

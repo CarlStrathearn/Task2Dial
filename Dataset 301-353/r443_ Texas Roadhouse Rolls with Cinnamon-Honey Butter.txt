@@ -1,0 +1,25 @@
+r443: Texas Roadhouse Rolls with Cinnamon-Honey Butter. https://cookeatshare.com/recipes/texas-roadhouse-rolls-with-cinnamon-honey-butter-803205
+
+
+This recipe takes 75 minutes to prepare, 15 minutes to cook, serves 24 and contains 11 ingredients,  ['active dry yeast', 'lukewarm water', 'lukewarm milk', 'butter', 'sugar’, 'flour', 'egg’,'salt', 'honey', 'cinnamon', 'powdered sugar']
+
+User: I would like to make Texas Roadhouse Rolls with Cinnamon-Honey Butter.
+Robot: First, combine one sachet of yeast and 60ml of lukewarm water in a mixing bowl, allowing it to stand for 10 minutes. The yeast will begin to foam and bubble. 
+User: I have combined the yeast with the water, what now?
+Robot: Now add 240ml of lukewarm milk, 45g of melted butter, and 60g of sugar and stir well using the paddle attachment of a stand mixer. 
+User: The ingredients have been stirred well together, what now?
+Robot: Now 240g of flour to make a medium batter. Add in 1 large egg and 1 tsp of salt and mix well together. 
+User: The batter has been mixed together, what is next?
+Robot: Next, using the dough hook attachment on a stand mixer, mix on a medium speed and add in 720g of flour gradually. Continue mixing for 5 minutes or until the dough is smooth. 
+User: The dough is nice and smooth, what next?
+Robot: Next, sprinkle some flour onto the counter and place the dough on top. Leave it to rest for 10 minutes. While it rests, grease another bowl with oil. Lift the dough and stretch it into a large ball before placing it into the bowl. Cover with a towel and place in a warm place for about 60 minutes, until the dough doubles in size. 
+User: The dough is now twice the size, what now?
+Robot: Now, remove the dough and punch the dough down. Place it on a floured surface and roll it out into a square about 1cm thick. Cut it into the desired shape and place the dough shapes onto a parchment-lined baking sheet. 
+User: The dough shapes have been lined on a baking sheet. What do I do now?
+Robot: Now, cover the tray with a towel and allow it to rise again until it doubles in size for 45-60 minutes. Then preheat the oven to 180ºC and bake for 10-15 minutes or until the tops are golden brown. 
+User: I have baked the rolls and they look golden brown, what next?
+Robot: Remove from the oven a baste with melted butter.
+User: I have basted the rolls. Anything else?
+Robot: Before you serve, soften a stick of butter in a microwave and mix with 30ml of honey, 30g of cinnamon, and 30g of powdered sugar. Mix these well, serve with the rolls and enjoy.
+User: Thanks for helping me make Texas roadhouse rolls with cinnamon-honey butter. 
+

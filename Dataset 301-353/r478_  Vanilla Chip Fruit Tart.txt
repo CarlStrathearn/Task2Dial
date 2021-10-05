@@ -1,0 +1,19 @@
+r478: Vanilla Chip Fruit Tart. https://cookeatshare.com/recipes/vanilla-chip-fruit-tart-26
+
+
+This recipe takes 50 minutes to prepare, 20 minutes to cook, serves 10 and contains 11 ingredients,  ['butter', 'confectioners sugar', 'flour', 'vanilla milk chips', 'whipping cream’, 'cream cheese', 'sugar’,'cornstarch', 'pineapple juice', 'lemon juice', 'assorted fruit']
+
+User: I would like to make Vanilla Chip Fruit Tart.
+Robot: First make the crust. Heat the oven to 150ºC. Beat 180g of butter and 60g of confectioners sugar until light and fluffy. Then blend in 360g of flour.
+User: The oven is ready and I have blended together those ingredients, what next?
+Robot: Press the mixture onto the bottom and top side of a 30cm round tart pan. Bake this for 20-25 minutes or until lightly browned and allow to cool completely. 
+User: I have baked the tart base, what do I do now?
+Robot: Now prepare the filling. In a microwave safe bowl, add in 400g of vanilla milk chips, 60g of whipping cream and microwave on high for 60-90 seconds. Stir the mixture until it is smooth and beat in 225g of cream cheese before allowing to cool. 
+User: I have prepared the filling, what is the next step?
+Robot: Next spread the filling on the cooled crust. Cover this and chill in the refrigerator. 
+User: I have refrigerated the tart and the filling, what do I do next?
+Robot: Next prepare the topping by combining 60g of sugar and 15 g of cornstarch in a small saucepan. Stir in 120ml of pineapple juice and a dash of lemon juice cooking over a medium heat stirring constantly until thickened. 
+User: I have cooked the juices and allowed it to cool. What next? 
+Robot: Next, slice your choice of assorted fruit using a knife and arrange over the vanilla filling. Pour the juice mixture over the fruit and chill before serving. Enjoy. 
+User: Thanks for helping me make Vanilla Chip Fruit Tart. 
+
