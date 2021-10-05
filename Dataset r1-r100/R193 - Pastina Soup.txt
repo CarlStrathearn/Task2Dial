@@ -1,0 +1,20 @@
+R193 Pastina Soup https://cookeatshare.com/recipes/pastini-soup-615525
+
+Pastina Soup takes 40 minutes to cook, serves 12 and contains 12 ingredients,  [''garlic cloves'', ''olive oil'', '’tomatoes'', '’italian seasoning'', ''red crush pepper'', ''onion powder'’, ''salt'', ''pepper'', ''garlic salt'', ''pepe pasta'', ''water'', ''parmesan cheese'']
+
+User: Today I would like to cook Pastina Soup, where do I begin?
+Robot: In order to cook this recipe you will need the following ingredients, 4 garlic cloves, 2 tbsp of olive oil, 4 cans of diced tomatoes, 2 tbsp of Italian seasoning, ½ tsp of red crush pepper, 1 tsp of onion powder, salt and pepper, ½ tsp of garlic salt, acini de pepe pasta, water, parmesan cheese.
+User: Ok, thank you, I have all of the ingredients to cook the soup, where do I begin?
+Robot: In a stock pot add 2 tbsp of olive oil and 4 garlic cloves to brown.
+User: I have added 2 tbsp of olive oil and 4 garlic cloves, what is the next step?
+Robot: Next add 4 cans of diced tomatoes, italian seasoning, ½ tsp of red crush pepper and 1tsp of onion powder and simmer on low between 10-15 minutes.
+User:  the 4 cans of diced tomatoes, italian seasoning, peppers and onion powder have been added and simmered on low, what do I do next?
+Robot: Next add water, salt and pepper to taste and ½ tsp of garlic salt.
+User: I have added water, salt and pepper as well as ½ tsp of garlic salt, what comes after this step?
+Robot: Bring the soup to a boil and add ⅓ of 1lb box of Acini de pepe.
+User: The soup has been brought to a boil and I have added the acini de pepe, what do I do now?
+Robot: Next, cook on low between 20-30 approximately until the pasta is cooked, also continue to taste and season.
+User: The pasta has been cooked and I have continued to season the pasta, what is the next step?
+Robot: Serve with parmesan cheese sprinkled on top. Enjoy your meal.
+User: Ok, thank you for helping me cook Pastina Soup.
+

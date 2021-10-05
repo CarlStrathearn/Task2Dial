@@ -1,0 +1,27 @@
+R148 Stacked Enchiladas https://www.makebetterfood.com/recipes/stacked-enchiladas/
+
+This recipe takes 20 minutes to cook, serves 8 and contains 14 ingredients,  [''cooking spray'', ''flour tortillas'', '’black beans'', '’red kidney beans'', ''refried beans'', ''enchilada sauce'’, ''flour tortillas'', ''Mexican cheese blend'', ''green onions'', ''tomato'', ''spinach'', ''sour cream'', ''guacamole'']
+
+User: I want to make Stacked Enchiladas, can you please tell me what ingredients I will need to make them?
+Robot: You will need cooking spray, 4 homemade flour tortillas, 15 oz of black beans, 15 oz of red kidney beans, 15 oz of refried beans, 4 tbsp of enchilada sauce, Mexican cheese blend, 3 medium green onions, 1 large chopped tomato, 3 pieces of spinach, sour cream and guacamole.
+User: I have the ingredients ready, am I ready to begin or do I need any others?
+Robot: You are ready to begin. Preheat the oven to 400 degrees fahrenheit and lightly coat a 13x9 casserole dish with cooking spray.
+User: I preheated the oven to 400 degrees and lightly coated a casserole dish with cooking spray, what is the next step?
+Robot: Now tear the tortillas into quarters or bite-sized pieces and place the tortilla pieces on the bottom of the baking dish to cover.
+User: I tore the tortillas into bite-sized pieces and placed them on the bottom of the baking dish, what next?
+Robot: In a medium bowl, combine the three kinds of beans with enchilada sauce and then stir to combine, after that spread the bean mixture evenly over the tortillas.
+User: I combined the beans with the enchilada sauce and stirred them together. After that I spread the bean mixture over the tortillas, what is the next step?
+Robot: Now, top the tortillas with an even layer of cheese (about 8 oz) and 3 medium green onions.
+User: I topped the tortillas with the cheese and green onions, what now?
+Robot: Now bake them uncovered for about 20 minutes or until they become bubbly around the edges.
+User: I baked them for 20 minutes as required, thank you very much, they are now bubbling around the edges. What is the next step that I have to take?
+Robot: Top the enchilada with 1 large tomato, 3 pieces of spinach, sour cream and guacamole, then serve.
+User: Thank you for helping me make Stacked Enchiladas.
+
+
+
+
+
+
+
+

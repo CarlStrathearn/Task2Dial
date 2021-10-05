@@ -1,0 +1,35 @@
+R138 Cream Scones https://www.makebetterfood.com/recipes/cream-scones/
+
+This recipe takes 15 minutes to cook, serves 8 and contains 6 ingredients,  [''all-purpose flour'', ''sugar'', '’baking powder'', '’table salt'', ''butter'', ''heavy cream'’]
+
+User: I would like to make Cream Scones today, can you please tell me what ingredients I will need?
+Robot: You will need the following ingredients, 2 cups of all-purpose flour, 3 tbsp of sugar, 1 tbsp of baking powder, ½ tsp of salt, 5 tbsp of chilled butter and 1 cup of heavy cream.
+User: I have the ingredients ready, what is the first step that I have to take?
+Robot: Adjust the oven rack to a middle position and then preheat the oven to 425 degrees fahrenheit, then place a sheet of parchment paper on top of an ungreased baking sheet.
+User: I adjusted the oven rack to a middle position and preheated the oven to 425 degrees as required. What is the next step that I have to take?
+Robot: Now in a large bowl, combine 2 cups of all-purpose flour, 1 tbsp of baking powder, 3 tbsp of sugar and ½ tsp of table salt.
+User: I combined the ingredients in a bowl, what is the next step after this?
+Robot: Add the butter to a bowl with dry ingredients and using a pastry blender or two knives, cut the butter into small pieces and incorporate it into the flour until the butter is about the size of pebbles.
+User: I added the butter to the bowl and used the two knives to cut it into small pieces, I also incorporated it into the flour, now what do I do?
+Robot: Now, add 1 cup of heavy cream to the bowl and mix it with a spatula or dough whisk until a rough dough is formed.
+User: I added a cup of heavy cream to the bowl and mixed it with a spatula. What do I have to do next?
+Robot: Turn the dough out onto a clean work surface and knead it by hand until all of the flour has been completely incorporated and the dough looks less scrappy, do this for about 2 minutes.
+User: I turned the dough on a clean work surface and kneaded it by hand for 2 minutes as required, could you please tell me what I have to do next?
+Robot: Shape the dough into a 9-inch wide disc, then using a bench scraper or knife, cut the disc into 8 equal pieces.
+User: I shaped the dough into a 9-inch wide disc and cut them into 8 pieces using a knife, what next?
+Robot: Place the cut out scones on top of the parchment paper on a baking sheet, then leave at least ½ inch of space between the scones so that they bake evenly.
+User: I placed the cut scones on top of the parchment paper on a baking sheet and left ½ inch space, what do I have to do next?
+Robot: Bake the scones at 425 degrees fahrenheit until the top of the scones are light brown for about 15 minutes, then remove them from the oven and let them cool down on a wire rack for 10 minutes.
+User: I baked the scones at 425 degrees and the top of the scones are now light brown. I also removed them from the oven and let them cool down on a wire rack for 10 minutes. Now what do I have to do?
+Robot: Serve the scones warm or at room temperature, then store the leftover scones in an airtight container or bag.
+User: I served the scones warm and put the leftovers in an airtight container, what do I need to do next?
+Robot: Serve and enjoy the scones.
+User: Thank you for helping me make Cream Scones.
+
+
+
+
+
+
+
+

@@ -1,0 +1,34 @@
+R134 Pound Cake https://www.makebetterfood.com/recipes/pound-cake/
+
+This recipe takes 1 hour and 20 minutes to cook, serves 3 and contains 11 ingredients,  [''butter'', '’sugar'', '’eggs'', ''cake flour'', ''baking powder'’, ''salt'', ''milk'', ''almond extract'', ''flour mixture'', ''cooking spray'', ''parchment paper'']
+
+User: Today I want to cook a Pound Cake, can you please let me know what ingredients I need to bake the cake?
+Robot: You will need 2 cups of butter, 3 cups of sugar, 8 eggs, 4 cups of cake flour, 2 tsp of baking powder, 1 tsp of salt, 1 cup of milk, 2 and ½ tsp of almond extract, reserved flour mixture, reserved milk, cooking spray and a parchment paper.
+User: I have the ingredients ready, am I ready to begin or do I need any other ingredients?
+Robot: You are ready to start now. Firstly, place the butter on a counter and let it rise to a room temperature.
+User: I placed the butter on the counter and I let it rise at room temperature, what next?
+Robot: Now, preheat the oven to 350 degrees fahrenheit, then in a separate bowl, cream the butter using an electric mixer.
+User: I preheated the oven to 350 degrees and creamed the butter using an electric mixer, what now?
+Robot: Next, add 3 cups of sugar to the butter and cream with an electric mixer until it turns light and fluffy.
+User: I added the cups of sugar to the butter and cream with the mixer and the cream has turned light and fluffy, what do I have to do next?
+Robot: Now add the eggs one at a time and cream it with an electric mixer until it becomes fully combined, then set aside.
+User: I creamed the eggs with an electric mixer and the cream has become fully combined. What is the next step that I have to take?
+Robot: Now, in a medium bowl, sift together 4 cups of cake flour, 2 tsp of baking powder and 1 tsp of salt, then set aside.
+User: I sifted the ingredients required and then set it aside, now what is the next step that I have to take?
+Robot: Now, you must pour 1 cup of milk into a measuring cup and add some more almond extract to the milk.
+User: I poured 1 cup of milk into the measuring cup and added more almonds, thank you. What do I need to do next?
+Robot: Add ½ of the flour mixture and ½ of the milk to the creamed butter and beat it with an electric mixer to combine, then repeat with the remaining milk and flour to combine.
+User: I added the flour mixture and the milk to the creamed butter and I beated it with an electric mixer as required. What is the next step that I have to take?
+Robot: Next, lightly coat a large pan with cooking spray and line it up with parchment paper and allow the paper to hang out over the sides, this way it makes it easier to pull out the pound cake.
+User: I coated the large pan with cooking spray and lined it up with parchment paper, what do I have to do next?
+Robot: Now pour the batter into the pan or divide the batter evenly between the loaf pans, then bake at 350 degrees fahrenheit until the top is golden brown.
+User: I poured the batter into the pan and divided it between the loaf pans, I also baked it at 350 degrees. What do I have to do next?
+Robot: After it has cooked, serve on a plate and enjoy.
+
+
+
+
+
+
+
+

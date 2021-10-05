@@ -1,0 +1,13 @@
+R29 Minestrone Soup https://www.makebetterfood.com/recipes/minestrone-soup/
+
+This recipe takes 3 hours to cook, serves 10-12 and contains 15 ingredients,  [‘dried white beans’,’olive oil’,’onions’,’garlic cloves’,’carrots’,’celery stalks’,’potatoes’,’chicken stock’,’canned peeled tomatoes’,’basil,’salt’,’zucchini’,’swiss chard/kale’,’pasta’,’pepper’]
+
+User: I want to make Minestrone Soup 
+Robot: Okay, let’s begin. Start by rinsing 1 cup of dried Great northern white beans and placing them in a small stock pot. Fill the stock pot with water until the beans are submerged by 1 inch. Cook the beans over high heat until they boil, then reduce the heat to simmer. Cook for about 30 minutes. When they are done remove the beans from the heat and let them sit in the water until they are added into the soup. Next, prep and chop all the vegetables. Using a knife and a cutting board, and a peeler where appropriate, chop 2 onions, 4 garlic cloves, 5 carrots, 5 stalks of celery, 2 new potatoes, 1 medium zucchini and 1 tablespoon of basil. 
+User: All the vegetables are prepped and the beans boiled, what do I do now? 
+Robot: Now heat up 3 tablespoons of olive oil in a large stock pot over medium heat. Add and saute using a wooden spoon or spatula the 2 onions until they are translucent, about 5 minutes. Add the 4 garlic cloves  and saute for about 3 minutes. Then, add the carrots and saute for an additional 5 minutes. Next, the celery stalks saute them for about 5 more minutes. And, finally, add the 2 new potatoes and saute for 5 more minutes.
+User: All the veggies are done, what’s next?
+Robot: Next, add 8 ounces of chicken stock, 28 ounces of canned whole peeled tomatoes, the white beans, 1 tablespoon of basil and ½ a tablespoon of salt into the large stock pot with the vegetables. Stir all the ingredients together to combine and bring them to a boil over high heat.  Then, reduce the heat to a simmer and medium-low heat and let the soup cook for about 2 hours or until the beans and potatoes are soft and the stock has thickened. 
+User: The soup has finished cooking, is there anything left to do? 
+Robot: Add the chopped zucchini, 1 bunch or swiss chard or kale and ¾ of a cup of any small pasta into the soup. Stir it all to combine and let it cook until the pasta is done. This should take about 20 minutes. FInally, season with 1 teaspoon of salt and ½ a teaspoon of pepper. Enjoy your meal.
+User: Thank you.

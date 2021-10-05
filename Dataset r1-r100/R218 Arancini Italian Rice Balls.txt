@@ -1,0 +1,39 @@
+R218 Arancini Italian Rice Balls https://cookeatshare.com/recipes/arancini-italian-rice-balls-538692
+
+This recipe takes 2-4 minutes to cook serves 5 and contains 19 ingredients,  [''onions'', ''butter'', '’arborio rice'', '’chicken broth'', ''parmesan cheese'', ''carrots'’, ''celery'', ''garlic'', ''ground beef'', ''marinara sauce'', ''basil leaf'', ''minced parsley'', ''salt'', ''pepper'', ''baby green peas'', ''olive oil'', ''flour'', ''bread crumbs'', ''eggs'']
+
+User: I would like to make Arancini Italian Rice balls today, what ingredients do I need to make them?
+Robot:  In order to make Arancini Italian Rice balls, you will need the following ingredients, 1 finely minced onion, 4 tbsp of butter or margarine, 2 cups of arborio rice, 4 cups of chicken broth, ½ cup of grated pecorino romano or parmesan cheese and these ingredients are for the risotto.
+User:  I have the ingredients for the risotto, what about the filling?
+Robot:  You will need the following ingredients for the filling, 1 small finely diced onion, 1 small grated carrot, 1 small piece of finely diced celery, 1 garlic clove that is smashed to a pulp, 1 pound of ground beef, 1 cup of marinara sauce, 1 tsp of finely minced basil, 1 tsp of minced parsley, salt and pepper to taste, 1 cup of thawed frozen baby green peas and 1 tbsp of olive oil.
+User: I have the ingredients ready for the filling, what about the ingredients for the coating?
+Robot: For the coating, you will need 1 cup of all purpose flour, 1 cup of plain bread crumbs, ½ cup of grated Pecorino Romano or Parmesan Cheese and 3 eggs.
+User: I have all of the ingredients for the coating, what is the first step that I need to take to make the rice balls?
+Robot: Saute the rice and the onions in butter or margarine until they are translucent, then add the rice and saute for another minute and add the broth and cook the rice that is covered on low or until done.
+User: I have sauteed the rice and the onions and they are now translucent. I also added the rice and sauteed for another minute. What is the next step that I need to take?
+Robot: Then, once the rice has cooled add the grated cheese.
+User: I have added the grated cheese, what is next?
+Robot: Then, cover set in the fridge until it’s cold, the rice can be done the day before.
+User:  I have set it in the fridge and done the rice, what is the next step?
+Robot: Now for the filling you must saute the 1 finely diced onion and the 1 clove of garlic in the olive oil until translucent.
+User: I have sauteed the onion and the garlic clove in the olive oil, what do I do now?
+Robot: You then add the ground beef, and when it is almost browned, drain most of the fat off, then return to the pot and add the carrot and 1 piece of celery and then cook for another 5 minutes on a very low flame.
+User: I have added the ground beef and drained the fat and also returned to the pot, what is the next step after this?
+Robot: Add 1 cup of thawed frozen baby peas, marinara, 1 teaspoon of minced parsley, 1 teaspoon of finely minced basil, salt and pepper. 
+User: I have added 1 cup of baby peas, marinara, 1 teaspoon of minced parsley, 1 teaspoon of basil and salt and pepper, what do I do next?
+Robot: Then, cover and leave to cook on the lowest flame for 60 minutes or until the meat is tender and after that cool down in the fridge, this can be made the day before as well.
+User: I have covered it and left it to cook on the lowest flame for 1 hour, now the meat is tender and has been cooled down in the fridge, what is the next step after this?
+Robot: In order to prepare the meal, you must place 3 tablespoons of prepared rice onto the palm of one hand, then flatten the rice out.
+User: I have placed 3 tbsp of rice onto my palm and flattened the rice out, what is the next step?
+Robot: Then, place 2 tbsp of meat filling on the top of the flattened rice, then another flattened part of rice on top of the filling.
+User: I have added 2 tbsp of the meat filling on the top of the flattened rice and another on the top of the filling, what next?
+Robot: Good, now gently press the rice down over the meat, cupping your hand to form a ball shape.
+User: I have pressed down on the rice over the meat, what is the next step?
+Robot: You must then gently roll the arancini into a ball shape,dipping the arancini into the flour, then the eggs and roll very well in the breadcrumbs.
+User: I have rolled the arancini into a ball shape and dipped it into the flour as well as the eggs, what do I do next after that?
+Robot: Heat the fryer to 350 degrees and then gently fry the arencini until it is golden in color.
+User:  I have heated the fryer to 350 degrees and gently fried the arancini, what next?
+Robot: Drain on the paper towels and carefully plate the arencini and serve with the marinara and garnish with the grated cheese as well as a basil leaf, serve hot and enjoy.
+User: Thank you for helping me cook Arancini Italian Rice balls.
+
+

@@ -1,0 +1,11 @@
+R17:  Better Oatmeal Raisin Cookies  https://www.makebetterfood.com/recipes/oatmeal-raisin-cookies/
+
+This recipe takes 25 minutes to cook, serves 20 cookies and contains 13 ingredients,  [‘butter’,’dark brown sugar’,’sugar’,’vegetable oil’,’ground cinnamon’,’ground nutmeg’,’eggs’,’vanilla extract’,’all-purpose flour’,’salt’,’baking soda’,’old-fashioned rolled-oats’,’raisins’]
+User: I want to make Better Oatmeal Raisin Cookies 
+Robot: Okay let’s begin. Start by preheating the oven at 190º and line two baking sheets with parchment paper. Then, melt 4 tablespoons of butter in a pan or your microwave. Transfer the melted butter into a large bowl and add ¾ cup of dark brown sugar, ½ cup of sugar, ¼ cup of vegetable oil, ½ teaspoon of ground cinnamon and 1/8 teaspoon of ground nutmeg to it. Whisk the ingredients with a hand mixer or spatula until combined. 
+User: I have combined the ingredients, what do I do now? 
+Robot: Now add 2 eggs and 2 teaspoons of vanilla extract into the bowl and mix in. Then, add 1 cup of all-purpose flour, 1 teaspoon of salt and ½ teaspoon of baking soda and mix them in as well. Finally, add 3 cups of old-fashioned rolled oats and ½ cup of raisins into the bowl and use a spatula to combine. 
+User: Everything is now combined, is there anything left to do? 
+Robot: All that is left is to shape the cookies! You can use a 2 tablespoon measuring spoon to shape the cookies. Place them onto the baking sheet. Wet your hands and press down on the cookies to flatten them. Bake them for 10 minutes and let them rest for another 5-10 minutes before serving. Enjoy your meal!
+User: Thank you.
+

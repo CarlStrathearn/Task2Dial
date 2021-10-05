@@ -1,0 +1,41 @@
+R140 Spiral Vegetable Tart https://www.makebetterfood.com/recipes/spiral-vegetable-tart/
+
+This recipe takes 35 minutes to cook, serves 8 and contains 13 ingredients,  [''all-purpose flour'', ''salt'', '’vegetable shortening'', 'ice cold water'', ''carrots'', ''medium zucchini'’, ''yellow squash'', ''cooking spray'', ''flour'', ''olive oil'', ''thyme'', ''salt'', ''pepper'']
+
+User: I would like to make a Spiral Vegetable Tart today, what ingredients do I need to make it?
+Robot: Sure, you will need the following ingredients, 1 cup of all-purpose flour, 1 tsp of salt, ⅓ cup of vegetable shortening, 5 tbsp of ice cold water, 3-4 carrots, 2 medium zucchini, 2 medium yellow squash, cooking spray, flour, 5 tbsp of olive oil, ½ tsp of salt, ½ tsp of pepper.
+User: I have the ingredients ready, am I ready to start or do I need any other ingredients?
+Robot: You are ready to start. Firstly, measure 1 cup of all-purpose flour in a large bowl, then add 1 tsp of salt and ⅓ cup of shortening.
+User: I measured the flour in a large bowl and added the salt and shortening, what do I have to do next?
+Robot: Next, using two butter knives or a pastry blender, blend the flour, salt and shortening until the shortening is the size of peas.
+User: I blended the flour, salt and shortening and they are now the size of peas, what do I do next?
+Robot: Now, fill a wide-mouthed glass with ice, then add 5 tbsp of cold water to the top and make sure to measure or pour the ice cold water into the flour mixture.
+User: I filled a glass with iced water and added the cold water to the top and mixed it in with the flour mixture. What do I have to do next?
+Robot: Next, using a spatula or your hands, mix the water into the flour to form a large ball of dough, if you add too much water, add some additional flour until the dough is well formed but not too sticky.
+User: I mixed the water with the flour and I formed a large dough ball, what do I have to do next?
+Robot: Form the dough into a disc and wrap it in wax paper, then place the dough inside the freezer for approximately 10 minutes or the refrigerator for 30 minutes.
+User: I formed the dough into a disc and wrapped it in wax paper and placed it in the freezer for 10 minutes as required. What is the next step that I have to take?
+Robot: Now, to make the vegetables, wash the vegetables and cut them into ⅛ inch thick pieces lengthwise with a grater or a sharp knife, then discard any pieces that disintegrate or have too much skin.
+User: I washed the vegetables and cut them into thick pieces with a sharp knife, I also discarded the pieces that disintegrated, what do I have to do next?
+Robot: Reserve each sliced vegetable in a separate bowl or small pan, then preheat the oven to 350 degrees fahrenheit.
+User: I sliced the vegetable in a separate bowl and preheated the oven to 350 degrees fahrenheit as required, could you please tell me what I need to do next.
+Robot: Lightly grease a 9-inch tart pan and lightly sprinkle a clean work surface with flour, then remove the dough from the fridge and roll the dough out with a rolling pin until it is about 10 inches in diameter.
+User: I greased a 9-inch tart pan and sprinkled a clean work space with flour and removed the dough from the fridge as required. What is the next step that I have to take?
+Robot: Roll one strip of zucchini into a tight circle, then wrap a carrot strip tightly around it, followed by a strip of yellow squash.
+User: I rolled a strip of zucchini into a circle and wrapped a carrot strip around it, what do I do next?
+Robot: Repeat until you have a 2 inch diameter spiral and place it in the center of the dough in the prepared pan and then continue to alternate between zucchini, carrots, and squash.
+User: I have a 2 diameter spiral now and placed it in the center of the dough, can you please tell me what I need to do now?
+Robot: Now using a pastry brush, brush the oil on top of the vegetables to evenly coat them, then sprinkle 1 tsp of thyme, ½ tsp of salt and ½ tsp of pepper over the vegetables.
+User: I brushed the top of the vegetables and they are coated well, I also sprinkled the ingredients over the vegetables, what do I need to do next?
+Robot: Bake at 350 degrees fahrenheit until the vegetables are soft and cooked well for about 35 minutes, then remove from the oven and let it cool down for 5 minutes before serving.
+User: I baked the vegetables at 350 degrees for 35 minutes as required and they are now soft, what is the next step?
+Robot: Serve on a plate and enjoy.
+User: Thank you for helping me make a Spiral Vegetable Tart.
+
+
+
+
+
+
+
+

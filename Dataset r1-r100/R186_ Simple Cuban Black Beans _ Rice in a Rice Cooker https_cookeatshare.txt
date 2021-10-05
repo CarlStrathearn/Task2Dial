@@ -1,0 +1,17 @@
+R186: Simple Cuban Black Beans & Rice in a Rice Cooker https://cookeatshare.com/recipes/simple-cuban-black-beans-rice-in-a-rice-cooker-673617
+
+Cuban Black Beans & Rice takes 45 minutes to cook, serves 10-12 and contains 10 ingredients, [''olive oil'', ''onion'', '’pepper'', '’cumin'', ''oregano'', ''garlic'', ''beans'', ''salt'', ''long grain rice'', ''water'']
+
+User: Today I would like to cook Simple Cuban Black Beans & Rice.
+Robot: The meal takes 45 minutes to cook, it serves 10-12 people and contains 10 ingredients, olive oil, onion, peppers, cumin, oregano, garlic, beans, salt, long grain rice and water, got that?
+User: Yes, I now have all the required ingredients at hand, where do I begin?
+Robot: In any pot or a large saucepan, pour and heat two tablespoons of olive oil on a medium heat.
+User: Thank you, I have poured the olive oil in a large saucepan and heated it over a medium heat, what comes after this step?
+Robot: Add one large chopped onion, 1 finely chopped green pepper, 8 tablespoons of cumin and 1 tablespoon of dried oregano then cook and stir for 6 minutes.
+User: The chopped onions, green peppers, cumin and oregano have been added and I have stirred them, what do I do after this?
+Robot: After that add 10 cloves of garlic and continue to stir for another two minutes.
+User: I have added the garlic and stirred for two more minutes, what do I do after that?
+Robot: Finally, cook three cups of long grained rice on the normal setting and after that is done you can serve the meal.
+User: Thank you for helping me cook Simple Cuban Black Beans & Rice.
+
+

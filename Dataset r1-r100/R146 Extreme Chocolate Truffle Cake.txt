@@ -1,0 +1,43 @@
+R146 Extreme Chocolate Truffle Cake https://www.makebetterfood.com/recipes/extreme-chocolate-truffle-cake/
+
+This recipe takes 30-40 minutes to cook, serves 12 and contains 8 ingredients,  [''butter'', ''cooking spray'', '’water'', '’sugar'', ''egg whites'', ''dark chocolate'’, ''cocoa powder'', ''sugar water''']
+
+User: I would like to bake an Extreme Chocolate Truffle Cake, can you please let me know what ingredients I will need?
+Robot: Sure, to bake this cake you will need the following ingredients, 9 oz of butter, cooking spray, 5 oz of water, 6 oz of sugar, 6 egg whites, 3 oz of sugar, 8 oz of dark chocolate, 6 oz of cocoa powder, reserved sugar water, reserved butter, reserved egg whites, make sure you have all of the ingredients ready before you start.
+User:  I have all of the ingredients handy, am I ready to begin?
+Robot: Yes, you are ready to start. Cut 9 oz of butter into small pieces and then put them on a plate to warm up to room temperature.
+User: I cut the butter into small pieces and put them on a warm plate, what is the next step?
+Robot: Now, grease one cake pan and set aside, then preheat the oven to 350 degrees fahrenheit.
+User: I greased the cake pan and set it aside, I also preheated the oven to 350 degrees as required. Can you tell me what I need to do next?
+Robot: Bring 5 oz of water to a boil over a high heat, then add 6 oz of sugar to the water and stir to dissolve.
+User: I brought the water to boil over a high heat and added the sugar to the water, it has now dissolved. What is the next step that I need to take?
+Robot: Now, remove the sugar water from the heat and set it aside.
+User: I removed the sugar water from the heat and set it aside, what is the next step?
+Robot: Now, in a separate bowl, use an electric hand mixer to whip 6 egg whites until it becomes foamy, for approximately 30 seconds.
+User: I whipped the 6 egg whites and they are now foamy. What is the next step that I have to take?
+Robot: With an electric hand mixer running on a high, slowly and carefully incorporate the sugar a little bit at a time, allowing it to fully incorporate before adding a little bit more.
+User: I added the sugar a little bit at a time and it has incorporated well into the mixture, what is the next step?
+Robot: Now beat on a high until the egg whites form into soft peaks for approximately 4 minutes, then set the whipped eggs aside.
+User: The egg whites have now turned into soft peaks after beating them for 4 minutes, I have also set them aside, what is the next step?
+Robot: Now, melt 8 oz of dark chocolate over a double boiler, then remove from the heat and pour into a large bowl.
+User: I melted the dark chocolate over a boiler and removed from the heat, what do I have to do next?
+Robot: Let the chocolate cool down to about 100 degrees fahrenheit, then add 6 oz of pure cocoa powder to the melted chocolate and stir to combine.
+User: The chocolate has cooled down to 100 degrees, what now?
+Robot: Next, add the sugar water to the chocolate mixture and then stir to combine, after that add the butter, in small pieces, and stir until the batter is smooth, for about 3-5 minutes.
+User: I added the sugar water to the chocolate mixture and stirred, I also added the butter in small pieces and continued to stir for 5 minutes as required. What do I have to do next?
+Robot: Now, gently fold the whipped egg whites into the chocolate mixture, try not to incorporate too much air into the batter as it will make it crumbly.
+User: I have folded the egg whites in the chocolate mixture, what next?
+Robot: You must then pour the batter into a cake pan and let it bake at about 350 degrees fahrenheit until a toothpick inserted into the center comes out clean for about 30-40 minutes.
+User: I poured the batter into the cake pan and I let it bake at 350 degrees as required, what do I have to do next?
+Robot: Remove from the oven and let it cool down for 10 minutes, then invert the cake pan onto a plate and place another plate on top of the inverted cake.
+User: I removed the batter from the oven and let it cool down for 10 minutes, I also inverted the cake pan onto the plate, can you tell me what I have to do next please?
+Robot: Let the cake cool down for about 1 hour, then cut into small pieces and serve with vanilla ice cream.
+User: Thank you for helping me bake an Extreme Chocolate Truffle Cake.
+
+
+
+
+
+
+
+

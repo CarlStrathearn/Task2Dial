@@ -1,0 +1,19 @@
+R213 Russian Omelet https://cookeatshare.com/recipes/russian-omelet-25890
+
+This recipe takes 7 minutes to cook, serves 2 and contains 3 ingredients,  [''eggs'', ''peas'', '’milk'']
+
+User: I would like to make a Russian Omelet, what ingredients are required?
+Robot: For this meal you will need 3-4 eggs, 200g of peas and 100ml of milk.
+User: I have all of the ingredients ready, what is the first step?
+Robot: Put the peas on a girdle.
+User: I put the peas on a girdle, what is the next step?
+Robot: Good, now beat up the eggs.
+User: I have beaten up the eggs, what comes next?
+Robot: Add 100ml of milk.
+User: I have added 100ml of milk, what do I do next?
+Robot: Then add 3-4 eggs with the milk on the girdle .
+User: I have added the eggs with the milk on the girdle, what next?
+Robot: Cook for approximately 5-7 minutes, then serve and enjoy the omelette.
+User: Thank you for helping me cook a Russian Omelette.
+
+

@@ -1,0 +1,25 @@
+R187 https://cookeatshare.com/recipes/adobong-galunggong-710353
+
+Adobong Galunggong takes 20 minutes to cook, serves 1 and contains 13 ingredients,  [''mackerel'', ''eggplant'', '’vinegar'', '’soy sauce'', ''water'', ''olive oil'’, ''chilli pepper'', ''garlic cloves'’, ''sliced onions'’, ''ginger'’, ''black peppercorns'’, ''bay leaves'’, ''salt'’]
+
+User: Today I would like to cook Adobong Galunggong. What ingredients do I need for this recipe?
+Robot: In order to cook this recipe you will need 2 pieces of mackerel, 1 piece of large eggplant, 1 cup of vinegar, ¼ cup of soy sauce, ½ cup of water, 4tbsps of olive oil, 1 piece of fresh chili pepper, 4 garlic cloves, ½ cup of sliced onions, 2 tbsps of thin sliced ginger, 12 pieces of whole black peppercorns, 4 pieces of dried bay leaves and salt, got that?
+User: I have all of the ingredients ready, what is the first step I need to take?
+Robot: First, in a pan, distribute evenly at the bottom half of garlic, ginger and the onions.
+User: I have evenly distributed the garlic, ginger and the onions, what is next?
+Robot: Then, arrange the sliced fish and eggplant on top of the spices.
+User: I have arranged the sliced fish and the eggplant on top of the spices, what do I do now?
+Robot: Pour ½ cup of water, 1 cup of vinegar, ¼ cup of soy sauce and 2 tbsps of oil.
+User: I have poured the water, vinegar, soy sauce and the oil, what do I do next?
+Robot: Add evenly the remaining half of the garlic, ginger and onions, then add a little salt, the whole black peppercorns and 4 dried bay leaves.
+User: I have added the remaining half of the garlic, ginger and onions, the salt and the black peppercorns and bay leaves, what is the next step after this?
+Robot: Cook them all on a medium fire, when it starts to boil lower the fire to a medium-low and then continue to simmer.
+User: I have cooked the ingredients on a medium fire, what do I do now?
+Robot: Then, after half of the liquid has evaporated, slowly turn the sliced fish over and add the fresh chili pepper.
+User: I have turned the sliced fish and added the pepper, what do I do now?
+Robot: When the liquid has almost evaporated, add the oil then simmer for another minute.
+User: I have added the oil and I let it simmer for another minute, what is the next step?
+Robot: serve with hot rice and enjoy the meal.
+User: thank you for helping me cook Adobong Galunggong
+
+

@@ -1,0 +1,16 @@
+R4: Pumpkin Spice Donuts https://www.makebetterfood.com/recipes/pumpkin-spice-donuts/
+
+Pumpkin Spice Donuts takes 45 minutes to cook, serves 12 donuts and contains 14  ingredients,  ['cooking spray', 'canned pumpkin', 'milk', 'brown sugar', 'vegetable oil’, 'egg', 'egg’,'vanilla extract', 'flour', 'baking powder', 'salt', 'cinamon’, 'nutmeg', 'allspice', ‘ ground cloves’]
+User: I want to make Pumpkin Spice Donut
+Robot: Start by preheating the oven to 180°C and lightly grease the inside of a donut pan. Set this aside. 
+User: I have turned on the oven, now what? 
+Robot: Now pour ¾ cup canned pumpkin, ½ cup milk, ½ cup brown sugar, ⅓ cup vegetable oil, 1 egg and 1 ½ teaspoon of vanilla extract into a mixing bowl and combine the ingredients. Set this aside.
+User: I have combined the ingredients, now what do I do? 
+Robot: In another bowl pour 1 ¾ cups flour, 1 ½ teaspoons baking powder, ½ teaspoon salt, 1 teaspoon cinnamon, ½ teaspoon nutmeg, ½ teaspoon allspice and 1/8 teaspoons ground cloves and mix together. 
+User: I have combined these ingredients too, what's next? 
+Robot: Start pouring the second mixture (dry ingredients) into the first one and combine with a spatula. When this is done, transfer half of the batter onto a large plastic or zipper bag and cut one of the bottom corners to make a piping bag. Use this to make the shape of the donuts. Make just enough to fit the donut pan and set the rest of the batter aside. 
+User: I have made the donuts, what do I do now? 
+Robot: Now bake the donuts for about 12-15 minutes, until they are golden brown. When they are done, transfer them onto a wire rack to let them cool for about 5 minutes. Keep doing this step until you are out of batter. 
+User: I have baked and let all the donuts cool down, what do I do next?
+Robot: Now let's make the coating. Mix ½ cup of melted butter, ⅔ cup of sugar and 1-2 tablespoons of cinnamon (to taste) in a bowl. Dip the donuts onto the mixture and enjoy your meal. 
+User: Thank you. 

@@ -1,0 +1,30 @@
+R206 Jansson’s Temptation https://www.bbc.co.uk/food/recipes/janssons_temptation_64368
+
+Jansson’s Temptation takes 60-120 minutes to cook, serves 4-6 and contains 9 ingredients,  [''butter'', ''onions'', '’sea salt flakes'', '’potatoes'', ''black pepper'', ''ansjovis'’, ''milk'', ''double cream'', ''breadcrumbs'']
+
+User: Today I want to cook Jansson’s Temptation, can you help me cook it please and what are the required ingredients for this meal?
+Robot: In order to cook Jansson’s Temptation you will need the following ingredients, 60g of butter, plus extra for greasing, 2 large onions, approximately 400g thinly sliced, 2tsp of sea salt flakes, plus ½ tsp or 1sp of sea salt, 1.25kg of potatoes, peeled and cut into narrows strips like French Fries, black pepper, 250g tins of Swedish ansjovis, 300ml of full-fat milk, 300ml of double cream and 2-3 tbsp of breadcrumbs which are optional.
+User: Ok, I have all of the ingredients ready for this meal, where do I begin?
+Robot: First, preheat the oven to 200C/180C Fan, Gas 6, then butter an ovenproof dish with a capacity of 2.5 litres / 4 and ½ pints.
+User: I preheated the oven to 200C at Gas 6 and buttered an ovenproof dish at a capacity of 2.5 litres, what is the next step?
+Robot: Melt 3 tablespoons of the butter in a large frying pan, then add the onions, sprinkle with the ½ teaspoon of the sea salt flakes and stir for a few minutes over a medium-high heat.
+User: I melted the three tablespoons of butter in a large frying pan, added the onions and sprinkled the teaspoon of the sea salt flakes. What is the next step that I have to take?
+Robot: Once they start to lose their raw look, turn the heat down to low and cook very gently for approximately 15-20 minutes and keep a close eye on them, stir regularly and they should be soft and pale gold.
+User: I turned down the heat and cooked gently for 15-20 minutes, what do I do next?
+Robot: If they are beginning to catch, sprink a little water into the pan, or add a bit more butter, once they are ready, use a bendy spatula to scrape them and their buttery juices into a bowl.
+User: I added a bit more butter and used a bendy spatula to scrape the buttery juices into the bowl, what is the next step?
+Robot: Add a third of the potatoes into the buttered dish, season with 1 teaspoon of sea salt flakes or ½ teaspoon of fine sea salt and a good grinding of pepper.
+User: Ok, I have seasoned it with 1 teaspoon of sea salt flakes, what is the next step after that?
+Robot: Spread half of the soft onions over the potatoes, followed by one tin of sprats.
+User: I have spreaded half of the soft onions over the potatoes and the one tin of sprats, what next?
+Robot: Layer it up again, the second third of potatoes, salt and pepper as before, followed by the remaining onions and the second tin of sprats, finally top it with the final third of potatoes.
+User: I have layered the second third of potatoes followed by the remaining onions and the second tin of sprats, what do I do after that?
+Robot: Mix together the milk and cream in a jug and spread it over the potatoes, then push down any that are poking upwards, ust so that they’re lightly covered with the creamy milk.
+User: Ok, I have mixed together the milk and cream in a jug and spread it over the potatoes, what do I have to do next?
+Robot: Then, sprinkle over the breadcrumbs, if using, and dot over the remaining tablespoon of butter, then bake for 1 hour, however check at 45 minutes.
+User: I have sprinkled over the breadcrumbs and let it cook for 1 hour, what is the next step?
+Robot: Push a fork in it and see if it meets with no resistance, the potatoes are cooked, they must be soft underneath.
+User: I have pushed a fork into it and the potatoes are cooked well as they are soft underneath, what do I do next?
+Robot: The gratin will then stand for a while until needed, and tastes just as good, then serve and enjoy the meal.
+User: Thank you for helping me cook Jansson’s Temptation.
+

@@ -1,0 +1,27 @@
+R211 Kamote Fries (Sweet Potato Fries) https://cookeatshare.com/recipes/kamote-fries-sweet-potato-fries-655373
+
+This recipe takes 10 minutes to cook, serves 1 and contains 3 ingredients,  [''potatoes'', ''sugar'', '’canola oil'']
+
+User: Today I would like to make Kamote Fries, what are the ingredients required for the fries?
+Robot: For the fries you will need sweet potatoes, brown sugar and canola oil.
+User: I have the ingredients ready for the fries, where do I begin?
+Robot: First, peel and wash the potatoes.
+User: Yes, thank you I have peeled and washed the potatoes, what do I do next?
+Robot: Then, cut them into thin long strips, approximately about a half inch of thickness.
+User: I cut them into long strips and they are a half inch of thickness, what next?
+Robot: Then, once the oil is hot, deep fry each strip of sweet potatoes into the pan
+User: I have deep fried the strips of potatoes into the pan, what is the next step?
+Robot: You should then let it fry for about 2 to 3 minutes, this will make the potatoes more tender.
+User: I have let them fry for 2 minutes and they are now a bit more tender, what do I do next?
+Robot: Add the brown sugar slowly and then just let it melt to caramelize.
+User: Ok, I have added the brown sugar for it to caramelize, what do I do next?
+Robot: The caramel will then coat the sweet potato strips and stick around it, then simply let it cook for about a minute or two.
+User: I have let it cook for a minute, what do I do next?
+Robot: Then, take it off from the pan and let it drip on a paper towel.
+User: I have let it drip on a paper towel, what is the next step?
+Robot: Arrange each of the strips on a tall glass with some wax paper or simply use paper cups.
+User: I have arranged the strips on a tall glass with wax paper and used paper cups, what do I do next?
+Robot: After that, simply just serve the fries and enjoy.
+User: Thank you so much for helping me make Kamote Fries.
+
+

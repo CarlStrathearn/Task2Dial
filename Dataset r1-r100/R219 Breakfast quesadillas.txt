@@ -1,0 +1,46 @@
+R219 Breakfast quesadillas https://www.bbc.co.uk/food/recipes/breakfast_quesadillas_82028
+
+This recipe takes 10 to 30 minutes to cook serves 4 and contains 19 ingredients,  [''butter'', ''bacon'', '’eggs'', '’splash milk'', ''flour tortillas'', ''red onion'’, ''grated cheddar'', ''fresh coriander'', ''cayenne pepper'', ''cherry tomatoes'', ''chillies'', ''honey'', ''salt'', ''black pepper'', ''ripe mango'', ''lime'', ''soured cream'', ''guacamole'', ''refried beans'']
+
+User: Today I would like to make Breakfast quesadillas, what are the ingredients required to make the quesadillas?
+Robot: You will need unsalted butter for cooking, 6 rashers of unsmoked chopped bacon, 6 large free-range eggs, splash milk, 4 flour tortillas, ½ small red finely chopped red onions, 4 tbsp of cheddar or Monterey Jack grated cheese, small handful of chopped fresh coriander and a cayenne pepper, these are required for the cooking.
+User: I have all of the required cooking ingredients ready, any other ingredients needed?
+Robot: Yes, for the tomato salsa you will need 150g of small chopped cherry tomatoes, ½ finely chopped red onion, 1-2 tsp of finely chopped hot green jalapeno chilies from a jar, 1 tbsp of honey, 1 lime, juice only, a pinch of cayenne pepper, ¼ tsp of salt, a pinch of freshly ground black pepper and 4 tbsp of chopped fresh coriander.
+User: I have the ingredients for the sals ready, any other ingredients required?
+Robot: For the mango salsa you will need 1 ripe peeled, stone removed and finely chopped ripe mango, ½ red onion that is finely chopped, 1-2 tsp of finely chopped hot green jalapeno chillies from a jar, 1 juice lime, ¼ tsp of salt, a pinch of freshly ground black pepper and 4 tbsp of chopped fresh coriander, similar to the salsa.
+User: I have the ingredients ready, what about the ingredients for serving?
+Robot: To serve the quesadillas you need 4 tbsp of sour cream, guacamole and refried beans.
+User: Now what is the first step that I need to take in order to make the quesadillas?
+Robot: Firstly, to make the salsas, for the tomato salsa, put the tomatoes in a bowl.
+User: I put the tomatoes in a bowl for the salsa, what next?
+Robot: Next, mix in the onion and 1-2 tsp of jalapenos.
+User: I have mixed in the onion and the 1-2 tsp of jalapenos, what is the next step after this?
+Robot: Then, add 1 tbsp of honey, 1 lime juice, a pinch of cayenne pepper, salt and pepper and then mix the ingredients well.
+User: I have added honey, lime juice, cayenne pepper, salt and pepper and mixed the ingredients. What should I do next?
+Robot: Add the coriander and set aside for 30 minutes, then make the mango salsa in the same way in a different bowl.
+User: I have added the coriander and set it aside for 30 minutes and made the mango salsa, what do I do next?
+Robot: Preheat the oven to approximately 180C at Gas 4 and lightly grease a large baking sheet.
+User:  I have preheated the oven to 180C and greased a baking sheet, what do I do next?
+Robot: Then, heat a frying pan over a high heat and then add a knob of butter.
+User: I have heated the frying pan over a high heat and also added a knob of butter, what is next?
+Robot: Then, cook the bacon for a couple of minutes until it is crisp, then remove from the heat and leave it for a bit of time to cool down.
+User: I have cooked the bacon for a couple of minutes and also removed it from the heat, what is the next step?
+Robot: Whisk the eggs together with some salt and pepper, as well as a splash of milk, then melt a large knob of butter in a non-stick saucepan.
+User: I have whisked the eggs together in the saucepan and added salt and pepper as well as a splash of milk, I also melted a knob of butter in a saucepan, what is the next step?
+Robot: Now add the eggs and cook over a low heat, continue stirring until the eggs are softly scrambled and then remove from the heat.
+User: I have added the eggs and they are cooking over a low heat, after scrambled I have removed them from the heat, what is next?
+Robot: In order to assemble the quesadillas, melt a little more butter and lay the tortillas on a board and lightly brush with the melted butter.
+User:  I have melted more butter and laid the tortillas on a board and also lightly brushed with the melted butter, what is next?
+Robot: Place a quarter of the bacon on one half of each tortilla, then top with the scrambled egg and a couple of tablespoons of tomato salsa.
+User:  I added a quarter of the bacon on one half of each tortilla and topped it with the scrambled egg, what next?
+Robot: Sprinkle on some of the chopped red onion, grated cheese and a little chopped coriander but remember to not overfill.
+User: I have sprinkled the chopped red onion, grated cheese and the coriander, what is the next step?
+Robot: Then, fold over the tortilla to make a semicircle shape, brush the top with some more melted butter and then sprinkle over a pinch of the cayenne pepper.
+User: I have folded the tortilla to make a semicircle shape, I have also brushed the top with some more melted butter and sprinkled it with a pinch of cayenne pepper. What is the next step that I have to follow?
+Robot: Cut each of the tortillas in half and then carefully place them on the baking sheet.
+User: I have cut the tortillas in half and placed them on the baking sheet, what is next?
+Robot: Then, bake for 10 minutes and leave them to cool slightly and then serve with the mango salsa, soured cream, guacamole, refried beans and any of the remaining tomato salsa and enjoy the quesadillas.
+User: Thank you for helping me cook Breakfast quesadillas.
+
+
+

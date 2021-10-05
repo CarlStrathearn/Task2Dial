@@ -1,0 +1,34 @@
+R198 Meyer Lemon Yogurt Bundt Cake https://cookeatshare.com/recipes/meyer-lemon-yogurt-bundt-cake-542544
+
+Meyer Lemon Yogurt Bundt Cake takes 50 minutes to cook, serves 10 and contains 12 ingredients,  [''flour'', ''baking powder'', '’kosher salt'', '’milk yogurt'', ''sugar'', ''eggs'’, ''lemon zest'', ''vanilla extract'’, ''vegetable oil'’, ''lemon juice'’, ''confectioners sugar'’, ''low fat greek yogurt'’]
+
+User: Today I feel like baking a Meyer Lemon Yogurt Bundt Cake, what are the required ingredients to make this cake?
+Robot: For this recipe you will need the following ingredients, 1 and a ½ cups of all-purpose flour, 2 teaspoons of baking powder, ½ teaspoon of kosher salt, 1 cup of plain whole-milk yogurt, 1 and ⅓ cups of divided sugar, 3 extra-large eggs, 2 teaspoons of grated lemon-zest, ½ teaspoon of pure vanilla extract, ½ cup of vegetable oil, ⅓ cup of freshly squeezed lemon juice.
+User: I have the ingredients ready for the cake, what about the glazing?
+Robot: For the glazing you will need the following ingredients, 1 cup of confectioners’ sugar, 2 tablespoons of freshly squeezed lemon juice and low-fat greek yogurt.
+User:  I have all of the ingredients ready to make the cake, what is the first step?
+Robot: Firstly, you have to preheat the oven to 350 degrees fahrenheit, then grease an 8 and ½ by 4 and ¼ by 2 and 1/2 -inch loaf pan. 
+User: I have preheated the oven to 350 degrees fahrenheit and greased the loaf pan, what is the next step?
+Robot: Then, line the bottom with parchment paper, grease and flour the pan.
+User: I have lined the bottom of the parchment paper and greased the pan, what do I do now?
+Robot: Sift 1 and ½ cups of all-purpose flour, 2 teaspoons of baking powder and ½ teaspoon of kosher salt all into 1 bowl.
+User: I have sifted the flour, 2 teaspoons of baking powder and the kosher salt into one bowl, what next?
+Robot: Then, in another bowl, whisk together 1 cup of whole-milk yogurt, 1 cup of sugar, the 3 extra-large eggs, 2 teaspoons of lemon zest and ½ teaspoon of vanilla extract.
+User: I have whisked together the whole-milk yogurt, cup of sugar, the 3 large eggs, 2 teaspoons of lemon zest and the ½ teaspoon of vanilla extract, what do I do after this?
+Robot: After that, slowly whisk the dry ingredients into the wet ingredients.
+User: I have whisked the dry ingredients into the wet ingredients, what now?
+Robot: With a rubber spatula, fold the vegetable oil into the batter, making sure it’s all incorporated.
+User: I have folded the vegetable oil into the batter and incorporated well, what is the next step?
+Robot: Pour the batter into the prepared pan and then bake for about 50 minutes, or until a cake tester is placed in the center of the loaf comes out clean.
+User:  I have poured the batter into the prepared pan, it has been baked for the required 50 minutes, what do I do now?
+Robot: Next, you cook the ⅓ cup of lemon juice and the remaining ⅓ cup of sugar in a small pan until the sugar dissolves and the mixture is clear, after that set it aside.
+User: The ⅓ cup of lemon juice and the ⅓ cup of sugar has been cooked in the small pan, the sugar is dissolved and the mixture is clear, also I have set it aside, what is the next step?
+Robot: After the cake has been baked, allow it to cool in the pan for approximately 10 minutes.
+User: I have let the cake cool in the pan for 10 minutes, what next?
+Robot: After that, carefully place the cake on a baking rack over a sheet pan.
+User: Ok, I have done this, what do I do now?
+Robot: While the cake is still warm, pour the lemon-sugar mixture over the cake and give it time to soak.
+User: I have poured the lemon-sugar mixture over the cake and it has soaked, what is the next step?
+Robot: In order to glaze the cake, you must combine the confectioners’ sugar and the lemon juice, then pour it over the cake, then after it has cooled down, serve and enjoy.
+User: Alright, thank you very much for helping me bake a Meyer Lemon Yogurt Bundt cake.
+

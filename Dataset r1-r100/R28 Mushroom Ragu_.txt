@@ -1,0 +1,15 @@
+R28 Mushroom Ragu https://www.makebetterfood.com/recipes/mushroom-ragu/
+
+This recipe takes 45 minutes to cook, serves 8 and contains 12 ingredients,  [‘olive oil’,’yellow onion’,’carrot’,’celery’,’salt’,’chopped parsley’,’bay leaf’,’tomatoes ’,’mixed mushrooms’,’butter’,’heavy cream’,’pepper’]
+
+User: I want to make Mushroom Ragu
+Robot: Okay, let’s begin. Start by heating up 2 tablespoons of olive oil in a skillet over medium heat. Using a knife and a cutting board, dice 1 large yellow onion, 1 large carrot and 2 stalks of celery. Put the veggies in the skillet and add ½ teaspoon of salt. Cook for about 6 minutes or until the veggies are tender. Then, add 2 tablespoons of freshly chopped parsley and 1 bay leaf to the skillet. Stir using a wooden spoon and cook for about 1 more minute. Dice half a tomato and add it to the skillet. Cook until the tomato starts to break down, this should take about 5 minutes. When the veggies are done, transfer them into a medium bowl. 
+User: The veggies are now done, what do I do now? 
+Robot: Now wash  2 pounds of mixed mushrooms and slice using a knife and cutting board. When you wash them, make sure to pat them dry and remove as much excess water as possible. Heat 1 tablespoon of olive oil and 1 tablespoon of butter in the empty skillet over medium heat. Saute the mushrooms until they are slightly brown and reduced in size, this should take 8-10 minutes. While you are cooking the mushrooms you will notice they release a fair amount of liquid, drain this and reserve ¾ of a cup of this liquid for later. When the mushrooms are done, set them aside. 
+User: The mushrooms are done, what’s next? 
+Robot: Next, combine the mushrooms, vegetables, the reserved mushroom juice and ¾ of a cup of heavy cream in the skillet. Bring the mixture to a simmer over medium-high heat and cook for about 15 minutes. Add salt and pepper to taste and remove the bay leaf before serving. You can serve this over pasta. Enjoy your meal.
+User: Thank you.
+
+
+
+

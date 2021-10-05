@@ -1,0 +1,13 @@
+
+R8:  Roasted Veggie Noodles  https://www.makebetterfood.com/recipes/roasted-veggie-noodles-with-pears/
+
+This recipe takes 40 minutes to cook, serves 12 and contains 9 ingredients,  [‘sweet potato, butternut squash and beet noodles’,’bosc pears’,’olive oil’,’salt’,’pepper’,’butter’,’pecans’, ‘cinamon’, ‘lemon’]
+User: I want to make Roasted Veggie Noodles with Pears 
+Robot: Okay let’s start.The first thing to do is preheat the oven at 180º. Then, take 2 Bosc pears and use a kitchen knife to dice into small pieces. When this is done, toss 2 pounds of sweet potato, butternut squash and beet noodles, ¼ cup of olive oil and the cut pears into a big bowl. Then, season the ingredients with salt and pepper to taste and mix. When it is all combined, spread the mixture onto a baking sheet previously lined with parchment paper. 
+User: Okay the ingredients are now on the baking sheet, what do I do now? 
+Robot: Now put it in the oven for about 20 minutes. Make sure you turn and mix it all halfway through, around the 10 minute mark.
+User: Everything is now in the oven, is there anything I can do while it cooks? 
+Robot: While the noodles cook, take 2 tablespoons of butter and put into a small pan on medium heat. Wait until it's melted and add ¾ cup of chopped pecans. Stir often and cook until the pecans are fragrant. This should take 3-5 minutes. When it's done take it off the heat and set aside. For the last part of the recipe, come back and ask me once the noodles are done. 
+User: Okay the noodles are out of the oven, what are the last steps?
+Robot: To finish, put the noodles into a large bowl and add the pecans you just made, 1 teaspoon of cinnamon and lemon zest. Combine all the ingredients and it’s done. Enjoy your meal
+User: Thank you. 

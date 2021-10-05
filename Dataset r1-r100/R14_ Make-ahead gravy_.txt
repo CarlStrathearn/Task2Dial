@@ -1,0 +1,21 @@
+R14: Make-ahead gravy https://www.makebetterfood.com/recipes/make-ahead-gravy/
+
+This recipe takes 3 hours to cook, serves 6 cups and contains 10 ingredients,  [‘water’,’turkey neck’,’celery sticks’,’carrots’,’onion’,’parsley’,’butter’,’flour’,’tamari/soy sauce’,’salt’,’pepper’]
+User: I want to make Make-ahead gravy. 
+Robot: Okay let’s begin. The first step is to make homemade stock. This step is optional, although it is recommended. Would you like me to go ahead and tell you how to make homemade stock? 
+Option 1 - User: Yes go ahead.
+Robot: Okay. To start, use a knife and a cutting board halve 4 celery sticks and 3 carrots. Then, quarter 1 onion. Put these ingredients and 2 quarts of water, 1 turkey neck and 10 parsley stems with leaves in a large stock pot. Cover with a lid and bring to boil over high heat. Then, reduce it to a simmer and let it cook for about 2 hours, until the water turns light yellow. When it's done, remove the stick and use a fine mesh strain to remove the solids. When you are ready let me know and I will show you how to make the Turkey Drippings.
+User: Okay thank you.
+Option 2 - User: No, I have stock, can you move on to the recipe?
+Robot: No problem.
+Robot: Let’s move on to the Turkey drippings. With a wooden spoon, scrape the bottom of the pan where the Turkey has roasted and pour it into a measuring cup or separator. Let it rest for 30 minutes and then remove the fat with a spoon or smaller cup. Pour what’s left into a different cup if necessary to remove as much fat as possible. 
+User: I have removed the fat, what’s next?
+Robot: Now let’s make the gravy. Pour 4 ½ cups of the stock you have decided to use inot a small saucepan and put it on the hob over medium heat. When the stock begins steaming, transfer onto a measuring cup or jug and set aside.
+User: The stock is done, what do I do now? 
+Robot: Now, in another saucepan melt 1 stick of butter over medium heat. Using a knife and a chopping board, chop ½ an onion and then add it to the saucepan with the butter. Cook, stirring occasionally using a spatula for about 5 minutes, or until the onion is translucent.
+User: The onion is now cooked, what now? 
+Robot: Now sprinkle ½ cup of flour over the onions and stir using a wooden spoon until combined. Keep stirring and adjusting the heat so the flour doesn’t burn until it looks golden brown. This should take 3-5 minutes. Then, start adding 4 ½ cups of the reserved stock and whisk it in. Keep whisking over medium heat until the gravy starts to thicken. This should take about 5 minutes. 
+User: The gravy has now started to thicken, what’s next? 
+Robot: Now, add 1 teaspoon of tamari or soy sauce, ½ teaspoon of salt and ¼ teaspoon of pepper to the gravy and keep whisking it with the wooden spoon. Finally, add 1 ½ to 2 cups of turkey drippings into the gravy and combine. Enjoy your meal!
+User: Thank you.
+

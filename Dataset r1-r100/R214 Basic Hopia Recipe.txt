@@ -1,0 +1,27 @@
+R214 Basic Hopia Recipe https://cookeatshare.com/recipes/basic-hopia-731334
+
+This recipe takes 40 minutes to cook, serves 3 and contains 13 ingredients,  [''dough'', ''flour'', '’salt'', '’sugar'', ''shortening'', ''water'’, ''eggs'', ''vinegar'', ''filling'',  ''mongo bean'',  ''butter'',  ''egg wash'',  ''egg yolks'']
+
+User: Today I would like to make some Basic Hopia, what are the required ingredients?
+Robot: For this recipe you will need dough, 6 cups of all-purpose flour, 2 tsp of salt, 1 and ¼ cup of sugar, 6 tbsp of shortening, 1 cup of cold water, 2 large eggs, 2 teaspoons of vinegar, filling, 1 and ½ cup of mongo beans, boiled and mashed, 1 cup of sugar, 1 cup of all purpose flour, ½ cup of butter, egg wash, 2 egg yolks and ¼ cup of water, got the ingredients?
+User:  I have all of the ingredients ready to cook this meal, what is the first step that I need to take?
+Robot: Mix the filling ingredients and cook at a medium heat for approximately 10 minutes, then refrigerate to cool down completely.
+User: I have mixed the ingredients and cooked at a medium heat for 10 minutes and refrigerated, what is the next step?
+Robot: Next you mix together all of the dough ingredients and roll them in a 1 inch tube and wrap it with plastic, then refrigerate for 15 minutes.
+User: I have mixed all of the dough ingredients and rolled them in a 1 inch tube then wrapped it with plastic and refrigerated for 15 minutes. What do I do after that?
+Robot: Then, preheat the oven to approximately 400 degrees fahrenheit.
+User: I have preheated the oven to 400 degrees fahrenheit, what do I do next?
+Robot: Take the filling and dough out of the refrigerator and then cut the dough in ¼ inch discs.
+User:  I have taken out the filling and the dough from the refrigerator and cut the dough in ¼ inch discs, what now?
+Robot: Flatten each of the discs to create a 2 inch diameter and then scoop 1 tablespoon filling and wrap and seal the dough around it.
+User: I have flattened the discs to create a 2 inch diameter and I scooped 1 tablespoon filling and wrapped and sealed the dough around it, what next?
+Robot: Great, now press the dough ball to flatten, sealed side down at about 1 and ½ inch diameter and ¼ inch thickness.
+User: I have pressed the dough ball to flatten and sealed the side down at the required dimensions, what is the next step that I have to take?
+Robot: Now lay the pieces on a baking pan and brush it with the egg wash.
+User: I have laid the pieces on a baking pan and brushed it with the egg . What now?
+Robot: Then bake for approximately 15-20 minutes and the top should be golden brown.
+User:  I have baked it for 15-20 minutes and the top is golden brown, what next?
+Robot: Serve and enjoy the hopia.
+User: Thank you for helping me cook Hopia.
+
+

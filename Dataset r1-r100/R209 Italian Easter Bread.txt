@@ -1,0 +1,34 @@
+R209 Italian Easter Bread https://cookeatshare.com/recipes/italian-easter-bread-371655
+
+Italian Easter Breadtakes 30 minutes to cook, serves 1 and contains 11 ingredients,  [''flour'', ''sugar'', '’dry yeast'', '’salt'', ''warm milk'', ''butter'’, ''eggs'', ''candied fruit'', ''almonds'', ''aniseed'', ''oil'']
+
+User: Today I want to cook an Italian Easter Bread, what ingredients do I need to make this recipe?
+Robot: To make this recipe you will need the following ingredients, 3 to 3-½ cups of all purpose flour, ¼ cup of sugar, 1 package of active dry yeast, 1 tsp of salt, ⅔ cups of warm milk, 2 tablespoons of butter, 7 eggs, ½ cup of chopped mixed candied fruit, ¼ cup of chopped blanched almonds, ½ tsp of aniseed and oil, got that?
+User: I have all of the ingredients required to cook the easter bread, what is the first step that I have to take?
+Robot: In a bowl, combine 1 cup of flour, ¼ cup of sugar, yeast and 1 tsp of salt.
+User: I have combined 1 cup of flour, ¼ cup of sugar, yeast and 1 tsp of salt, what do I do next?
+Robot: Then, add ⅔ cups of warm milk and 2 tsp of softened butter, beat for 2 minutes on medium.
+User: Yes, thank you, I have added the cups of warm milk and 2 tsp of soft butter and beat it for 2 minutes on medium, what do I do next?
+Robot: Next, stir the fruits, nuts and aniseed and make sure to mix well
+User:  I have mixed the fruits, nuts and aniseed, what do I do next?
+Robot: Then, stir in enough of the remaining flour to form a nice and soft dough.
+User: I have stirred the remaining flour to form a nice dough, what now?
+Robot: Now, turn onto a lightly floured surface; knead until smooth and elastic for about 6-8 minutes
+User: I have kneaded it for about 6-8 minutes, what is the next step?
+Robot: Then, place it in a greased bowl and turn once to grease the top
+User: I have placed it in a greased bowl and turned it to grease the top, what is the next step I have to take?
+Robot: Cover and let it rise in a warm place until doubled for about 60 minutes.
+User: I have covered it and let it rise in a warm place for 60 minutes, what do I do next?
+Robot: Then, if you want to dye the remaining eggs and leave them uncooked and lightly rub them with oil.
+User: I have dyed the remaining eggs, what next?
+Robot: Next, punch the dough down, divide it in half and roll each piece into a 24-in rope.
+User: The dough has been punched down and divided in half and rolled them into 24-in ropes, what now?
+Robot: Cover and let it rise until doubled, for about 30 minutes.
+User: I have covered it and let it rise for 30 minutes, what do I do next?
+Robot: Now bake it at 350F for about 30-35 minutes or until golden brown.
+User: I have baked it for 30-35 minutes, what do I do next?
+Robot: Remove from the pan, let it cool on a wire rack for a while.
+User: I have removed it from the pan and let it cool for a while, what do I do now?
+Robot: After it has been cooled down, serve the bread and enjoy.
+User: Thank you for helping me cook Italian Easter Bread.
+

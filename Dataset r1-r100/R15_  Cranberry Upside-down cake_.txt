@@ -1,0 +1,15 @@
+R15:  Cranberry Upside-down cake https://www.makebetterfood.com/recipes/cranberry-upside-down-cake/
+
+This recipe takes 1hour and 15 minutes to cook, serves 12 and contains 12 ingredients,  [‘all-purpose flour’,’baking powder’,’cinnamon’,’salt’,’butter’,’sugar’,’walnuts/pecans’,’cranberries’,’sugar’,’eggs’,’vanilla extract’,’whole milk’,’red currant/raspberry jelly’]
+User: I want to make Cranberry Upside-down cake
+Robot: Okay let’s begin. The first thing you have to do is preheat the oven at 180º and place a 8" cake pan on a baking sheet. Now, take a medium bowl and put in 1 cup of all-purpose flour, 1 teaspoon of baking powder, 1 teaspoon of cinnamon and ¼ teaspoon of salt. Whisk the ingredients using a spatula or a wooden spoon and set aside. This will be your “dry ingredients”. 
+User: I have mixed the ingredients together, what do I do now? 
+Robot: Now, melt 6 tablespoons of butter in a pan. Then, add 6 tablespoons of sugar to the pan and stir together with a spatula or wooden spoon until it starts to boil. Pour this mixture into the cake pan. Then, crush ¼ cups of walnuts or pecans to scatter on the cake pan. To do this you could use a food processor or put the nuts into a plastic bag and roll a rolling pin on top of them. Next, rinse 2 cups of cranberries and place them on the cake pan. Distribute them evenly and press gently using your fingers. 
+User: I have placed the ingredients into the cake pan, what’s next?
+Robot: Next, place 8 tablespoons of butter into a large bowl or stand mixer bowl. Cream the butter using a hand-mixer until it's smooth. Add ½ cup of sugar into the butter and keep blending until the mixture looks pale and creamy. This should take about 3 minutes. Add 2 large eggs and 1 teaspoon of vanilla extract into the bowl, mix again until fully combined. 
+User: The ingredients are now combined, what now? 
+Robot: Now, add half of your dry ingredients into the bowl with the butter mixture. Blend with the hand mixer until it's combined. Then, add ⅓ cup of whole milk and keep mixing. When it’s fully incorporated, add the rest of the dry ingredients and mix well. Pour the batter into the cake pan and smooth the top with a rubber spatula. Bake the cake for 40-45 minutes or until you insert a knife into the cake and it comes out clean. There won’t be any more steps until the cake is done baking, so let me know when you would like me to tell you the last steps.
+User: The cake is now done, what are the rest of the steps? 
+Robot:Take the cake out and let it cool for about 5 minutes before taking it out of the mold. To do this, run a knife around the sides of the pan before turning it upside down onto a plate, this will help loosen it. Put ⅓ cup of red currant or raspberry jelly into a saucepan over low heat for a few minutes to warm it up. Then, using a pastry brush, glaze the warm jelly onto the cake. Enjoy your meal!
+User: Thank you. 
+

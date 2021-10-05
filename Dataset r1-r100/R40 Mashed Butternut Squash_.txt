@@ -1,0 +1,11 @@
+R40 Mashed Butternut Squash https://www.makebetterfood.com/recipes/mashed-butternut-squash/
+
+This recipe takes 1 hour and 45 minutes to cook, serves 6 and contains 5 ingredients,  [‘butternut squash’,’butter’,’maple syrup’,’salt’,’pepper’]
+
+User: I want to make Mashed Butternut Squash
+Robot: Okay, let’s begin. Start by preheating the oven to 204º. Wash the surface of a squash and pat it dry using a kitchen towel. Then, place it on a rimmed baking sheet that is lined with aluminium foil. Bake the quash for about 1 hour and 30 minutes or until it becomes very soft and can be easily run by a skewer. Once it's baked, slice the squash lengthwise using a knife. Scoop out the seeds and discard them. Scrape the flesh of the squash using a spoon and place it into a large mixing bowl. 
+User: The squash is now in a bowl, what comes next? 
+Robot: Next, add 4 tablespoons of butter, ¼ cup of maple syrup, ½ teaspoon of salt and ¼ teaspoon of pepper into the bowl with the squash. Whip all ingredients together using an electric hand mixer until it's incorporated and smooth. Enjoy your meal.
+User: Thank you.
+
+

@@ -1,0 +1,10 @@
+R42 Sweet Potato Biscuits https://www.makebetterfood.com/recipes/sweet-potato-biscuits/
+
+This recipe takes 50 minutes to cook, serves 12 biscuits and contains 7 ingredients,  [‘sweet potato’,’butter’,’orange zest’,’milk’,’all-purpose flour’,’baking powder’,’salt’]
+
+User: I want to make Sweet Potato Biscuits
+Robot: Okay, let’s begin. Start by preheating the oven at 204º and bringing 4 cups of water to a boil in a small saucepan. While the water boils, use a peeler and a knife and cutting board to peel and cube 1 medium sweet potato. Add the portions to the boiling water and cook until they are soft. When they are done, place them in a pot. Mash the potatoes until they are smooth and take out 1 cup’s worth of mashed sweet potato to set aside. Add 4 tablespoons of butter and 1 teaspoon of orange zest into the bowl with the mashed potatoes and stir using a spoon until the butter has melted. Add ½ cups of milk slowly and stir until well combined. 
+User: The sweet potatoes are combined with the ingredients, what now?
+Robot: Now, add 1 ¾ cups of all-purpose flour, 3 teaspoons of baking powder and ½ teaspoon of salt into the sweet potato mixture and stir using a wooden spoon. When the dough is done, knead it and roll it out using a rolling pin on a lightly floured surface until it's ¾ inches thick. Cut the biscuits using a 3-inch biscuit cutter and place them on the prepared baking sheet. Bake the biscuits for 18-20 minutes or until they are golden brown. Let them cool for 5 minutes before serving and enjoy your meal.
+User: Thank you.
+

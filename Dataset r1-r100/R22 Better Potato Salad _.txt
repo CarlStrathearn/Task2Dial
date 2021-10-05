@@ -1,0 +1,12 @@
+R22 Better Potato Salad  https://www.makebetterfood.com/recipes/potato-salad/
+
+This recipe takes 45 minutes to cook, serves 6-8 and contains 8 ingredients,  [‘red potatoes’,’salt’,’mayonnaise’,’buttermilk’,’dijon mustard’,’pepper’,’celery’,’red onion’]
+User: I want to make Better Potato Salad
+Robot: Okay, let’s begin. Start by washing the potatoes and placing them together with 2 tablespoons of sea salt into a large stock pot. Fill the pot with water until the potatoes are submerged. Bring the potatoes to a boil over high heat and then reduce to a simmer. Cook until the potatoes are starting to become tender, this should take 10-15 minutes. When the potatoes are ready, drain them using a colander and then place the colander into the empty pot. Cover the pot with a dish towel to create a steam chamber for the potatoes. Let the potatoes sit like this for about 15 minutes before removing them. There are steps to this recipe while the potatoes are steaming, let me know when you would like me to tell you the next steps. 
+User: What are the next steps?
+Robot: Next, add 1 cup of mayonnaise, ¼ cup of buttermilk, 2 tablespoons of Dijon mustard, 1 teaspoon of salt and 1 teaspoon of pepper into a small bowl. Mix it all together with a spoon and set aside, this will be your dressing. Then, chop 2 stalks of celery and half a medium red onion using a knife and a cutting board and reserve in a small bowl. 
+User: The ingredients are now chopped, what do I do now? 
+Robot: When the potatoes have cooled down, cut them into quarters using a knife and a cutting board. Place them in an empty bowl and add the dressing onto them. Stir with a spoon until combined. Add the celery, onions and 2 teaspoons of salt into the bowl with the potatoes and combine. Enjoy your meal.
+User: Thank you.
+
+

@@ -1,0 +1,23 @@
+R9:  Quinoa Burrito Bowl https://www.makebetterfood.com/recipes/quinoa-burrito-bowl/
+
+This recipe takes 40 minutes to cook, serves 4-6 and contains 12 ingredients,  [‘canola oil’,’red onion’,’jalapeño’,’garlic’,’chicken/vegetable broth’,’black beans’,’uncooked quinoa’,’tomatoes’,’frozen corn’,’kosher salt’,’cilantro/parsley’, ‘lime juice’]
+It has 9 optional ingredients [‘shredded cheese’,’lettuce’,’sour cream’,’avocados’,’onion’,’lime juice’,’sea salt’,’pepper’,’tomato’]
+User: I want to make a Quinoa Burrito Bowl
+Robot: Okay, let’s start. Put 1 tablespoon of canola oil into a large saucepan or dutch oven and start preheating over medium heat. While the pan is heating up, use a kitchen knife and a cutting board and chop 1 small red onion, 1 jalapeó and mince 2 cloves of garlic. Add these onto the pan and use a spatula to saute until fragrant. This should take about 1 minute. 
+User: I have sauted the ingredients, what’s next?
+Robot: Now take 15 ounces of black beans and 1 cup uncooked quinoa and use a sieve rinse and rain both ingredients. Then, using a kitchen knife and cutting board dice 2 tomatoes. Take these ingredients and  1 ⅓ cups of chicken or vegetable broth, 1 cup of frozen corn and ½ teaspoon of kosher salt and add them to the pot. Use the spatula to combine and bring the pot to a boil. Once it boils, keep stirring and bring it down to a simmer. Cover and let it cook for about 25 minutes, or until the quinoa is cooked and the liquid has been absorbed. 
+User: The quinoa has finished cooking, what do I do now? 
+Robot: Next remove the pot from the heat. Chop ¼ cups of fresh cilantro or parsley using a kitchen knife and a cutting board. Add this and ½ tablespoon of lime juice to the pot. Use the spatula to stir. To serve, choose what ingredients you would like to top it with. Some options are shredded cheese, shredded lettuce, sour cream or guacamole. I could tell you how to make homemade guacamole, would you like to do that? 
+Option1 - User: Yes, please
+Robot: Okay, to make homemade guacamole cut 4 avocados in half with a knife and remove the pits. Use a spoon to scoop out the avocado onto a bowl. Mash the avocados using a potato masher or fork. 
+User: I have mashed the avocados, now what?
+Robot: Now using a kitchen knife and cutting board, chop half a red onion. Add this and 2 tablespoons of fresh squeezed lime juice, 2 teaspoons of sea salt and 1/8 teaspoon of freshly ground black pepper onto the avocados. Mix all the ingredients together with a spatula. Taste the guacamole and adjust any ingredients that you want to your taste. 
+User: I have mixed the ingredients, now what?
+Robot: Now chop 1 ripe tomato using a kitchen knife and a cutting board. Mix this with the guacamole and you are done!
+User: Thank you. Now what do I do with the Quinoa Burrito Bowl?
+Robot: Now top the bowl with any of the ingredients that you want and the guacamole and enjoy your meal!
+User: Thank you.
+
+Option2 - User: No, I don’t want guacamole
+Robot: Okay, then just top the bowl with any of the ingredients that you want and the guacamole and enjoy your meal!
+User: Thank you.

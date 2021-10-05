@@ -1,0 +1,30 @@
+R3: Airfryer Glazed Donuts https://www.makebetterfood.com/recipes/air-fryer-glazed-donuts/
+
+Airfryer Glazed Donuts takes 2h and 30 minutes to cook, serves 10-12 donuts and contains 10 ingredients,  ['all-purpose flour', 'sugar', 'salt', 'instant yeast', 'milk’, 'egg', 'unsalted butter’,'oil spray','].
+It has 6 optional ingredients [ 'vanilla extract', 'hot water',’powdered sugar’,’maple syrup’, ‘sprinkles’, ’cinnamon powder’].
+User: I would like to cook Airfryer Glazed Donuts
+Robot: Let’s start with the dough. Put 3 cups of all-purpose flour, ¼  cup of sugar, ½ tablespoons of salt and 2 ½  teaspoons of instant yeast into a large bowl and mix until combined and a rough dough forms. 
+User: Okay I have mixed the ingredients, now what? 
+Robot: Put 1 cup of room temperature milk, 1 previously whisked egg and ¼ of melted unsalted butter into the dough and combine. When everything is combined, transfer it onto a surface to knead until it is smooth and elastic. Be sure to flour the surface so the dough doesn't stick to it. This process should take 5-10 minutes.
+User: I have made the dough, what do I do now? 
+Robot: Now let’s let the dough rise. Place it into a lightly greased bowl and cover with plastic wrap. After roughly 1 hour transfer the dough onto a floured surface and roll it out until it's around ½ inches. 
+User: I have rolled the dough, now what? 
+Robot: Take a 3-inch round cutter and cut the donuts out, it should give you around 10 to 14 donuts. Then theake a 1-inch round cutter to remove the center of each donut. Transfer the donuts and donut holes to a tray covered with lightly-greased parchment paper. Then cover the donuts with greased plastic wrap and let them rise until they double their volume. This should be around 30 minutes. 
+User: The donuts are now double their size, what do I do next? 
+Robot: Spray the air fryer basket with oil spray. Transfer the donuts onto it one layer at a time, there shouldn’t be donuts on top of donuts. Spray the donuts with the same oil spray and fry for about 4-5 minutes at 350°F (180°C). Repeat with all the donuts. 
+User: I have air fried the donuts, what do I do now?
+Robot: Now it's time for the glazing, there are various options. Would you like to know how to coat them with Vanilla Glaze, Maple Glaze or Cinnamon sugar? 
+Option 1: User: I would like to know how to make the Vanilla Glaze.  
+Robot: To make vanilla glaze, melt 6 tablespoons of unsalted butter on a small saucepan over medium heat. Once it's melted, stir in 2 cups of powdered sugar and 2 tablespoons of vanilla extract until it's all combined.  Take the mixture off the heat and add 4 tablespoons of hot water one tablespoon at a time to thin out the icing. Make sure it doesn’t become too watery.
+User: I have made the icing, now what do I do?
+Robot: Take the donuts and dip them into the icing while they are still hot. Use a fork to do this. When they are dipped, place them on a wire rack to let the excess glaze to drip off. Make sure the wire rack is on top of a baking sheet to catch the excess. Let them harden for 10 minutes and enjoy your meal. You can add sprinkles on top if you wish. 
+User: Thank you. 
+Option 2: User: I would like to know how to make the Maple Glaze.  
+Robot: To make maple glaze, stir together ½ cup of powdered sugar and 5 tablespoons of maple syrup until it's combined.
+User: I have made the icing, now what do I do?
+Robot: Take the donuts and dip them into the icing while they are still hot. Use a fork to do this. When they are dipped, place them on a wire rack to let the excess glaze to drip off. Make sure the wire rack is on top of a baking sheet to catch the excess. Let them harden for 10 minutes and enjoy your meal. You can add sprinkles on top if you wish. 
+User: Thank you. 
+Option 3: User: I would like to know how to make the Cinnamon Sugar Coating.   
+Robot: To make cinnamon sugar coating stir together ½ cup of granulated sugar and 1 tablespoon of cinnamon powder until it's combined. Spay the doughnuts with oil before dipping them in the mixture. You can add sprinkles on top if you wish. Enjoy your meal 
+User: Thank you. 
+

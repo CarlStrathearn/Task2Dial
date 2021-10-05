@@ -1,0 +1,28 @@
+R141 Homemade Tortilla Chips https://www.makebetterfood.com/recipes/homemade-tortilla-chips/
+
+This recipe takes 20 minutes to cook, serves 4 and contains 3 ingredients,  [''homemade tortillas'', ''vegetable oil spray'', '’salt'']
+
+User: Can you help me make some Homemade Tortilla Chips please? What ingredients do I need?
+Robot: Sure, for the tortilla chips you will need 4 homemade tortillas, vegetable oil spray and 2 tsp of salt for taste.
+User: I have those ingredients ready, what is the first step that I need to take?
+Robot: Adjust the oven rack to the middle position and preheat the oven to 350 degrees fahrenheit, then cut the tortillas into 6 or 8 slices.
+User: I adjusted the rack to the middle position and preheated the oven to 350 degrees and cut the tortillas into 8 pieces. What do I have to do next?
+Robot: Now, spread the tortilla wedges onto two rimmed baking sheets and coat the top side of the wedges with vegetable oil spray.
+User: I put the tortilla wedges on the baking sheets and coated them with vegetable oil spray. What do I have to do next?
+Robot: Now flip the wedges over and spray them to coat the other side.
+User: I flipped the wedges over and sprayed the other side, what next?
+Robot: Sprinkle the wedges evenly with salt, then bake them at 350 degrees fahrenheit for approximately 10 minutes and remove them from the oven after 10 minutes.
+User: I sprinkled the wedges with salt and baked them at 350 degrees for 10 minutes. Now what do I have to do after I remove them?
+Robot: Next, return to the oven and continue to cook until the tortillas are crisp and light brown, leave them for about 10 minutes longer.
+User: I cooked tortillas for another 10 minutes and they are now light brown, what do I have to do next?
+Robot: Remove from the oven and let them cool on a wire rack for 10 minutes, then serve with salsa or guacamole.
+User: I removed them from the oven and let them cool on a wire rack for 10 minutes, thank you for helping me make Homemade Tortilla Chips.
+
+
+
+
+
+
+
+
+

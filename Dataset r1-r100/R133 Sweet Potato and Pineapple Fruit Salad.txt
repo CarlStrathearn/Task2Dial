@@ -1,0 +1,25 @@
+R133 Sweet Potato and Pineapple Fruit Salad https://www.makebetterfood.com/recipes/sweet-potato-and-pineapple-fruit-salad/
+
+This recipe takes 15 minutes to cook, serves 6 and contains 6 ingredients,  [''sweet potato'', ''sliced kiwi'', '’fresh pineapple'', '’peaches'', ''shredded coconut'', ''coconut milk'’]
+
+User: Today I want to make a Sweet Potato and Pineapple Fruit Salad, what ingredients do I need?
+Robot: Ok, you will need 1 large sweet potato, 5-6 slices of kiwi, 1 fresh diced pineapple, 2 diced peaches, ¼ cup of shredded coconut and ¼ cup of coconut milk.
+User: I have the ingredients ready, am I ready to begin or do I need any other ingredients?
+Robot: You are ready to start. Wash the sweet potato and poke it all over with a fork, then place it on a medium plate and microwave it until it becomes soft.
+User: I have washed the sweet potatoes and poked it with a fork, what now?
+Robot: Now, press with your finger for approximately 10 minutes, then allow them to cool down and slice them off with a sharp knife.
+User: I pressed down with my finger for 10 minutes and I let it cool down, thank you, what do I have to do next?
+Robot: Now, dice the potatoes into smaller bite-sized pieces and place them in a medium bowl, did you get that?
+User:  I have diced the potatoes into smaller pieces and put them in a medium bowl, what do I do now?
+Robot: Now lightly toast the shredded coconut in a very small skillet over a medium heat, make sure to stir frequently for about 5 minutes.
+User: I toasted the coconut on a skillet over medium heat, I also stirred for 5 minutes, thank you. What do I do now?
+Robot: Next, add the toasted coconut and the coconut milk to a bowl and toss it to combine, then serve immediately or chill and serve.
+User: I toasted the coconut and the coconut milk to the bowl and tossed it. Thank you very much for helping me cook a Sweet Potato and Pineapple fruit salad.
+
+
+
+
+
+
+
+

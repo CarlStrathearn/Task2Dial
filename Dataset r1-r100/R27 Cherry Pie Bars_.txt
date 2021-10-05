@@ -1,0 +1,10 @@
+R27 Cherry Pie Bars https://www.makebetterfood.com/recipes/cherry-pie-bars/
+
+This recipe takes 1 hour and 15 minutes to cook, yields 32 bars and contains 7 ingredients,  [‘cherries’,’butter’,’all-purpose flour’,’sugar’,’salt’,’eggs’,’sour cream’]
+User: I want to make Cherry Pie Bars 
+Robot: Okay, let’s begin. Start by rinsing and pitting 32 ounces of cherries and setting them aside. Then let's make the crust and topping. Preheat the oven at 176º and grease it with 1 tablespoon of butter in a 9x13 inch baking pan and line it with parchment paper. Then, put 3 cups of all-purpose flour, 1 ½ cup of sugar and ¼ teaspoon fine sea salt into a large bowl. Mix it with an electric hand mixer on low until it's well blended. 
+User: The ingredients are blended, what do I do now? 
+Robot: Now cube 1 ½ cups of butter (3 sticks) and add them to the bowl, one by one, with the electric mixer on low speed. Increase the speed to high once all butter has been added and mix until the batter is crumbly. Using a measuring cup to reserve 1 ½ cups of the mixture in the fridge to use as crumb topping later. Take the remaining batter and spread it on the prepared pan pressing lightly with a spatula to form an even crust. Bake it until it's golden brown, for about 12-15 minutes. Remove it from the sheet when it's done and let it cool down before adding the fruit toppings, which we will make next. 
+User: The crust is baking, is there anything I can do in the meantime? 
+Robot: While the crust bakes, put 2 cups of sugar, ¾ cup of all-purpose flour and a pinch of sea salt in a large bowl. Using a whisk to mix the ingredients together. Then, add 4 large eggs and 1 cup of sour cream and whisk it in. Add the reserved cherries and fold them into the mixture using a spatula. When the crust has cooled down, add the filling on top and spread it using the spatula. Finally, remove the reserved crumb topping from the fridge and sprinkle it on top over the cherry filling. Bake the pie for 50-55 minutes and let it cool down for about 3 hours before cutting it into bars. Enjoy your meal.
+User: Thank you.

@@ -1,0 +1,8 @@
+R37 Chicken Noodle Soup https://www.makebetterfood.com/recipes/homemade-chicken-noodle-soup/
+
+This recipe takes 4 hours and 30 minutes to cook, serves 10-12 and contains 12 ingredients,  [‘stock’,’vegetable oil’,’carrots’,’celery stalks’,’onion’,’roasted chicken meat’,’minced parsley’,’thyme’,’salt’,’pepper’,’Old Bay seasoning’,’egg noodles’]
+User: I want to make Chicken Noodle Soup 
+Robot: Okay, let’s begin. Start by making the soup. Using a knife and a cutting board, and a peeler where appropriate, prep the vegetables. Chop 5 carrots, 5 celery stalks and 1 onion. Then, heat 2 tablespoons of vegetable oil in an empty stockpot over high heat. Add the carrots, celery stalks and onion into the pan and saute over medium heat for about 5 minutes. Remove the pan from the heat temporarily and add in 10 cups of chicken stock, 1 ½ cups of shredded roasted chicken meat, 1 tablespoon of minced parsley, 1 ½ teaspoon of thyme, 1 ½ teaspoon of salt, 1 teaspoon of pepper and 1 teaspoon of Old Bay seasoning. Return the pan to the stove and bring it to a boil over high heat. 
+User: The soup is now boiling, what now? 
+Robot: Now reduce the heat to medium-low and let the soup simmer for 10 minutes. Add 12 ounces of egg noodles into the soup and let them cook until the noodles are al dente. This should take 5-10 minutes. Enjoy your meal.
+User: Thank you. 

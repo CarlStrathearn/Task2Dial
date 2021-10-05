@@ -1,0 +1,21 @@
+r185: Feijoada https://www.bbc.co.uk/food/recipes/andre_and_andersons_49427
+
+Feijoada takes 120+ minutes to cook, serves 6-8 and contains 11 ingredients, [‘black beans’, ‘olive oil’, ‘pork ribs’, ‘unsmoked pork ribs’, ‘onion’, ‘garlic’, ‘bacon’, ‘pork belly’, ‘sausage’, ‘black pepper’, ‘dried chili’]
+
+User: I would like to make Feijoada.
+Robot: Firstly, soak 1kg of black beans in 2 litres of cold water and leave them overnight.
+User: I have placed the black beans in the cold water and left them overnight, what do I do next?
+Robot: Then heat olive oil in a lidded frying pan, it must be big enough to fit all the ribs in at once, ensure that it is over a medium heat.
+User: Alright, I have heated half of the olive oil in the frying pan and it’s on a medium heat, what comes next?
+Robot: After that season 500g of smoked and 1kg of unsmoked pork ribs with salt and freshly ground black pepper, place the ribs on the frying pan for around 4 to 5 minutes on each side until they are brown on both sides.
+User: I have seasoned the smoked and unsmoked pork ribs and added the ground black pepper, what comes after?
+Robot: Next add one large chopped onion and one head of garlic then continue to fry for an additional 2-3 minutes, stirring it well until it is soft.
+User: The onions and garlic have been added and stirred for the required additional time, what comes after this?
+Robot: Clean the frying pan by wiping it with kitchen paper, after that you will want to continue heating the rest of the remaining olive oil at a medium heat. Place 500g bacon, 500g pork belly and 200g of sausage on the frying pan in different batches, until they are completely brown all over, also make sure to not overcrowd the frying pan. After they are brown on all the sides take the browned meat to the casserole.
+User: I have cleaned the frying pan by wiping it with kitchen paper and heated the rest of the olive oil at a medium heat. The bacon, pork belly and sausage are brown on all of the sides and I have moved them over to the casserole, what do I do now?
+Robot: Add the black beans that have been soaked in water to the casserole with the meat and make sure you stir them well. After that make sure to bring the mixture to the boil, make sure to turn down the heat until the mixture is simmering. Simmer it half-covered for approximately two and a half hours by adding water to the casserole at regular intervals to ensure that it does not dry out.
+User: Ok, I have added the black beans to the casserole and stirred them well. I have added the water to the casserole at regular intervals to prevent it from drying and left it for two and a half hours as you mentioned. What do I do next?
+Robot: Finally, just before serving the dish, season the Feiijoada by sprinkling some salt and freshly ground black pepper, also with chilli flakes if you wish.
+User: Alright, thank you.
+
+

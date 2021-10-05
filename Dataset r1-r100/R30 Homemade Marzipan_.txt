@@ -1,0 +1,8 @@
+R30 Homemade Marzipan https://www.makebetterfood.com/recipes/homemade-marzipan/
+
+This recipe takes 8 hours and 10 minutes to cook, serves 12 ounces and contains 5 ingredients,  [‘almond flour’,’powdered sugar’,’almond extract’,’rose water’,’1 large egg white’] and 1 optional ingredient [’food colouring’]
+User: I want to make Homemade Marzipan
+Robot: Okay, let’s begin. Be aware that the prep time for this recipe is 10 minutes but it will need 8 hours to chill before using it, so be sure to make this in advance. Start by adding 1 ½ cups of ground almond flour and 1 ½ cups of powdered sugar into the bowl of a food processor. Make sure the bowl is fitted by a metal blade and pulse several times until the ingredients combine. Add 1 ½ teaspoons of almond extract and ¾ teaspoon of rose water into the food processor. And pulse again to combine. 
+User: The ingredients are now combined, what now?
+Robot: Now, if you want the marzipan to be coloured to use it as fondant, add the desired food colouring and pulse to combine. Finally, add 1 large egg white to the mixture and pulse in long intervals to blend until a thick dough forms. The dough should be very sticky, so if this is not the case add additional almond flour and powdered sugar in equal quantities to thicken. Turn the dough onto a clean work surface and knead a few times using your hands. Then give the marzipan a log shape and let it chill in the fridge for 8 hours. Enjoy your meal.
+User: Thank you.

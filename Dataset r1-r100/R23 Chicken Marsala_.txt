@@ -1,0 +1,17 @@
+R23 Chicken Marsala https://www.makebetterfood.com/recipes/chicken-marsala/
+
+This recipe takes 1 hour to cook, serves 4-6 and contains 12 ingredients,  [‘chicken breasts’,’salt’,’pepper’,’Marsala red wine’,’unflavored gelatin’,’porcini mushrooms’,’cremini mushrooms’,’chicken broth’,’all-purpose flour’,’vegetable oil’,’butter’,’onion’,’garlic’,’tomato paste’,’lemon juice’,’minced parsley’]
+User: I want to make Chicken Marsala
+Robot: Okay, let’s begin. Start by prepping the chicken. Cut 2 pounds of chicken breasts using a knife and a cutting board into long horizontal portions. This should create 3 equally sized pieces. Cover each portion with plastic and pound using a meat tenderiser. Place the flat cutlets into a bowl and set aside. Add 2 teaspoons of salt and ½ teaspoon of pepper into the bowl with the chicken and toss to combine. Set this aside and let it stand for 15-20 minutes. 
+User: The chicken is now ready, what’s next? 
+Robot: Next, put 2 cups of Marsala red wine (about 500 ml of a bottle), 4 teaspoons of unflavored gelatin (two packets) and 1 ounce of rinsed dried porcini mushrooms into a large saucepan. Bring it all to a boil over high heat. Then, reduce the heat to medium-high and simmer for about 8 minutes. This should reduce the wine by half. While the wine is reducing, rinse, trim and slice 1 pound of cremini mushrooms using a knife and a cutting board. Reserve and set aside. When the Marsala has reduced, strain it using a colander and discard any solid porcini mushroom pieces left. Then, return the wine reduction to the saucepan. 
+User: The Marsala reduction is now back in the pan, what do I do now? 
+Robot: Now add 2 cups of chicken broth to the saucepan and bring it to boil over high heat. Reduce the heat to medium-high and then reduce it again until the mixture is about 1 ½ cups in volume. This should take 12-15 minutes. When it's done, remove from the heat and set aside. 
+User: The Marsala is now done, what now? 
+Robot: Now let’s cook the chicken and mushrooms. Place 1 cup of all-purpose flour into a shallow dish and, picking up one chicken cutlet at a time, use a pair of thongs to dredge through the flour. Then, place the cutlets on a wire rack over a rimmed baking sheet. Heat ¼ cups of vegetable oil on a large skillet over medium-high heat. Cook the cutlets for about 3 minutes on each side. When the skillet is empty, put it on medium-low heat and add the cremini mushrooms. Cook for about  8-10 minutes. When they are done transfer the mushrooms into a bowl and add 3 tablespoons of butter into it. Let the butter melt onto the mushrooms and set aside. 
+User: The chicken and the mushrooms are ready, what do I do now? 
+Robot: Now, mince 1 green onion and 2 cloves of garlic using a knife and a cutting board. Then, cook the garlic and the onion in the same skillet you used for the chicken and mushrooms over medium-high heat. Add a splash of oil if necessary. This should take about 2 minutes. Add the Marsala reduction, an additional ¼ cup of Marsala red wine, 1 tablespoon of tomato paste and 2 teaspoons of lemon juice into the pan. Bring the pan to a simmer over medium-high heat. Then, add the chicken cutlets to the skillet and simmer it all for 3 minutes. After that time has passed, remove the skillet from the heat and add the reserved cremini mushrooms, 3 tablespoons of minced fresh parsley, ½ teaspoon of pepper and ½ teaspoon of salt to the mixture and stir it together to combine. Enjoy your meal.
+
+
+User: Thank you. 
+

@@ -1,0 +1,22 @@
+R201 Homemade Amish Pot Pie Squares https://cookeatshare.com/recipes/homemade-amish-pot-pie-squares-noodles-732336
+
+Amish Pot Pie Squares takes 12 minutes to cook, serves 6 and contains 5 ingredients,  [''flour'', ''eggs'', '’water'', '’butter'', ''salt'']
+
+User: Today I would like to cook Homemade Amish Pot Pie Squares, what are the ingredients required for this meal?
+Robot: In order to cook this Amish Pot Pie, you will need the following ingredients, 2 and ½ cups of flour, 2lg eggs, ⅓ cup of water, 1tbsp of button or veg shortening, melted and ½ tsp of salt.
+User: I have all of the ingredients ready, what is the first step in making these pot pies?
+Robot: Mound the flour pastry board or your countertop and make a well in the center
+User: I have made a well in the center, what do I do next?
+Robot: Next, beat the eggs into the well, add ⅓ cups of water, 1 tbsp of butter and ½ tsp of salt.
+User: I have beaten the eggs into the well, added the water, butter and salt, what is the next after this?
+Robot: Work the flour gradually into the other ingredients with your hands until they are well blended, then gather the dough into a ball.
+User:  I have blended the ingredients with my hands and gathered the dough into a ball, what comes after this?
+Robot: Then, knead the dough until it is tender, smooth and elastic.
+User: I have kneaded the dough and it is smooth and elastic, what is the next step?
+Robot: Generously flour your work surface and roll out your dough very thin, no more than ⅛ thickness, then cut the dough into 2-3 squares.
+User: I have cut the dough into 2-3 squares, what is the next step that I have to follow after this?
+Robot: In order to cook the pie squares, drop into boiling pot pie broth, drop in 3-4 at a time and let it cook for 2-3 minutes before pushing them under the broth and adding the next batch.
+User: I have dropped them into the pot pie broth and let it cook for 2-3 minutes, what do I do next?
+Robot: Then, cook the noodles for approximately 10-12 minutes, then take them out, serve the food hot and enjoy.
+User: Thank you for helping me cook Homemade Amish Pot Pie Squares.
+

@@ -1,0 +1,9 @@
+R18: Irish Soda Muffins https://www.makebetterfood.com/recipes/irish-soda-muffins/ç
+
+
+This recipe takes 30 minutes to cook, serves 8-10 and contains 8 ingredients,  [‘all-purpose flour’,’sugar’,’baking powder’,’kosher salt’,’unsalted butter’,’raisins’,’golden raisins’,’buttermilk’]
+User: I want to make Irish Soda Muffins
+Robot: Okay, let’s begin. Start by preheating the oven at 218º. Then put 3 cups of all-purpose flour, ¼ cup of sugar, 1 teaspoon of baking powder and 1 teaspoon of Kosher salt into a large bowl and combine using a spatula or whisk. Afterwards, put ½ cup of chilled unsalted butter into the bowl and, using a knife or pastry blender, cut the butter into small pieces. Then mix it with the rest of the ingredients. 
+User: The ingredients are now combined, what’s next? 
+Robot: Now add ¼ cup of regular raisins and ¼ cup of golden raisins into the mixture and combine using a spatula or wooden spoon. Then, add 1 ¼ cups of buttermilk into the bowl and mix using the spatula or wooden spoon. Mix until a rough dough has formed. Finally, put the dough onto a work surface such as a clean countertop and knead a few times using your hands. Roll the dough into a  3/4-inch thick circle or rectangle and cut it into 12 pieces using a knife. Put each piece into a muffin tin and press with your fingers slightly to make sure it fills the space. Bake the muffins for about 12-13 minutes. When they are done, let them cool on a wire rack for 30 minutes before serving. Enjoy your meal.
+User: Thank you. 

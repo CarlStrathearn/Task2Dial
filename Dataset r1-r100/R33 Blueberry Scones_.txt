@@ -1,0 +1,14 @@
+R33 Blueberry Scones https://www.makebetterfood.com/recipes/blueberry-scones/
+
+This recipe takes 20 minutes to cook, serves 24 scones and contains 11 ingredients,  [‘all-purpose flour’,’baking powder’,’salt’,’baking soda’,’ground nutmeg’,’butter’,’buttermilk’,’egg’,’maple syrup’,’blueberries’,’sugar’]
+
+User: I want to make Blueberry Scones
+Robot: Okay, let’s begin. Start by preheating the oven at 204º and lining a baking sheet with parchment paper. Then, place 3 cups of all-purpose flour, 2 ½ teaspoons of baking powder, 1 teaspoon of salt, ½ teaspoon of baking soda and a pinch of ground nutmeg into a large bowl and sift or whisk it together using a colander or spoon. These will be your “dry ingredients”. Next, add ¾ cups of chilled butter into the bowl. Make sure to cut the butter into small pieces before adding it in. 
+User: The dry ingredients and the butter are now mixed, what do I do now? 
+Robot: Now put ¾ cup of buttermilk, 1 large egg and 2 tablespoons of maple syrup into a medium bowl. Using a whisk, mix them together until barely combined and then add them into your dry ingredients. Stir them all together until a rough dough forms. When the dough is done, add 1 cup of blueberries into the mixture and fold them in using your hands. Then, place the dough onto a lightly floured surface and knead until it's smooth. This should take about 2 minutes. Roll the dough using a rolling pin. With a 2-inch biscuit cutter or a small drinking glass, cut out the scones and place them on the previously lined baking sheet. 
+User: The scones are now on the sheet, is there anything left to be done? 
+Robot: Using a kitchen brush, brush the top of the scones with 3 tablespoons of buttermilk and then sprinkle 2 tablespoons of sugar on top. Then, bake the scones for about 15-20 minutes or until they turn golden brown. Let the scones cool for 10-20 minutes before serving and enjoy your meal.
+User: Thank you.
+
+
+

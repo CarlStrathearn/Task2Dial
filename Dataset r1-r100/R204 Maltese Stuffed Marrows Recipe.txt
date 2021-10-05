@@ -1,0 +1,32 @@
+R204 Maltese Stuffed Marrows Recipe https://cookeatshare.com/recipes/maltese-stuffed-marrows-331163
+
+Maltese Stuffed Marrows Recipe  takes 60 minutes to cook, serves 6 and contains 14 ingredients,  [''large marrows'', ''onion'', '’garlic'', '’bay leaves'', ''tomatoes'', ''tomato paste'’, ''minced beef'', ''bacon'’, ''eggs'’, ''parmesan cheese'’, ''olive oil'’, ''semolina'’, ''sea salt'’, ''ground pepper'’]
+
+User: Today I want to cook Maltese Stuffed Marrows, what are the ingredients required in order to cook this recipe?
+Robot: For this recipe, you will need 800 grams of large marrows, 1 large onion that is finely chopped, 1 clove of minced garlic, 2 fresh bay leaves, 3 large chopped tomatoes, 2 tbsp of tomato paste, 600g of minced beef, 150g of bacon, 2 beaten eggs, 4tbsp of grated parmesan cheese, olive oil, semolina, sea salt and fresh ground pepper.
+User: what is the first step that I should take?
+Robot: First, preheat the oven to 180C / 350F.
+User: Ok, thank you, I have preheated the oven to 180C, what do I do next?
+Robot: Then, cut the marrows lengthwise in half and then take out by scooping out the insides with a teaspoon and reserve about half of the pulp.
+User: I have cut out the marrows and taken them out by scooping with a teaspoon, what is the next step?
+Robot: Fry the 1 large onion, 1 clove of garlic and bay in some olive oil until soft.
+User: I have fried the large onion and garlic, also I added in some olive oil to make it soft, what do I do next?
+Robot: Then add the tomatoes that have been chopped and the tomato paste, then cook for a further few minutes.
+User: I have added the chopped tomatoes as well as the paste and I let it cook for a further few minutes, what do I do now?
+Robot: Place the bacon in a food processor and then blend until finely minced.
+User: I have placed the bacon in the food processor and it is blended well, what now?
+Robot: Add the beef and bacon to the onion mix and cook until done.
+User: I have added the beef and bacon to the onion mix and it is cooked well, what is the next step?
+Robot: Then, stir the marrow pulp and then allow to cool
+User: I have stirred the marrow pulp and allowed it to cool, what do I do next?
+Robot: Ok, once the marrow pulp has been cooled, then add the 2 beaten eggs and 4tbsp of parmesan cheese to the mixture in order to season the mixture to taste.
+User: The 2 beaten eggs have been added as well as the parmesan cheese, what is the next step?
+Robot: Fill the marrow halves with the meat mixture and then lightly sprinkle with semolina.
+User: I have filled the marrow halves with the meat mixture and sprinkled it with semolina, what do I do now?
+Robot: Then, place in a lightly oiled baking dish and drizzle a little more olive oil over the filled marrows.
+User: I have placed the dish drizzled with more olive oil over the filled marrows, what do I do next?
+Robot: Thereafter, bake for approximately 45 minutes until the meat mixture is golden and crisp, also you can slice 6 potatoes and an onion and place them on the dish.
+User: I baked them for 45 minutes and decided to add 6 potatoes and a single onion to the dish, what step do I follow next?
+Robot: Finally, add the stuffed marrows and cook the whole thing together, after that serve the marrows and enjoy the meal.
+User: Thank you for helping me cook Maltese Stuffed Marrows.
+

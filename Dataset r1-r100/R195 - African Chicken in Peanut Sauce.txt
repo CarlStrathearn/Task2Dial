@@ -1,0 +1,26 @@
+R195 African Chicken in Peanut Sauce https://cookeatshare.com/recipes/african-chicken-in-peanut-sauce-156999
+
+African Chicken in Peanut Sauce  takes 50 minutes to cook, serves 6 and contains 25 ingredients, [''chicken'', ''vegetable oil'', '’spice rub'', 'salt'', ''ground black pepper'', ''chopped garlic'’, ''onion powder'', ''cayenne pepper'', ''peanut sauce'', ''small onion'', ''red bell pepper'', ''green bell pepper'', ''carrot'', ''garlic clove'', ''jalapeno pepper'', ''chicken broth'', ''peanut butter'', ''tomato paste'', ''tomato'', ''fresh thyme'', ''fresh ginger'', ''coconut milk'', ''salt'', ''black pepper'', ''parsley'', ''peanut sauce'']
+ 
+User: Today I would like to cook African Chicken in Peanut Sauce, what ingredients do I need to cook this recipe?
+Robot: In order to cook this recipe you will need the following ingredients, 4 pounds of chicken pieces, 2 tbsp of vegetable oil, for spice rub, 1tsp of salt, 1 tsp of ground black pepper, 2tsp of chopped garlic, 1 and ½ tsp of onion powder, ¾ tsp of ground cayenne pepper, peanut sauce, 1 small finely diced onion, 1 small red bell pepper, ½ green bell pepper, 1 carrot finely diced, 1 garlic clove, 1sp jalapeno pepper, 4 cups of chicken broth, ½ cup of peanut butter, 1 tbsp of tomato paste, ½ tomato seeded and diced, 1 tsp of fresh thyme, 1 tsp of grated ginger, ½ cup of stirred coconut milk, ½ tsp of salt, ½ tsp of ground black pepper, ¼ cup of parsley.
+User: Alright, thank you for that, I have the ingredients ready, what is the first step?
+Robot: First, stir together the Spice Rub ingredients and rub on the chicken.
+User:I have stirred the spice rub ingredients and rubbed on the chicken, what do I do now?
+Robot: Next, heat 1 tbsp of oil in a large nonstick skillet over a medium high, then add the chicken in batches and brown on all sides.
+User: I have heated 1tbsp of oil in a nonstick skillet over a medium high and added the chicken in batches, what is the next step?
+Robot: After that, transfer the browned pieces to a platter or a bowl
+User: The browned chicken pieces have been transferred to a bowl, what do I do now?
+Robot: Next, add 1 tbsp of oil, 1 small onion, bell peppers, 1 finely sliced carrot, 1 garlic clove, and jalapeno to the pan. Then, cook for about 5 minutes, until the vegetables are soft.
+User: I have added 1 tbsp of oil, 1 small onion, bell peppers, 1 carrot, 1 garlic clove and the jalapeno to the pan. They have been cooked for 5 minutes and the vegetables are soft, what do I do next?
+Robot: Add the chicken broth and simmer for 20 minutes uncovered, then reduce the heat to medium-low, stir in the remaining sauce ingredients, and simmer for 2 minutes.
+User: Alright, thank you, I have added the chicken broth and it’s been simmered for 20 minutes. I have also reduced the heat to a medium low and continued to stir in the remaining ingredients, what is the next step?
+Robot: Then, return the browned chicken to the skillet and cook for 25-30 minutes until the chicken is tender.
+User: The browned chicken has been cooked for 25-30 minutes and it is tender, what now?
+Robot: Continue to stir occasionally to keep the sauce from sticking and turn the chicken pieces mid-way to ensure even cooking.
+User: Ok, I have stirred the sauce to ensure even cooking, what is the next step?
+Robot: Finally, garnish with ¼ cup of chopped parsley and serve over the rice. A green vegetable or salad will make a nice side and enjoy.
+User: Thank you very much for helping me cook African Chicken in Peanut Sauce.
+ 
+
+

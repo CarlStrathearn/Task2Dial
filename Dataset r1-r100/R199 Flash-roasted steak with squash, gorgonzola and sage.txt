@@ -1,0 +1,28 @@
+R199 Flash-roasted steak with squash, gorgonzola and sage https://www.bbc.co.uk/food/recipes/flash-roasted_steak_with_32754
+
+Flash-roasted steak with squash, gorgonzola and sage  takes 30-60 minutes to cook, serves 2-3 and contains 12 ingredients,  [''squash'', ''red onion'', '’olive oil'', '’chili flakes'', ''sage leaves'', ''rump steaks'’, ''broccoli'', ''chili'', ''olive oil'', ''gorgonzola'', ''black pepper'']
+
+User: Today I would like to cook a flash roasted steak with squash, gorgonzola and sage, what are the ingredients required to cook this meal?
+Robot: For this recipe you will need the following ingredients, 5oz of squash, peeled and cut into 15mm slices, 1 red onion, thickly sliced, 4 tbsp of olive oil, 1 tsp of chili flakes, 20g of fresh sage leaves, 2 thick rump steaks, 300g of Tenderstem broccoli, 1 finely chopped red chili, ½ lemon, 2 tbsp of extra virgin olive oil, 100g of gorgonzola, or any blue cheese and freshly ground black pepper.
+User: Thank you, I have the ingredients ready, what is the first step?
+Robot: Preheat the oven to 220C / Gas 7, tip the squash, onion, 2 tablespoons of the olive oil, the chili flakes and 1 teaspoon of the sea salt inside a roasting tin that is large enough to hold everything in one layer.
+User: I have preheated the oven to 220C, tipped the squash, onion, added the 2 tablespoons of olive oil, the chili flakes and 1 teaspoon of the sea salt inside a tin, what is the next step after this?
+Robot: Mix well, then scatter over one third of the sage leaves and leave it to roast for approximately 20 minutes.
+User: Ok, thank you very much, I have scattered the ⅓ of sage leaves and left it to roast for 20 minutes, what do I do now while I wait?
+Robot: While you are waiting, finely chop half of the remaining sage leaves, pop half of them into a shallow bowl with the remaining 2 tablespoons of olive oil and some black pepper.
+User: I have chopped the remaining sage leaves, I popped half of them into a shallow bowl with the remaining olive oil and black pepper, what do I do now?
+Robot: Then, add the steaks and gently turn them to coat in the sage oil and set aside.
+User: I have added the steaks and turned them to coat in the sage oil, I have also set them aside, what do I do now?
+Robot: Next, you must put the broccoli in a big bowl, carefully pouring over boiling water and leave to sit for approximately two minutes and after that drain well.
+User: I have poured the boiling water and left it to sit for two minutes, also drained it well, what is the next step after this?
+Robot: After the 20 minutes have passed, add the broccoli to the roasting tin with a small splash of olive oil, after that turn down the oven to 200 degrees celsius / Gas 6 and finally roast for 10 minutes.
+User: The broccoli has been added to the tin with olive oil on top and I let it roast for 10 minutes, what is the next step?
+Robot: After the broccoli has stayed for 10 minutes, lay the steaks over the vegetables and then bake for a further 9-10 minutes for rare to medium-rare, approximately 13 minutes for medium, or 15 minutes for well-done.
+User: I have laid the vegetables and baked for the required time, I let it cook for 15 minutes for a well-done steak, what do I do now?
+Robot: After the time has passed, take the steaks out of the tin and place them carefully on a plate.
+User: I have put the steaks on a plate, what do I do next?
+Robot: Next, you add a couple of tablespoons of the chilli and the lemon dressing, cover loosely with foil and then leave it to rest for another 10 minutes.
+User: I have added the tablespoons of the chilli and lemon dressing. Also, I have covered the foil and let it rest for 10 minutes, what next?
+Robot: After that, slice the steaks carefully and scatter over the cooked vegetables, along with the remaining dressing and the gorgonzola that has been crumbled, then serve the final dish hot and enjoy.
+User: Thank you for helping me cook Flash-roasted steak with squash, gorgonzola and sage.
+

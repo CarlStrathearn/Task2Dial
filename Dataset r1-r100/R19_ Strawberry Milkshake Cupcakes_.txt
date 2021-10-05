@@ -1,0 +1,18 @@
+R19: Strawberry Milkshake Cupcakes https://www.makebetterfood.com/recipes/strawberry-milkshake-cupcakes/
+
+This recipe takes 25 minutes to cook, serves 24 cupcakes and contains 13 ingredients,  [‘butter’,’flour’,’baking powder’,’salt’,’strawberries’,’milk’,’vanilla’,’lemon zest’,’sugar’,’eggs’,’egg whites’,’powdered sugar’,’lemon juice’]
+User: I want to make Strawberry Milkshake Cupcakes 
+Robot: Okay, let’s begin. This recipe calls for room-temperature butter. If you do not have it, you can leave 2 cups (4 sticks) of butter out for 2 hours before beginning to bake. You can start making the first steps of this recipe as they do not call for butter. Also, preheat the oven at 176º and place liners into 24 cupcake tins before beginning the recipe. Let me know when you have done these steps and I can tell you how to make the cupcakes. 
+User: I have room-temperature butter and the oven is being preheated, can you tell me the first step for the recipe? 
+Robot: Start by sifting 3 cups of flour, 2 teaspoons of baking powder and ½ teaspoon salt into the bowl with a colander onto a medium bowl. Set this aside, they will be your “dry ingredients”. Then, wash and take the stems out of 2 cups of whole strawberries. Put the strawberries into a blender or food processor and puree them. When they are done, transfer them onto another medium bowl. 
+User: The mixture and the strawberries are done, what now? 
+Robot: Now add ½ cup of milk, 2 teaspoons of vanilla and 2 teaspoons of lemon zest into the bowl with the pureed strawberries. Using a whisk, combine the ingredients and set aside. Now you will need the butter. Put 1 cup (2 sticks) of the reserved butter and 2 cups of sugar into a large bowl and beat them together with a hand mixer. Add 2 eggs and 4 egg whites to the butter. You should do this one at a time making sure they are fully incorporated each time. 
+User: I have made the butter mixture, what’s next? 
+Robot: Next, add ⅓ of the dry ingredients into the butter mixture and blend using the hand mixer. Then, add ⅓ of the strawberries mix and combine again using the blender. Repeat these steps 2 more times until you have used all your dry ingredients and strawberries mixture. When the batter is ready, scoop it into the cupcake tins using a ¼ cup measure. Fill each tin about ¾ of the way, as they will rise in the oven. Bake the cupcakes for about 25 minutes. When they are done, let the cupcakes cool down before removing them. The next step is to make the frosting, you can do this while the strawberries are baking and use when they are cooled. Would you like me to tell you how to make the frosting now?
+User: Yes, please. 
+Robot: To make the frosting, put 1 cup (2 sticks) of the reserved butter into a large bowl and beat with an electric hand mixer until it looks fluffy. Wash and stem 1 cup of strawberries and puree like previously in a food processor or using a blender. Add these to the bowl with the creamed butter. 
+User: The butter and the strawberries are now done, what’s next? 
+Robot: Now add 4 cups of powdered sugar, 1 teaspoon of lemon juice and ½ teaspoon of sea salt into the bowl with the butter and teh strawberries. Use the hand mixer to blend it all together at low speed. Increase the speed to high when it starts to look blended to make the mixture fluffy. When the cupcakes  have cooled down, put the frosting onto a pipe or spread it onto the cupcakes using a knife. Enjoy your meal.
+
+User: Thank you.
+

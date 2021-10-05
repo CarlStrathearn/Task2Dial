@@ -1,0 +1,31 @@
+R142 Rhubarb Oatmeal Crunch https://www.makebetterfood.com/recipes/rhubarb-oatmeal-crunch/
+
+This recipe takes 60  minutes to cook, serves 6-8 and contains 11 ingredients,  [''flour'', ''brown sugar'', '’cooking oats'', '’butter'', ''cinnamon'', ''rhubarb'’, ''water'', ''sugar'', ''corn starch'', ''vanilla extract'', ''vanilla ice cream'']
+
+User: I would like to make a Rhubarb Oatmeal Crunch, what ingredients do I need?
+Robot: Sure, for this meal you will need 1 cup of flour, 1 cup of brown sugar, ¾ cup of quick-cooking oats, ½ cup of melted butter, 1 tsp of cinnamon, 4 cups of rhubarb, 1 cup of water, 1 cup of sugar, 2 tbsp of cornstarch, 1 tsp of vanilla extract and vanilla ice cream.
+User: What is the first step that I have to take?
+Robot:  Preheat the oven to 350 degrees fahrenheit, line a 9x13 inch pan with parchment paper and lightly oil it with cooking spray.
+User: I preheated the oven to 350 degrees fahrenheit and lined the pan with parchment paper and oiled it with cooking spray. What do I have to do next?
+Robot: Now mix 1 cup of flour, 1 cup of brown sugar, ¾ cup of oats and 1 tsp of cinnamon in a large bowl, then melt ½ cup of butter in a microwave safe dish and add them to the dry ingredients and mix well.
+User: I have mixed the ingredients together and added them to the dry ingredients and mixed well, what do I have to do next?
+Robot: Now pour half of the mixture into the pan, then press down to form a ¼ inch crust.
+User: I poured half of the mixture into the pan and pressed down on it and formed a crust, thank you. What is the next step that I have to take?
+Robot: Now, wash the rhubarb well and cut it into ½ inch pieces, then place in the pan on top of the bottom layer of the crust.
+User: I washed the rhubarb and cut it into ½ inch pieces and placed it in the pan on top of the bottom layer of the crust. What is the next step that I have to take?
+Robot: In a large saucepan, combine 1 cup of water, 1 cup of sugar, 2 tbsp of cornstarch, and 1 tsp of vanilla extract and stir well until dissolved.
+User: I combined the water, sugar, cornstarch and vanilla extract, I also stirred well and the ingredients have dissolved. What is the next step that I have to take?
+Robot: Cook over a high heat, stir frequently until thick, then remove from the heat and pour evenly over the rhubarb.
+User: I cooked the ingredients over a high heat and then after they became thick I removed them from the heat and poured over the rhubarb. What do I have to do next?
+Robot: Pour the remaining dry mix over the rhubarb, make sure to spread evenly and press down with a spatula.
+User: I poured the dry mix over the rhubarb and spread it evenly with a spatula. What is the next step that I have to take?
+Robot: Now, bake for one hour at 350 degrees fahrenheit until it turns golden brown and bubble on the sides then serve with warm or cold whipped cream.
+User:Thank you for helping me make a Rhubarb Oatmeal Crunch.
+
+
+
+
+
+
+
+

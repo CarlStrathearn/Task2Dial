@@ -1,0 +1,20 @@
+R205 Bean Soup with Ham https://cookeatshare.com/recipes/bean-soup-with-ham-352549
+
+Bean Soup with Ham takes 240 minutes to cook, serves 10 and contains 11 ingredients,  [''northern beans'', ''cold water'', '’salt'', '’carrots'', ''celery'', ''onion'’, ''garlic'', ''dry mustard powder'', ''bay leaves'', ''diced ham'', ''ground white pepper'']
+
+User: I would like to make some Bean Soup with Ham today, what ingredients do I need?
+Robot: You will need 1pkg of dry Northern beans, 8C of cold water, ½ tsp of salt, 1C of diced carrots, 1C of diced celery, 1 medium diced onion, 1 tsp of minced garlic, 1 tsp of dry mustard powder, 2 bay leaves, 2C of diced ham and ½ tsp of ground white pepper.
+User: I have the ingredients at hand, what is the first step?
+Robot: First, rinse the beans thoroughly, removing any stones or any beans that are bad.
+User: I have rinsed the beans thoroughly and removed any bad beans, what do I do next?
+Robot: Place the water in a large stockpot and then bring to a boil over a high heat.
+User: I have placed the water in a large stockpot and then brought it to a boil over a high heat, what next?
+Robot: Add ½ tsp of salt and beans, then cover with a lid, then remove from the heat and let it stand for 1 hour.
+User: The salt and beans have been added and covered with a lit, I also removed them from the heat and I let it stand for 1 hour, what next?
+Robot: Then, return to a high heat and add the remaining ingredients, except the ham, bring to a boil and then cook for 2 more hours, or until the beans are tender.
+User: I have added the remaining ingredients and left out the ham, then brought to a boil and cooked for 2 more hours, what do I have to do next?
+Robot: Ok, good, then stir in the ham and simmer for another 30 more minutes, the soup should have thickened a bit more at this point.
+User: I have stirred the ham and let it simmer for another 30 minutes, what next?
+Robot: After that, add some more white pepper and salt as required, remove the bay leaves, serve the meal and enjoy.
+User: The white pepper and salt have been added, also the bay leaves have been removed, thank you for helping me cook Bean Soup with Ham.
+

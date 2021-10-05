@@ -1,0 +1,23 @@
+R147 Better Sloppy Joes https://www.makebetterfood.com/recipes/sloppy-joes/
+
+This recipe takes 10 minutes to cook, serves 4-6 and contains 12 ingredients,  [''garlic cloves'', ''olive oil'', '’ground beef'', '’water'', ''tomato paste'', ''ketchup'’, ''brown sugar'', ''chili powder'', ''kosher salt'', ''ground cumin'', ''cinnamon'', ''ground black pepper'']
+
+User: I want to make a Better Sloppy Joes, can you tell me what ingredients I need please?
+Robot: You will need 2 minced garlic cloves, 2 tbsp of olive oil, 1 pound of lean ground beef, ½ cup of water, 6 oz of tomato paste, ¼ cup of ketchup, 1 tbsp of brown sugar, 1 tsp of chili powder, 1 tsp of kosher salt, ¼ tsp of ground cumin, ¼ tsp of cinnamon, ⅛ tsp of fresh ground black pepper, do you have the ingredients ready?
+User: I have the ingredients ready, thank you, what is the first step that I need to take?
+Robot: In a large saucepan, saute 2 garlic cloves in olive oil over a medium-high heat until they become fragrant, do this for approximately 2 minutes.
+User: I saute the garlic cloves in olive oil over a medium-high heat and they are now fragrant. What is the next step?
+Robot: Now add 1 pound of lean ground beef and cook it until only a bit of pink remains, using the lid of a saucepan, drain the fat and liquid into a glass jar for disposal.
+User: I added the ground beef and cooked slightly, I also drained the fat and liquid into a glass jar, thank you very much, what do I have to do next?
+Robot: Now return the saucepan to the stove and add all of the other ingredients to the ground beef and make sure to cook them on a low heat, make sure to stir frequently as well.
+User: I have added the rest of the ingredients to the ground beef and cooked them on a low heat, thank you very much, what is the next step that I have to take?
+Robot: Serve on homemade hamburger buns and enjoy.
+User: Thank you for helping me make Better Sloppy Joes.
+
+
+
+
+
+
+
+

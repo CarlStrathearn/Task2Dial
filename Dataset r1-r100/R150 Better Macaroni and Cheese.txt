@@ -1,0 +1,43 @@
+R150 Better Macaroni and Cheese https://www.makebetterfood.com/recipes/macaroni-and-cheese/
+
+This recipe takes 5 minutes to cook, serves 8-10 and contains 15 ingredients,  [''butter'', ''water'', '’salt'', '’macaroni'', ''all-purpose flour'', ''old bay seasoning'’, ''powdered mustard'', ''cayenne pepper'', ''milk'', ''powdered mustard'', ''Monterey Jack cheese'', ''sharp cheddar cheese'', ''reserved pasta'', ''reserved bread crumbs'', ''sandwich bread'']
+
+User: Can you please tell me what ingredients I need to make a Better Macaroni and Cheese please?
+Robot: For this meal you will need 5 slices of high quality sandwich bread, 4 tbsp of butter cut into small pieces, 4 quarts of water, 1 tbsp of salt, 1 pound of macaroni or pipe pasta, 5 tbsp of butter, 6 tbsp of all-purpose flour, 3 tbsp of old bay seasoning, 1 tsp of powdered mustard, ¼ tsp of cayenne pepper, 5 cups of whole milk, 8 oz of Monterey Jack cheese, 8 oz of cheddar cheese, pasta and reserved bread crumbs, do you have the ingredients ready?
+User: I have the ingredients ready, thank you, am I ready to start or do I need any other ingredients?
+Robot: You can start now, pulse 5 slices of bread and 4 tbsp of butter in a food processor until the bread is broken down into fine crumbs for about 30 seconds then set aside.
+User: I have pulsed the slices of bread and butter in a food processor and the bread is now broken down into crumbs, what is the next step that I have to take?
+Robot: Now, adjust the oven rack to lower-middle position and then heat the broiler.
+User: I adjusted the oven rack to a lower-middle position and heated the broiler. What is the next step that I have to take?
+Robot: Now bring 4 quarts of water to boil in a large stock pot over a high heat, then add 1 tbsp of salt.
+User: I brought the quarts of water to a boil and added the salt as required, thank you very much, can you please tell me what I need to do next?
+Robot: Now, add 1 pound of macaroni pasta to the water and stir well, then cook until the pasta is al dente for approximately 8-10 minutes, then drain the pasta and set aside in a container.
+User: I added the macaroni pasta to the water and stirred well, the pasta is now al-dente, I also drained the pasta and put it aside in a container. What is the next step?
+Robot: For the cheese sauce you can make it in a separate saucepan or you can wait until the pasta is done cooking and reuse the empty stockpot to make the sauce.
+User: I have waited until the pasta finished cooking and I used the empty stockpot for the sauce, what next?
+Robot: In a large saucepan or in the empty stock pot, heat 5 tbsp of butter over a medium-high heat until it foams.
+User: I added and heated the butter over a high heat and it is now foamy, what is the next step?
+Robot: Add 6 tbsp of all-purpose flour and spices to the pot and whisk them well so that they combine, then continue whisking until the butter becomes fragrant and deepens in color for approximately 1 minute.
+User: I added the flour and spices to the pot and whisked them and they are now combined well, what do I need to do next?
+Robot: Now, while whisking frequently, slowly pour in 5 cups of milk, then stop after each full cup of milk has been added and whisk until fully incorporated.
+User: I poured in the cups of milk and continued to whisk them, what next?
+Robot: Bring the mixture to a boil while whisking frequently, then reduce the heat to medium and simmer, whisking occasionally until the mixture becomes thick and creamy, for about 5-10 minutes.
+User: I brought the mixture to a boil and whisked frequently as required, therefore now the mixture is thick and creamy, I did this for 10 minutes, what next?
+Robot: Once thickened, remove from the heat and stir in the cheeses until they become fully melted, then add the reserved pasta.
+User: I removed the mixture from the heat and stirred in the cheeses, the cheeses are now melted, I also added the pasta. What is the next step that I have to take?
+Robot: Now, return the pot to the stove and cook it over a medium-low heat, stirring constantly, until the mixture is heated through for about 2-4 minutes.
+User: I returned the pot to the stove and cooked it over a medium-low heat, what is the next step after this?
+Robot: Now, transfer the contents to an oven safe 9x13 inch baking dish, then sprinkle the top evenly with bread crumbs.
+User: I moved over the contents to an oven safe baking dish and sprinkled the top with bread crumbs, what is the next step that I have to take?
+Robot: Broil until the bread crumbs are deep golden brown for about 3-5 minutes, then keep a very close eye on them as it will go from golden brown to burned quickly.
+User: I broiled the bread crumbs and they are now golden brown, what is the next step?
+Robot: Cool for about 5 minutes and then serve.
+User: Thank you for helping me make Better Macaroni and Cheese.
+
+
+
+
+
+
+
+

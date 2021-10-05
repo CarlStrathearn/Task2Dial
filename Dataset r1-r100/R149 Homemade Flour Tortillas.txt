@@ -1,0 +1,35 @@
+R149 Homemade Flour Tortillas https://www.makebetterfood.com/recipes/homemade-flour-tortillas/
+
+This recipe takes 15 minutes to cook, serves 8-10 and contains 5 ingredients,  [''all-purpose flour'', ''baking powder'', '’salt'', '’vegetable shortening'', ''water'']
+
+User: I would like to make Homemade Flour Tortillas, can you please tell me the ingredients that I will need?
+Robot: For the tortillas you will need the following ingredients: 16.5 oz of all-purpose flour (about 3 cups), 2 tsp of baking powder, 1 tsp of salt, 5 tbsp of vegetable shortening and 1 cup of water.
+User: I have the ingredients ready, are there any others that I will need or am I ready to begin?
+Robot: You are ready to begin, you do not need anymore ingredients. First, combine 3 cups of all-purpose flour, 2 tsp of baking powder, 1 tsp of salt and 5 tbsp of shortening in the bowl of a food processor fitted with the dough blade.
+User: I have combined the flour, baking powder, salt and the shortening in a bowl, what is the next step that I have to take?
+Robot: Next, pulse the mixture until the mixture is crumbly for about 5 seconds, then scrape down the sides of the bowl.
+User: The mixture is now crumbly after pulsating it for 5 seconds, I also scraped down the sides of the bowl. What is the next step?
+Robot: With the food processor running, add 1 cup of water in a slow and steady stream until the dough just forms in a cohesive ball.
+User: I added the cup of water to the dough and it has formed into a ball, what is the next step?
+Robot: Knead for about 30 seconds more, until the dough becomes tacky, if the dough is too sticky, just add a bit more flour.
+User: I kneaded it for 30 seconds and it has become tacky, no need for more flour, thank you. What is the next step?
+Robot: Now transfer the dough to a lightly floured work surface and divide it into 8 equal pieces, then cover with a clean kitchen towel and let it rest for 10 minutes.
+User: I moved the dough to a work surface and divided it into 8 equal pieces as required. What do I have to do next?
+Robot: Next, heat a large skillet over a medium heat, then working with one dough ball at a time and keeping the others covered, pat the ball into a disc.
+User: I heated the large skillet over medium heat and patted the ball into a disco. What do I need to do next?
+Robot: Dust lightly with flour and roll the dough into a very thin circle, approximately 8 inches in diameter.
+User: I dusted the dough with flour and rolled it into a thin circle. Can you please tell me what I need to do next?
+Robot: Now you must carefully transfer the shaped tortilla to the heated skillet and cook each side for about 10-20 seconds, just until the bubbles start to form and are now slightly brown.
+User: I moved the tortilla to the heated skillet and cooked each side for 20 seconds. What is the next step?
+Robot: Repeat this process with the remaining dough balls, lowering the heat as it is needed to prevent burning, then store it in an airtight bag in the refrigerator for up to 1 week.
+User: I stored it in an airtight bag for 1 week. What do I do next?
+Robot: Serve and enjoy.
+User: Thank you for helping me make Homemade Flour Tortillas.
+
+
+
+
+
+
+
+

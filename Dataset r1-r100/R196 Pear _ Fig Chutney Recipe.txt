@@ -1,0 +1,23 @@
+R196 Pear & Fig Chutney Recipe https://cookeatshare.com/recipes/pear-fig-chutney-595930
+
+Pear & Fig Chutney takes 50 minutes to cook, serves 8 and contains 11 ingredients,  [''pears'', ''figs'', '’raisins'', '’honey'', ''apple vinegar'', ''balsamic vinegar'’, ''cloves'', ''cinnamon'', ''allspice'', ''vanilla extract'', ''black pepper'']
+
+User: Today I would like to cook Pear & Fig Chutney, what are the ingredients required to cook this recipe?
+Robot: To cook this recipe you will need the following ingredients, 6 pears, 8 figs, ¼ cup of raisins, 1C honey, ¼ cup of apple cider vinegar, ¼ cup of balsamic vinegar, ½ tsp of ground cloves, ½ tsp of ground cinnamon, ½ tsp of ground allspice, ½ tsp of pure vanilla extract, 1 tsp of freshly ground blackj pepper, do you have the ingredients at hand?
+User: I have these ingredients and I am ready to start, what is the first step?
+Robot: Firstly, have a medium saucepan at hand and place 6 pears, 8 figs, ¼ cup of apple cider vinegar and ¼ cup of balsamic vinegar and then heat over a medium heat for approximately 15 minutes, stirring occasionally.
+User: I have placed the pears, figs and vinegar in the saucepan and left it over a medium heat for 15 minutes and stirred occasionally, what is the next step?
+Robot: Next, you must add all of the spices and 1 cup of honey and bring to a boil, stirring frequently to combine and to prevent caramelization
+User: I have added all of the spices and the 1 cup of honey required, I have also brought it to a boil and stirred frequently, where do I go from here?
+Robot: Reduce to a simmer and stir occasionally to reduce the liquids for about 20 minutes.
+User: I have reduced it to a simmer and reduced the liquids after the 20 minutes have passed, what now?
+Robot: Then, add 1 tsp of freshly ground black pepper and stir for another 15 minutes.
+User: I have added the black pepper and stirred for 15 minutes, what is the next step?
+Robot: After the mixture has thickened into a jammy consistency, you can then spoon the chutney into 2 pint jars, filling one full and the second half way.
+User: I have spooned the chutney into 2 different jars and I have filled one full and the other one half way, what next?
+Robot: Next, refrigerate for two or three days.
+User: They have been refrigerated for two days, what is the next step?
+Robot: Put the chutney on nice slices of ham baked and cut off the bone, most pork cuts and roast lamb, or well-seasoned fowl, serve and enjoy.
+User: Alright, thank you very much for helping me cook Pear & Fig Chutney.
+
+

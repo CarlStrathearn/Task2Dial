@@ -1,0 +1,8 @@
+R6: Pineapple Strawberry Salad https://www.makebetterfood.com/recipes/pineapple-strawberry-salad/
+
+Pineapple Strawberry Salad takes 20 minutes to cook, serves 4-6 and contains 8 ingredients,  ['strawberries', 'pineapple', 'red onion', 'sweet red pepper', 'cilantro or parsley’, 'key lime juice', 'salt’,'pepper']
+User: I want to make a Pineapple Strawberry Salad
+Robot: Okay let's begin. Mix 2 cups of strawberries, 2 cups of chopped pineapple, ½ medium chopped sweet red pepper, 2 tablespoons of chopped cilantro or parsley, 2 tablespoons of key lime juice, ¼ teaspoons of salt and a bit of pepper into a large bowl.
+User: What next?
+Robot: If you want you can put it in the fridge for 1 hour or overnight to enhance the flavours, otherwise serve straight away. Enjoy your meal. 
+User: Thank you.

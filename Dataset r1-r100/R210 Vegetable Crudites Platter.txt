@@ -1,0 +1,23 @@
+R210 Vegetable Crudites Platter https://cookeatshare.com/recipes/vegetable-crudit-s-platter-401632
+
+This recipe takes 15 minutes to cook, serves 15 and contains 12 ingredients,  [''green beans'', ''asparagus'', '’broccoli'', '’celery'', ''bell peppers'', ''carrots'’, ''jimica'', ''tomatoes'’, ''purple cabbage'’, ''lettuce'’, ''herbs'’, ''parsley'’]
+
+User: I would like to cook Vegetable Crudites, what are the ingredients required to cook this meal?
+Robot: To cook this recipe you will need the following ingredients, green beans, asparagus, broccoli, celery, red, yellow, orange and green bell peppers, carrots, jimica, small tomatoes, 1 small to medium purple cabbage, romaine or any sturdy lettuce for lining the platter, fresh herb bunches to decorate with and chopped parsley to sprinkle over the vegetables, 
+User: I have the ingredients all ready, what is the first step I need to take?
+Robot: First, blanch the green beans, asparagus and broccoli.
+User: I have blanched the green beans, asparagus and broccoli, what next?
+Robot: Then, cool quickly under cold water and leave to dry.
+User: I have left it under cold water to dry, what do I do next?
+Robot: You must then separate the broccoli into bite sized pieces.
+User: I have separated the broccoli into bite sized pieces, what do I do now?
+Robot: Next, peel back some of the outer leaves of the cabbage just for decoration then hollow out the cabbage.
+User: I have peeled out the outer leaves of the cabbage and hollowed out the cabbage, what is the next step?
+Robot: Then, line the platter with the lettuce which allows it to overlap the ends of the platter.
+User: I have lined the platter with the lettuce and allowed it to overlap, what next?
+Robot: You then must arrange and pile the vegetables in groups around the cabbage, getting them to stand up if possible.
+User: I have arranged and piled the vegetables around the cabbage, what next?
+Robot: Next, flip the cabbage with your favourite dip, tuck the herb bunches on one or both diagonal sides and sprinkle chopped parsley over the top then serve and enjoy the meal.
+User: Thank you for helping me cook Vegetable Crudites.
+
+

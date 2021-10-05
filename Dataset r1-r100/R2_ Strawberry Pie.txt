@@ -1,0 +1,24 @@
+R2: Strawberry Pie https://www.makebetterfood.com/recipes/strawberry-pie/
+
+Strawberry Pie takes 3h and 25 minutes to cook, serves 8 and contains 10  ingredients,
+  [‘ all-purpose flour’, ‘teaspoon of salt’, ’vegetable shortening’, ‘ice-cold water’,’strawberries’, ‘sugar’,’cornstarch’, ‘low-sugar pectin’, ‘heavy cream’].
+User: I would like to cook a Strawberry Pie
+Robot: Let’s start with the pie crust. Mix in a large bowl 1 ⅓ cups of all-purpose flour, 1 tablespoon of salt and ½ cups of vegetable shortening. Use two dull butter knives or a pastry blender until the mixture is the size of  peas.
+User: I have combined the ingredients, now what? 
+Robot: Take a glass of ice-cold water and add 6 tablespoons onto the previously combined flour mixture, use a spatula or your hands if you prefer. Mix into the mixture until it becomes a large ball of dough. Flatten it and cover with wax paper. Put the dough in the freezer for 10 minutes or the fridge for 30 minutes. 
+User: The time has passed, what do I do now?
+Robot: Take the dough out and roll it to make it thinner,, make sure to put flour underneath so it doesn’t stick to the surface. Place the rolled-out dough onto a deep dish pie plate. Place a second plate onto the crust to weigh it down. Put it into the oven and bake at 180°C for approximately 20-25 minutes. When this is done be sure to let it cool down for 10 minutes before adding the filling.
+User: While it bakes, what should I do next?
+Robot: Now let’s make the filling. Wash and take the green leaves off the 3 pounds of strawberries. Look for the ones that are overripe and place into a bowl until you have 1 ½ cup of strawberries. These are the ones you will use for the filling. Put the strawberries into a food processor to make into a puree. 
+User: I have done that, now what?
+Robot: Now put ¾ cups of sugar, 2 tablespoons of cornstarch, ½ low-sugar pectin, a pinch of salt and the strawberries into a saucepan. Whisk until it is combined.  
+User: The ingredients are combined, now what?
+Robot: Heat the mixture until it boils at medium-high heat and keep stirring with a rubber spatula. Once it boils, cook for 2 minutes and then take off the heat. The mixture should look dark and thick. 
+User: Okay I have done that, now what?
+Robot: Put the mixture into a large bowl and add the remaining strawberries. Mix until combined. 
+User: I have mixed the strawberries in, what do I do now?
+Robot: Remember to take the pie crust out of the oven, once you have let it rest we can move on to the last step, assembly. Pour the strawberry mixture into the pie crust. Put the completed pie into the fridge for 2-5 hours. 
+User: Okay, is there anything left to do?
+Robot: To combine with the pie, you can make whipped cream. Add 1 tablespoon of sugar and 1 cup of heavy cream to an electric hand mixer bowl until it's thick and fluffy; it should be about 3 minutes. Serve with the pie and enjoy.
+User: Thank you. 
+

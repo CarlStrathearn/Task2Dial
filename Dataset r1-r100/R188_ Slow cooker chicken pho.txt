@@ -1,0 +1,34 @@
+R188: Slow cooker chicken pho https://www.bbc.co.uk/food/recipes/chicken_pho_97726
+
+Slow cooker chicken pho takes 120+ minutes to cook, serves 4 and contains 9 ingredients, [''olive oil'', ''onion'', '’pepper'', '’cumin'', ''oregano'', ''garlic'', ''beans'', ''salt'', ''long grain rice'', ''water'']
+
+User: Today I would like to cook chicken pho, what ingredients are required to cook this meal?
+Robot: This meal takes over 120 minutes to cook, serves 4 people and requires olive oil, onion, peppers, cumin, oregano, garlic, beans, salt, long grain rice and water to cook this meal.
+User: I have all the required ingredients, where do I begin?
+Robot: Chop and peel one onion with a kitchen knife, chop 4 garlic cloves, 20g of fresh root ginger, sliced, 2 long fresh red chilis chopped and seeded. Put the vegetables in the slow-cooker, then stir in the five-spice powder with the 1 and three quarters pints of water and soy sauce until well combined.
+User: Ok, I have placed the vegetables in the slow cooker and stirred the five-spice powder with the water and soy sauce, what do I do next?
+Robot: Make sure to cut any strings from 1kg of chicken, remove any excess skin by pushing your fingers between the breast meat and the skin to ease off the skin.
+User: I have cut the strings from the chicken and removed the skin with my fingers, what do I do next?
+Robot: Then do the same with the chicken legs by snipping off any skin around the wings or leg tips with scissors.
+User: I have done the same for the legs, what comes after this?
+Robot: Put the chicken with the breast-side up in the slow-cooker and push it down around the vegetables, then season all over with salt and pepper.
+User: The chicken has been placed around the vegetables and seasoned with salt and pepper, what do I do next?
+Robot: Cover and cook on high for about four and a half hours, or until the chicken is cooked completely and is very tender.
+User: Ok, the food has been covered, left and cooked for 4 and a half hours, what comes next?
+Robot: Drain the contents of the slow cooker in a large bowl, then place the chicken on a chopping board and strip the meat from the carcass, then thickly slice and finally cover with foil.
+User: Thank you, the contents of the slow cooker have been drained in the large bowl, I have also placed the chicken on the chopping board and stripped the meat from the carcass, also I have sliced it and covered it with foil, what do I do after this?
+Robot: Cut off any fat from the stock that has been collected inside the bowl. Make sure to do this with a large metal spoon.
+User: I have cut off the fat from the stock and I have used a large metal spoon. What do I do after?
+Robot: Then you must pour the stock into a saucepan that is clean and stir in the fish sauce, then place on a gentle simmer.
+User: Thank you, I have poured the stock in the saucepan, stirred the fish sauce and placed it on a gentle simmer, how do I proceed after that?
+Robot: Add water to a different saucepan in order to half-fill it then bring it to a boil.
+User: I have half-filled the saucepan after adding the water and brought it to a boil, what comes after this?
+Robot: Add 200g of noodles and cook until just tender, make sure to regularly stir to separate them and finally drain well.
+User: Thank you, I have added the noodles and they are tender, they have also been drained well, what do I do next?
+Robot: Divide the noodles equally among 4 deep serving bowls, top them with chicken, spring onions, beansprouts and coriander.
+User: Ok, thank you, I have divided the noodles among 4 deep serving bowls and I have topped them with chicken, spring onions, beansprouts and coriander, what do I do next?
+Robot: Ladle over the hot stock and then season with soy, garnish with the remaining sliced chili and lime wedges and then serve the meal.
+User: Alright, I have ladled over the hot stock and seasoned with soy, I also garnished it with the remaining sliced chili and lime wedges, thank you for helping me cook chicken pho.
+
+
+

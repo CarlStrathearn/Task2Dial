@@ -1,0 +1,8 @@
+R41 Mashed Cauliflower https://www.makebetterfood.com/recipes/mashed-cauliflower/
+
+This recipe takes 25 minutes to cook, serves 4 and contains 8 ingredients,  [‘water’,’cauliflower’,’parmesan cheese’,’butter’,’cream cheese’,’garlic’,’salt’,’pepper’]
+User: I want to make Mashed Cauliflower
+Robot: Okay, let’s begin. Start by bringing 1 quart of water to boil in a large stock pot. Wash 1 head of a cauliflower and then, using a knife and a cutting board, cut it into small pieces. Place them into the stock pot and cook for 8-10 minutes or until it's soft. Drain the cauliflower using a salad spinner and place it into the bowl of a food processor. 
+User: The cauliflower is ready, what do I do now? 
+Robot: Now add ¼ cup of parmesan cheese, 3 tablespoons of  butter, 1 tablespoon of cream cheese, 2 cloves of minced garlic, ½ teaspoon of salt and ¼ teaspoon of pepper into the food processor bowl. Process all ingredients together until they are smooth. Enjoy your meal.
+User: Thank you.

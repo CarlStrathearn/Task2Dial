@@ -1,0 +1,17 @@
+R10 Mango Habanero Hot Sauce https://www.makebetterfood.com/recipes/mango-habanero-hot-sauce/
+
+This recipe takes 45 minutes to cook, serves 40 ounces and contains 12 ingredients,  [‘frozen/fresh mango’,’habanero peppers’,’onion’,’grated carrot’,’garlic cloves’,’lime juice’,’lime zest’,’vodka’,’cane sugar’,’apple cider vinegar’,’salt’,’water’]
+
+User: I want to make Mango Habanero Hot Sauce 
+Robot: Okay let’s begin. For this recipe you will need mangos, there are two options for ingredients. You could either use frozen mangos or fresh mangoes. I recommend that, unless your mangoes are very fresh, you use frozen ones. Whatever your choice is, take 32 ounces of frozen mango and let them melt or 8 very fresh mangos. Then put them into the bowl of a food processor and process until it becomes a very smooth puree. This should take about 3 minutes. Take the mango puree and put it into a bowl; set it aside. 
+User: I have made the mango puree, now what?
+Robot: Now we will be using habanero peppers, make sure you are wearing gloves when handling this ingredient. Wash 8-12 habanero peppers, remove the stems and cut them open. Wash out the seeds and using a kitchen knife and cutting board dice the peppers. Place the peppers into a food processor bowl. 
+User: The peppers are in the bowl, what do I do now? 
+Robot: Now using the kitchen knife and cutting board chop half an onion. Then using a grater, grate 1 carrot. Add these together with  3 garlic cloves, 1 tablespoon lime juice and 1 teaspoon lime zest into the food processor’s bowl. Pulse the food processor several times in short bursts until it's all broken into small pieces but not pureed. When this is done take the mixture and add it into a large saucepan, and turn the heat on to medium. 
+User: The mix is now in the pan, now what? 
+Robot: Wait till the mixture begins to cook and add ⅔ of a cup of vodka. Use a spatula to combine and cook until it's reduced by half, this should take about 5 minutes. When it's all cooked, take the mixture and put it back into the food processor’s bowl and process until it’s smooth. When its pureed, transfer it back into the saucepan
+User: The mixture is back in the pan, what’s next? 
+Robot: Now add the mangos, ¾ of a cup of pure cane sugar, ¼ of a cup of apple cider vinegar and 1 teaspoon of salt into the pan. Use a spatula to stir it together and combine. Cook the mixture over medium heat until it starts to bubble. This should take around 5-10 minutes. Add ¼ of a cup of water to the sauce and combine. Depending on the texture that you want you could use a fine-mesh cloth and strain the sauce onto a food container or vary the water quantities. When you are happy with the consistency of the sauce, transfer it into a jar using a funnel. Enjoy your meal!
+User: Thank you.
+
+

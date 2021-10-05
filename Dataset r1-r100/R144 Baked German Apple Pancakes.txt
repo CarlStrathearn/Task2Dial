@@ -1,0 +1,49 @@
+R144 Baked German Apple Pancakes https://www.makebetterfood.com/recipes/walker-brothers-original-pancake-house-baked-german-apple-pancakes/
+
+This recipe takes 60 minutes to cook, serves 2-4 and contains 15 ingredients,  [''eggs'', ''milk'', '’whipping cream'', '’bread flour'', ''confectioners sugar'', ''wheat gluten'’, ''salt'', ''nutmeg'', ''unsalted butter'', ''apples'', ''dark brown sugar'', ''superfine sugar'', ''ground cinnamon'', ''cornstarch'', ''melted butter'']
+
+User: What ingredients do I need to make baked German apple pancakes?
+Robot: For this meal you will need, 4 eggs, ½ cup of milk, 2 tbsp of whipping cream, ¾ cups of bread flour, 1 tbsp of confectioners’ sugar, 1 and ½ tsp of wheat gluten, ¼ tsp of salt, ⅛ tsp of nutmeg, 1 tbsp of unsalted butter, 2 large Granny Smith apples, 4 tbsp of dark brown sugar, 3 tbsp of superfine sugar, 3 tsp of ground cinnamon, ½ tsp of cornstarch, 3 tbsp of melted butter.
+User: I have the ingredients ready, am I ready to start or do I need any other ingredients?
+Robot: You do not need any other ingredients, you are ready to begin. Preheat the oven to 300 degrees fahrenheit, then beat 4 eggs with an electric hand mixer on a medium speed until it becomes foamy for about 2 minutes.
+User: I preheated the oven to 300 degrees fahrenheit and beat the 4 eggs with a hand mixer on medium speed, what is the next step?
+Robot: Now add ½ cup of milk and 2 tbsp of whipping cream, beat until well blended for about 1 minute, then set aside.
+User: I have added the milk and the whipping cream, I also beat the mixture and blended it well for 1 minute, what is the next step after this?
+Robot: Now sift ¾ cups of bread flour, 1 tbsp of confectioners’ sugar, 1 and ½ tsp of wheat gluten, ¼ tsp of salt and ⅛ tsp of nutmeg together in a medium bowl.
+User: I have sifted the ingredients together in a medium bowl, what is the next step that I have to take?
+Robot: Now, add one third of the flour mixture to the reserved egg mixture and beat on a low speed to combine, for approximately 2 minutes.
+User: I added ⅓ of the flour mixture to the reserved egg mixture and beat it on a low speed to combine. What is the next step that I have to take?
+Robot:Next, let the batter rest for about 15 minutes, then continue with preparation for the apples and the cinnamon topping.
+User: I let the batter rest for 15 minutes, what is the next step?
+Robot: In order to make the apples, melt the butter in a 9-inch non-stick-oven-safe skillet over a medium heat, then cook the apple slices in a skillet, turning occasionally until the apples begin to soften and sweat.
+User: I melted the butter in the non-stick-oven safe skillet over a medium heat and cooked the apple slices in a skillet, what now?
+Robot: Transfer to a medium bowl, then reserve the skillet for assembly.
+User: I transferred it to a medium bowl and reserved the skillet. Thank you for letting me know, what is the next step that I have to take?
+Robot:To make the cinnamon topping, mix 4 tbsp of dark brown sugar, 3 tbsp of superfine sugar and ½ tsp of cornstarch in a small bowl with a fork.
+User: I mixed the ingredients in a small bowl with a fork, what is the next step that I have to take?
+Robot: Slowly pour 3 tbsp of butter into the cinnamon-sugar mixture, stirring with a fork until it has completely mixed.
+User: I poured the butter into the cinnamon-sugar mixture and stirred with a fork. What is the next step that I need to take?
+Robot: Spread the cinnamon sugar mixture over the bottom of the now-empty skillet with a spatula.
+User: I spread the cinnamon sugar mixture over the bottom of the skillet with a spatula, what do I do next?
+Robot: Next, layer the apples evenly over the sugar mixture and they should completely cover the bottom of the skillet.
+User: I have layered the apples evenly over the sugar mixture and covered the bottom of the skillet, what now?
+Robot: Now, pour the batter over the apples until the batter is ¼ inch below the rim or until you have used up all of the batter, then discard any excess batter.
+User: I poured the batter over the apples and discarded the excess batter, thank you, what do I do now?
+Robot: Now, place the skillet in a preheated oven and reduce the heat from 300 degrees fahrenheit to 250 degrees and bake for approximately 30 minutes to help the batter set and pancake form.
+User: I placed the skillet in a preheated oven and reduced the heat from 300 degrees to 250 and I let it bake for 30 minutes as required. What is the next step?
+Robot: After 30 minutes, remove the skillet from the oven and cover with foil to keep it warm and then increase the oven to 500 degrees fahrenheit.
+User: I removed the skillet from the oven and covered it with foil as required, I also increased the oven to 500 degrees, now what do I do?
+Robot: When the oven has reached 500 degrees, remove the foil and place it back in the oven, then immediately reduce the temperature to 450 degrees fahrenheit.
+User: I have removed the foil and placed it back in the oven and I also reduced the temperature to 450 degrees fahrenheit, thanks, now what is the next step that I have to take?
+Robot: Now bake until the pancake puffs up and the top edges turn into a deep brown, for about 12-15 minutes and make sure to watch carefully during the last few minutes to ensure that it does not overcook.
+User: The pancakes have puffed up and the edges are now brown, what do I do next?
+Robot: Next, remove from the pan and carefully invert the pancake onto a platter or a plate, then serve.
+User: Thank you for helping me make Baked German Apple Pancakes.
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+R20 Hearty Vegetable Soup https://www.makebetterfood.com/recipes/hearty-vegetable-soup/
+
+This recipe takes 50 minutes to cook, serves 6-8 and contains 17 ingredients,  [‘carrots’,’parsnips’,’onion’,’potato’,’vegetable oil’,’garlic’,’chicken broth’,’thyme leaves’,’bay leaf’,’rosemary’,’white bread’,’spinach’,’canned cannellini beans’,’baby lima beans/frozen peas’,’balsamic vinegar’,’salt’,’pepper’]
+User: I want to make Hearty Vegetable Soup
+Robot: Okay, let’s begin. To start using a knife, a peeler and a cutting board peel and slice 3 large carrots, 2 large parsnips and 2 small onions into small pieces. Put them in a bowl and set aside. Then dice 2 medium russet potatoes and set aside in a different bowl. Next, take a pan and heat up 2 tablespoons of vegetable oil over medium-high heat for about 3 minutes until it starts shimmering. Add the carrots, parsnips, and onions into the pan and cook them until they are soft. This should take about 5 minutes.
+User: The carrots, parsnips, and onions are now in the pan, what do I do now? 
+Robot: Now mince 6 cloves of garlic using a garlic press or the knife and cutting board and add them into the pan. Cook until fragrant, this should take about 1 minute. Mince 2 teaspoons of fresh thyme leaves and add them into the pan together with 8 cups of low-sodium chicken broth, 1 bay leaf, a pinch  of rosemary and the reserved potatoes. Bring the ingredients to a boil and then reduce the heat to low. Simmer until the vegetables become soft, this should take about 15 minutes. When this time passes, remove the bay leaf and throw it away. 
+User: The vegetables are now soft, what’s next? 
+Robot: Next, remove 3 cups worth of solids and 1 cup worth of broth from the pot and transfer them to a food processor. Toast 2 slices of white bread and tear them into small pieces before adding them into the small processor. Puree the vegetables together with the bread and stock. When this is done, add the mixture back into the pot. 
+User: The puree is now back in the pot, what now? 
+Robot: Now, chop and stem 2 cups of curly spinach using a knife and a cutting board. Add these and 1 (14.5-ounce) can of cannellini beans (drained and rinsed) and 1 (10-ounce) package of frozen baby lima beans or frozen peas into the pot. Cook it all together over medium heat for about 10 minutes. Then, remove the pot from the heat and add 1 tablespoon of balsamic vinegar, 1 teaspoon of salt, and ½ teaspoon of pepper. Enjoy your meal.
+User: Thank you.
+
+

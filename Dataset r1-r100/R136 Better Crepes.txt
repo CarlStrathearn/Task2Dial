@@ -1,0 +1,25 @@
+R136 Better Crepes https://www.makebetterfood.com/recipes/better-crepes/
+
+This recipe takes 30 minutes to cook, serves 16 and contains 7 ingredients,  [''all-purpose flour'', ''eggs'', '’milk'', '’water'', ''butter'', ''salt'’, ''chocolate'']
+
+User: I want to make some Better Crepes, what ingredients do I need to make the Crepes?
+Robot: You will need 8 ounces of all-purpose flour, 3 eggs, ¾ cups of milk, ¾ cups of water, 3 tbsp of melted butter, ¼ tsp of salt and chocolate.
+User: I have the ingredients ready, what is the first step that I need to take?
+Robot: Incorporate all of the ingredients inside a large bowl and use an electric hand mixer and beat for 30 seconds to combine, then scrape down the sides of the bowl and blend for another 30 seconds until it becomes smooth.
+User: I added all of the ingredients inside the bowl and using an electric hand mixer I beat it for 30 seconds. What is the next step that I have to take?
+Robot: Next, you must refrigerate the batter for up to three days and now to cook, pour the batter in a shallow pie dish.
+User: I refrigerated the batter for 3 days and poured it inside a shallow pie dish, what is the next step that I have to take?
+Robot: Dip the heating side of the electric crepe maker in the batter for 3 seconds and invert on the counter to cook and cook until the ready light turns on.
+User: I dipped the side of the electric crepe in the batter for 3 seconds as required, what is the next step?
+Robot: Now top the crepes with your favorite filling and roll or fold as desired.
+User: I topped the crepes and folded them, what do I do now?
+Robot: Serve and enjoy the crepes.
+User: Thank you for helping me cook Better Crepes.
+
+
+
+
+
+
+
+

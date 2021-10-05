@@ -1,0 +1,23 @@
+﻿r1:Better English Muffins. https://www.makebetterfood.com/recipes/better-english-muffins/
+
+
+Better English Muffins takes 180 minutes to cook, serves 16 and contains 7 ingredients,  ['milk', 'butter', 'salt', 'sugar', 'egg’, 'bread flour', 'instant yeast’']
+
+
+User: I would like to cook English Muffins
+Robot: To start with combine 1 and three quarter cups of lukewarm milk, 3 tablespoons of soft butter, one and a half teaspoons of salt, 2 tablespoons of sugar, one egg, 5 cups of bread flour, and 2 teaspoons of yeast in a large mixing bowl of an electric stand mixer.
+User: Ok, I have added the ingredients to a mixing bowl, what do I do next?
+Robot: Next, use the paddle attachment on your mixer and mix the ingredients on the lowest setting for 3 to 5 minutes until the dough becomes satin-smooth and shiny.
+User: The ingredients are mixed together into a smooth dough, what is the next step?
+Robot: Using a silicone spatula, scrape the dough down in the mixing bowl into a ball. Cover the bowl and set aside for 1 to 2 hours in a warm spot to rise until it has doubled or tripled in size.
+User: The dough has risen to double its size, now what?
+Robot: Using a silicone spatula, scrape the dough onto a floured work surface and divide the dough into 16 pieces. Shape each piece into a ball, then flatten the balls until they're about 3" to 3 1/2" in diameter.
+User: I have flattened the dough, what is the next step?
+Robot: On an electric griddle, place 16 of the English Muffins, if the griddle is not big enough for 16 split into 8 and cook separately. Sprinkle a generous amount of corn meal into each ring or spot in between the muffins on the griddle. 
+User: I have 16 muffins on the griddle, what now?
+Robot: Cover the muffins and let them rest until they've puffed up a little bit and are touching the edges of the rings, about 20 minutes.
+User: The muffins have puffed up a little, now what?
+Robot: Cook the muffins at 325°F on the electric griddle for 12 minutes, until golden brown on the bottom. Using tongs and a spatula, flip the muffins over and cook the other side for 12 minutes until the center of the muffins reads 195°F on an instant-read thermometer.
+User: The muffins are cooked, what do I do now?
+Robot: Remove the muffins from the griddle and let them cool thoroughly. Using a large fork, poke holes all along the sides of the muffin to split them open, enjoy your meal. 
+User: Thank you.

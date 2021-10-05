@@ -1,0 +1,27 @@
+R152 Coconut Blueberry Oatmeal Cookies https://www.makebetterfood.com/recipes/coconut-blueberry-oatmeal-cookies/
+
+This recipe takes 15-18 minutes to cook, serves 24 and contains 12 ingredients,  [''butter'', ''light brown sugar'', '’vanilla extract'', '’large eggs'', ''quick oats'', ''all-purpose flour'’, ''shredded coconut'', ''baking powder'', ''ground cinnamon'', ''ground nutmeg'', ''salt'', ''fresh blueberries'',]
+
+User: Can you let me know what ingredients are needed to bake Coconut Blueberry Oatmeal Cookies please?
+Robot: For the cookies you will need the following ingredients, ½ pound of butter, 1 and ½ cups of light brown sugar, 2 tsp of vanilla extract, 2 large eggs, 2 cups of quick oats, 1 and ½ cups of all-purpose flour, 1 cup of shredded coconut, 1 tsp of baking powder, 1 tsp of ground cinnamon, ½ tsp of ground nutmeg, ½ tsp of salt and 1 cup of whole fresh blueberries, do you have them ready?
+User: I have the ingredients ready, what is the first step that I have to take, or do I need anymore ingredients?
+Robot: In a large bowl with an electric mixer at hand, beat 2 sticks of butter, 1 and ½ cups of light brown sugar and 2 tsp of vanilla until they become light and fluffy, do this for approximately 1 minute.
+User: I have beaten the butter, sugar and vanilla, they are now light and fluffy, what do I have to do next?
+Robot: Next, add 2 large eggs and mix them until they are thoroughly incorporated.
+User: I have added the eggs and mixed them well, what is the next step?
+Robot: Now, add 2 cups of quick oats, 1 and ½ cups of flour, 1 cup of shredded coconut, 1 tsp of baking powder, 1 tsp of ground cinnamon, ½ tsp of nutmeg and ½ tsp of salt, then mix them all on a low speed until they blend well.
+User: I have added the ingredients and mixed them well, they are now blended well, can you please tell me what I have to do next?
+Robot: Next, add 1 cup of blueberries and fold them in gently by hand and drop the batter by heaping tablespoons 1 and ½ inch apart onto greased baking sheets.
+User: I added the blueberries and folded them in by hand as required, what is the next step?
+Robot: Now bake them until they turn golden brown for about 15-18 minutes, the cookies will start to feel soft but they will start to become firm as they cool down.
+User: I baked them for 15 minutes and they turned golden brown. They look really good, what is the next step?
+Robot: Now, transfer the cookies to the rack to cool down, then serve them on a plate and enjoy.
+User: Thank you for helping me make Coconut Blueberry Oatmeal Cookies.
+
+
+
+
+
+
+
+

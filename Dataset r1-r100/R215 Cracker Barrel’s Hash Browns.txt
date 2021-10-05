@@ -1,0 +1,19 @@
+R215 Cracker Barrel’s Hash Browns Casserole https://cookeatshare.com/recipes/cracker-barrel-s-hash-browns-casserole-535378
+
+This recipe takes 45 minutes to cook serves 8 and contains 6 ingredients,  [''hash browns'', ''sour cream'', '’cream of chicken soup'', '’unsalted butter'', ''onions'', ''colby cheese'’]
+
+User: Today I would like to make Cracker Barrel’s Hash Browns Casserole, what are the required ingredients to make the Hash Browns?
+Robot: For this recipe you will need a 2 pound package of frozen hash browns, 8 ounces of sour cream, 1 can cream of chicken soup, ½ cup of unsalted butter, ½ cup of chopped onion, 2 cups of grated Colby Cheese.
+User:  thank you, I have the ingredients at hand, what is the first step I need to take?
+Robot: Great, firstly place the potatoes in a greased 13 inch pan.
+User:  I have placed the potatoes in a 13 inch pan, what is the next step?
+Robot: Next, season with salt and pepper, then melt the butter in the microwave.
+User: I have seasoned the potatoes with salt and pepper and also melted the butter in the microwave, what is the next step?
+Robot: Then, in a bowl add the minced onions, sour cream, the cream of chicken soup and the melted butter.
+User: I have added the minced onions, sour cream, the cream of chicken soup and the melted butter in a bowl, what do I do next?
+Robot: Mix the items together, then pour the soup mixture over the potatoes and sprinkle with Cheddar Cheese.
+User: I have mixed the items together and poured the soup mixture over the potatoes and sprinkled with Cheddar Cheese, what now?
+Robot: Good, then bake at 350 degrees for approximately 45 minutes, or until all is completely warm, and the cheese begins to melt, then serve and enjoy the meal.
+User:  Thank you for helping me cook Cracker Barrel’s Hash Browns Casserole.
+
+

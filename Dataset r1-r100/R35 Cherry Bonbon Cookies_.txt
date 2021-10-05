@@ -1,0 +1,14 @@
+R35 Cherry Bonbon Cookies https://www.makebetterfood.com/recipes/cherry-bonbon-cookies/
+
+This recipe takes 3 hours to cook, serves 24 cookies and contains 9 ingredients,  [‘maraschino cherries’,’butter’,’powdered sugar’,’milk’,’vanilla extract’,’flour’,’baking powder’,’salt’,’maraschino cherry juice’] and 1 optional ingredient [‘food colouring’]
+User: I want to make Cherry Bonbon cookies. 
+Robot: Okay, let’s begin. Start by preheating the oven to 176º. Drain 24 maraschino cherries and reserve ¼ cup of juice for when you make the glaze. Set it all aside. Put ½ cups of butter into a bowl and beat it using a hand mixer at medium speed until it becomes creamy. Start adding ¾ of a cup of sifted powdered sugar into the butter gradually. Keep beating the mixture until it becomes fluffy. Then, add 2 tablespoons of milk and 1 teaspoon of vanilla extract into the butter mixture and beat with the mixer to combine. 
+User: The butter mixture is now ready, what do I do now? 
+Robot: Now, put 1 ½ cups of flour, ½ teaspoon of  baking powder and 1/8 teaspoon of salt into a separate bowl and combine using a whisk or spoon. Start adding the butter mixture and mix well until a dough forms. The dough should be soft and not too sticky, if the dough is too wet add additional flour one tablespoon at a time. If you are making this in advance, place the dough in the fridge for 2 hours to allow it to chill. 
+User: The dough is ready, what’s next? 
+Robot: Next, divide the dough into 24 pieces. Place a cherry into each of the pieces and roll the dough around with your hands to form a ball. Then, place the cookies into an ungreased baking sheet. Bake the cookies for 18-20 minutes or until golden brown. When they are done, allow them to cool on a wire rack. While the cookies are baking you can go ahead and make the cherry glaze, let me know when you would like me to tell you how to make this. 
+User: The cookies are in the oven, how do I make the cherry glaze? 
+Robot: For the cherry glaze combine ½ cup of powdered sugar, 2 tablespoons of  the maraschino cherry juice, 1 tablespoon of melted butter in a small bowl using a spoon or whisk. If you wish to colour the glaze you should add this in now too and combine. Pour the glaze into a small zip-lock bag and seal it. When you are ready to glaze the cookies, cut a small hole in one of the corners and squeeze the glaze in a zig-zag pattern. Let the glaze sit for about 20 minutes before serving and enjoy your meal.
+User: Thank you. 
+
+

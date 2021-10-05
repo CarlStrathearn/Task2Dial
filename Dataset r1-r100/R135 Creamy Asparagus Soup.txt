@@ -1,0 +1,33 @@
+R135 Creamy Asparagus Soup https://www.makebetterfood.com/recipes/creamy-asparagus-soup/
+
+This recipe takes 30 minutes to cook, serves 6-8 and contains 13 ingredients,  [''asparagus'', ''vegetable stock'', '’fresh thyme'', '’fresh parsley'', ''bay leaf'', ''red potatoes'’, ''white onions'', ''leek'', ''water'', ''olive oil'', ''heavy cream'', ''salt'', ''pepper'', ''white onions'']
+
+User: I want to make a Creamy Asparagus Soup, could you please let me know what ingredients I need to make this soup please?
+Robot: To make this soup, you will need 2 pounds of asparagus, 6 cups of vegetable stock, several twigs of fresh thyme, several stems of fresh parsley, 1 bay leaf, 4 red potatoes, 2 white onions, 1 chopped leek, ¼ cup of water, 2 tbsp of olive oil, ⅓ cup of heavy cream, ½ tsp of salt, ¼ tsp of pepper and reserved asparagus tips.
+User: I have the ingredients ready, am I ready to start or do I need anymore ingredients?
+Robot: You are ready to begin, firstly wash and cut off the rough root ends from the asparagus and place them in a medium stock pot or dutch oven.
+User: I washed and cut off the rough root ends from the asparagus and put them in a medium stock pot, what do I do next?
+Robot: Now, add the vegetable stock and the fresh herbs, bring them to a boil and then reduce the heat to a medium.
+User: I added the vegetable stock and the fresh herbs and brought them to a boil, what do I have to do next?
+Robot: Next, chop and dice the vegetables and place in a large stock pot with some little water and olive oil.
+User: I chopped and diced the vegetables and placed them in a large stock pot and added water and olive oil. What do I have to do next?
+Robot: Cook over a medium-high heat until the vegetables are soft for approximately 10 minutes. Once the asparagus is done, remove the asparagus with a pair of tongs.
+User: I cooked it over a medium-high heat and the vegetables are now soft, what do I need to do after this?
+Robot: Using a fine mesh strainer, strain the vegetable stock into the large stock pot with vegetables, then stir to combine.
+User: I strained the vegetables into the large stock pot with the vegetables and stirred, what do I need to do next?
+Robot: Next, chop off the top of the asparagus and reserve it in a small bowl and coarsely chop the remaining asparagus stalks and place them in a large stock pot with the broth and vegetables.
+User: I have chopped the top of the asparagus and put it in a small bowl and chopped the stalks. What is the next step that I have to take?
+Robot: Now, cook the soup over a medium-high heat until the flavors have combined for about 5 minutes and do not over cook the soup.
+User: I cooked the soup over medium-high heat and the flavors have combined well. What is the next step that I have to take?
+Robot: Now, pour the soup into a separate bowl sitting in an ice bath to quickly reduce its temperature and this will preserve its color.
+User: I poured the soup into a bowl and it sat inside the ice bath. Now the temperature has reduced, what do I have to do next?
+Robot: Next, ladle into bowls and garnish it with asparagus tips and serve warm or chilled.
+User: Thank you for helping me cook Creamy Asparagus Soup.
+
+
+
+
+
+
+
+

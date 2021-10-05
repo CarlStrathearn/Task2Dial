@@ -1,0 +1,13 @@
+R26 Savory Tomato Pie https://cookeatshare.com/recipes/vegetable-crudit-s-platter-401632
+
+This recipe takes 1 hour and 30 minutes to cook, serves 8 and contains 13 ingredients,  [‘all-purpose flour’,’salt’,’vegetable shortening’,’water’,’olive oil’,’butter’,’onions’,’tomatoes’,’basil’,’mozzarella cheese’,’gruyere cheese’,’mayonnaise’,’pepper’]
+User: I want to make Savory Tomato Pie
+Robot: Okay, let’s begin. Firstly let’s make the pie crust. Start by putting 1 ⅓ cups of all-purpose flour into a large bowl. Add 1 teaspoon of salt and ½ cup of vegetable shortening into the bowl and mix using two dull butter knives or a pastry blender. Pour 6 tablespoons of ice cold water into the flour mixture and mix using a spatula or your hands until a large flour dough ball forms. Form the dough into a disc and wrap with wax paper. Put the dough in the freezer for 10 minutes or in the fridge for 30 minutes. 
+User: The dough is now made, what do I do now? 
+Robot: Now let’s make caramelized onions. Heat 2 tablespoons of olive oil and 2 tablespoons of butter in a cast iron pan over medium heat. Add 2 medium onions to the pan and stir to coat. Let them cook for 30 minutes, stirring occasionally using a spatula. When they are done, remove from the heat and transfer to a medium bowl. Now let’s make the tomatoes. Preheat the oven at 176º and then slice 4 large tomatoes in half using a knife and cutting board. Dice them into small cubes and then place in a colander over the sink and lightly salt with ½ tablespoon of salt. Remove the pie crust from the fridge, roll it out and form a shell in the pie dish. Use a second pie dish to weigh it down and pre-bake the crust for 15 minutes. While it's pre-baking, let the tomatoes sit.
+User: The crust has finished pre-baking, what do I do now? 
+Robot: Now use a clean dish cloth or a paper towel to strain the tomatoes and remove as much water as possible, if too much water remains on the tomatoes the crust might get soggy. When they have been strained, add the tomatoes, reserved onions and ¼ cup of chopped basil into a bowl. Stir with a spoon and combine. Transfer the mixture into the pre-baked pie crust. In a medium bowl, combine 1 ¼ cup of grated mozzarella cheese, ¾ cup of grated Gruyere cheese, ½ cup of mayonnaise, ½ teaspoon of pepper and ¼ teaspoon of salt with a spatula. Spread this mixture evenly on top of the tomato-onion mixture. Bake the pie for 30 minutes and enjoy your meal.
+User: Thank you.
+
+
+

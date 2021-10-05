@@ -1,0 +1,36 @@
+R208 Balinese BBQ Pork Roast - Babi Guling https://cookeatshare.com/recipes/balinese-bbq-pork-roast-babi-guling-81003
+
+Balinese BBQ Pork Roast  takes 120 minutes to cook, serves 6-8 and contains 14 ingredients,  [''pork shoulder roast'', ''shallots'', '’chilies'', '’garlic'', ''ginger'', ''turmeric'’, ''galangal'', ''lemongrass'', ''coriander'', ''black pepper'', ''lime juice'', ''brown sugar'', ''salt'', ''vegetable oil'']
+
+User: I want to cook Balinese BBQ Pork Roast today, what ingredients do I need to make this meal?
+Robot: You will the need the following ingredients for this meal, 1 boneless pork shoulder roast, about 3 pounds, 4 large shallots or 2 small onions, 4-8 Thai chilies or 2-4 jalapenos, 4 peeled garlic cloves, 2 tbsp of fresh ginger or 1 tbsp of fresh turmeric, 1 tbsp of chopped fresh galangal, 3 stalks of fresh lemongrass, 1.5 tsp of ground coriander, 1 tsp of fresh ground black pepper, 2 tbsp of fresh lime juice, 1 tbsp of firmly packed light brown sugar, 2 tsp of salt and 3 tbsp of vegetable oil, got that?
+User: Yes, thank you, I have the ingredients ready to cook the meal, what is the first step that I have to take?
+Robot: Combine 4 large shallots, 4-8 Thai chilies, 4 cloves of garlic, ginger, turmeric, 1 tbsp galangal, 3 stalks of lemongrass, 1.5tsp coriander, 1tsp of pepper, 2 tbsp lime juice, sugar, salt and 1 tbsp of vegetable oil in a mortar and pound to a smooth paste with the pestle, or puree in a blender or food processor to a smooth paste.
+User: I have combined all of the ingredients in a mortar and they are now a smooth paste, what do I do next?
+Robot: Then, heat 2 tbsp of oil in a wok or skillet over a medium heat, then add the spice paste and saute until fragrant, for approximately 5 minutes.
+User: I have heated the oil in a wok over a medium heat and added the spice paste and is now fragrant, what is the next step?
+Robot: Frequently stir to avoid any splattering, also run your fan on a high, also remove the pan and let it cool, got that?
+User: Yes, thank you, I have put my fan on a high and removed the pan and let it cool down, what is the next step?
+Robot: Then, trim the roast of the excess fat, if there is any, using a sharp knife make a deep slice in the center of the roast carefully, starting and ending ¾ inch from the ends, and cutting almost through to the other side of the roast, got that?
+User: I have trimmed the excess fat with a knife, what do I do now?
+Robot: Fill the pocket with the spice paste and then tie the roast back together with the kitchen twine or pin it with the metal skewers.
+User: I have filled the pockets with the spice paste and then tied the roast back together, what is next?
+Robot: Preheat your grill to high and then cook for about 1.5 hours, got that?
+User: I have preheated the grill and cooked for 1.5 hours, what do I do next?
+Robot: Move the charcoal to either side of the place where you plan to cook the roast and place a drip pan in the middle, got that?
+User:  I have moved the charcoal to either side of the place where I will cook the roast and dripped the pan in the middle, what do I do from here?
+Robot: If you have a gas grill where the coals are not movable, turn off the middle burner or just put a drip pan made of aluminium foil directly over the center burner, got that?
+User: I have turned off the middle burner and placed the foil on top of the center burner, what next?
+Robot: Next, to make a foil drip pan, tear 3 pieces of foil about 16 inches long, then overlap them so that they are the width you want, then fold the edges up about 2 inches to form a make-shift drip pan, got that?
+User: Thank you, I have torn 3 pieces of foil that are 16 inches long and overlapped them, then folded the edges about 2 inches, what do I do now?
+Robot: After you set up the grill, preheat it on high, then turn the grill down and place the roast over the drip pan, got that?
+User: I have set up the grill and preheated it on a high, after that I turned down the grill and placed the roast over the drip pan, what do I do from here?
+Robot: Adjust the heat or coals so the internal temperature rests at about 350 degrees fahrenheit, this will ensure a nice browning without burning and should result in a cook time of about 120 minutes, got that?
+User: I have adjusted the heat so that the internal temperature sits at 350 degrees and let it cook for 120 minutes, what is the next step?
+Robot: Occasionally turn the meat during the cooking so that all of the sides get equally browned, also rub on additional spice mixtures if there are any, ok?
+User: I have turned the meat on its sides so that they are browned, what do I do now?
+Robot: Then, transfer the roast to a cutting board or a platter and let it stand for approximately 10 minutes before removing any strings and cutting into thin slices, got that?
+User: Yes, thank you very much, I have transferred the roast to a cutting board and I let it stay for 10 minutes and removed any strings, what next?
+Robot: Serve the meal and enjoy.
+User: Thank you for helping me cook Balinese BBQ Pork Roast - Babi Guling.
+

@@ -1,0 +1,21 @@
+R216 Stir-Fried Broccoli with Chili-Garlic Sauce https://cookeatshare.com/recipes/stir-fried-broccoli-with-chili-garlic-sauce-384967
+
+This recipe takes 10 minutes to cook serves 4 and contains 11 ingredients,  [''chicken broth'', ''sherry'', '’soy sauce'', '’sesame oil'', ''cornstarch'', ''garlic sauce'’, ''garlic cloves'', ''red pepper flakes'', ''vegetable oil'', ''broccoli'', ''sugar'']
+
+User: I would like to make stir-fried broccoli with chili-garlic sauce today. What ingredients are required for this recipe?
+Robot: For this recipe you will need the following ingredients, ¼ cup of low sodium chicken broth, 2 tbsp of dry sherry, 2 tsp of low-sodium soy sauce, 1 tsp of toasted sesame oil, 1 tsp of cornstarch, 2 tsp of Asian chili-garlic sauce, 2 medium garlic cloves minced or pressed, ⅛ tsp of red pepper flakes, 1 tsp and 1 tbsp of vegetable oil, 1 and ½ pounds of broccoli florets, cut into ¾ inch pieces, and stalks trimmed, peeled, and cut on an angle into ¼ inch thick slices and also ¼ tsp of sugar.
+User:  I have all of the ingredients necessary to make this meal, what is the first step that I need to take?
+Robot: Whisk the broth, 2 tbsp of dry sherry, 2 tsp of low-sodium soy sauce, 1 tsp of toasted sesame oil, 1 tsp of cornstarch and chili garlic-sauce together in a bowl.
+User: I have whisked the sherry, soy sauce, sesame oil, cornstarch and the garlic sauce together in a bowl, what is the next step?
+Robot: Good, then heat 1 tbsp of oil in a large, heavy skillet over a medium heat until it begins to smoke.
+User:  I have heated 1 tbsp of oil in a large and heavy skillet over medium-heat, what do I do next?
+Robot: Good, then add the broccoli and sprinkle with sugar, then cook and stir frequently for about 8-10 minutes until the broccoli is well browned.
+User: I added the broccoli and sprinkled with sugar and stirred frequently for 8-10 minutes, what next?
+Robot: Then, push the broccoli to the edges of the skillet, clearing a spot in the middle.
+User:  I pushed the broccoli to the edges of the skillet, what now?
+Robot: Now add the contents of the small bowl to the center, mashing it for approximately 20-30 seconds with a spoon or a spatula until the garlic is fragrant, then mix together the broccoli.
+User: I added the contents of the smaller bowl to the center and mashed for 20-30 seconds with a spoon and also mixed the broccoli. What is the next step that I have to take?
+Robot: Add the broth and 2 tbsp of sherry mixture and stir continuously until the sauce is thickened, for about 60 seconds. Then serve and enjoy the meal.
+User:  Thank you for helping me cook Stir-Fried Broccoli with Chili-Garlic sauce.
+
+

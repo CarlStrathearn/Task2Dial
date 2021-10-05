@@ -1,0 +1,21 @@
+R192 Chicken traybake with chorizo, tomato and red peppers https://www.bbc.co.uk/food/recipes/roast_chicken_with_13305
+
+Chicken traybake with chorizo, tomato and red peppers takes 30 to 60 minutes to cook, serves 4 and contains 12 ingredients,  [''onions'', ''red peppers'', '’yellow pepper'', '’tomatoes'', ''chorizo'', ''cannellini beans'’, ''garlic cloves'', ''rosemary'', ''chicken thighs'', ''olive oil'', ''sea salt'', ''black pepper'']
+
+User: Today I would like to cook Chicken traybake with chorizo, tomato and red peppers, where do I start?
+Robot: For this recipe you will need 2 quartered onions, 2 red peppers, 1 yellow pepper, 8 large tomatoes, 80g of sliced chorizo, 400g of tinned cannellini beans, 4 garlic cloves, 2 sprigs fresh rosemary, 8 chicken thighs, 2 tbsp of olive oil, 1tsp of sea salt flakes and fresh ground black pepper.
+User:  I have all of these required ingredients, what is the first step?
+Robot: Start by preheating the oven to 200C/180C Fan/ Gas 6.
+User: I have preheated the oven to 200C/180C Fan/ Gas 6. What is next?
+Robot: Put 2 quartered onions, 2 red peppers and 1 red pepper, 400g of tinned cannellini beans, 80g of sliced chorizo, 4 garlic cloves and 2 sprigs of fresh rosemary in a very large roasting tin.
+User: The onions, red peppers, beans, chorizo, garlic and rosemary have been added in a very large roasting tin, what do I do next?
+Robot: Top with the chicken and then drizzle with oil.
+User: I have topped it with chicken and drizzled it with oil, what is the next step?
+Robot: Then scatter with 1tsp of sea salt flakes and a big pinch of black pepper, roast for 60 minutes, or until the chicken is cooked through and the skin is golden brown.
+User: I have scattered 1tsp of sea salt flakes and added a big pinch of black pepper and it has been roasted for 60 minutes, what do I do now?
+Robot: Then check if the chicken is cooked by piercing the thickest part of the chicken with a skewer and ultimately the juice should run clear. If there is any sign of pink, return the bake to the oven until the chicken is cooked.
+User: I have checked the chicken by piercing it with a skewer and the juice runs clear, no signs of pink. What is next?
+Robot: Finally, leave the chicken to rest for 10 minutes, then serve with the vegetables, enjoy your meal.
+User: Ok, thank you for helping me cook Chicken traybake with chorizo, tomato and red peppers.
+
+

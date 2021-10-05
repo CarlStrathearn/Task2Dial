@@ -1,0 +1,17 @@
+R11:  Veggie Tikka Masala https://www.makebetterfood.com/recipes/veggie-tikka-masala/
+
+This recipe takes 1 hour to cook, serves 8 and contains 20 ingredients,  [‘jasmine rice’,’onion’,’ginger’,’garlic’,’cilantro/parsley’,’olive oil’,’garam masala’,’paprika’,’salt’,’cumin’,’ground cinnamon’,’canned plum tomatoes’,’can of tomato sauce’,’coconut cream/milk’,’heavy cream/vegan yogurt’,’chickpeas’,’frozen peas’,’full-fat coconut cream/milk’]
+User: I want to make Veggie Tikka Masala, where do I start? 
+Robot: I’ll tell you how to make it but first, if you want to serve this dish with rice, make it first. Take as much rice as desired and begin cooking it. Preferably, this will be jasmine rice. Having done this step, take 1 large onion and use a kitchen knife and a cutting board cut it in half. Put one of the halves aside and chop the other one. Put the chopped onion into the bowl of a food processor. 
+User: I have cut the onion, what do I do now? 
+Robot: Now take 1 inch of peeled ginger, 2 cloves of garlic, 10 sprigs of cilantro or parsley and 1 tablespoon of olive oil and add them into the food processor where the onion is. Process all the ingredients together on high until fully combined and smooth. This should take around 1-2 minutes. 
+User: I have processed the ingredients, what now? 
+Robot: Now take the other half of the onion ( the one that you didn't chop) and, using the kitchen knife and cutting board, chop finely. Then take a big cast iron pot or dutch oven and heat 2 tablespoons of olive oil on medium heat. Take the chopped onion and cook it in the pot until it's translucent, this should take around 5 minutes. Use a spatula to stir it often. While the onion is cooking add 2 teaspoons of garam masala, 1 teaspoon of paprika, 1 teaspoon of salt, ½ teaspoon of cumin and ¼ teaspoon of ground cinnamon to the pot and use the spatula to combine. Cook it all together until fragrant, this should take another 3-5 minutes. 
+User: I have made the onion with the spices, what now? 
+Robot: Now add the puree you made in the food processor; 15 ounces of canned plum tomatoes, not drained; 15 ounces of canned tomato sauce; 7.5 ounces (½ can) of full fat coconut cream or coconut milk; and, ¼ cup of heavy cream or vegan yogurt onto the pot. Set the heat on medium-high and use the spatula to stir often until cooked. This should take around 5 minutes. 
+User: I have cooked all the ingredients, what do I do now? 
+Robot: Next take ½ head of a cauliflower and using the knife and cutting board, chop it into small pieces. Also take 3 large carrots and use a peeler to peel them and the knife and cutting board to finely chop them. Add the chopped veggies into the pot. Bring onto a simmer and reduce the heat. Cook for 20 minutes without putting the lid on. 
+User: The veggies are cooking, is there anything else for me to do? 
+Robot: Take 15 ounces of canned chickpeas, drain them and rinse them. Wait until the veggies are tender and add the chickpeas, 1 cup of frozen peas and ½ can of coconut cream into the mixture. Cook it all together until both peas and chickpeas are tender. This should take another 5 minutes. Serve with the rice and enjoy your meal! 
+User: Thank you. 
+

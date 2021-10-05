@@ -1,0 +1,11 @@
+R38 Butterscotch Blondie Cookies  https://www.makebetterfood.com/recipes/butterscotch.blondie.cookies/
+
+This recipe takes 1 hour and 45 minutes to cook, serves 16 cookies and contains 10 ingredients,  [‘unsalted butter’,’sugar’,’packed brown sugar’,’eggs’,’vanilla extract’,’all purpose flour’,’sea salt’,’baking powder’,’baking soda’,’butterscotch chips’]
+User: I want to make Butterscotch Blondie Cookies  
+Robot: Okay, let’s begin. Start by placing 2 sticks of unsalted butter, ¾ cup of sugar and ¾ cup of packed brown sugar into a mixing bowl. Using an electric mixer, beat the ingredients until it becomes creamy. Then, add in 2 large eggs and 1 ½ teaspoons of vanilla extract and beat with the mixer until they are fully incorporated. 
+User: The ingredients are now combined, what do I do now? 
+Robot: Now, place 16 ounces (about 3 cups) of all purpose flour, 1 ½ teaspoons of coarse sea salt, 1 teaspoon of baking powder and ½ teaspoon of baking soda into a different bowl and combine using a whisk or spoon. When it's combined, start to add the flour mixture into the butter mixture and stir it well with a spoon or spatula. When the mixture starts to combine, stop mixing and add in 11 ounces of butterscotch chips. Then, keep mixing until fully combined. If you can, chill the cookie dough in the fridge for an hour before shaping the cookies. While the dough is in the fridge, preheat the oven at 176º. 
+User: The dough is now ready, what comes next? 
+Robot: Shape the cookies using your hands. Take ¼ or ⅓ of a cup using a measuring cup of dough and roll it into a ball. Place them into a cookie sheet and bake them for about 25 minutes or until the cookies are golden brown. When the cookies are done, make sure to allow them to cool for 5.10 minutes before transferring them to a wire rack and allow them to cool fully. This should take about 30 minutes. Enjoy your meal.
+User: Thank you. 
+

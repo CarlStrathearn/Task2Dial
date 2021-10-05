@@ -1,0 +1,25 @@
+R194 Pasta with Spinach, Ricotta and Ham https://cookeatshare.com/recipes/pasta-with-spinach-ricotta-ham-226
+
+Pasta with Spinach, Ricotta and Ham takes 15 minutes to cook, serves 6 and contains 9 ingredients,  [''spinach'', ''butter'', '’boiled ham'', '’nutmeg'', ''ricotta'', ''cheese'’, ''pasta'', ''salt'', ''pepper'']
+
+User: Today I would like to cook Pasta with Spinach, Ricotta and Ham, what ingredients do I need for this recipe?
+Robot: For this recipe you will need 2lbs of fresh spinach or 2 10oz pkgs frozen spinach (thawed), 4 tbsp of butter, 4 oz of chopped boiled ham, whole nutmeg, ½ cup of fresh ricotta, ½ cup of freshly grated parmigiano-reggiano cheese, 1lb of rotini, penne, maccheroncini or rigatoni pasta, salt and pepper.
+User: Thank you for letting me know, I have these ingredients at hand, what is the first step?
+Robot: Firstly, you will need to squeeze the moisture out of the spinach and chop it finely.
+User: I have squeezed the moisture out of the spinach and chopped it finely, what is the next step?
+Robot: Then, boil the water, cook and drain the pasta.
+User: I have boiled the water, cooked and drained the pasta, what comes next?
+Robot: Next, put half of the 4 tbsp of butter in a saute pan and turn to a medium high.
+User: Thank you, I have put half of the butter in the saute pan and turned it to a medium high, how do I proceed next? 
+Robot: After the butter foams, add 4oz of boiled ham, turn 2-3 times then add 2lbs of fresh spinach and liberal pinches of salt as the spinach needs it for flavour.
+User: The 4oz of boiled ham have been added and turned 2-3 times, I have also added the 2lbs of fresh spinach and added liberal pinches of salt to the spinach, what do I do now?
+Robot: Turn to high and saute the spinach, turning it frequently for approximately 2 minutes.
+User: I have turned it to a high and saute the spinach, what do I do next?
+Robot: Remove it from the heat and mix in the nutmeg, grated or powdered and make sure to not add anymore than ⅛ tsp.
+User: I have removed it from the heat and mixed the nutmeg and made sure to not add anymore than the required amount of tsp, what do I do next?
+Robot: Next, toss the pasta with the contents of the pan, plus ½ cup of fresh ricotta, the remaining butter, and ½ cup of parmesan cheese.
+User: I have tossed the pasta with the contents of the pan, added the ½ cup of fresh ricotta, the remaining butter and the ½ cup of parmesan cheese, what do I do now?
+Robot: Then you serve with the salad, warm bread, Parmesan and pepper on the side.
+User: Alright, thank you for helping me cook Pasta with Spinach, Ricotta and Ham.
+
+

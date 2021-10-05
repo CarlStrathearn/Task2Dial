@@ -1,0 +1,29 @@
+R139 Herb Quinoa Millet Cakes https://www.makebetterfood.com/recipes/herb-quinoa-millet-cakes/
+
+This recipe takes 75 minutes to cook, serves 6 and contains 14  ingredients,  [''quinoa'', ''uncooked millet'', '’water'', '’salt'', ''eggs'', ''panko bread crumbs'’, ''red onion'', ''garlic'', ''parmesan cheese'', ''black olives'', ''chopped parsley'', ''lime zest'', ''black pepper'', ''olive oil'']
+
+User: I would like to cook Herb Quinoa Millet Cakes, what ingredients will I need to make them?
+Robot: You will need 1 cup of uncooked quinoa, ½ cup of uncooked millet, 2 and ¼ cups of water, ½ tsp of salt, 4 large eggs, 1 cup of panko bread crumbs, ½ medium red onions, 4 garlic cloves, ½ cup of grated parmesan cheese, ½ cup of black olives, ⅓ cup of chopped parsley, 1 tbsp of lime zest, ½ tsp of salt, ½ tsp of black pepper and 2 tbsp of olive oil.
+User: I have all of the ingredients ready, am I ready to begin or do I need any other ingredients?
+Robot: You are ready to begin. Firstly, using a fine mesh strainer, wash the quinoa and millet under cool water for 3 minutes, then in a medium saucepan combine the quinoa, millet, water and salt.
+User: I washed the quinoa and millet under cool water for 3 minutes as required, what do I have to do next?
+Robot: Then, cover, decrease the heat and simmer until the quinoa and millet is very soft and tender for about 45 minutes, then remove from the heat and cool to room temperature.
+User: I covered and decreased the heat and simmered the quinoa, the quinoa and millet are now soft and tender, what is the next step that I have to take?
+Robot: Now, in a small bowl, beat the eggs and set them aside, after that in a large bowl, mix 3 cups of quinoa, millet, 1 cup of bread crumbs, ½ medium onion, 4 garlic cloves, ½ cup of cheese, ½ cup of olives, ⅓ cup of parsley, 1 tbsp of lemon zest, ½ tsp of salt and ½ tsp of pepper.
+User: I have beaten the eggs inside the bowl and put them aside, I also mixed all of the ingredients that are required. Thank you, what do I have to do next?
+Robot: Then, add the beaten eggs and stir them until all of the mixture is moistened, then using a ½ cup, scoop out the mixture and form into patties using your fingers.
+User: I added the beaten eggs and stirred them, the mixture is now moist, what do I do now?
+Robot: Now in a large skillet over a medium low heat, heat the olive oil, then cook 4-6 patties at a time on each side until they turn light brown, for about 4-5 minutes on each side.
+User: I heated the olive oil inside the skillet and cooked 4-6 patties on each side as required, they are now light brown, what do I do now?
+Robot: Now flip and cook the other side and remove and place on a paper towel lined plate, also add additional oil as needed and cook the remaining patties.
+User:I flipped and cooked the other side of the patties and added the additional oil as required. Can you please tell me what I need to do next?
+Robot: Serve the cakes warm with tartar sauce, lemon sauce or barbecue sauce and enjoy.
+User: Thank you for helping me make Herb Quinoa Millet Cakes.
+
+
+
+
+
+
+
+

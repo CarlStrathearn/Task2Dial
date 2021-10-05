@@ -1,0 +1,52 @@
+R151 Homemade Chicken Nuggets https://www.makebetterfood.com/recipes/chicken-nuggets/
+
+This recipe takes 15 minutes to cook, serves 6-8 and contains 9 ingredients,  [''chicken breasts'', ''table salt'', '’sugar'', '’black pepper'', ''all-purpose flour'', ''large eggs'’, ''vegetable oil'', ''white bread'', ''olive oil'']
+
+User: I want to make Homemade Chicken Nuggets. Please can you tell me the ingredients that I will need to make them?
+Robot: You will need 2 pounds of boneless, skinless chicken breasts, ½ cup of kosher salt, ½ cup of sugar, 2 tsp of ground black pepper, 1 cup of all-purpose flour, 2 large eggs, 1 and ½ tbsp of vegetable oil, 8 slices of white bread, 6 tbsp of olive oil, do you have the ingredients?
+User: I have the ingredients ready, are there any others that I need or can I start?
+Robot: You are ready to start. Firstly, cut off the excess fat from the 2 pounds of chicken breasts, cut off the tenderloins and cut them into nugget sizes, about 1-2 inches.
+User: I cut off the excess fat from the chicken and cut the tenderloins into nugget sizes, what is the next step that I have to take?
+Robot: Next, you must dissolve ½ cup of salt and ½ cup of sugar in 1 quart of cold water in a gallon-size ZipLock plastic bag, got it?
+User: I have dissolved the cup of salt and sugar in cold water, what do I have to do next?
+Robot: Add the cutlets and seal the bag, make sure to press out as much air as possible, then place the bag in a bowl or dish and let it refrigerate for 30 minutes.
+User: I have added the cutlets and sealed the bag, I also placed the bag in a bowl and it has been refrigerated for 30 minutes as required. Can you tell me what I have to do next please?
+Robot: Now, line some rimmed baking sheets with triple layers of paper towels, then remove the chicken from the bag and lay it in a single layer of baking sheet.
+User: I lined the baking sheets with triple layers of paper towels and removed the chicken from the bag, what next?
+Robot: Next, cover with another triple layer of paper towels and press down firmly on each nugget so that they are all about the same thickness, allowing them to dry for about 10 minutes.
+User: I have covered the nuggets with some more layers of paper towels and I pressed down firmly on them, they are now dry, what is the next step?
+Robot: Now, carefully peel the paper towels off the cutlets, then sprinkle them with 2 tsp of black pepper and set them aside.
+User: I peeled off the paper towels from the cutlets and sprinkled them with 2 tsp of black pepper and set them aside, what is the next step?
+Robot: Spread 1 cup of all-purpose flour in a baking dish, then beat 2 large eggs with 1 tbsp of oil in a second baking dish.
+User: I spreaded the flour in a baking dish and beat the eggs with the oil as required. Can you tell me what I Have to do next?
+Robot: Process 8 slices of high quality white bread in a food processor until evenly fine-textured for about 20-30 seconds.
+User: I processed the slices of white bread in a food processor for 20 seconds, can you tell me what I have to do next please?
+Robot: Now, transfer the crumbs to the baking dish and add a dash of salt and pepper to the breadcrumbs and stir to combine.
+User: I transferred the crumbs to the baking dish and added salt and pepper to them, what is the next step?
+Robot: Now take two or three nuggets at a time and cover them in flour, shaking off any excess, using tongs, dip in both sides of the nuggets in the egg mixture to generously coat.
+User: I covered the nuggets in flour and shook off the excess using tongs,  what next?
+Robot: Next, place them in a bowl with the breadcrumbs and press down on them to fully and evenly coat each nugget.
+User: I placed the nuggets in a bowl with the breadcrumbs and fully coated them as required, can you please tell me what is the next step?
+Robot: Place the nuggets in a single layer on a wire rack over a baking sheet, then you must repeat the previous step with the remaining nuggets and allow them to stand for 5 minutes to let the breadcrumbs coat dry.
+User: I placed the nuggets on a wire rack over a baking sheet and I let them stand for 5 minutes, they are now dry. What is the next step?
+Robot: Heat up 6 tbsp of oil in a heavy-bottomed 12-inch nonstick skillet over a medium-high heat until it shimmers but not smoking, do this for 2 minutes.
+User: I heated the oil in a nonstick skillet over medium-high heat and it is now shimmering. What do I have to do next?
+Robot: Now place as many nuggets as will fit on the skillet but allow some space between the nuggets to ensure even cooking and gently press down on each nugget with a spatula to help ensure even browning.
+User: I have placed the nuggets on a skillet and given them space between each other, I also pressed down on them with a spatula, what do I have to do next?
+Robot: Cook them until they are deep golden brown and crisp on the first side, for about 2 and ½ minutes, using tongs, flip the nuggets and reduce the heat to medium.
+User: The nuggets have now been cooked and they are crispy and juicy on their sides, I also flipped them and reduced the heat as required. What do I have to do next?
+Robot: Line up the warmed plate with the double layer of paper towels and set the cutlets on top, then return the plate to the oven.
+User: I lined up the warmed place with the double layer of paper towels and I put the cutlets on top, what next?
+Robot: Next, discard the oil in a skillet and make sure to wipe down the skillet clean using tongs and a large wad of paper towels.
+User: I have thrown away the oil in a skillet and wiped them down using a wad of paper towels, what is the next step?
+Robot: Now, repeat using fresh oil and now-clean the skillet to cook the remaining nuggets, make sure to do this until the nuggets are cooked.
+User:I have cleaned the skillet and cooked the remaining nuggets, can you tell me what I have to do next?
+Robot: Serve with ketchup and desired condiments.
+User: Thank you for helping me make Homemade Chicken Nuggets.
+
+
+
+
+
+
+

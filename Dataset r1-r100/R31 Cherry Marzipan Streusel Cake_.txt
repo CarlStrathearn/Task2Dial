@@ -1,0 +1,20 @@
+R31 Cherry Marzipan Streusel Cake https://www.makebetterfood.com/recipes/cherry-marzipan-streusel-cake/
+
+This recipe takes 60 minutes to cook, serves 10 and contains 11 ingredients,  [‘all-purpose flour’,’sugar’,’marzipan’,’butter’,’egg’,’vanilla extract’,’baking powder’,’baking soda’,’salt’,’buttermilk’,’cherries’]
+User: I want to make Cherry Marzipan Cake. 
+Robot: Okay, let’s begin! This recipe requires the use of marzipan, if you do not have any store-bought marzipan I could tell you a recipe for it, would you like me to go ahead? 
+Option 1 - User: Yes, please
+Robot: Okay, here is the recipe for the Marzipan. When you are done, let me know and I will continue with this recipe.
+User: Okay, the marzipan is done. 
+Robot: Great! Let’s continue. 
+Option 2 - User: No thanks, I have marzipan
+Robot: Great! Let’s get on with the recipe.
+-
+Robot: First, let’s make the streusel topping. Put ½ cup of all-purpose flour, ½ cup of sugar, ⅓ cup of marzipan crumbled into small pieces and 4 tablespoons of butter cut into small pieces into a medium bowl. Combine the ingredients using your hands, press together and break the mixture into small clumps. Then, set this aside. 
+User: The streusel topping is done, what comes next? 
+Robot: Next, let’s make the cake batter. Start by preheating the oven at 176º and lightly grease a 9-inch springform pan with 1 tablespoon of butter. Then, put 1 cup of sugar and ½ a cup of butter into a bowl. Beat with an electric hand mixer until the butter becomes fluffy. This should take around 3 minutes. Add ⅓ cup marzipan, 1 large egg and 1 teaspoon vanilla extract into the bowl and beat with the electric hand mixer.
+User: The ingredients are combined, what do I do now? 
+Robot: Now  add 1 ½ cup of all-purpose flour, 1 teaspoon of baking powder, ½ teaspoon of baking soda, ½ teaspoon of salt and ½ cup of buttermilk into the bowl with all the ingredients and fold the mixture in using a spatula. When you are done, put the batter into the prepared pan and spread 3 cups of cherries on top. If they are fresh cherries, put them and halve them. If they are frozen cherries, thaw and drain them. Then, sprinkle the streusel topping on top of the cherries and batter. Bake the cake for about 50-55 minutes. Let it cool for 20 minute before serving and enjoy your meal!
+User: Thank you. 
+
+

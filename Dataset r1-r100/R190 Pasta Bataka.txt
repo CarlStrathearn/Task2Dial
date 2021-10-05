@@ -1,0 +1,15 @@
+R190 Pasta Bataka https://cookeatshare.com/recipes/pasta-bataka-881545
+ 
+Pasta Bataka takes 10 minutes to cook, serves 6 and contains 18 ingredients, [''pasta'', ''potato'', '’onion'', '’lemon juice'', ''garlic'', ''ginger'’, ''curry leaves'', ''cumin'', ''asafoetida'', ''peanuts'', ''almonds'', ''sugar'', ''sesame seeds'', ''golden raisins'', ''cashew nuts'', ''chili powder'', ''green chili'', ''cilantro'']
+ 
+User: Today I would like to make Pasta Bataka, where do I begin?
+Robot: For this recipe you will need 2 cups of chopped potatoes, 2 cups of onions, 1 large lemon juice, 2 tbsp of garlic, 2 tbsp of ginger, 15 count curry leaves, 1 tbsp cumin (jeera) seeds, 1 tbsp asafoetida, 1/4 cup of peanuts or almonds, 1tbsp of sugar (optional), 2 tbsp sesame seeds, 2 tbsp golden raisins, 8 cashews, red chili powder, chopped green chilies and chopped cilantro leaves and stems.
+User: Ok, thank you, I have all of the ingredients at hand, what now?
+Robot: Heat the oil in a pan, then once heated add 1tbsp of cumin seeds and allow them to roast.
+User: I have heated the oil in a pan and added the cumin seeds, what now?
+Robot: Then once they pop and turn semi-brown add hing, after that immediately add 2 cups of finely chopped potatoes and cook for approximately 2 minutes.
+User: Thank you, I have added the hing and chopped potatoes. They have been cooked for 2 minutes, what do I do now?
+Robot: Then add 2 cups of finely chopped onions, 15 counts of curry leaves, chopped green chilies, 2 tbsp of golden raisins, 2tbsp of garlic and 2 tbsp of ginger, then cook until the onions are translucent and then serve.
+User: I have added the required ingredients, thank you for helping me cook Pasta Bataka.
+ 
+

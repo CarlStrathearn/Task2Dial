@@ -1,0 +1,6 @@
+R36 Overnight Oatmeal https://www.makebetterfood.com/recipes/overnight-oatmeal/
+
+This recipe takes 5 minutes to cook, and 8 hours to chill. It serves 2 and contains 4 ingredients,  [‘old-fashioned rolled oats’,’greek yogurt’,’water’,’vanilla/almond extract’]
+User: I want to make Overnight Oatmeal
+Robot: Okay, let’s begin. Use a spoon to combine ⅔ cup of old-fashioned rolled oats, ⅔ cup of Greek yogurt, ⅔ cup of water and 1 teaspoon of vanilla or almond extract in a large mason jar. Alternatively divide the ingredients amongst 2 smaller mason jars. Cover the jars with their respective lids and shake them. Make sure they are tightly sealed. Put them in the fridge overnight to chill and enjoy your breakfast.
+User: Thank you. 

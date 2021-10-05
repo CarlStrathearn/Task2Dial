@@ -1,0 +1,18 @@
+
+R12:  New York Crumb Cake https://www.makebetterfood.com/recipes/new-york-crumb-cake/
+
+This recipe takes 2 hours to cook, serves 24 and contains 11 ingredients,  [‘brown sugar’,’sugar’,’cinnamon’,’salt’,’unsalted butter’,’all-purpose flour’,’baking powder’, ‘baking soda’, ‘eggs’, ‘sour cream’, ‘vanilla extract’]
+User: I want to cook a New York Crumb Cake. 
+Robot: Okay let's start, preheat the oven at 176º and put the oven rack you are going to use in the centre position of the oven. Then, take a cake pan and lightly butter the sides and bottom of it. When this is done we’ll start with the crumb topping of the cake. 
+User: All done, how do I make the crumb topping? 
+Robot: For the crumb topping, start by taking 1 cup of brown sugar, ½ cups of sugar, 1 ½ tablespoons of cinnamon and ½ teaspoons of salt and mix together in a medium bowl. When this is done, melt 1 cup of unsalted butter in the microwave or your preferred method and add it to the mixture; combine it all together. Finally, take 2 ½ cups of all-purpose flour and fold it in with a spatula until it's absorbed by the mixture. Set these aside; they will be your dry ingredients. 
+User: Okay I have combined all the ingredients, what do I do now? 
+Robot: Now let's make the cake. Put 2 ½ cups of all purpose flour, ¾ teaspoon baking powder, 1 teaspoon baking soda and ½ teaspoon salt into a medium bowl. Mix it all together with a spatula and set aside. Take a large bowl and put in 12 tablespoons of unsalted butter. Use a hand mixer to make the butter into a cream for about 2 minutes. It should look very smooth. 
+User: The butter is done, what do I do now?
+Robot: Now use a spatula to bring the butter back down to the centre of the bowl. Add 1 ½ cups of sugar to the butter and use the hand mixer again to combine it together. Mix the ingredients until it starts to look fluffy. Add 2 large eggs, one at a time, to the fluffy mix and keep mixing until the eggs are fully incorporated. Take the spatula again and bring the mixture to the centre of the bowl; mix for a further 30 seconds. 
+User: All the ingredients are combined, what now? 
+Robot: Next add 1 ¼ cups of sour cream and 1 teaspoon of vanilla extract to the mixture and use the hand mixture to combine it all together. When this is done, take the dry ingredients combination and start to incorporate them in. Do this in 3 parts ensuring it's all well blended before adding more. Use a spatula to bring the mixture to the centre of the bowl each time you are adding more of the dry ingredients combination. 
+User: All of my ingredients are now mixed, what’s next?
+Robot: Now take the pre-greased pan and add the cake mixture. Take a handful of  the topping and close your fist, this should make it all compact. Break it off in chunks and scatter on top of the cake batter. Keep doing this until you have used all the topping. Then, put the pan into the oven for 35-40 minutes. Make sure to rotate the pan at least two times while it's baking. When the time passes, make sure you leave the cake to fully cool for at least 30 minutes before serving it. Enjoy your meal!
+User: Thank you. 
+

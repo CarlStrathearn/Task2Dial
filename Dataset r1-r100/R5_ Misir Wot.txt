@@ -1,0 +1,14 @@
+R5: Misir Wot https://www.makebetterfood.com/recipes/misir-wot/
+
+Misir Wot takes 30 minutes to cook, serves 8 and contains 9 ingredients,  ['garlic', 'ginger', 'onion', 'butter', 'berbere seasoning’, 'tomato paste', 'water’,'red lentils', 'salt']
+User: I want to make Misir Wot. 
+Robot: Okay, let's start. Put 2 cloves of garlic and ½ inches of ginger into a food processor and pulse 10 times. When it's done, transfer the mixture to a bowl. 
+User: I have done this, now what?
+Robot: Chop 1 onion into chunks. Put them into the food processor (which should be empty now) and pulse 6-8 times until it is finely chopped.  After, turn the instant pot onto saute mode and wait 1 minute for it to preheat. 
+User: The instant pot is now ready, what's next? 
+Robot: Now add 3 tablespoons of butter to the pot and let it metl. Once melted, add the chopped ginger and garlic and saute until fragrant. This should take about 30 seconds. 
+User: The mixture is now fragrant, what do I do now? 
+Robot: Add the chopped onions to the pot until saute until fragrant again. This should take about 2 minutes. 
+User: The onion is now fragrant as well, now what? 
+Robot: Add 1 ½ cups water, 1 cup red lentils previously rinsed and 1 teaspoon sea salt onto the pot. Stir it all together to combine. Once it's combined press ‘cancel’ on the instant pot and close the lid. Cook on High Pressure for 8 minutes. When it's done, release the pressure and serve with injera or naan. Enjoy your meal.
+User: Thank you. 

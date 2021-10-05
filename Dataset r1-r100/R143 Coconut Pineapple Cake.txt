@@ -1,0 +1,90 @@
+R143 Coconut Pineapple Cake https://www.makebetterfood.com/recipes/coconut-pineapple-cake/
+
+This recipe takes 45 minutes to cook, serves 16 and contains 21 ingredients,  [''eggs'', ''whole milk'', '’butter'', '’vegetable shortening'', ''flour'', ''wax paper'’, ''pineapple juice'', ''shredded coconut'', ''vanilla extract'', ''coconut extract'', ''cake flour'', ''sugar'', ''baking powder'', ''salt'', ''vanilla mixture'', ''pineapple mixture'', ''heavy cream'', ''cornstarch'', ''coconut pudding'', ''crushed pineapple'', ''coconut frosting'']
+
+User: I want to bake a Coconut Pineapple Cake today, please can you tell me what ingredients I will need? Thank you very much.
+Robot: For this cake you will need 8 large eggs, 1 cup of whole milk at room temperature, 4 sticks of butter, vegetable shortening, flour, wax paper, ½ cup of pineapple juice, ½ of shredded coconut, 3 tsp of vanilla extract, 2 tsp of coconut extract, 3 and ½ cups of cake flour, 3 cups of sugar, 4 tsp of baking powder, 2 tsp of salt, 1 and ½ cups of reserved vanilla mixture.
+User: I have the ingredients ready, could you please tell me if I need any other ingredients?
+Robot: Sure, for the coconut pudding you will need 1 and ½ cups of heavy cream, ½ cup of milk, ⅔ cup of sugar, a pinch of salt, 3 tbsp of cornstarch, ½ tbsp of coconut extract.
+User: Thank you so much, any others?
+Robot: Now, for the coconut frosting, you will need 5 tbsp of flour, 1 cup of milk, 1 tsp of coconut extract, 2 sticks of butter, 1 cup of sugar.
+User: Yes, thank you very much, I have the ingredients, am I ready to begin now?
+Robot: Not really, for the decorating you will need the following ingredients, reserved coconut pudding, ½ cup of crushed pineapple, coconut frosting and ¼ cup of shredded coconut.
+User: I have the ingredients ready, can I start now?
+Robot: Yes, you are ready to start. Now, two hours before you plan to make the cake, remove the eggs and the milk from the fridge and let them come to room temperature.
+User: I removed the milk and the eggs from the fridge, what do I have to do next?
+Robot: Now place 4 sticks of butter on a plate and let them rise to room temperature to soften.
+User: I placed the sticks of butter on a plate and I let them rise to room temperature, what do I have to do next?
+Robot: Next, adjust the oven rack to the lower-middle position and heat it to 350 degrees fahrenheit.
+User: Ok, I adjusted the rack to the lower-middle position and I heated it to 350 degrees, what do I have to do next?
+Robot: Now, grease a three 9 inch cake pan with vegetable shortening and cover the pan bottoms with rounds of parchment paper or wax paper.
+User: I greased a cake pan with vegetable shortening and covered the bottom with parchment paper, what is the next step?
+Robot: Now, dust the cake pans with flour and tap out any excess.
+User: I dusted the cake pans with flour and tapped the excess out, what do I do now?
+Robot: Next, to make the batter, drain ½ cup of pineapple juice from a can of crushed pineapple, then reserve the crushed pineapple for assembling the cake.
+User: I drained the pineapple juice from the crushed pineapple and reserved it for the cake. What is the next step that I have to take?
+Robot: Now, put the juice in a small saucepan and let it cook over a medium-high heat until reduced in half for approximately 6 minutes.
+User: I put the juice in a saucepan and let it cook over a medium-high heat for 6 minutes. What do I have to do next?
+Robot: Pour the reduced pineapple juice in a small bowl or measuring cup and then add the coconut and mix until the coconut is evenly coated.
+User: I poured the pineapple juice in a small bowl and mixed the coconut well, thank you. What is the next step that I have to take?
+Robot: Now, set aside and in a small bowl, whisk together eggs, milk, 3 tsp of vanilla extract and 2 tsp of coconut extract.
+User: I whisked together the ingredients required, thank you. What is the next step?
+Robot: Now set the whisked ingredients aside and in a large bowl, whisk together 3 cups of sugar, 3 and ½ cups of cake flour, 4 tsp of baking powder and 2 tsp of salt.
+User: I whisked the sugar, cake flour, baking powder and salt together, can you please tell me what I need to do next?
+Robot: Now, add the butter and use a pastry blender to cut the butter into very small and pea-sized pieces with the flour.
+User: I added the butter and used a pastry blender to cut the butter into small pea-sized pieces with the flour, thank you. What do I have to do next?
+Robot: Next add 1 and ½ cups of reserved egg-milk-vanilla mixture and mix at the lowest speed with a hand mixture until it becomes incorporated for approximately 10 seconds.
+User: I added the cups of egg-milk-vanilla mixture and mixed it at the lowest speed with a hand mixture and incorporated well. What is the next step?
+Robot: After 10 seconds, stop the mixer and scrape the sides at the bottom of the bowl, then beat on a medium-high until thoroughly combined and the batter looks curdled, do this for about 15 seconds longer.
+User: I stopped the mixer after 10 seconds and scraped the sides at the bottom of the bowl, then beat on a medium-high as required. What is the next step after this?
+Robot: Add the reserved coconut-pineapple mixture and mix with a spatula to combine, then for baking the cake, pour equal amounts of batter (about 2 cups) into three prepared cake pans.
+User: I added the coconut-pineapple mixture and mixed it with a spatula, I also poured 2 cups of batter into the cake pans. What is the next step?
+Robot: Spread the batter to the sides of the pan until they become smooth, do this with a rubber spatula.
+User: I spread the batter with a spatula and they are now smooth, thank you, what next?
+Robot: Now, bake until the top of the cakes turn golden brown and insert a toothpick in the center, it should then come out clean, do this for approximately 25 minutes.
+User: The top of the cakes are now golden brown and the toothpick came out clean, I did this for 25 minutes as required. What do I have to do next?
+Robot: Remove the pan with the cake from the oven and let it cool on a rack for 10 minutes, then run a knife around the perimeter of the pan to loosen it.
+User: I removed the pan with the cake from the oven and I let it cool on a rack for 10 minutes, thank you, what now?
+Robot: Now turn the cake onto a large plate, then peel the parchment off slowly and reinvert onto the lightly greased rack and let it cool completely before decorating it.
+User: I turned the cake on a large plate and peeled off the parchment, I also reinverted it onto a greased rack and I let it cool down, what do I do now?
+Robot: Next, in order to make the coconut pudding for the filling, in a medium saucepan, whisk 1 and ½ cups of heavy cream, ½ cup of milk, ⅔ cups of sugar and a pinch of salt.
+User: In a saucepan I whisked the ingredients required, can you please tell me what I have to do next?
+Robot: Cook the ingredients over a medium-low heat, whisking occasionally, until the mixture just begins to steam for approximately 10 minutes.
+User: I cooked the ingredients over a medium-low heat and whisked occasionally, the mixture steamed well after 10 minutes, can you please tell me what I have to do next?
+Robot: Now in a separate bowl or a measuring cup, combine the cornstarch and the heavy cream, then whisk until they turn smooth and there are no lumps visible.
+User: I combined the cornstarch and the heavy cream and whisked them all, the ingredients are now smooth with no lumps, thank you very much, what do I do next?
+Robot: Now add 3 tbsp of cornstarch mixture to the saucepan and let it cook, make sure to stir occasionally, until the pudding starts to thicken and barely reaches a boil.
+User: I added the cornstarch mixture to the saucepan and let it cook. The pudding has now thickened well enough, what comes next?
+Robot: Next, after 5 minutes have passed, immediately reduce the heat to very low and stir for 5 minutes or so until the mixture becomes thick.
+User: I have reduced the heat to very low and stirred for 5 minutes, thanks. What is the next step that I have to take?
+Robot: After 5 minutes, remove the mixture from the heat and stir in ½ tbsp of coconut extract, then pour the pudding into a 1-quart dish.
+User: I removed the mixture from the heat and stirred in the coconut extract and also poured it into a 1-quart dish as required. What do I have to do next?
+Robot: Cover the pudding tightly with plastic wrap directly on the surface to prevent the skin from forming, then refrigerate until chilled for about 2 hours.
+User: I covered the pudding with plastic wrap and refrigerated it for 2 hours, what do I do next?
+Robot: Now, to make the coconut frosting, in a small saucepan, whisk 5 tbsp of flour and 1 cup of milk, then cook over a medium-high heat and make sure to stir constantly.
+User: I whisked the ingredients and stirred, what is next?
+Robot: Stir in the coconut extract once the mixture has thickened and remove from the heat and let it cool down to room temperature.
+User: Thanks for that, I stirred the coconut extract and the mixture is now thick, I also removed it from the heat and let it cool down as required. What do I have to do next?
+Robot: Now while the mixture is cooling, use an electric hand mixer to cream 1 cup of butter and 1 cup of sugar together in a medium bowl until it becomes light and fluffy.
+User: Thank you very much, I creamed the butter and sugar together in a medium bowl using an electric hand mixer, the mixture is now light and fluffy, what is the next step?
+Robot: Add the cooled milk mixture to the creamed sugar mixture, then using an electric hand mixer, beat the frosting until it is very light and fluffy for about 5 minutes.
+User: I added the milk mixture to the cream sugar mixture and I beat the frosting for 5 minutes as required, thank you for letting me know, now what is the next step?
+Robot: Now, stop mixing periodically and scrape down the sides of the bowl.
+User: I have scraped down the sides of the bowl, what is the next step after this?
+Robot: Now, to make the decoration, once the mixture is completely cool, place one layer of cake on a plate or a serving platter, then top the cake with about half of the coconut pudding.
+User: I placed one layer of the cake on a serving platter and topped it with half of the coconut pudding, what now?
+Robot: Now, sprinkle and spread ½ cup of crushed pineapple on the top of the pudding, then place another layer of the cake on the top of the pudding and top with the most remaining pudding.
+User: I sprinkled and spread ½ of the cup of crushed pineapple on the top of the pudding and placed another layer of the cake on the top, thank you, what next?
+Robot: Now finally place the final layer of the cake on the top and decorate the cake with reserved coconut frosting, then sprinkle the top of the cake with ¼ cup of shredded coconut as desired.
+User: I have placed the final layer of the cake on the top and decorated it with the reserved coconut frosting, what is the next step?
+Robot: Serve immediately or refrigerate until ready to serve and enjoy the cake.
+User: Thank you for helping me bake a Coconut Pineapple Cake.
+
+
+
+
+
+
+
+
+

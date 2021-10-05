@@ -1,0 +1,21 @@
+R200 Fennel, leek and squash gratin with tarragon and hazelnuts https://www.bbc.co.uk/food/recipes/fennel_leek_and_squash_67877
+
+Fennel, leek and squash gratin with tarragon and hazelnuts  takes 30-60 minutes to cook, serves 6 and contains 10 ingredients,  [''leeks'', ''fennel'', '’squash'', '’olive oil'', ''sea salt flakes'', ''chili flakes'’, ''tarragon'', ''double cream'', ''hazelnuts'', ''mature cheddar cheese'']
+
+User: I want to cook Fennel, leek and squash gratin with tarragon and hazelnuts today, what are the ingredients required for this recipe?
+Robot: In order to cook Fennel, leek and squash gratin with tarragon and hazelnuts you will need the following ingredients, 2 leeks cut into 1cm, 2 fennel bulbs, cut into 1cm, 600g of squash, peeled and cut into 15mm, 2 tbsp of olive oil, 1 tsp of sea salt flakes, ½ 1 tsp chili flakes, 20g of tarragon, 400ml of creme fraiche, 100g of hazelnuts and 75g of mature grated cheddar cheese.
+User: I have the ingredients ready, what is the first step?
+Robot: First, preheat the oven to 220C/200C Fan/ Gas 7, tip the leeks, fennel and squash into a roasting tin large enough to hold everything in roughly one layer.
+User: I have preheated the oven, tipped the leeks, fennel and squash in a roasting tin, what is the next step after this?
+Robot: Then, stir 2 tbsp of olive oil, salt, ½ 1 tsp of chili and half the tarragon, roast for 45 minutes.
+User: I have stirred the 2 tbsp of olive oil, chili and half of the tarragon, they have been roasted for 45 minutes, what is the next step?
+Robot: Meanwhile, finely chop the remaining tarragon leaves.
+User: I have chopped the tarragon leaves, what now?
+Robot: Carefully pour the cream or creme fraiche over the vegetables and after that scatter with the chopped tarragon, hazelnuts and cheddar.
+User: I have poured the cream over the vegetables and scattered them with the chopped tarragon, hazelnuts and cheddar, what do I do now?
+Robot: Then, turn down the oven to 200C/ 180C / Gas 6 and then return the gratin to the oven for a further 15 minutes.
+User: I have turned the oven down to 200C and returned the gratin to the oven for another 15 minutes, what next?
+Robot: Leave the gratin to cool for 10 minutes before serving, with crisp rounds of toasted bread, serve and enjoy the meal.
+User: Thank you for helping me cook Fennel, leek and squash gratin with tarragon and hazelnuts.
+
+

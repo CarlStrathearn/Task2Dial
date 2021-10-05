@@ -1,0 +1,30 @@
+R217 Smoked salmon crepes https://www.bbc.co.uk/food/recipes/smoked_salmon_crpes_80074
+
+This recipe takes 10 minutes to cook serves 4 and contains 9 ingredients,  [''plain flour'', ''eggs'', '’milk'', '’sunflower oil'', ''yoghurt'', ''dill'’, ''lemon'', ''smoked salmon'', ''black pepper'']
+
+User: I would like to cook some Smoked Salmon crepes today, what are the ingredients required?
+Robot: For this recipe you will need the following ingredients, for the crepes you will need 60g of plain flour, 1 large free-range egg, 150ml of milk and 1 tbsp of sunflower oil for the frying and for the filling you need 100g of greek-style yoghurt, 2 tbsp of finely chopped fresh dill, plus extra to garnish, 1 small lemon, 2 tsp of juice and 4 wedges only, 100g of thickly sliced smoked salmon, salt and freshly ground black pepper.
+User: I have the ingredients ready to make the crepes, what is the first step that I need to take?
+Robot: In order to make the crepes, mix 60g of flour and 1 large free-range egg in a bowl, then whisk in half of the milk until smooth.
+User: I have mixed 60g of flour and 1 large free-range egg into the bowl and whisked in half of the milk and is now smooth, what do I do next?
+Robot: Then, add the remaining milk and whisk until well combined, then pour the mixture into a jug and then set aside.
+User: I have added the remaining milk and whisked, I have also poured the mixture into a jug and set aside, what is the next step that I have to follow?
+Robot: In order to make the filling, mix 100g of yoghurt, 2 tbsp of finely chopped fresh dill and lemon juice with a small pinch of salt and ground black pepper in a bowl.
+User: I have mixed 100g of yoghurt, 2 tbsp of finely chopped fresh dill and lemon juice with a small pinch of salt and ground black pepper, what is the next step?
+Robot: Then, adjust the seasoning to taste, adding a little extra lemon juice if needed and then set aside.
+User:  I have added a little more extra lemon juice and I set it aside, what next?
+Robot: Now brush a little oil over the base of a small non-sticking frying pan and it will need a base no longer than 18cm.
+User: I have brushed a little oil over the base of a small pan, what is the next step after this?
+Robot: Then pour a quarter of the crepe batter into the pan and swirl around until the base is completely covered.
+User:  I have poured a quarter of the crepe batter into the pan and swirled around, what is the next step?
+Robot: Cook for about 60 seconds or until the bottom of the pancake is completely cooked and golden-brown in certain places.
+User: I have cooked it for 1 minute, what next?
+Robot: Loosen the sides with a knife or turner and then flip over.
+User:  I loosened the sides with a knife, what next?
+Robot: Cook the other side for approximately 40-60 seconds more and transfer them to a warmed plate and continue to cook the remaining 3 pancakes.
+User: I have cooked the other side for 40-60 seconds and transferred them to a warm plate and continued to cook the remaining 3 pancakes. What is the next step after this?
+Robot: Then, to serve, spread each crepe with the dill mixture, top it with the smoked salmon and a little extra dill, then fold or roll the pancakes and serve with the lemon wedges, enjoy.
+User:  Thank you for helping me cook Smoked salmon crepes.
+
+
+

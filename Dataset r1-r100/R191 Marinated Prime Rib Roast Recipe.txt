@@ -1,0 +1,27 @@
+R191 Marinated Prime Rib Roast Recipe https://cookeatshare.com/recipes/marinated-prime-rib-roast-5323
+ 
+Marinated Prime Rib Roast Recipe takes 120 minutes to cook, serves 8-10 and contains 19 ingredients, [''rib roast'', ''kosher salt'', '’flour'', '’soy sauce'', ''Worcestershire sauce'', ''garlic cloves'’, ''liquid smoke'', ''olive oil', ''beef broth''', ''pineapple'', ''mustard powder'', ''ground cloves'', ''coriander powder'', ''onion powder'', ''bay leaves'', ''black pepper'', ''brown sugar'', ''dried thyme'', ''rosemary'']
+ 
+User: Today I would like to cook Marinated Prime Rib Roast, where do I begin?
+Robot: In a big bowl, mix together ¼ cup of soy sauce, ⅔ of a cup of Worcestershire sauce, 8 cloves of minced garlic, 1bsp of liquid smoke, ¼ cup of olive oil, 11/2 cup of beef broth, 10oz of pineapple tidbits with juice, 1 tbsp of mustard powder, 1 tsp of ground cloves, 1 tsp of coriander powder, 1 tsp of onion powder, 2 bay leaves, 1 tsp of ground black pepper, ½ cup of brown sugar, 1 tsp of dried thyme and 1 tsp of dried rosemary.
+User: Thank you, I have all of the ingredients at hand, what do I do next?
+Robot: Prick the holes all over the roast with a two pronged fork, then rub the rib roast with ¾ tsp of kosher salt and ¼ cup of all purpose flour thoroughly.
+User: I have pricked the holes all over the roast with the pronged fork and rubbed the rib roast with salt and flour, what do I do now?
+Robot: You will need a roasting pan to put the prime ribs and then pour the marinade over the ribs.
+User: I have put the prime ribs in the roasting pan and marinated the ribs, what next?
+Robot: Now you must cover and refrigerate for at least 3 hours, basting at least 2 times and then preheat the oven to 400F.
+User: They have been covered and refrigerated for 3 hours and basted them two times, also the oven has been preheated to 400F, what do I do now?
+Robot: Insert a roasting thermometer in the middle of the roast, also ensure that the thermometer does not touch any of the bones.
+User: The thermometer has been added in the middle of the roast and it does not touch any bones, what now?
+Robot: Get some aluminium foil and cover the pan and seal the edges tightly around the pan.
+User: I have covered the pan with aluminium foil and the edges have been sealed tightly, what comes next?
+Robot: Then you must cook the roast for 60 minutes in the preheated oven and after the first hour, remove the aluminium foil.
+User: The roast has been cooked for 60 minutes and I removed the aluminium foil, what now?
+Robot: Now baste the prime rib, reduce to 325F and continue roasting for another 60 minutes, the thermometer should be at least 140F for medium rare and 170F for well done.
+User: I have basted the prime ribs and reduced to 325F and continued to roast the ribs for another 60 minutes, what do I do now?
+Robot: Remove the roasting pan from the oven and let it rest for about 30 minutes before slicing.
+User: I have removed the roasting pan from the oven and it has rested for 30 minutes, what now?
+Robot: Then use the sauce from the drippings and serve.
+User: Ok, thank you for helping me cook Marinated Prime Rib Roast.
+
+

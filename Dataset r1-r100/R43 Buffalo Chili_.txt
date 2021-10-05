@@ -1,0 +1,13 @@
+R43 Buffalo Chili https://www.makebetterfood.com/recipes/buffalo-chili/
+
+This recipe takes 1 hour and 30 minutes to cook, serves 10 and contains 18 ingredients,  [‘yellow onion’,’green bell pepper’,’chipotle chilies’,’garlic’,’chili powder’,’ground coriander’,’ground cumin’,’canola oil’,’ground buffalo’,’tomatoes’,’pinto beans’,’tomato puree’,’beef stock’,’water’,’tomato paste’,’masa harina flour’,’salt’,’pepper’]
+User: I want to make Buffalo Chili
+Robot: Okay, let’s begin. Use a knife and a cutting board to chop 1 yellow onion, 1 green bell pepper, 2 chipotle chiles in adobo and 3 garlic cloves. Put these together with ¼ cup of chili powder, 2 tablespoons of ground coriander and 1 tablespoon of ground cumin in a medium bowl. Use a wooden spoon to combine and set it aside. Then, heat up 2 tablespoons of canola oil in a dutch oven or large stock pot over medium heat until it simmers. Then add in 1 pound of ground buffalo and sauté making sure you break it up using a wooden spoon. Cook until it browns. Next add in the reserved onion-pepper mixture to the pan and sauté until the onions become translucent. This should take 3-5 minutes. 
+User: The ground buffalo and veggies are now done, what do I do now? 
+Robot: Now dice tomatoes using the knife and cutting board until you obtain 28 ounces of chopped tomatoes. Then add these and 15 ounces pinto beans, cooked or canned and rinsed; 1 cup tomato puree, 1 cup beef stock and 1 cup water into the pan. Increase the heat and bring it to a boil. Then, reduce the heat to a simmer and cook it for about 30 minutes. 
+User: The 30 minutes have gone by already, what comes next? 
+Robot: Next, add in 2 tablespoons of tomato paste, stir using a wooden spoon to combine and simmer for a further 30 minutes. Once this time has gone by let me know and I will be able to tell you the last steps of this recipe. 
+User: The time is up, what are the last steps?
+Robot: Lastly stir the chili mixture and, while stirring, add in ½ cup of masa harina flour to thicken the chili and season with salt and pepper to taste. If the chili becomes too thick add more beef stock in 2-tablespoon increments. Once you are happy with the consistency, simmer for an additional 5 minutes and serve. Enjoy your meal. 
+User: Thank you.
+

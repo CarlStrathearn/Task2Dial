@@ -1,0 +1,24 @@
+R202 Baked Parmesan Tilapia https://www.yeprecipes.com/img-baked-parmesan-tilapia-1695.htm
+
+Baked Parmesan Tilapia takes 30 minutes to cook, serves 4 and contains 10 ingredients,  [''tilapia'', ''panko breadcrumbs'', '’parmesan cheese'', '’large eggs'', ''peanut oil'', ''flour'’, ''kosher salt'', ''pepper'’, ''paprika'’, ''lemon'’]
+
+User: Today I would like to cook Baked Parmesan Tilapia, what are the ingredients needed in order to make this meal?
+Robot: In order to cook Baked Parmesan Tilapia you will need the following ingredients, 1lb of tilapia, fresh or thawed frozen, about 5 medium filets, ½ cup of panko breadcrumbs, 1 cup of shredded Parmesan cheese, 2 large eggs, 2 tbsp of peanut oil, ½ cup of flour, ½ tsp of kosher salt, ⅛ tsp of pepper, ¼ tsp of paprika and 1 lemon cut into wedges.
+User: I have the ingredients ready at my disposal, what is the first step?
+Robot: Firstly, you must preheat the oven to 425 degrees fahrenheit.
+User: I have preheated the oven to 425 degrees, what is next?
+Robot: On a pie plate combine the panko and using a cheese grater, grate 1 cup of parmesan cheese, in a second plate beat the eggs with a fork and add 2 tbsp of peanut oil.
+User: I have combined the panko and 1 cup of parmesan cheese on the first plate and on the second plate I have beaten the eggs with the peanut oil, what do I do next?
+Robot: On the third plate combine ½ cup of flour, ½ tsp of kosher salt and ⅛ tsp of pepper and the ¼ tsp of paprika.
+User: I have combined the ingredients together, what is the next step I have to take?
+Robot: Next, line a baking sheet with aluminium foil and cover with a baking rack
+User: The baking sheet has been lined with a foil and covered successfully with a baking rack, what comes after this?
+Robot: Pat the fish while it is dry, one by one dredging the fish in the prepared flour and shaking off any excess flour.
+User: Ok, thank you, the fish has been patted and dredged in the flour, what do I do next?
+Robot: After that, dip the fish into the egg mixture in order to allow any extra to run off, finally coat fully with the parmesan breadcrumbs.
+User: The fish has been dipped into the egg mixture and fish has been coated with the parmesan breadcrumbs, what next?
+Robot: Next, place each fish that is breaded back onto the baking rack and continue with the rest of the tilapia by spacing the fish out on the rack.
+User: I have placed the fish back onto the rack, what is the next step that I have to follow?
+Robot: Finally, bake in the oven for 20 minutes or until the fish is golden brown and fully cooked at an internal temperature of about 140 degrees fahrenheit, then after that serve immediately with the fresh lemon wedges and enjoy the meal.
+User: I have baked the meal in the oven for approximately 20 minutes and served the meal, thank you so much for helping me cook Baked Parmesan Tilapia.
+

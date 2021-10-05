@@ -1,0 +1,30 @@
+R189 Chicken, miso and mushroom ramen https://www.bbc.co.uk/food/recipes/chicken_miso_and_49410
+
+Chicken, miso and mushroom ramen takes 30 minutes to 60 minutes to cook, serves 4 and contains 17 ingredients, [''1.5 L chicken stock'', ''15g mushrooms'', '1 star anise'', '’1 ginger root'', ''3 garlic cloves'', ''3 spring onions'’, ''750g chicken thighs'', ''4 large eggs'', ''2 tablespoons miso paste'', '1 tablespoon of 'mirin'', '1 tablespoon of 'soy sauce'', ''12 dried shiitake mushrooms'', ''400g ramen noodles'', ''100g baby spinach'', ''white pepper'', ''1 sliced red chili'', '1 tablespoon of 'furikake'']
+User: Today I would like to cook Chicken, miso and mushroom ramen, what ingredients are needed?
+Robot: The recipe will take 30 to 60 minutes to cook, it serves 4 people and contains 17 ingredients. The recipe requires chicken stock, mushrooms, 1 star anise, ginger, garlic cloves, spring onions, chicken thighs, eggs, miso paste, mirin, soy sauce, shiitake mushrooms, ramen noodles, baby spinach, white pepper, red chili and furikake seasoning.
+User: have these ingredients at hand, where do I begin to cook this recipe?
+Robot: Firstly, pour the stock in a large saucepan and then add the porcini, star anise, ginger, garlic and the white parts of the spring onions and chicken.
+User: the stock, porcini, star anise, ginger, garlic and the white parts of the onions and chicken have been added, what do I do next?
+Robot: Then, you bring to a gentle simmer and cook gently for 25 minutes or until the chicken is cooked through and tender enough.
+User: I have brought it to a gentle simmer, the chicken is cooked through well and is tender. What is the next step?
+Robot: Remove the chicken from the pan and put it aside, then pour the broth through a sieve into a jug and throw away the rest of the contents.
+User: I have thrown away the chicken from the pan and put it aside and I have poured the broth through a sieve into a jug and thrown away the rest of the contents, what is the next step?
+Robot: Then return the broth to the pan and place over a medium-high heat.
+User: I have returned the broth to the pan and placed it over a medium-high heat, what is the next step?
+Robot: After the broth has been boiled, add the eggs carefully in their shells and let them cook for about six minutes.
+User: I have added the eggs into their shells, and I let them cook for six minutes, what comes next?
+Robot: Lift out the eggs and transfer them to a bowl with iced water for them to cool down.
+User: I have transferred them to a bowl with iced water and they are now cool, what now?
+Robot: Whisk the miso paste into the broth, after that stir in the mirin and soy sauce.
+User: I have whisked the miso pasted into the broth and stirred the mirin and soy sauce, what comes next?
+Robot: Then you add the shiitake mushrooms and let them cook for around 3 to 4 minutes or until they are tender and after that season with a pinch of sea salt and a small pinch of white pepper.
+User: I have added and seasoned the shiitake mushrooms, they are tender enough, thank you, what is the next step?
+Robot: Add the noodles to the broth and cook the noodles until they are warmed through, then remove the noodles with a slotted spoon and divide between four warmed bowls.
+User: The noodles have been added and cooked, they are also warmed through well. I have also removed the noodles with a slotted spoon and divided them among four bowls, thank you for that, what is the next step?
+Robot: Then shred the chicken, discarding any excess bones then place the chicken in the broth with spinach leaves.
+User: Ok, I have shredded the chicken and discarded any additional bones and I have placed the chicken in the broth with the spinach leaves, what now?
+Robot: Shell the boiled eggs and halve each egg, then ladle the broth into the bowls, add the eggs and garnish with the green parts of the spring onion, red chili and furikake and serve.
+User: Ok, thank you for helping me cook Chicken, miso and mushroom ramen.
+
+

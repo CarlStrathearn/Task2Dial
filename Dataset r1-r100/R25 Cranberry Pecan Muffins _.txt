@@ -1,0 +1,16 @@
+R25 Cranberry Pecan Muffins  https://www.makebetterfood.com/recipes/cranberry-pecan-muffins/
+
+This recipe takes 1 hour and 10 minutes to cook, yields 12 muffins and contains 13 ingredients,  [‘all-purpose flour’,’sugar’,’light brown sugar’,’butter’,’salt’,’baking spray’,’pecans’,’eggs’,’whole milk’,’’baking powder’,’cranberries’,’confectioner’s sugar’]
+User: I want to make Cranberry Pecan Muffins
+Robot: Okay, let’s begin. Firstly let’s make the streusel topping. Put 3 tablespoons of all-purpose flour, 4 teaspoons of sugar, 1 tablespoon of packed light brown sugar, 2 tablespoons of butter and a pinch of salt into a food processor Pulse 6-10 times until it resembles coarse sand. Transfer the mixture into a bowl and set aside. 
+User: The streusel topping is done, what comes next? 
+Robot: Next, let’s make the batter. Start by preparing a 12-cup muffin tin with baking spray and preheating the oven to 218º. Bake 1 cup of pecan halves in the oven for about 5 minutes or until they are toasted. Remove them and let them cool down for about 10 minutes. Then, transfer the pecans into the bowl of a food processor. Add 1 cup of sugar into the food processor bowl and process the pecans and sugar together until the nuts are almost entirely broken down. This should take 10 2-second pulses. When it's done, put the mixture into a large bowl. 
+User: The pecans and sugar are done, what do I do now? 
+Robot: Now, add 2 large eggs, ½ cup of whole milk and 6 tablespoons of butter into the bowl with the pecans and the sugar. Using a whisk, combine the ingredients together. In a separate bowl, whisk 1 ⅓ cups of all-purpose flour, 1 ½ teaspoons of baking powder and 1 teaspoon of salt together. Pour these into the pecan-mixture bowl and combine using the whisk. This is your batter done! Set it aside for 30 minutes until it thickens.
+User: The batter is thickening, is there anything I can do in the meantime? 
+Robot: In the meantime put 2 cups of fresh cranberries, 1 tablespoon of confectioners' sugar and ¼ teaspoon of salt into the now-empty food processor. Pulse 6 times until the cranberries are roughly chopped. When the batter has finished thickening, use a spatula to fold this cranberry mixture into it. Now the last step, baking. When your batter is done let me know and I will tell you the last steps. 
+User: The batter is done, what do I do for the baking?
+Robot: Use a ¼ cup measure to scoop out the muffin batter into the cupcake tin. Sprinkle the streusel topping over the muffins. Bake the cupcakes for 17-18 minutes and let them cool down for a further 10 before serving. Enjoy your meal.
+User: Thank you. 
+
+

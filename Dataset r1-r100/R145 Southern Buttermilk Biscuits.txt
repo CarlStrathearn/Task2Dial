@@ -1,0 +1,37 @@
+R145 Southern Buttermilk Biscuits https://www.makebetterfood.com/recipes/buttermilk-biscuits/ 
+
+This recipe takes 15-20 minutes to cook, serves 24 and contains 8 ingredients,  [''all-purpose flour'', ''baking powder'', '’sea salt'', '’baking soda'', ''frozen butter'', ''shortening'’, ''buttermilk'', ''flour'',]
+
+User: What ingredients do I need to bake Southern Buttermilk Biscuits?
+Robot: For the biscuits you will need the following ingredients, 22 ounces of all-purpose flour, 8 tsp of baking powder, 2 and ½ tsp of coarse sea salt, ½ tsp of baking soda, ¼ cup of frozen butter, ¼ cup of shortening, 2 cups of buttermilk, ¼ cup of flour.
+User: I have the ingredients ready, can I start or do I need any other ingredients?
+Robot: You are ready to begin. Move the oven rack to the middle position and then preheat the oven to 450 degrees fahrenheit.
+User: I moved the oven rack to the middle position and preheated the oven to 450 degrees. What is the next step that I have to take?
+Robot: Then take ¼ cup of frozen butter and grate using a cheese grater, then add them to the dry ingredients.
+User: I have grated the butter using a cheese grater and added it to the dry ingredients. What is the next step that I have to take?
+Robot: Next, add ¼ cup of shortening to the dry ingredients, using your hands or a pastry blender, press the butter and shortening into the flour mixture until the mixture looks like crumbs.
+User: I have added the shortening to the dry ingredients and used my hands to press the butter into the shortening. Now the flour mixture looks like crumbs, what is the next step that I have to take?
+Robot: Next, add 2 cups of buttermilk to the dry ingredients, using a dough whisk or spatula, stir until the ingredients have just combined well.
+User: I have added the cups of buttermilk to the dry ingredients and I used a spatula to stir the ingredients .What is the next step?
+Robot: Generously flour a clean work surface, then turn the dough onto the surface and flour the top of the dough.
+User: I floured the work surface and turned the dough onto the surface and floured the top of it. What do I have to do next?
+Robot: Now you must fold the dough in half or within itself 5 five times, make sure to gently press it into a 1-inch thick round, got it?
+User: I have folded in the dough 5 times as required and I gently pressed it into 1-inch thickness, what is the next step that I have to take?
+Robot: Now, using a 2-inch biscuit cutter or a thin-rimmed drinking glass, cut out the biscuits, then place them on an ungreased baking sheet so that their sides just barely touch.
+User: I cut out the biscuits using the biscuit cutter at the dimensions required, I also placed them on the baking sheet, what is the next step?
+Robot: Combine the remaining dough into a ball and press it back into the 1-inch thick round and cut the additional biscuits, there should be a total of 24.
+User: I combined the remaining dough into a ball and pressed it back into the 1-inch thick round and I also cut out the additional biscuits. What now?
+Robot: Now, bake at 450 degrees fahrenheit until the biscuits have risen and the tops are golden brown for approximately 20 minutes.
+User: I baked the biscuits at 450 degrees and they have risen well with the tops golden brown, what do I have to do next?
+Robot: Remove them from the oven and let them cool down for 5 minutes.
+User: I have removed them from the oven and they have cooled down for 5 minutes, what do I do next?
+Robot: Serve them on a plate and enjoy.
+User: Thank you for helping me make Southern Buttermilk Biscuits.
+
+
+
+
+
+
+
+

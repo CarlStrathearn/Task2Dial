@@ -1,0 +1,35 @@
+R137 Better Banana Bread https://www.makebetterfood.com/recipes/banana-bread/
+
+This recipe takes 60 minutes to cook, serves 2 and contains 18 ingredients,  [''ripe bananas'', ''eggs'', '’brown sugar'', '’olive oil'', ''agave syrup'', ''vanilla extract'’, ''all-purpose flour'', ''wheat flour'', ''ground cardamom'', ''baking powder'', ''baking soda'', ''kosher salt'', ''ground cinnamon'', ''banana mixture'', ''plain yogurt'', ''chopped walnuts'', ''cooking spray'', ''oats'']
+
+User: I would like to bake a Better Banana Bread, what ingredients will I need?
+Robot: For the banana bread you will need, 3 ripe bananas, 2 lightly beaten eggs, ½ cup of brown sugar, ⅓ cup of extra-virgin olive oil, ¼ cup of agave syrup, 1 tsp of vanilla extract, all-purpose flour, white wheat flour, ground cardamom, 1 tsp of baking powder, 1 tsp of baking soda, 1 tsp of kosher salt, 1 tsp of ground cinnamon, ⅓ cup of plain yogurt, 1 cup of chopped walnuts, cooking spray, ¼ cup of old-fashioned oats.
+User: I have the ingredients ready, what is the first step that I need to take?
+Robot: Mash 3 ripe bananas in a large-oven safe bowl, then place the bowl in a cold oven and preheat the oven to 350 degrees fahrenheit.
+User: I mashed the ripe bananas and put them in a bowl. I also preheated the oven to 350 degrees fahrenheit as required. What do I have to do now?
+Robot: Next, remove from the preheating oven once the bananas have warmed slightly and they have released some of their juices for about 5-10 minutes.
+User: I removed the bananas from the preheated oven and they released some of their juices, now what do I have to do?
+Robot: In a medium-sized bowl, beat 2 eggs, ½ cup of brown sugar, ⅓ cup of vegetable oil, ¼ cup of honey and 1 tsp of vanilla extract and mix well until they are combined well.
+User: I beat the eggs, sugar, vegetable oil, honey and the vanilla, they are now all combined, what do I have to do next?
+Robot: Now add the bananas and mix well to combine, then set aside.
+User: I added the bananas to the mix and combined well, I also set it aside, now what do I have to do?
+Robot: Now, in a separate bowl, whisk the flours, 1 tsp of kosher salt, 1 tsp of baking soda, 1 tsp of baking powder and spices.
+User: I whisked the ingredients in a bowl as required, can you please tell me what I need to do next?
+Robot: Now, add ⅓ cup of plain yoghurt and 1 cup of chopped walnuts, then stir to combine.
+User: I added the yoghurt and walnuts and stirred well, what do I do now?
+Robot: Lightly grease two loaf pans and then evenly divide the batter between the two pans, if desired, sprinkle on top of loaves with oats.
+User: I greased the two loaf pans and divided them evenly between the two pans, what next?
+Robot: Now bake at 350 degrees fahrenheit until a skewer inserted into the middle of the loaf will come out clean for approximately 40 minutes.
+User: I baked it at 350 degrees and the skewer came out clean for 40 minutes as required, now what do I have to do next?
+Robot: Let it cool down for 10 minutes and remove it from the pan after and let it cool down on a wire rack before serving for about 1 hour.
+User: I let it cool down for 10 minutes and then placed it on a wire rack for 1 hour, what next?
+Robot: Serve and enjoy
+User: Thank you for helping me make Better Banana Bread.
+
+
+
+
+
+
+
+

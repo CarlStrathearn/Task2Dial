@@ -1,0 +1,21 @@
+R197 Swiss Mushroom Pheasant Breast
+
+Swiss Mushroom Pheasant Breast takes 15 minutes to cook, serves 4 and contains 8 ingredients,  [''breast halves'', ''large egg'', '’crackers'', 'salt'', ''mushrooms'', ''butter'’, ''deli ham'', ''swiss cheese'']
+
+User: Today I would like to cook Swiss Mushroom Pheasant Breast, what are the ingredients required?
+Robot: To cook Swiss Mushroom Pheasant Breast, you will need the following ingredients, 1lb of Boneless Skinless Pheasant Breast Halves, 1 large egg, 1 cup crushed butter-flavored crackers, ¾ tsp of salt, ½ lb of fresh sliced mushrooms, 2 tbsp of butter, 4 thin slices of deli ham and 4 thin slices of swiss cheese.
+User: Ok, thanks, I have the ingredients ready, what is the first step?
+Robot: Firstly, you flatten the pheasant into ¼ in thickness, then in a shallow bowl, lightly beat the egg.
+User: I flattened the pheasant into ¼ thickness and then into a shallow bowl and beat the egg, what comes next?
+Robot: After that combine the cracker crumbs and salt in another shallow bowl, then dip the chicken in the egg and then roll into crumbs and set aside.
+User: I have combined the cracker crumbs and salt in another shallow bowl, dipped the chicken in the egg and set aside for some time, what is the next step?
+Robot: Have a large ovenproof skillet handy, saute mushrooms in 1 tbsp of button until golden brown, remove and set aside.
+User: I have set aside the saute mushrooms, what comes next?
+Robot: In the same skillet, cook the pheasant over the medium heat in the remaining butter for approximately 3-4 minutes on each side until it is no longer pink.
+User: Alright, thank you very much, I have done this, I have cooked the pheasant in the remaining butter for the remaining time, what is next?
+Robot: Next, you must top each pheasant breast half with 4 thin slices of ham, ½ lb of fresh mushrooms and 1 cheese slice.
+User: I have topped the pheasant breast with 4 thin slices of ham, ½ lb of fresh mushrooms and 1 cheese slice, what is the next step?
+Robot: Boil 4-6 in from the heat for 1-2 minutes or until the cheese has fully melted then serve and enjoy.
+User: Thank you for helping me cook Swiss Mushroom Pheasant Breast.
+
+

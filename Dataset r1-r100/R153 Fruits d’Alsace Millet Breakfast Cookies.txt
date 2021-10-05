@@ -1,0 +1,22 @@
+R153 Fruits d’Alsace Millet Breakfast Cookies https://www.makebetterfood.com/recipes/fruits-d-alsace-millet-breakfast-cookies/
+
+This recipe takes 15 minutes to cook, serves 18 and contains 13 ingredients,  [''water'', ''salt'', '’dry millet'', '’butter'', ''light brown sugar'', ''all-purpose flour'’, ''wheat flour'', ''baking powder'', ''baking soda'', ''cornmeal'', ''coconut flakes'', ''fruit spread'', ''egg'']
+
+User: I would like to make some Alsace Millet Breakfast cookies, can you let me know what ingredients are required please?
+Robot: For the cookies you will need the following ingredients, 1 cup of water, 1 tsp of salt, ½ cup of dry millet, 1 cup of butter, ¼ cup of light brown sugar, 1 cup of all-purpose flour, ½ cup of whole wheat flour, ½ tsp of baking powder, ¼ tsp of baking soda, ½ cup of cornmeal, ½ cup of unsweetened coconut flakes, ½ cup of all fruit spread and 1 egg, do you have the ingredients ready?
+User: I have the ingredients ready, what is the first step that I have to take?
+Robot: Firstly, bring 1 cup of water to a boil and add the salt, then add ½ cup of dry millet to the boiling water, cover, and cook on a low heat for 30 minutes.
+User: I brought 1 cup of water to a boil and added the salt and dry millet, I covered it and let it cook on a low heat for 30 minutes. What is the next step that I have to take?
+Robot: Put oven racks so that one is on the lowest setting and one is in the middle of the oven, then put a small cake pan with the water on the lowest rack and preheat the oven to 350 degrees fahrenheit.
+User: I put the oven racks on the lowest setting and the other in the middle of the oven, what do I have to do next?
+Robot: Next, put a small cake pan filled with water on the lowest rack, then preheat the oven to 350 degrees fahrenheit.
+User: I put the small cake pan filled with water on the lowest rack, what do I have to do next?
+Robot: Combine 1 cup of butter and ¼ cup of light sugar in a bowl
+
+
+
+
+
+
+
+

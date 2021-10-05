@@ -1,0 +1,20 @@
+R7: Pear Tarte Tatin https://www.makebetterfood.com/recipes/pear-tarte-tatin/
+
+Pear Tarte Tatin takes 2 hours to cook, serves 8 and contains 8 ingredients,  ['all-purpose flour', 'salt', 'unsalted butter', 'egg yolk', 'water’, 'pears', 'lemon juice’,'sugar']
+User: I want to make a Pear Tarte Tatin 
+Robot: Okay let's begin with making the pastry. Combine 2 cups of all-purpose flour and 1 tablespoon of salt into a large bowl. Once it's mixed, add 1 cup of unsalted butter cut into small pieces and mix with your hands or with a pastry blender. Combine until the mixture is in pea-sized pieces. 
+User: I have mixed the ingredients, what do I do now?
+Robot: Now whisk 1 egg yolk and 2 tablespoons of water in a small bowl. When it's whisked, add the mixture onto the dough. Stir it all together until the dough begins to form. Then, use your hands to shape it into a bowl. Put the dough into the fridge for about 30 minutes until it is firm. Afterwards let it rest and do not roll it out until the fruit has finished cooking. 
+User: The dough is in the fridge, what do I do now? 
+Robot: Now let’s start with the tarte. Start by preheating the oven at 190°C and put the rack in the bottom-third of the oven. Then, peel 6 large pears, half them lengthwise and take the core out. Place the pears in a large bowl. Sprinkle some lemon juice over the pears and toss them to coat evenly. Then set the aside
+User: I have cut the pears, what’s next?
+Robot: Next put ¾ cups of sugar in a pan or tarte tatin pan. Put on the hob over low heat. Once some of the sugar begins to melt, start stirring with a wooden spoon until all the sugar it's melted. It should turn into a pale golden colour. 
+User: The sugar it's done,what do I do now? 
+Robot: Now turn off the heat and remove the pan. Take the pears and put them on top of the sugar in the pan. Arrange them cut-side-up with the narrow part facing the centre and fill the pan. 
+User: I have arranged the pears, now what?
+Robot: Now cut 4 tablespoons of unsalted butter into small pieces and scatter over the pears. Put the pan back on the hob over medium heat. Cook until the sugar turns caramel colour, this should take 15-20 minutes. Do not move the pears or stir. 
+User: I have finished this step, what’s next? 
+Robot: Next roll the reserved dough into a disc shape, it should be around ¼ inch thick. Roll it so it's bigger than the pan where you placed the pears. Cover the pears and tuck the sides in carefully. 
+User: I have covered the pears, what do I do now? 
+Robot: Finally, place the pan into the oven and bake it at 190°C until the crust is golden brown. This should take 25-40 minutes. When it's done, let it cool for 10 minutes. To release the tarte from the pan use a kitchen knife and run it through the edges. Then place a large plate over the pan and, using oven mitts to protect you from burning yourself, flip the tarte over on the plate. Enjoy your meal 
+User: Thank you. 
