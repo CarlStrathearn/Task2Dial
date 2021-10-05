@@ -1,0 +1,15 @@
+r475: Banana Peanut Butter Mock Ice Cream. https://cookeatshare.com/recipes/banana-peanut-butter-mock-ice-cream-386506
+
+
+This recipe takes 10 minutes to prepare serves 2-3 and contains 2 ingredients,  ['bananas', 'peanut butter']
+
+User: I would like to make Banana Peanut Butter Mock Ice Cream.
+Robot: First peel some ripe bananas and put them in a zip lock bag to freeze. Freeze them for two hours.
+User: I have frozen the bananas, what do I do now?
+Robot: Now break bananas into chunks and put them into a food processor or blender. Turn on and blend, pushing the banas down as needed. Blend until smooth and the texture resembles ice cream. 
+User: I have blended the ice cream, what now? 
+Robot: Now add some peanut butter, 15g per banana. Blend together slightly until combined. 
+User: I have added peanut butter. What is next?
+Robot: Next, add whatever topping you want and enjoy. 
+User: Thanks for helping me make banana peanut butter mock ice cream. 
+

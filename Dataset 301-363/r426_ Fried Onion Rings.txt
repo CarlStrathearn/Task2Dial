@@ -1,0 +1,17 @@
+r426: Fried Onion Rings. https://cookeatshare.com/recipes/fried-onion-rings-687398
+
+
+This recipe takes 30 minutes to prepare, 15 minutes to cook, serves 3-6 and contains 8 ingredients,  ['Spanish or Sweet Onions', 'flour', 'salt', 'pepper', 'baking powder’, 'egg', 'milk’,'canola cooking oil']
+
+User: I would like to make Fried Onion Rings
+Robot: First, wash and peel 3 large onions, cutting them into 1cm thick rounds using a knife. Then, separate them out into rings. 
+User: I have cut the onions up into rings, what do I do next?
+Robot: Next, in a bowl, combine 120g of flour, a sprinkle of salt, pepper and baking powder by mixing them with a fork. 
+User: I have mixed the dry ingredients together, what now?
+Robot: Now, in a measuring cup or jug, whisk 1 egg with 120ml of milk together until beaten with a fork. Add this mixture to the dry ingredients, and further blend them well. 
+User: I have added the mixtures together, what comes next?
+Robot: Dip each of the onion rings into the batter and drop them into a deep fat fryer at 185ºC, using canola oil for the fryer. Fry them until golden brown, turning them to brown on both sides. Remove them and place on paper towels to drain and dry.
+User: I have fried the onion rings and dried them on paper towels. What now?
+Robot: Now sprinkle with a little salt, serve and enjoy.
+User: Thanks for helping me make Fried Onion Rings. 
+

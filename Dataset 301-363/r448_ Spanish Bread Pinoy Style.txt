@@ -1,0 +1,24 @@
+r448: Spanish Bread Pinoy Style. https://cookeatshare.com/recipes/spanish-bread-pinoy-style-703633
+
+
+This recipe takes 30 minutes to prepare, 20 minutes to cook, serves 3-4 and contains 13 ingredients,  ['bread flour', 'all purpose flour', 'sugar', 'salt', 'rapid rise yeast’, 'egg yolks', 'fresh milk’,'melted butter', 'water', 'butter', 'bread crumbs', 'brown sugar’, 'vanilla']
+
+User: I would like to make Spanish Bread Pinoy Style
+Robot: First, in a small bowl, dissolve 1 packet of yeast in 120ml of warm water. Stir the mixture with a spoon to dissolve and allow it to stand for 5-10 minutes before setting aside. 
+User: I have dissolved the yeast, what now?
+Robot: Now, in a large bowl add in 180ml of milk, 120g of sugar, 120g of butter melted in a microwave, 3 egg yolks, and 1 tsp of salt. Mix well until combined. 
+User: The ingredients have combined in a large bowl, what is the next step?
+Robot: Blend these well and add the yeast mixture. Then add 720g of bread flour and 360g of all purpose flour gradually until the dough is moderate to stiff and elastic. Knead the dough on a floured surface for about 10 minutes or until the dough is smooth and elastic. 
+User: I have made the dough, what should I do now?
+Robot: Now, grease a bowl and add in the dough. Cover it with a damp cloth and let it rise in a warm place for 30-60 minutes. Once it rises, transfer the dough onto a lightly floured surface. 
+User: I have allowed the dough to sit and then transferred it to a floured surface, what now?
+Robot: Use a dough slicer to divide the dough into 4 equal parts. Roll each part until it forms into a log, cutting each log into equal pieces.
+User: The dough has been divided up into logs, what next?
+Robot: Next, in a separate bowl combine using a spoon 120g of butter softened in a microwave, 80g of bread crumbs, 120g of brown sugar and a sprinkle of vanilla. 
+User: I have made the mixture in a separate bowl, what is the next step?
+Robot: Flatten the dough with a rolling pin until it stretches into a triangular shape. Spread some of the filling made in the bowl on top and roll the dough up. Cover the dough with bread crumbs and place the on a lightly greased baking sheet or tray with the seal at the bottom.
+User: I have put the filling in the dough pieces. What now?
+Robot: Now, cover the tray with a damp cloth and let it rise for 20-30 minutes and preheat the oven to 180ºC.
+User: I have allowed the dough to rise and preheated the oven. Now what?
+Robot: Bake for 20-25 minutes, then serve and enjoy. 
+User: Thank you for helping me make Spanish Bread Pinoy Style. 

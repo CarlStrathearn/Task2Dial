@@ -1,0 +1,15 @@
+r471: Tinolang Manok with Luyang Dilaw. https://cookeatshare.com/recipes/tinolang-manok-with-luyang-dilaw-798968
+
+
+This recipe takes 10 minutes to prepare, 10 minutes to cook, serves 1-2 and contains 13 ingredients,  ['chicken cutlets', 'medium papaya', 'garlic', 'onion', 'luyanag dilaw’, 'chilli leaves', 'pechay tagalog’,'fish sauce', 'salt', 'pepper', 'canola oil', 'chicken cubes’, 'water']
+
+User: I would like to make Tinolang Manok with Luyang Dilaw.
+Robot: First, in a heated pot saute 3 cloves of garlic minced in a garlic crusher in 2 tsp of canola oil . Using a knife, slice one onion and 5cm of luyang and add them to the pot. 
+User: Those ingredients have been sauteed, what now?
+Robot: Now add pieces from half of a chicken and 2 tsp of fish sauce into the pot. Stir fry this together before adding 2 papayas, chopped 2.5cm thick using a knife. Stir this for 1-2 minutes. 
+User: I have added those ingredients in, what now?
+Robot: Now add 720ml of water and bring to the boil. Add 1 chicken broth cube before reducing the heat and simmer until chicken is cooked. 
+User: The chicken is cooked. What comes next?
+Robot: Next add one bunch of chilli leaves and simmer for another 2 minutes. Serve with calamansi and chili as a dip and enjoy. 
+User: Thanks for helping me make Tinolang Manok with Luyang Dilaw. 
+

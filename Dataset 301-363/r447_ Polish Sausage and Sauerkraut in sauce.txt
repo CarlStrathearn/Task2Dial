@@ -1,0 +1,19 @@
+r447: Polish Sausage and Sauerkraut in sauce. https://cookeatshare.com/recipes/polish-sausage-and-sauerkraut-in-sauce-658666
+
+
+This recipe takes 20 minutes to prepare, 90 minutes to cook, serves 6 and contains 13 ingredients,  ['canned sauerkraut', 'fresh cabbage', 'bacon', 'brown sugar', 'caraway seed’, 'canned stewed tomatoes', 'canned tomato sauce’,'butter', 'onion', 'fresh polish sausage', 'smoked sausage', 'salt’, 'pepper']
+
+User: I would like to make Polish Sausage and Sauerkraut in Sauce
+Robot: First, preheat the oven to 180ºC. Then, line a baking sheet with tin foil and drizzle it with canola oil. Place 450g of fresh polish sausage on the baking sheet and cook for 35-40 minutes.
+User: I have  cooked the sausage, what now?
+Robot: Now fry 6 slices of bacon in a dutch oven until they are crispy. Then, remove from the pan and place on a plate, lined with paper towels, to drain. In the same pan add 15g of butter. Dice 1 large onion using a knife and add this to the pan with the bacon grease and butter. Fry until the onions are tender and transparent, then remove and set aside.
+User: The bacon and the onions are both fried, what is next?
+Robot: Add 225g of smoked sausage to the same pan and cook for 20 minutes. When both sausages are finished cooking add the polish sausage to the pan.
+User: The sausages are done and are now both frying in the pan, now what?
+Robot: Now add 1 large drained can of sauerkraut and half a head of fresh cabbage sliced thinly with a knife to the pan. In a food processor, chop 450g of canned stewed tomatoes. Add these together with 225 ml of canned tomato sauce, a sprinkle of caraway seed, 60g of brown sugar and the bacon to the pan.
+User: I have  added the rest of the ingredients to the pan, what do I do now?
+Robot: Now mix it well together using a spatula or wooden spoon and cook over low-medium heat for 60 minutes or until the sauerkraut is tender. Stir often to avoid the bottom burning.
+User: The ingredients in the pan have mixed together well, and cooked on the hob. Now what?
+Robot: Now you are ready to serve and enjoy.
+User: Thanks for helping me make Polish Sausage and Sauerkraut in Sauce. 
+

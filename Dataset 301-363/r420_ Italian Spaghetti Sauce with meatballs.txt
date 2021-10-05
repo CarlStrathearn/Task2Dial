@@ -1,0 +1,17 @@
+r420: Italian Spaghetti Sauce with meatballs. https://cookeatshare.com/recipes/authentic-italian-spaghetti-sauce-with-meatballs-493543
+
+
+This recipe takes 45 minutes to prepare, 6-8 hours to cook, serves 12 and contains 18 ingredients,  ['ground beef', 'ground pork', 'bread crumbs', 'eggs', 'parmesan cheese’, 'basil', 'marjoram’,'oregano', 'celery salt', 'hot pepper flakes', 'parsley', 'sugar’, 'garlic salt', 'oil', ‘garlic’, ‘canned tomato juice’, ‘green pepper’, ‘bay leaf’]
+
+User: I would like to make Spaghetti Sauce with meatballs.
+Robot: First, prepare the meatballs. In a large bowl add 1.3kg of ground beef, 450g of ground pork, 480g of bread crumbs, 3 eggs, 120g of parmesan cheese and a sprinkle of basil, marjoram, oregano, celery salt, hot pepper flakes, parsley, sugar, and garlic salt. Mix these together well with your hands. 
+User: I have mixed together the ingredients for the meatballs, what now?
+Robot: Now, with the mixture, make small meatballs 2.5-4cm diameter then refrigerate these for 2 hours.
+User: I have made the meatballs, what next?
+Robot: Next, cover the bottom of a large pot with cooking oil. Add 2 cloves of garlic, finely minced with a garlic crusher and cook slightly on medium heat. Do not allow it to brown. Add in four large cans of tomato juice, 1 green pepper diced with a knife, and 1 tsp of basil, a sprinkle of marjoram, 1 tsp of oregano, a sprinkle of hot pepper flakes, a pinch of celery salt, 1 tsp of parsley and 15g of sugar to the pot. Mix them well and bring them to a boil.
+User: I have added the tomato juice and the spices to the pot. What should I do next?
+Robot: Once the pot is boiling, immediately turn down the heat and simmer for 6-8 hours. After 2 hours of the sauce simmering, add the raw meatballs and continue cooking. Stirring often and gently uncovered. 
+User: I have cooked the meatballs in the sauce, now what?
+Robot: Now, serve the meatballs in whatever way you prefer and enjoy. 
+User: Thank you for helping me make Italian Spaghetti Sauce with Meatballs. 
+

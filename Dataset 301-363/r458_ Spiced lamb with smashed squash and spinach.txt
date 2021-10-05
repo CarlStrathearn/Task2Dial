@@ -1,0 +1,14 @@
+r458: Spiced lamb with smashed squash and spinach. https://www.bbc.co.uk/food/recipes/lamb_with_smashed_squash_72225
+
+
+This recipe takes 30 minutes to prepare, 10-30 minutes to cook, serves 2 and contains 13 ingredients,  ['lamb cutlets', 'garlic', 'ground cinnamon', 'ground cumin', 'red chilli’, 'extra virgin olive oil', 'young spinach leaves’,'fresh mint', 'sea salt', 'black pepper', 'butternut squash', 'dried chilli flakes’, 'lemon']
+
+User: I would like to make Spiced Lamb with Mashed Squash and Spinach
+Robot: Put 4 lamb cutlets in a bowl. Add 1 clove of garlic crushed with the side of the knife, a sprinkle of cinnamon, a sprinkle of cumin and 15ml of olive oil. With a knife, finely chop half of a red chilli before adding to the bowl. Add some salt and pepper and leave this to marinate for 5-10 minutes. 
+User: I have marinated the lamb in a bowl, what now?
+Robot: Now, cook 400g of butternut squash in a saucepan with boiling water for 10 minutes. Drain thoroughly and toss with 30ml of olive oil, a sprinkle of dried chilli flakes, and some salt and pepper. Return this to the pan and mash together well, adding a squeeze of lemon juice. 
+User: The squash has been cooked and mashed together with the other ingredients, what next?
+Robot: Next preheat a griddle pan until very hot. Cook the lamb for 2-3 minutes on each side or until well browned on the outside, but pink in the middle. Set this aside for 3-5 minutes on a warmed plate.
+User: I have cooked the lamb, now what?
+Robot: Now add 100g of spinach leaves, chopped with a knife, to the pan. Toss lightly using tongs for a few seconds. Divide the squash and spinach between two warmed plates and top with the lamb cutlets and any juices. Garnish with mint and olive oil and enjoy. 
+User: Thanks for helping me make Spiced Lamb with Smashed Squash and Spinach. 

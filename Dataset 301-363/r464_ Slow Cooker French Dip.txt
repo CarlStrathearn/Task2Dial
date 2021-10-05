@@ -1,0 +1,15 @@
+r464: Slow Cooker French Dip. https://cookeatshare.com/recipes/slow-cooker-french-dip-44692
+
+
+This recipe takes 15 minutes to prepare, 7 hours to cook, serves 8 and contains 12 ingredients,  ['beef roast', 'canned campbells french onion soup', 'canned campbells consomme', 'can of guinness', 'kitchen bouquet’, 'garlic powder', 'onion powder’,'black pepper', 'mushrooms', 'french rolls', 'butter', 'mozzarella cheese’]
+
+User: I would like to make Slow Cooker French Dip.
+Robot: First place 1.8kg of beef roast in a slow cooker. Add 2 cans of consomme,2 cans of soup, 1 can of beer, 30ml of kitchen bouquet, 1 tsp of garlic and onion powder and 1 tsp of black pepper to the slow cooker. Then slice some mushrooms and add these to the slow cooker aswell, cooking on high for 7 hours. 
+User: I have added the ingredients to the slow cooker and cooked it for 7 hours on high, what now?
+Robot: Now, remove the meat from the slow cooker an hour before serving and slice against the grain. Put it back into the slow cooker to absorb the juices. Preheat the oven to 180ºC. 
+User: I have removed and sliced the meat, and heated the oven. What is next?
+Robot: Open 8 french rolls on a baking sheet and spread them with butter and top with grated mozzarella cheese. Grate the cheese using a grater. Bake the rolls for 10 minutes until heated and crunchy.
+User: I have prepared the rolls, what should I do next?
+Robot: Next fill the rolls with meat and pour the sauce into small dipping bowls. Serve and enjoy. 
+User: Thanks for helping me make Slow Cooker French Dip.
+

@@ -1,0 +1,17 @@
+r431: Piri-piri chicken https://www.bbc.co.uk/food/recipes/piripirichicken_72310
+
+
+This recipe takes 60-120 minutes to prepare, 30-60 minutes to cook, serves 2-4 and contains 10 ingredients,  ['whole chicken', 'salt', 'ground black pepper', 'red chillies', 'garlic’, 'salt flakes', 'oregano’,'paprika', 'olive oil', 'red wine vinegar']
+
+User: I would like to make Piri-Piri Chicken
+Robot: First, preheat the oven to 180ºC. Place 6-12 fresh red chillies on a roasting tray, roasting for 10 minutes. 
+User: I have roasted the chillies in the oven, what next? 
+Robot: Next, cool and roughly chop the chillies with a knife. In a saucepan add the chillies along with 15g of roughly chopped garlic, 1 tsp of salt flakes, a sprinkle of oregano, 7g of paprika, 100ml of olive oil and 50ml of red wine vinegar. Simmer these for 2-3 minutes. 
+User: The ingredients I put in the saucepan have been simmering for 2-3 minutes. What now?
+Robot: Allow the mixture to cool before blending into a puree using a blender or food processor. Store the blend in a lidded container at room temperature. 
+User: I have blended and contained the mixture, what is the next step?
+Robot: Place one whole spatchcocked chicken in a sealable plastic bag. Add half of the piri sauce, spreading it evenly over the chicken. Seal the bag and marinate in the refrigerator for at least one hour. 
+User: I have marinated the chicken, what next?
+Robot: Next raise the oven to 200ºC and preheat a large griddle pan on the hob. Season the marinated chicken with salt and pepper. Cook it on the griddle pan for 2-3 minutes on each side until golden brown. Alternatively you can use a barbeque. Then transfer it to a roasting tray and roast in the oven for 30 minutes until cooked through. Once done, serve with  your choice of sides and enjoy.
+User: Thank you for helping me make Piri-Piri Chicken. 
+

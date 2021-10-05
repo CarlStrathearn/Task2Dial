@@ -1,0 +1,19 @@
+r424: Chocolate Chiffon Cake. https://cookeatshare.com/recipes/chocolate-chiffon-cake-726864
+
+
+This recipe takes 30 minutes to prepare, 40 minutes to cook, serves 16 and contains 11 ingredients,  ['cake and pastry flour', 'unsweetened cocoa powder', 'granulated sugar', 'baking powder, 'salt’, 'canola oil', 'water’,'vanilla extract', 'egg yolks', 'egg whites', 'cream of tartar']
+
+User: I would like to make a Chocolate Chiffon Cake.
+Robot: First, line the bottom only of a 20cm cake pan with greaseproof paper, cutting to fit. 
+User: I have lined the cake pan, what next?
+Robot: Next, in a medium bowl combine 180g of sifted flour, 60g of cocoa powder, 80g of sugar, 30g of baking powder, and a sprinkle of salt. Mix well together using a whisk or spoons.
+User: I have mixed the dry ingredients together in the bowl, what do I do now?
+Robot: Now, pour in 60ml of canola oil, 60ml of water, 1tp of vanilla extract, and 2 large egg yolks. Beat together with an electric mixer for 1 minute or until very smooth, washing the beaters afterwards. 
+User: I have mixed in the other ingredients and beaten them together. Now what?
+Robot: Next, in a large bowl use clean beaters to mix together 4 large egg whites and a bit of cream of tartar. Add in 80g of sugar and beat until soft peaks form. 
+User: I have beaten the egg whites, what now?
+Robot: Now, pour the egg yolk mixture evenly over the stiffly beaten egg whites, fold together until blended and evenly coloured using a spatula. Once mixed, pour the mixture into the prepared pan. With a knife cut through the butter to remove air bubbles before smoothing the top with the knife. 
+User: I have poured the mixture into the pan and smoothed it out. What comes next?
+Robot: Next, bake in the oven at 180ºC for 40 minutes or until an inserted tester comes out clean. Allow it to cool on a wire rack before loosening around the edge of the cake, and inverting onto a cake plate, removing the paper. Serve and enjoy. 
+User: Thanks for helping me make Chocolate Chiffon Cake. 
+

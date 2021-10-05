@@ -1,0 +1,17 @@
+r455: Sesame chicken stir-fry https://www.bbc.co.uk/food/recipes/sesame_soy_chicken_44833
+
+
+This recipe takes 30 minutes to prepare, 10-30 minutes to cook, serves 2 and contains 7 ingredients,  ['toasted sesame oil', 'tenderstem broccoli', 'runny honey', 'chinese rice wine vinegar', 'dark soy sauce’, 'chicken thighs', 'sesame seeds’]
+
+User: I would like to make Sesame chicken stir-fry.
+Robot: First, heat a teaspoon of the sesame oil in a medium wok or large frying pan and set over a high heat. Use a knife to trim and halve 200g of tenderstem broccoli. Once the pan is hot, stir fry the broccoli for 7-8 minutes until tender and slightly charred. 
+User: I have fried the broccoli in the pan, what now? 
+Robot: Now whisk together 22ml of honey, 30ml of rice wine vinegar and 30ml of dark soy sauce in a small bowl, adding in 2 tsp of the sesame oil.
+User: I have mixed those ingredients together in a bowl, what do I do next?
+Robot: Next, cut 3 chicken thighs into chunks after removing the skin and bones. Add these to the pan and cook for a further 5 minutes until browned and just cooked through. Remove the chicken and broccoli from the frying pan with a slotted spoon and set them aside. 
+User: I have fried the chicken and set it aside with the broccoli, now what?
+Robot: Now add the sauce to the pan and allow it to bubble for 1-2 minutes until it starts to thicken. Then return the chicken and the broccoli to the pan and stir it well until fully coated. 
+User: I have added the sauce and replaced the chicken and broccoli, what next?
+Robot: Next, sprinkle this with 1 tsp of sesame seeds and serve immediately with rice. Enjoy. 
+User: Thanks for helping me make Sesame chicken stir-fry. 
+

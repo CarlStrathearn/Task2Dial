@@ -1,0 +1,23 @@
+r468: Tuscan bacon and bean soup with wild garlic pesto https://www.bbc.co.uk/food/recipes/tuscan_peasant_pot_soup_52268
+
+
+This recipe takes 30 minutes to prepare, 10-30 minutes to cook, serves 4 and contains 25 ingredients,  ['extra virgin olive oil', 'smoked streaky bacon', 'sherry vinegar', 'red onions', 'carrots’, 'garlic', 'celery’,'leek', 'large wax potatoes', 'vine tomatoes', 'rosemary', 'thyme’, 'small orecchiette pasta', 'beef stock’ ,’tinned cannellini beans’, ‘purple sprouting broccoli', ‘baby leaf spinach’, ‘salt’, ‘pepper’, ‘basil’, ‘wild garlic’, ‘pine nuts’, ‘parmesan’, ‘lemon’]
+
+User: I would like to make Tuscan bacon and bean soup with wild garlic pesto. 
+Robot: First to make the soup heat 50ml of extra virgin olive oil in a heavy based saucepan over a high heat. Add 300g of streaky bacon to the pan and season and fry for 3-4 minutes until caramelising but not burning. Deglaze the pan with 30ml of sherry vinegar.
+User: I have fried the bacon and deglazed the pan with sherry vinegar. What now?
+Robot: Now, roughly chop using a knife 2 red onions, 2 carrots, 2 garlic cloves, 2 celery sticks and 1 large leek. Add these to the pan and cook for 8-10 minutes or until softened. 
+User: The vegetables are chopped and have been cooked, what next?
+Robot: Next stir in 2 large waxy potatoes, roughly chopped with a knife. Then add 6 vine tomatoes with their vines and the rosemary and thyme bundle. Squash the tomatoes with a wooden spoon and bring the pan to a simmer. 
+User: I have added those other ingredients to the pan, what now?
+Robot: Now, heat 2L of beef stock in a saucepan over a high heat. Add 130g of small orecchiette pasta to the vegetables. Once the beef stock is simmering, pour this into the vegetables too. 
+User: I have added the stock and the pasta to the vegetables. What do I do now?
+Robot: Now pour the soup into a pressure cooker. Bring up to pressure and cook for 5 minutes at pressure. Turn off the heat and slowly release the pressure. Remove the rosemary and thyme bundle and tomato vines, and discard. 
+User: I have added the soup to the pressure cooker and removed the discardable parts. What comes next?
+Robot: Now, stir in one 400g tin of cannellini beans drained and rinsed. Add in 16 small florets of purple sprouting broccoli and 100g of baby leaf spinach. Allow to soften in the residual heat for 5 minutes. 
+User: I have stirred in those other vegetables. What should I do next?
+Robot: Make the pesto by grinding 15g of fresh basil, roughly chopped using a knife, and 15g of roughly chopped garlic in a mortar and pestle. Then add 50g of pine nuts, and the zest from half of a lemon, further grinding together. Once combined add 45ml of olive oil to make a paste and grind in 15 of grated parmesan. Add a squeeze of lemon and season with salt and pepper to taste. 
+User: I have made the pesto, what now?
+Robot: Pour into soup bowls and sprinkle with fresh herbs, pesto, and olive oil. Enjoy.
+User: Thanks for helping me make Tuscan Bacon and bean soup with garlic pesto. 
+

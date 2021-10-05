@@ -1,0 +1,13 @@
+r451: Romaine Salad with Creamy Basil Dressing. https://cookeatshare.com/recipes/romaine-salad-with-creamy-basil-dressing-608968
+
+
+This recipe takes 10 minutes to prepare, serves 6 and contains 10 ingredients,  ['extra virgin olive oil', 'mayonnaise', 'plain yoghurt', 'spanish sherry vinegar', 'kosher salt’, 'ground pepper', 'shallots’,'garlic', 'fresh basil', 'romaine lettuce hearts']
+
+User: I would like to make Romaine Salad with Creamy Basil Dressing.
+Robot: First in a blender bowl add in 80ml of olive oil, 30g of mayonnaise, 75g of yoghurt, 45ml of sherry vinegar, a pinch of salt and pepper, 45g of shallots chopped using a knife, 2 garlic cloves and 120g of fresh basil. Blend these ingredients together to a smooth consistency, tasting and adjusting salt to taste. 
+User: I have blended the ingredients into a puree, what now?
+Robot: Now, prepare 3 hearts of romaine lettuce and get the light, crispy leaves near the core for the salad. Trim and discard the core and arrange 6-8 medium leaves per person. Wash the leaves and dry them well. 
+User: I have washed the lettuce, what is the next step?
+Robot: The next step is to arrange the leaves slightly overlapping on the plates, stir the dressing to recombine if it has separated and drizzle it over the lettuce. Top with some ground pepper, serve and enjoy.
+User: Thank you for helping me make Romaine Salad with Creamy Basil Dressing. 
+

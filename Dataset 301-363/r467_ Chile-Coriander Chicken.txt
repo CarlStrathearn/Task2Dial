@@ -1,0 +1,19 @@
+r467: Chile-Coriander Chicken. https://cookeatshare.com/recipes/fantastic-chile-coriander-chicken-503420
+
+
+This recipe takes 30 minutes to prepare, 20 minutes to cook, serves 4-6 and contains 14 ingredients,  ['chicken leg and thigh pieces', 'coriander seeds', 'whole black peppercorns', 'cumin seeds', 'garlic’, 'fresh ginger', 'vegetable oil’,'water', 'lemon juice', 'hot paprika', 'salt', 'cilantro’, 'red onion', 'lime']
+
+User: I would like to make Chile-Coriander Chicken
+Robot: First, remove and discard the skin from 4 chicken leg pieces and 4 thigh pieces. Rinse under cold water and pat dry with paper towels. Place the chicken pieces in a baking dish large enough to hold them side by side in one layer.
+User: I have washed and placed the chicken. What next?
+Robot: Now, heat a large skillet over medium heat and add 22g of coriander seeds, 2 tsp of black peppercorns, and 1 tsp of cumin seeds. Toast for 2-3 minutes, shaking the skillet occasionally. Let them cool and transfer to a mortar and pestle, grinding them together into a powder. 
+User: I have made the spice powder, what now?
+Robot: Now, combine the spices in a blender with 6 peeled cloves of garlic, 5cm of ginger thinly sliced with a knife, 45ml of vegetable oil, 60ml of water, 30ml of lemon juice, 15g of hot paprika and 1 tsp of salt. Process these ingredients into a smooth paste and add water if needed so that it is just pourable. Add 120g of chopped cilantro and pulse a few times to mix. 
+User: I have made the paste with all of the spices and other ingredients. What do I do now?
+Robot: Now, use your hands to spread the seasoning paste over the chicken pieces to coat them on both sides. Cover the pieces and let them marinate in the refrigerator for 4-6 hours. 
+User: I have marinated the chicken, what now?
+Robot: Now, preheat the oven to 220ºC. When ready, place a baking sheet with the chicken in the oven. After about 10 minutes turn the chicken pieces once and after another 10 minutes the chicken should be ready to remove. Check it has cooked by inserting a knife to the thickest part of the thigh to see if the juices run clear. 
+User: The chicken has cooked. What should I do next?
+Robot: Next, transfer the chicken legs to a serving platter and serve immediately. Garnish with thinly sliced onion and lime wedges and enjoy. 
+USer: Thanks for helping me make Chile-Coriander Chicken.
+
